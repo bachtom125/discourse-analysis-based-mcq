@@ -1,0 +1,185 @@
+NS:1-Elaboration
+├── NS:1-Elaboration
+│   ├── NS:0-Elaboration
+│   │   ├──  ( EDU ChatGPT_is_a_chatbot_and_virtual_assistant )
+│   │   └──  ( EDU developed_by_OpenAI_and_launched_on_November_30_,_2022_. )
+│   └── SN:0-Background
+│       ├──  ( EDU Based_on_large_language_models_(_LLMs_)_, )
+│       └──  ( EDU it_enables_users_to_refine_and_steer_a_conversation_towards_a_desired_length_,_format_,_style_,_level_of_detail_,_and_language_. )
+└── NN:1-Joint
+    ├──  ( EDU Successive_user_prompts_and_replies_are_considered_at_each_conversation_stage_as_context_. )
+    └── NS:1-Elaboration
+        ├── NS:0-Elaboration
+        │   ├──  ( EDU ChatGPT_is_credited_with_starting_the_AI_boom_, )
+        │   └──  ( EDU which_has_led_to_ongoing_rapid_investment_in_and_public_attention_to_the_field_of_artificial_intelligence_(_AI_)_. )
+        └── NS:1-Elaboration
+            ├── NS:1-Elaboration
+            │   ├── NS:1-Elaboration
+            │   │   ├── NS:0-Elaboration
+            │   │   │   ├──  ( EDU By_January_2023_,_it_had_become_what_was_then_the_fastest_-_growing_consumer_software_application_in_history_, )
+            │   │   │   └── NN:0-Joint
+            │   │   │       ├──  ( EDU gaining_over_100_million_users )
+            │   │   │       └──  ( EDU and_contributing_to_the_growth_of_OpenAI_'s_current_valuation_of_$_86_billion_. )
+            │   │   └──  ( EDU ChatGPT_'s_release_spurred_the_release_of_competing_products_,_including_Gemini_,_Claude_,_Llama_,_Ernie_,_and_Grok_. )
+            │   └── NS:0-Elaboration
+            │       ├──  ( EDU Microsoft_launched_Copilot_, )
+            │       └──  ( EDU initially_based_on_OpenAI_'s_GPT_-_4_. )
+            └── NN:1-Joint
+                ├── NS:0-Elaboration
+                │   ├──  ( EDU In_June_2024_,_a_partnership_between_Apple_Inc._and_OpenAI_was_announced )
+                │   └── NN:0-Attribution
+                │       ├──  ( EDU in_which )
+                │       └──  ( EDU ChatGPT_is_integrated_into_the_Apple_Intelligence_feature_of_Apple_operating_systems_. )
+                └── NN:1-Joint
+                    ├── NS:0-Enablement
+                    │   ├──  ( EDU Some_observers_raised_concern_about_the_potential_of_ChatGPT_and_similar_programs )
+                    │   └──  ( EDU to_displace_or_atrophy_human_intelligence_,_enable_plagiarism_,_or_fuel_misinformation_. )
+                    └── NN:1-Joint
+                        ├── NN:0-Joint
+                        │   ├──  ( EDU ChatGPT_is_built_on_OpenAI_'s_proprietary_series_of_generative_pre_-_trained_transformer_(_GPT_)_models )
+                        │   └── NS:0-Elaboration
+                        │       ├──  ( EDU and_is_fine_-_tuned_for_conversational_applications )
+                        │       └──  ( EDU using_a_combination_of_supervised_learning_and_reinforcement_learning_from_human_feedback_. )
+                        └── NN:1-Joint
+                            ├── NS:1-Elaboration
+                            │   ├── NS:1-Elaboration
+                            │   │   ├── SN:0-Contrast
+                            │   │   │   ├──  ( EDU ChatGPT_was_released_as_a_freely_available_research_preview_, )
+                            │   │   │   └── NS:0-Same-Unit
+                            │   │   │       ├──  ( EDU but_due_to_its_popularity_, )
+                            │   │   │       └──  ( EDU OpenAI_now_operates_the_service_on_a_freemium_model_. )
+                            │   │   └──  ( EDU Users_on_its_free_tier_can_access_GPT_-_4o_and_GPT_-_3_._5_. )
+                            │   └── NS:0-Elaboration
+                            │       ├──  ( EDU The_ChatGPT_subscriptions )
+                            │       └──  ( EDU "_Plus_"_,_"_Team_"_and_"_Enterprise_"_provide_additional_features_such_as_DALL_-_E_3_image_generation_and_increased_GPT_-_4o_usage_limit_. )
+                            └── NS:1-Elaboration
+                                ├── NS:1-Elaboration
+                                │   ├──  ( EDU ChatGPT_is_based_on_particular_GPT_foundation_models_,_namely_GPT_-_3_._5_,_GPT_-_4_,_and_GPT_-_4o_, )
+                                │   └──  ( EDU that_were_fine_-_tuned_to_target_conversational_usage_. )
+                                └── NS:1-Elaboration
+                                    ├── NS:0-Elaboration
+                                    │   ├──  ( EDU The_fine_-_tuning_process_leveraged_supervised_learning_and_reinforcement_learning_from_human_feedback )
+                                    │   └──  ( EDU (_RLHF_)_. )
+                                    └── NS:1-Elaboration
+                                        ├──  ( EDU Both_approaches_employed_human_trainers_to_improve_model_performance_. )
+                                        └── NS:1-Elaboration
+                                            ├──  ( EDU In_the_case_of_supervised_learning_,_the_trainers_played_both_sides_:_the_user_and_the_AI_assistant_. )
+                                            └── NS:1-Elaboration
+                                                ├── NS:0-Attribution
+                                                │   ├──  ( EDU In_the_reinforcement_learning_stage_,_human_trainers_first_ranked_responses )
+                                                │   └──  ( EDU that_the_model_had_created_in_a_previous_conversation_. )
+                                                └── NS:1-Elaboration
+                                                    ├── NS:0-Elaboration
+                                                    │   ├──  ( EDU These_rankings_were_used_to_create_"_reward_models )
+                                                    │   └── NS:0-Manner-Means
+                                                    │       ├──  ( EDU "_that_were_used_to_fine_-_tune_the_model_further )
+                                                    │       └──  ( EDU by_using_several_iterations_of_proximal_policy_optimization_. )
+                                                    └── NS:1-Elaboration
+                                                        ├── SN:0-Same-Unit
+                                                        │   ├── SN:0-Attribution
+                                                        │   │   ├──  ( EDU Time_magazine_revealed )
+                                                        │   │   └── NS:0-Elaboration
+                                                        │   │       ├──  ( EDU that_to_build_a_safety_system_against_harmful_content )
+                                                        │   │       └──  ( EDU (_e._g._,_sexual_abuse_,_violence_,_racism_,_sexism_)_, )
+                                                        │   └── NS:0-Elaboration
+                                                        │       ├──  ( EDU OpenAI_used_outsourced_Kenyan_workers_earning_less_than_$_2_per_hour )
+                                                        │       └──  ( EDU to_label_harmful_content_. )
+                                                        └── NS:1-Elaboration
+                                                            ├── NS:0-Elaboration
+                                                            │   ├──  ( EDU These_labels_were_used_to_train_a_model )
+                                                            │   └──  ( EDU to_detect_such_content_in_the_future_. )
+                                                            └── NS:1-Elaboration
+                                                                ├── NS:0-Elaboration
+                                                                │   ├──  ( EDU The_outsourced_laborers_were_exposed_to_"_toxic_"_and_traumatic_content_; )
+                                                                │   └──  ( EDU one_worker_described_the_assignment_as_"_torture_"_. )
+                                                                └── NN:1-Joint
+                                                                    ├── NS:0-Elaboration
+                                                                    │   ├──  ( EDU OpenAI_'s_outsourcing_partner_was_Sama_,_a_training_-_data_company )
+                                                                    │   └──  ( EDU based_in_San_Francisco_,_California_. )
+                                                                    └── NS:1-Elaboration
+                                                                        ├── NN:0-Elaboration
+                                                                        │   ├── NS:0-Elaboration
+                                                                        │   │   ├──  ( EDU ChatGPT_initially_used_a_Microsoft_Azure_supercomputing_infrastructure_, )
+                                                                        │   │   └──  ( EDU powered_by_Nvidia_GPUs_, )
+                                                                        │   └── NN:0-Joint
+                                                                        │       ├──  ( EDU that_Microsoft_built_specifically_for_OpenAI )
+                                                                        │       └──  ( EDU and_that_reportedly_cost_"_hundreds_of_millions_of_dollars_"_. )
+                                                                        └── NN:1-Joint
+                                                                            ├── NS:1-Elaboration
+                                                                            │   ├── SN:0-Background
+                                                                            │   │   ├──  ( EDU Following_ChatGPT_'s_success_, )
+                                                                            │   │   └──  ( EDU Microsoft_dramatically_upgraded_the_OpenAI_infrastructure_in_2023_. )
+                                                                            │   └── NS:1-Elaboration
+                                                                            │       ├── SN:0-Attribution
+                                                                            │       │   ├──  ( EDU Scientists_at_the_University_of_California_,_Riverside_,_estimate )
+                                                                            │       │   └──  ( EDU that_a_series_of_prompts_to_ChatGPT_needs_approximately_500_milliliters_(_18_imp_fl_oz_;_17_U._S._fl_oz_)_of_water_for_Microsoft_servers_cooling_. )
+                                                                            │       └── SN:0-Attribution
+                                                                            │           ├──  ( EDU TrendForce_market_intelligence_estimated )
+                                                                            │           └──  ( EDU that_30_,_000_Nvidia_GPUs_(_each_costing_approximately_$_10_,_000_-_15_,_000_)_were_used_to_power_ChatGPT_in_2023_. )
+                                                                            └── NN:1-Joint
+                                                                                ├── NN:1-Joint
+                                                                                │   ├── NS:0-Elaboration
+                                                                                │   │   ├──  ( EDU OpenAI_collects_data_from_ChatGPT_users )
+                                                                                │   │   └──  ( EDU to_train_and_fine_-_tune_the_service_further_. )
+                                                                                │   └── NN:0-Joint
+                                                                                │       ├── NS:0-Elaboration
+                                                                                │       │   ├──  ( EDU Users_can_upvote_or_downvote_responses )
+                                                                                │       │   └──  ( EDU they_receive_from_ChatGPT )
+                                                                                │       └──  ( EDU and_fill_in_a_text_field_with_additional_feedback_. )
+                                                                                └── NN:1-Joint
+                                                                                    ├──  ( EDU ChatGPT_'s_training_data_includes_software_manual_pages_,_information_about_internet_phenomena_such_as_bulletin_board_systems_,_multiple_programming_languages_,_and_the_text_of_Wikipedia_. )
+                                                                                    └── NS:1-Elaboration
+                                                                                        ├── SN:0-Attribution
+                                                                                        │   ├──  ( EDU lthough_a_chatbot_'s_core_function_is_to_mimic_a_human_conversationalist_, )
+                                                                                        │   └──  ( EDU ChatGPT_is_versatile_. )
+                                                                                        └── NS:1-Elaboration
+                                                                                            ├── NN:0-Joint
+                                                                                            │   ├──  ( EDU It_can_write_and_debug_computer_programs_; )
+                                                                                            │   └── NN:0-Elaboration
+                                                                                            │       ├──  ( EDU compose_music_,_teleplays_,_fairy_tales_,_and_student_essays_; )
+                                                                                            │       └── NN:0-Same-Unit
+                                                                                            │           ├── NS:0-Elaboration
+                                                                                            │           │   ├──  ( EDU answer_test_questions )
+                                                                                            │           │   └──  ( EDU (_sometimes_,_depending_on_the_test_,_at_a_level_above_the_average_human_test_-_taker_)_; )
+                                                                                            │           └── NN:0-Joint
+                                                                                            │               ├──  ( EDU generate_business_ideas_;_write_poetry_and_song_lyrics_; )
+                                                                                            │               └── NN:0-Joint
+                                                                                            │                   ├──  ( EDU translate_and_summarize_text_; )
+                                                                                            │                   └── NN:0-Joint
+                                                                                            │                       ├──  ( EDU emulate_a_Linux_system_; )
+                                                                                            │                       └── NN:0-Joint
+                                                                                            │                           ├──  ( EDU simulate_entire_chat_rooms_; )
+                                                                                            │                           └──  ( EDU play_games_like_tic_-_tac_-_toe_;_or_simulate_an_ATM_. )
+                                                                                            └── NS:1-Elaboration
+                                                                                                ├──  ( EDU Compared_to_its_predecessor_,_InstructGPT_,_ChatGPT_attempts_to_reduce_harmful_and_deceitful_responses_. )
+                                                                                                └── NS:1-Elaboration
+                                                                                                    ├── SN:0-Same-Unit
+                                                                                                    │   ├── NN:0-Background
+                                                                                                    │   │   ├── NS:0-Elaboration
+                                                                                                    │   │   │   ├──  ( EDU In_one_example_,_whereas_InstructGPT_accepts_the_premise_of_the_prompt )
+                                                                                                    │   │   │   └──  ( EDU "_Tell_me_about_when_Christopher_Columbus_came_to_the_U._S._in_2015_" )
+                                                                                                    │   │   └──  ( EDU as_truthful_, )
+                                                                                                    │   └── NN:0-Joint
+                                                                                                    │       ├──  ( EDU ChatGPT_acknowledges_the_counterfactual_nature_of_the_question )
+                                                                                                    │       └── NS:0-Condition
+                                                                                                    │           ├──  ( EDU and_frames_its_answer_as_a_hypothetical_consideration_of_what_might_happen )
+                                                                                                    │           └── NS:0-Condition
+                                                                                                    │               ├──  ( EDU if_Columbus_came_to_the_U._S._in_2015_, )
+                                                                                                    │               └── NS:0-Elaboration
+                                                                                                    │                   ├──  ( EDU using_information_about_the_voyages_of_Christopher_Columbus_and_facts_about_the_modern_world_- )
+                                                                                                    │                   └──  ( EDU including_modern_perceptions_of_Columbus_'s_actions_. )
+                                                                                                    └── NS:1-Elaboration
+                                                                                                        ├── NS:1-Elaboration
+                                                                                                        │   ├──  ( EDU ChatGPT_remembers_a_limited_number_of_previous_prompts_in_the_same_conversation_. )
+                                                                                                        │   └── NS:1-Elaboration
+                                                                                                        │       ├── SN:0-Attribution
+                                                                                                        │       │   ├──  ( EDU Journalists_have_speculated )
+                                                                                                        │       │   └──  ( EDU that_this_will_allow_ChatGPT_to_be_used_as_a_personalized_therapist_. )
+                                                                                                        │       └── SN:0-Enablement
+                                                                                                        │           ├──  ( EDU To_prevent_offensive_outputs_from_being_presented_to_and_produced_by_ChatGPT_, )
+                                                                                                        │           └──  ( EDU queries_are_filtered_through_the_OpenAI_"_Moderation_endpoint_"_API_(_a_separate_GPT_-_based_AI_)_. )
+                                                                                                        └── NS:1-Elaboration
+                                                                                                            ├──  ( EDU In_March_2023_,_OpenAI_added_support_for_plugins_for_ChatGPT_. )
+                                                                                                            └── NN:0-Joint
+                                                                                                                ├──  ( EDU This_includes_both_plugins_made_by_OpenAI_,_such_as_web_browsing_and_code_interpretation_, )
+                                                                                                                └──  ( EDU and_external_plugins_from_developers_such_as_Expedia_,_OpenTable_,_Zapier_,_Shopify_,_Slack_,_and_Wolfram_. )

@@ -1,0 +1,200 @@
+Context: ChatGPT is a chatbot and virtual assistant developed by OpenAI and launched on November 30, 2022. Based on large language models ( LLMs ), it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive user prompts and replies are considered at each conversation stage as context. ChatGPT is credited with starting the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence ( AI ). By January 2023, it had become what was then the fastest - growing consumer software application in history, gaining over 100 million users and contributing to the growth of OpenAI's current valuation of $ 86 billion. ChatGPT's release spurred the release of competing products, including Gemini, Claude, Llama, Ernie, and Grok. Microsoft launched Copilot, initially based on OpenAI's GPT - 4. In June 2024, a partnership between Apple Inc. and OpenAI was announced in which ChatGPT is integrated into the Apple Intelligence feature of Apple operating systems. Some observers raised concern about the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation. ChatGPT is built on OpenAI's proprietary series of generative pre - trained transformer ( GPT ) models and is fine - tuned for conversational applications using a combination of supervised learning and reinforcement learning from human feedback. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. Users on its free tier can access GPT - 4o and GPT - 3. 5. The ChatGPT subscriptions " Plus ", " Team " and " Enterprise " provide additional features such as DALL - E 3 image generation and increased GPT - 4o usage limit. ChatGPT is based on particular GPT foundation models, namely GPT - 3. 5, GPT - 4, and GPT - 4o, that were fine - tuned to target conversational usage. The fine - tuning process leveraged supervised learning and reinforcement learning from human feedback ( RLHF ). Both approaches employed human trainers to improve model performance. In the case of supervised learning, the trainers played both sides : the user and the AI assistant. In the reinforcement learning stage, human trainers first ranked responses that the model had created in a previous conversation. These rankings were used to create " reward models " that were used to fine - tune the model further by using several iterations of proximal policy optimization. Time magazine revealed that to build a safety system against harmful content ( e. g., sexual abuse, violence, racism, sexism ), OpenAI used outsourced Kenyan workers earning less than $ 2 per hour to label harmful content. These labels were used to train a model to detect such content in the future. The outsourced laborers were exposed to " toxic " and traumatic content ; one worker described the assignment as " torture ". OpenAI's outsourcing partner was Sama, a training - data company based in San Francisco, California. ChatGPT initially used a Microsoft Azure supercomputing infrastructure, powered by Nvidia GPUs, that Microsoft built specifically for OpenAI and that reportedly cost " hundreds of millions of dollars ". Following ChatGPT's success, Microsoft dramatically upgraded the OpenAI infrastructure in 2023. Scientists at the University of California, Riverside, estimate that a series of prompts to ChatGPT needs approximately 500 milliliters ( 18 imp fl oz ; 17 U. S. fl oz ) of water for Microsoft servers cooling. TrendForce market intelligence estimated that 30, 000 Nvidia GPUs ( each costing approximately $ 10, 000 - 15, 000 ) were used to power ChatGPT in 2023. OpenAI collects data from ChatGPT users to train and fine - tune the service further. Users can upvote or downvote responses they receive from ChatGPT and fill in a text field with additional feedback. ChatGPT's training data includes software manual pages, information about internet phenomena such as bulletin board systems, multiple programming languages, and the text of Wikipedia. lthough a chatbot's core function is to mimic a human conversationalist, ChatGPT is versatile. It can write and debug computer programs ; compose music, teleplays, fairy tales, and student essays ; answer test questions ( sometimes, depending on the test, at a level above the average human test - taker ) ; generate business ideas ; write poetry and song lyrics ; translate and summarize text ; emulate a Linux system ; simulate entire chat rooms ; play games like tic - tac - toe ; or simulate an ATM. Compared to its predecessor, InstructGPT, ChatGPT attempts to reduce harmful and deceitful responses. In one example, whereas InstructGPT accepts the premise of the prompt " Tell me about when Christopher Columbus came to the U. S. in 2015 " as truthful, ChatGPT acknowledges the counterfactual nature of the question and frames its answer as a hypothetical consideration of what might happen if Columbus came to the U. S. in 2015, using information about the voyages of Christopher Columbus and facts about the modern world - including modern perceptions of Columbus's actions. ChatGPT remembers a limited number of previous prompts in the same conversation. Journalists have speculated that this will allow ChatGPT to be used as a personalized therapist. To prevent offensive outputs from being presented to and produced by ChatGPT, queries are filtered through the OpenAI " Moderation endpoint " API ( a separate GPT - based AI ). In March 2023, OpenAI added support for plugins for ChatGPT. This includes both plugins made by OpenAI, such as web browsing and code interpretation, and external plugins from developers such as Expedia, OpenTable, Zapier, Shopify, Slack, and Wolfram. 
+--------------------
+
+Nucleus: By January 2023, it had become what was then the fastest - growing consumer software application in history,
+Satellite: gaining over 100 million users and contributing to the growth of OpenAI's current valuation of $ 86 billion.
+
+Relation: Cause
+
+Question: Why was ChatGPT credited with driving the growth of OpenAI's current valuation?
+Answer: By January 2023, it had become what was then the fastest - growing consumer software application in history.
+Distractor 1: It was released as a freely available research preview.
+Distractor 2: It was integrated into the Apple Intelligence feature of Apple operating systems.
+Distractor 3: It was based on GPT - 4.
+
+Nucleus: ChatGPT is credited with starting the AI boom,
+Satellite: which has led to ongoing rapid investment in and public attention to the field of artificial intelligence ( AI ).
+
+Relation: Cause
+
+Question: Why is ChatGPT credited with the field of artificial intelligence ( AI)?
+Answer: ChatGPT is credited with starting the AI boom.
+Distractor 1: ChatGPT is credited with generating the most revenue from the AI boom.
+Distractor 2: ChatGPT is credited with helping to build the fastest - growing consumer software application in history.
+Distractor 3: ChatGPT is credited with helping to build the most popular product in the world.
+
+Nucleus: ChatGPT is versatile.
+Satellite: lthough a chatbot's core function is to mimic a human conversationalist,
+
+Relation: Contrast
+
+Question: How does ChatGPT differ from other software tools?
+Answer: Lthough a chatbot's core function is to mimic a human conversationalist, ChatGPT is versatile.
+Distractor 1: It can write and debug computer programs.
+Distractor 2: It can write and debug computer programs.
+Distractor 3: It can write and debug computer programs.
+
+Nucleus: but due to its popularity, OpenAI now operates the service on a freemium model.
+Satellite: ChatGPT was released as a freely available research preview,
+
+Relation: Contrast
+
+Question: How is ChatGPT different from other applications?
+Answer: ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model.
+Distractor 1: ChatGPT is built on OpenAI's proprietary series of generative pre - trained transformer models.
+Distractor 2: ChatGPT is built on Gemini, Claude, Llama, Ernie, and Grok.
+Distractor 3: ChatGPT is built on the same GPT foundation models.
+
+Nucleus: and frames its answer as a hypothetical consideration of what might happen
+Satellite: if Columbus came to the U. S. in 2015, using information about the voyages of Christopher Columbus and facts about the modern world - including modern perceptions of Columbus's actions.
+
+Relation: Condition
+
+Question: Under what condition?
+Answer: Christopher Columbus came to the U. S. in 2015, using information about the voyages of Christopher Columbus and facts about the modern world - including modern perceptions of Christopher Columbus actions.
+Distractor 1: The premise of the prompt " Tell me about when Christopher Columbus came to the U. S. in 2015 " is truthful, but ChatGPT fails to reduce harmful and deceitful responses.
+Distractor 2: The training - data company Sama was able to train a model to detect harmful content in the future.
+Distractor 3: The water for ChatGPT needs to cool the Microsoft Azure supercomputing infrastructure was inadequate.
+
+Nucleus: queries are filtered through the OpenAI " Moderation endpoint " API ( a separate GPT - based AI ).
+Satellite: To prevent offensive outputs from being presented to and produced by ChatGPT,
+
+Relation: Enablement
+
+Question: For what purpose is a separate GPT - based AI created?
+Answer: To prevent offensive outputs from being presented to and produced by ChatGPT.
+Distractor 1: To train a model to detect harmful content in the future.
+Distractor 2: To collect data from ChatGPT users to improve its service.
+Distractor 3: To simulate entire chat rooms and play games.
+
+Nucleus: OpenAI collects data from ChatGPT users
+Satellite: to train and fine - tune the service further.
+
+Relation: Enablement
+
+Question: For what purpose does OpenAI collect data from ChatGPT users?
+Answer: To train and fine - tune the service further.
+Distractor 1: To label harmful content and train a model to detect such content in the future.
+Distractor 2: To upvote or downvote responses they receive from ChatGPT.
+Distractor 3: To simulate entire chat rooms and play games like tic - tac - toe.
+
+Nucleus: OpenAI used outsourced Kenyan workers earning less than $ 2 per hour
+Satellite: to label harmful content.
+
+Relation: Enablement
+
+Question: For what purpose did OpenAI use outsourced workers earning less than $ 2 per hour?
+Answer: To label harmful content.
+Distractor 1: To train a model to detect harmful content.
+Distractor 2: To collect data from ChatGPT users.
+Distractor 3: To collect data from users to upvote or downvote responses.
+
+Nucleus: if Columbus came to the U. S. in 2015,
+Satellite: using information about the voyages of Christopher Columbus and facts about the modern world - including modern perceptions of Columbus's actions.
+
+Relation: Manner-Means
+
+Question: How does ChatGPT train its users in the U.S?
+Answer: Using information about the voyages of Christopher Columbus and facts about the modern world - including modern perceptions of Columbus's actions.
+Distractor 1: Using a series of prompts to chat with users in the U.S.
+Distractor 2: Using a Microsoft Azure supercomputing infrastructure powered by Nvidia GPUs.
+Distractor 3: Using the text of Wikipedia to simulate entire chat rooms.
+
+Nucleus: " that were used to fine - tune the model further
+Satellite: by using several iterations of proximal policy optimization.
+
+Relation: Manner-Means
+
+Question: How was the reward model fine tuned?
+Answer: By using several iterations of proximal policy optimization.
+Distractor 1: By using supervised learning and reinforcement learning from human feedback.
+Distractor 2: By using outsourced laborers to label harmful content.
+Distractor 3: By using outsourced laborers to label harmful content.
+
+Nucleus: and is fine - tuned for conversational applications
+Satellite: using a combination of supervised learning and reinforcement learning from human feedback.
+
+Relation: Manner-Means
+
+Question: How is ChatGPT fine tuned for conversational applications?
+Answer: Using a combination of supervised learning and reinforcement learning from human feedback.
+Distractor 1: Using a series of generative pre - trained transformer models.
+Distractor 2: Using a combination of reinforcement learning from human feedback.
+Distractor 3: Using a combination of reinforcement learning from human feedback.
+
+Nucleus: In March 2023, OpenAI added support for plugins for ChatGPT.
+Satellite: This includes both plugins made by OpenAI, such as web browsing and code interpretation, and external plugins from developers such as Expedia, OpenTable, Zapier, Shopify, Slack, and Wolfram.
+
+Relation: Elaboration
+
+Question: What plugins does OpenAI use to power ChatGPT?
+Answer: This includes both plugins made by OpenAI, such as web browsing and code interpretation, and external plugins from developers such as Expedia, OpenTable, Zapier, Shopify, Slack, and Wolfram.
+Distractor 1: It uses a series of prompts to send and receive emails to ChatGPT users.
+Distractor 2: It uses software manual pages, information about internet phenomena, and multiple programming languages.
+Distractor 3: It uses a Microsoft Azure supercomputing infrastructure built by Microsoft.
+
+Nucleus: In one example, whereas InstructGPT accepts the premise of the prompt
+Satellite: " Tell me about when Christopher Columbus came to the U. S. in 2015 "
+
+Relation: Elaboration
+
+Question: What is the premise of the prompt?
+Answer: Tell me about when Christopher Columbus came to the U. S. in 2015.
+Distractor 1: Tell me about how much money Christopher Columbus spent on the island.
+Distractor 2: Tell me about how much money Christopher Columbus spent on the island.
+Distractor 3: Tell me about how much money Christopher Columbus spent on the island.
+
+Nucleus: Users can upvote or downvote responses
+Satellite: they receive from ChatGPT
+
+Relation: Elaboration
+
+Question: What are the users able to do in the ChatGPT service?
+Answer: They receive from ChatGPT.
+Distractor 1: They can upvote or downvote responses they receive from ChatGPT.
+Distractor 2: They can fill in a text field with additional feedback.
+Distractor 3: They can upvote or downvote responses they receive from ChatGPT.
+
+Nucleus: The outsourced laborers were exposed to " toxic " and traumatic content ;
+Satellite: one worker described the assignment as " torture ".
+
+Relation: Elaboration
+
+Question: What " did one worker describe the assignment as " torture "?
+Answer: One worker described the assignment as " torture.
+Distractor 1: One worker described the assignment as " torture "
+Distractor 2: One worker described the assignment as " torture "
+Distractor 3: One worker described the assignment as " torture "
+
+Nucleus: In the reinforcement learning stage, human trainers first ranked responses
+Satellite: that the model had created in a previous conversation.
+
+Relation: Elaboration
+
+Question: What were the first responses ranked by the human trainers?
+Answer: The model had created in a previous conversation.
+Distractor 1: The content of the conversation.
+Distractor 2: The reward models that were used to fine - tune the model.
+Distractor 3: The reward models that were used to fine - tune the model further.
+
+Nucleus: ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model.
+Satellite: Users on its free tier can access GPT - 4o and GPT - 3. 5.
+
+Relation: Elaboration
+
+Question: What a freemium model?
+Answer: Users on its free tier can access GPT - 4o and GPT - 3. 5.
+Distractor 1: Users on its free tier can access GPT - 4o and GPT - 3. 5.
+Distractor 2: Users on its free tier can access GPT - 4o and GPT - 3. 5.
+Distractor 3: Users on its free tier can access GPT - 4o and GPT - 3. 5.
+
+Nucleus: In June 2024, a partnership between Apple Inc. and OpenAI was announced
+Satellite: in which ChatGPT is integrated into the Apple Intelligence feature of Apple operating systems.
+
+Relation: Elaboration
+
+Question: What is the significance of the partnership between Apple Inc. and OpenAI?
+Answer: ChatGPT is integrated into the Apple Intelligence feature of Apple operating systems.
+Distractor 1: ChatGPT is a chatbot and virtual assistant developed by OpenAI.
+Distractor 2: ChatGPT is a free - tier model of the Apple operating systems.
+Distractor 3: ChatGPT is a chatbot and virtual assistant developed by Apple Inc.

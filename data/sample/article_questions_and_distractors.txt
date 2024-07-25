@@ -1,0 +1,376 @@
+Context: Social anxiety is the anxiety and fear specifically linked to being in social settings ( i. e., interacting with others ). Some categories of disorders associated with social anxiety include anxiety disorders, mood disorders, autism spectrum disorders, eating disorders, and substance use disorders. Individuals with higher levels of social anxiety often avert their gazes, show fewer facial expressions, and show difficulty with initiating and maintaining a conversation. Social anxiety commonly manifests itself in the teenage years and can be persistent throughout life ; however, people who experience problems in their daily functioning for an extended period of time can develop social anxiety disorder. Trait social anxiety, the stable tendency to experience this anxiety, can be distinguished from state anxiety, the momentary response to a particular social stimulus. Half of the individuals with any social fears meet the criteria for social anxiety disorder. Age, culture, and gender impact the severity of this disorder. The function of social anxiety is to increase arousal and attention to social interactions, inhibit unwanted social behavior, and motivate preparation for future social situations. DisorderSocial anxiety disorder ( SAD ), also known as social phobia, is an anxiety disorder characterized by a significant amount of fear in one or more social situations causing considerable distress and impaired ability to function in at least some parts of daily life. These fears can be triggered by perceived or actual scrutiny from others. Social anxiety disorder affects 8 % of women and 6. 1 % of men. In the United States, anxiety disorders are the most common mental illness. They affect 40 million adults, ages 18 and older. Anxiety can come in different forms and panic attacks can lead to panic disorders which is the recurrence of unexpected panic attacks. Other related anxiety disorders include social anxiety disorder, generalized anxiety disorder, obsessive compulsive disorder ( OCD ), various types of phobias, and post traumatic stress disorder ( PTSD ). Fortunately, it is highly treatable and not everyone needs the treatment. Physical symptoms often include excessive blushing, excess sweating, trembling, palpitations, and nausea. Stammering may be present, along with rapid speech. Panic attacks can also occur under intense fear and discomfort. Some sufferers may use alcohol or other drugs to reduce fears and inhibitions at social events. It is common for sufferers of social phobia to self - medicate in this fashion, especially if they are undiagnosed, untreated, or both ; this can lead to alcoholism, eating disorders or other kinds of substance abuse. SAD is sometimes referred to as an " illness of lost opportunities " where " individuals make major life choices to accommodate their illness ". According to ICD - 10 guidelines, the main diagnostic criteria of social anxiety disorder are fear of being the focus of attention, or fear of behaving in a way that will be embarrassing or humiliating, often coupled with avoidance and anxiety symptoms. Standardized rating scales can be used to screen for social anxiety disorder and measure the severity of anxiety. Child developmentSome feelings of anxiety in social situations are normal and necessary for effective social functioning and developmental growth. The difficulty with identifying social anxiety disorder in children lies in determining the difference between social anxiety and basic shyness. Typically, children may be diagnosed when their social fears are extreme or cannot be outgrown. Cognitive advances and increased pressures in late childhood and early adolescence result in repeated social anxiety. More and more children are being diagnosed with social anxiety, and this can lead to problems with education if not closely monitored. Part of social anxiety is fear of being criticized by others, and in children, social anxiety causes extreme distress over everyday activities such as playing with other kids, reading in class, or speaking to adults. Some children with social anxiety may act out because of their fear, or they may exhibit nervousness or crying in an event where they feel anxious. Adolescents have identified their most common anxieties as focused on relationships with peers to whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior. Most adolescents progress through their fears and meet the developmental demands placed on them. AdultsIt can be easier to identify social anxiety within adults because they tend to shy away from any social situation and keep to themselves. Common adult forms of social anxiety include performance anxiety, public speaking anxiety, stage fright, and timidness. All of these may also assume clinical forms, i. e., become anxiety disorders ( see below ). Criteria that distinguish between clinical and nonclinical forms of social anxiety include the intensity and level of behavioral and psychosomatic disruption ( discomfort ) in addition to the anticipatory nature of the fear. Social anxieties may also be classified according to the broadness of triggering social situations. For example, fear of eating in public has a very narrow situational scope ( eating in public ), while shyness may have a wide scope ( a person may be shy of doing many things in various circumstances ). The clinical ( disorder ) forms are also divided into general social phobia ( i. e., social anxiety disorder ) and specific social phobia. Blushing is a physiological response unique to humans and is a hallmark physiological response associated with social anxiety. Blushing is the involuntary reddening of the face, neck, and chest in reaction to evaluation or social attention. Blushing occurs not only in response to feelings of embarrassment but also other socially - oriented emotions such as shame, guilt, shyness, and pride. Individuals high in social anxiety perceive themselves as blushing more than those who are low in social anxiety. Three types of blushing can be measured : self - perceived blushing ( how much the individual believes they are blushing ), physiological blushing ( blushing as measured by physiological indices ), and observed blushing ( blushing observed by others ). Social anxiety is strongly associated with self - perceived blushing, weakly associated with blushing as measured by physiological indices such as temperature and blood flow to the cheeks and forehead, and moderately associated with observed blushing. The relationship between physiological blushing and self - perceived blushing is small among those high in social anxiety, indicating that individuals with high social anxiety may overestimate their blushing. That social anxiety is associated most strongly with self - perceived blushing is also important for cognitive models of blushing and social anxiety, indicating that socially anxious individuals use both internal cues and other types of information to draw conclusions about how they are coming across. Individuals with social anxiety might also refrain from making eye contact, or constantly fiddling with things during conversations or public speaking. Other indicators are physical symptoms which may include rapid heartbeat, muscle tension, dizziness and lightheadedness, stomach trouble and diarrhea, unable to catch a breath, and - out of body - sensation. Attention bias ##Individuals who tend to experience more social anxiety turn their attention away from threatening social information and toward themselves, prohibiting themselves from challenging negative expectations about others and maintaining high levels of social anxiety. For example, a socially anxious individual may perceive rejection from a conversational partner, turn their attention away, and never learn that the individual is actually welcoming. Individuals who are high in social anxiety tend to show increased initial attention toward negative social cues, such as threatening faces, followed by attention away from these social cues, indicating a pattern of hypervigilance followed by avoidance. Attention in social anxiety has been measured using the dot - probe paradigm, which presents two faces next to one another. One face has an emotional expression and the other has a neutral expression, and when the faces disappear, a probe appears in the location of one of the faces. This creates a congruent condition in which the probe appears in the same location as the emotional face and an incongruent condition. Participants respond to the probe by pressing a button and differences in reaction times reveal attentional biases. This task has produced mixed results, with some studies finding no differences between socially - anxious individuals and controls, some studies finding avoidance of all faces by socially - anxious individuals, and other studies finding vigilance by socially - anxious individuals only toward threat faces. The Face - in - the - crowd task shows that individuals with social anxiety are faster at detecting an angry face in a predominantly neutral or positive crowd or slower at detecting happy faces than a non - anxious person. Focus on the self has been associated with increased social anxiety and negative affect. However, there are two types of self - focus : public and private. In public self - focus, one shows concern for the impact of one's own actions on others and their impressions. This type of self - focus predicts greater social anxiety. Other more private forms of self - consciousness ( e. g., egocentric goals ) are associated with other types of negative affect. Basic science research suggests that cognitive biases can be modified. Attention bias modification training has been shown to temporarily impact social anxiety. 
+--------------------
+
+Nucleus: In public self - focus, one shows concern for the impact of one's own actions on others and their impressions.
+Satellite: This type of self - focus predicts greater social anxiety.
+
+Relation: Cause
+
+Question: Why greater social anxiety is associated with social anxiety?
+Answer: In public self - focus, one shows concern for the impact of one's own actions on others and their impressions.
+Distractor 1: In public speaking, one shows concern for the impact of one's own actions on others.
+Distractor 2: In private speaking, one shows concern for the impact of one's own actions on others.
+Distractor 3: In private speaking, one shows concern for the impact of one's own actions on others.
+
+Nucleus: by pressing a button
+Satellite: and differences in reaction times reveal attentional biases.
+
+Relation: Cause
+
+Question: Why do differences in reaction times reveal attentional biases?
+Answer: By pressing a button.
+Distractor 1: By making eye contact.
+Distractor 2: By constantly fiddling with things during conversations.
+Distractor 3: By making eye contact.
+
+Nucleus: One face has an emotional expression and the other has a neutral expression, and when the faces disappear, a probe appears in the location of one of the faces.
+Satellite: This creates a congruent condition in which the probe appears in the same location as the emotional face and an incongruent condition.
+
+Relation: Cause
+
+Question: Why an incongruent condition occurs?
+Answer: One face has an emotional expression and the other has a neutral expression, and when the faces disappear, a probe appears in the location of one of the faces.
+Distractor 1: One face has an emotional expression and the other has a neutral expression.
+Distractor 2: One face has an emotional expression and the other has a neutral expression.
+Distractor 3: One face has an emotional expression and the other has a neutral expression.
+
+Nucleus: Individuals who are high in social anxiety tend to show increased initial attention toward negative social cues, such as threatening faces, followed by attention away from these social cues,
+Satellite: indicating a pattern of hypervigilance followed by avoidance.
+
+Relation: Cause
+
+Question: Why is there a pattern of hypervigilance followed by avoidance?
+Answer: Individuals who are high in social anxiety tend to show increased initial attention toward negative social cues, such as threatening faces, followed by attention away from these social cues.
+Distractor 1: Individuals who are high in social anxiety tend to show increased initial attention toward positive social cues, such as threatening faces, followed by attention away from these social cues.
+Distractor 2: Individuals who are high in social anxiety tend to show increased initial attention toward positive social cues, such as threatening faces, followed by attention away from these social cues.
+Distractor 3: Individuals who are high in social anxiety tend to show decreased initial attention toward positive social cues, such as threatening faces, followed by attention away from these social cues.
+
+Nucleus: Attention bias ##Individuals who tend to experience more social anxiety turn their attention away from threatening social information and toward themselves,
+Satellite: prohibiting themselves from challenging negative expectations about others and maintaining high levels of social anxiety.
+
+Relation: Cause
+
+Question: Why is social anxiety associated with social anxiety?
+Answer: Attention bias ##Individuals who tend to experience more social anxiety turn their attention away from threatening social information and toward themselves.
+Distractor 1: The relationship between physiological blushing and blushing is small among those high in social anxiety.
+Distractor 2: Individuals with social anxiety refrain from making eye contact, or constantly fiddling with things during conversations or public speaking.
+Distractor 3: The dot - probe paradigm is used to measure the amount of attention that is exerted by the two faces.
+
+Nucleus: The relationship between physiological blushing and self - perceived blushing is small among those high in social anxiety,
+Satellite: indicating that individuals with high social anxiety may overestimate their blushing.
+
+Relation: Cause
+
+Question: Why high social anxiety may have a tendency to overestimate their blushing?
+Answer: The relationship between physiological blushing and self - perceived blushing is small among those high in social anxiety.
+Distractor 1: Self - perceived blushing is strongly associated with blushing as measured by physiological indices such as temperature and blood flow to the cheeks and forehead.
+Distractor 2: Self - perceived blushing is strongly associated with blushing as measured by physiological indices such as temperature and blood flow to the cheeks and forehead.
+Distractor 3: Self - perceived blushing is strongly associated with blushing as measured by physiological indices such as temperature and blood flow to the cheeks and forehead.
+
+Nucleus: More and more children are being diagnosed with social anxiety,
+Satellite: and this can lead to problems with education if not closely monitored.
+
+Relation: Cause
+
+Question: Why can social anxiety cause problems with education?
+Answer: More and more children are being diagnosed with social anxiety.
+Distractor 1: Cognitive advances and increased pressures in late childhood and early adolescence result in repeated social anxiety.
+Distractor 2: Some children with social anxiety may act out because of their fear.
+Distractor 3: Some children with social anxiety are not developed properly.
+
+Nucleus: where " individuals make major life choices to accommodate their illness ".
+Satellite: SAD is sometimes referred to as an " illness of lost opportunities "
+
+Relation: Cause
+
+Question: Why is social anxiety disorder called " illness of lost opportunities"?
+Answer: Individuals make major life choices to accommodate their illness.
+Distractor 1: It is a common condition that affects children.
+Distractor 2: It is a mental illness that affects adults.
+Distractor 3: It is a mental illness that affects people in all walks of life.
+
+Nucleus: It is common for sufferers of social phobia to self - medicate in this fashion, especially if they are undiagnosed, untreated, or both ;
+Satellite: this can lead to alcoholism, eating disorders or other kinds of substance abuse.
+
+Relation: Cause
+
+Question: Why can social phobia cause alcoholism, eating disorders and other kinds of substance abuse?
+Answer: It is common for sufferers of social phobia to self - medicate in this fashion, especially if they are undiagnosed, untreated, or both.
+Distractor 1: It is difficult for sufferers of social phobia to reduce fears and inhibitions at social events.
+Distractor 2: It is difficult for sufferers of social phobia to reduce fears and inhibitions at social events.
+Distractor 3: It is difficult for sufferers of social phobia to self - medicate in this fashion.
+
+Nucleus: also known as social phobia, is an anxiety disorder characterized by a significant amount of fear in one or more social situations
+Satellite: causing considerable distress and impaired ability to function in at least some parts of daily life.
+
+Relation: Cause
+
+Question: Why is social anxiety disorder called SAD?
+Answer: Known as social phobia, is an anxiety disorder characterized by a significant amount of fear in one or more social situations.
+Distractor 1: Known as social anxiety disorder, is an anxiety disorder characterized by a significant amount of fear in one or more social situations.
+Distractor 2: Known as social anxiety disorder, is an anxiety disorder characterized by a significant amount of fear in one or more social situations.
+Distractor 3: Known as social anxiety disorder, is an anxiety disorder characterized by a significant amount of fear in one or more social situations.
+
+Nucleus: is also important for cognitive models of blushing and social anxiety,
+Satellite: indicating that socially anxious individuals use both internal cues and other types of information to draw conclusions about how they are coming across.
+
+Relation: Explanation
+
+Question: Why is social anxiety associated with social anxiety?
+Answer: Indicating that socially anxious individuals use both internal cues and other types of information to draw conclusions about how they are coming across.
+Distractor 1: Indicating that individuals with high social anxiety may overestimate their blushing.
+Distractor 2: Indicating that individuals with high social anxiety refrain from making eye contact.
+Distractor 3: Indicating that individuals with high social anxiety refrain from making eye contact.
+
+Nucleus: i. e., become anxiety disorders
+Satellite: ( see below ).
+
+Relation: Explanation
+
+Question: Why do some adolescents become anxiety disorders?
+Answer: See below.
+Distractor 1: They are afraid of being criticized by others.
+Distractor 2: They are afraid of being seen as criticized by others.
+Distractor 3: They are afraid of being seen as criticized by others.
+
+Nucleus: AdultsIt can be easier to identify social anxiety within adults
+Satellite: because they tend to shy away from any social situation and keep to themselves.
+
+Relation: Explanation
+
+Question: Why can it be easier to identify social anxiety within adults?
+Answer: They tend to shy away from any social situation and keep to themselves.
+Distractor 1: They are more likely to act out because of their fear.
+Distractor 2: They are more likely to blush and panic.
+Distractor 3: They are more likely to act out because of their fear.
+
+Nucleus: some studies finding avoidance of all faces by socially - anxious individuals,
+Satellite: and other studies finding vigilance by socially - anxious individuals only toward threat faces.
+
+Relation: Contrast
+
+Question: How different are some studies finding that the face detection process is different?
+Answer: Some studies finding avoidance of all faces by socially - anxious individuals, and other studies finding vigilance by socially - anxious individuals only toward threat faces.
+Distractor 1: Some studies finding vigilance by socially - anxious individuals only toward threat faces.
+Distractor 2: Some studies finding vigilance by socially - anxious individuals only toward threat faces.
+Distractor 3: Some studies finding vigilance by socially - anxious individuals only toward threat faces.
+
+Nucleus: For example, fear of eating in public has a very narrow situational scope ( eating in public ),
+Satellite: while shyness may have a wide scope ( a person may be shy of doing many things in various circumstances ).
+
+Relation: Contrast
+
+Question: How is social anxiety related to eating in public and shyness?
+Answer: For example, fear of eating in public has a very narrow situational scope ( eating in public ), while shyness may have a wide scope ( a person may be shy of doing many things in various circumstances.
+Distractor 1: Fear of eating in public has a very narrow situational scope ( eating in public ), while shyness may have a wide scope ( a person may be shy of doing many things in various circumstances ).
+Distractor 2: Fear of eating in public has a very narrow situational scope ( eating in public ), while shyness may have a wide scope ( a person may be shy of doing many things in various circumstances ).
+Distractor 3: Fear of eating in public has a very narrow situational scope ( eating in public ), while shyness may have a wide scope ( a person may be shy of doing many things in various circumstances ).
+
+Nucleus: Adolescents have identified their most common anxieties as focused on relationships with peers to whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior.
+Satellite: Most adolescents progress through their fears and meet the developmental demands placed on them.
+
+Relation: Contrast
+
+Question: How do adolescents know their social anxiety disorder is different from other disorders?
+Answer: Adolescents have identified their most common anxieties as focused on relationships with peers to whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior. Most adolescents progress through their fears and meet the developmental demands placed on them.
+Distractor 1: 
+Distractor 2: 
+Distractor 3: 
+
+Nucleus: Child developmentSome feelings of anxiety in social situations are normal and necessary for effective social functioning and developmental growth.
+Satellite: The difficulty with identifying social anxiety disorder in children lies in determining the difference between social anxiety and basic shyness.
+
+Relation: Contrast
+
+Question: How is social anxiety disorder diagnosed in children?
+Answer: Child developmentSome feelings of anxiety in social situations are normal and necessary for effective social functioning and developmental growth. The difficulty with identifying social anxiety disorder in children lies in determining the difference between social anxiety and basic shyness.
+Distractor 1: Standardized rating scales can be used to screen for social anxiety disorder and measure the severity of anxiety.
+Distractor 2: Typically, children may be diagnosed when their social fears are extreme or cannot be outgrown.
+Distractor 3: Typically, children may be diagnosed when their social fears are extreme or cannot be outgrown.
+
+Nucleus: Other related anxiety disorders include social anxiety disorder, generalized anxiety disorder, obsessive compulsive disorder ( OCD ), various types of phobias, and post traumatic stress disorder ( PTSD ).
+Satellite: Fortunately, it is highly treatable and not everyone needs the treatment.
+
+Relation: Contrast
+
+Question: How is social anxiety disorder different from other related anxiety disorders?
+Answer: Other related anxiety disorders include social anxiety disorder, generalized anxiety disorder, obsessive compulsive disorder ( OCD ), various types of phobias, and post traumatic stress disorder ( PTSD ). Fortunately, it is highly treatable and not everyone needs the treatment.
+Distractor 1: Other related anxiety disorders include social anxiety disorder, generalized anxiety disorder, obsessive compulsive disorder ( OCD ). It is not treated and not everyone needs the treatment.
+Distractor 2: Other related anxiety disorders include social anxiety disorder, generalized anxiety disorder, obsessive compulsive disorder ( OCD ). It is not treated and not everyone needs the treatment.
+Distractor 3: Other related anxiety disorders include social anxiety disorder, generalized anxiety disorder, obsessive compulsive disorder ( OCD ). It is not treated and not everyone needs the treatment.
+
+Nucleus: Fortunately, it is highly treatable
+Satellite: and not everyone needs the treatment.
+
+Relation: Contrast
+
+Question: How is social anxiety disorder different from other disorders?
+Answer: Fortunately, it is highly treatable and not everyone needs the treatment.
+Distractor 1: It is a condition that affects only 8% of women and 6.1% of men.
+Distractor 2: It is a mental illness that can only affect people who are not diagnosed.
+Distractor 3: It is a disorder that can only affect people who are not diagnosed.
+
+Nucleus: and this can lead to problems with education
+Satellite: if not closely monitored.
+
+Relation: Condition
+
+Question: Under what condition?
+Answer: Not closely monitored.
+Distractor 1: Fear of being criticized by others.
+Distractor 2: Fear of being embarrassed or humiliated.
+Distractor 3: Fear of being criticized by others.
+
+Nucleus: It is common for sufferers of social phobia to self - medicate in this fashion,
+Satellite: especially if they are undiagnosed, untreated, or both ;
+
+Relation: Condition
+
+Question: Under what condition?
+Answer: If sufferers of social phobia are undiagnosed, untreated, or both.
+Distractor 1: If sufferers of social phobia use alcohol or other drugs to reduce fears and inhibitions.
+Distractor 2: If sufferers of social phobia use alcohol or other drugs to reduce fears and discomfort.
+Distractor 3: If sufferers of social phobia use alcohol or other drugs to reduce fears and inhibitions.
+
+Nucleus: indicating that socially anxious individuals use both internal cues and other types of information
+Satellite: to draw conclusions about how they are coming across.
+
+Relation: Enablement
+
+Question: For what purpose do socially anxious individuals use internal cues and other types of information?
+Answer: To draw conclusions about how they are coming across.
+Distractor 1: To make eye contact or constantly fiddling with things during conversations or public speaking.
+Distractor 2: To prevent themselves from challenging negative expectations about others.
+Distractor 3: To show increased initial attention toward negative social cues.
+
+Nucleus: Standardized rating scales can be used
+Satellite: to screen for social anxiety disorder and measure the severity of anxiety.
+
+Relation: Enablement
+
+Question: For what purpose can standardized rating scales be used?
+Answer: To screen for social anxiety disorder and measure the severity of anxiety.
+Distractor 1: To identify social anxiety disorder and measure the severity of anxiety.
+Distractor 2: To screen for social anxiety disorder and measure the severity of anxiety.
+Distractor 3: To screen for social anxiety disorder and measure the severity of anxiety.
+
+Nucleus: where " individuals make major life choices
+Satellite: to accommodate their illness ".
+
+Relation: Enablement
+
+Question: For what purpose do people make major life choices?
+Answer: To accommodate their illness.
+Distractor 1: To be criticized by others.
+Distractor 2: To be treated by others.
+Distractor 3: To be criticized by others.
+
+Nucleus: Some sufferers may use alcohol or other drugs
+Satellite: to reduce fears and inhibitions at social events.
+
+Relation: Enablement
+
+Question: For what purpose may sufferers use alcohol or other drugs?
+Answer: To reduce fears and inhibitions at social events.
+Distractor 1: To reduce fears and inhibitions at social events.
+Distractor 2: To reduce fears and inhibitions at social events.
+Distractor 3: To reduce fears and inhibitions at social events.
+
+Nucleus: Participants respond to the probe
+Satellite: by pressing a button and differences in reaction times reveal attentional biases.
+
+Relation: Manner-Means
+
+Question: How do participants respond to the probe?
+Answer: By pressing a button and differences in reaction times reveal attentional biases.
+Distractor 1: By making eye contact or constantly fiddling with things during conversations or public speaking.
+Distractor 2: By making eye contact or constantly fiddling with things during conversations or public speaking.
+Distractor 3: By making eye contact or constantly fiddling with things during conversations or public speaking.
+
+Nucleus: Some children with social anxiety may act out
+Satellite: because of their fear,
+
+Relation: Manner-Means
+
+Question: How may some children with social anxiety act out?
+Answer: Because of their fear.
+Distractor 1: Because of their shyness.
+Distractor 2: Because of their nervousness or crying in an event where they feel anxious.
+Distractor 3: Because of their nervousness or crying in an event where they feel anxious.
+
+Nucleus: Individuals who are high in social anxiety tend to show increased initial attention toward negative social cues, such as threatening faces,
+Satellite: followed by attention away from these social cues,
+
+Relation: Temporal
+
+Question: After social anxiety, people tend to show more attention towards negative social cues, and then turn their attention towards positive social cues
+Answer: Attention away from these social cues.
+Distractor 1: Attention towards positive social cues.
+Distractor 2: Attention towards positive social cues.
+Distractor 3: Attention towards positive social cues.
+
+Nucleus: Adolescents have identified their most common anxieties as focused on relationships with peers
+Satellite: to whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior.
+
+Relation: Elaboration
+
+Question: What are the most common anxieties of adolescents?
+Answer: To whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior.
+Distractor 1: To whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior.
+Distractor 2: To whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior.
+Distractor 3: To whom they are attracted, peer rejection, public speaking, blushing, self - consciousness, panic, and past behavior.
+
+Nucleus: or they may exhibit nervousness or crying in an event
+Satellite: where they feel anxious.
+
+Relation: Elaboration
+
+Question: What an event may cause children to act out in an event?
+Answer: They feel anxious.
+Distractor 1: They are afraid of being criticized by others.
+Distractor 2: They are afraid of being criticized by others.
+Distractor 3: They are afraid of being criticized by others.
+
+Nucleus: In the United States, anxiety disorders are the most common mental illness.
+Satellite: They affect 40 million adults, ages 18 and older.
+
+Relation: Elaboration
+
+Question: What is the most common mental illness?
+Answer: They affect 40 million adults, ages 18 and older.
+Distractor 1: They affect 8 % of women and 6. 1 % of men.
+Distractor 2: They affect 8 % of women and 6. 1 % of men.
+Distractor 3: They affect 8 % of women and 6. 1 % of men.
+
+Nucleus: Half of the individuals with any social fears meet the criteria for social anxiety disorder.
+Satellite: Age, culture, and gender impact the severity of this disorder.
+
+Relation: Elaboration
+
+Question: What are the three main factors that affects the severity of social anxiety disorder?
+Answer: Age, culture, and gender impact the severity of this disorder.
+Distractor 1: The function of social anxiety is to increase arousal and attention to social interactions.
+Distractor 2: The momentary response to a particular social stimulus.
+Distractor 3: The function of social anxiety is to increase arousal and attention to social interactions.
+
+Nucleus: however, people who experience problems in their daily functioning for an extended period of time can develop social anxiety disorder.
+Satellite: Social anxiety commonly manifests itself in the teenage years and can be persistent throughout life ;
+
+Relation: Elaboration
+
+Question: What is the most common stage of social anxiety disorder?
+Answer: Cial anxiety commonly manifests itself in the teenage years and can be persistent throughout life.
+Distractor 1: Individuals with higher levels of social anxiety often avert their gazes and show fewer facial expressions.
+Distractor 2: The function of social anxiety is to increase arousal and attention to social interactions.
+Distractor 3: Panic attacks can also occur under intense fear and discomfort.
+
+Nucleus: however, people
+Satellite: who experience problems in their daily functioning for an extended period of time can develop social anxiety disorder.
+
+Relation: Elaboration
+
+Question: What happens to people with social anxiety disorder?
+Answer: Experience problems in their daily functioning for an extended period of time can develop social anxiety disorder.
+Distractor 1: They can avert their gazes and show fewer facial expressions.
+Distractor 2: They can't initiate and maintain a conversation.
+Distractor 3: They can't arouse and attention to social interactions.

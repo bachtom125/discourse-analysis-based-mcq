@@ -1,0 +1,413 @@
+NS:1-Elaboration
+├── NS:0-Elaboration
+│   ├──  ( EDU An_economic_depression_is_a_period_of_carried_long_-_term_economic_downturn )
+│   └──  ( EDU that_is_the_result_of_lowered_economic_activity_in_one_major_or_more_national_economies_. )
+└── NS:1-Elaboration
+    ├── NS:0-Elaboration
+    │   ├──  ( EDU Economic_depression_maybe_related_to_one_specific_country )
+    │   └── NS:0-Elaboration
+    │       ├──  ( EDU where_there_is_some_economic_crisis )
+    │       └── NS:0-Elaboration
+    │           ├──  ( EDU that_has_worsened_but_most_often_reflexes_historically_the_American_Great_Depression_and_similar_economic_status )
+    │           └──  ( EDU that_may_be_recognized_as_existing_at_some_country_,_several_countries_or_even_in_many_countries_. )
+    └── NS:1-Elaboration
+        ├── NS:0-Elaboration
+        │   ├──  ( EDU It_is_often_understood_in_economics_that_economic_crisis_and_the_following_recession )
+        │   └── NS:0-Elaboration
+        │       ├──  ( EDU that_maybe_named_economic_depression_are_part_of_economic_cycles )
+        │       └──  ( EDU where_the_slowdown_of_the_economy_follows_the_economic_growth_and_vice_versa_. )
+        └── NN:1-Contrast
+            ├── NS:1-Elaboration
+            │   ├── NS:0-Elaboration
+            │   │   ├──  ( EDU It_is_a_result_of_more_severe_economic_problems_or_a_downturn_than_the_recession_itself_, )
+            │   │   └──  ( EDU which_is_a_slowdown_in_economic_activity_over_the_course_of_the_normal_business_cycle_of_growing_economy_. )
+            │   └── NN:0-Joint
+            │       ├── NS:0-Elaboration
+            │       │   ├── NS:0-Joint
+            │       │   │   ├──  ( EDU Economic_depressions_maybe_also_characterized_by_their_length_or_duration_, )
+            │       │   │   └──  ( EDU and_maybe_showing_increases_in_unemployment_,_larger_increases_in_unemployment_or_even_abnormally_large_levels_of_unemployment_(_as_with_for_example_some_problems_in_Japan_in_incorporating_digital_economy_, )
+            │       │   └── NS:0-Same-Unit
+            │       │       ├── NS:0-Elaboration
+            │       │       │   ├──  ( EDU that_such_technological_difficult )
+            │       │       │   └──  ( EDU resulting_in_very_large_unemployment_rates_or_lack_of_good_social_balance_in_employment_among_population_,_lesser_revenues_for_businesses_,_or_other_economic_difficulties_, )
+            │       │       └── NS:0-Joint
+            │       │           ├── NS:0-Elaboration
+            │       │           │   ├──  ( EDU with_having_signs_of_financial_crisis_, )
+            │       │           │   └──  ( EDU that_may_also_reflect_on_the_work_of_banks_, )
+            │       │           └── NS:0-Same-Unit
+            │       │               ├── NS:0-Elaboration
+            │       │               │   ├──  ( EDU or_may_result_in_banking_crisis )
+            │       │               │   └──  ( EDU (_in_various_ways_that_may_be_for_example_unauthorized_transformations_of_banks_)_,_and_further_the_crisis_in_investment_and_credit_; )
+            │       │               └── NS:0-Elaboration
+            │       │                   ├──  ( EDU that_further_could_reflect_on_innovation_and_new_businesses_investments )
+            │       │                   └──  ( EDU lessening_or_even_shrinking_, )
+            │       └── NN:0-Joint
+            │           ├──  ( EDU or_buyers_dry_up_in_recession )
+            │           └──  ( EDU and_suppliers_cut_back_on_production_and_investment_in_technology_,_in_financial_crisis_that_may_be_more_country_defaults_or_debt_problems_,_and_further_in_feared_businesses_bankruptcies_,_and_overall_business_slowdown_. )
+            └── NN:1-Joint
+                ├── NS:0-Elaboration
+                │   ├──  ( EDU Other_bad_signs_of_economic_depression_could_be_significantly_reduced_amounts_of_trade_and_commerce_(_especially_international_trade_)_,_as_well_as_in_currency_markets )
+                │   └──  ( EDU that_maybe_fluctuations_or_unexpected_exchange_rates_with_observed_highly_volatile_currency_value_fluctuations_(_often_due_to_relative_currency_devaluations_)_. )
+                └── NN:1-Joint
+                    ├── NS:1-Elaboration
+                    │   ├── NN:0-Elaboration
+                    │   │   ├──  ( EDU Other_signs_of_depression_are_prices_deflation_,_financial_crises_,_stock_market_crash_or_even_bank_failures_,_or_even_specific_behaviour_of_economic_agents_or_population_, )
+                    │   │   └── NS:0-Elaboration
+                    │   │       ├──  ( EDU that_are_also_common_or_also_non_common_elements_of_a_depression )
+                    │   │       └──  ( EDU that_do_not_normally_occur_during_a_recession_. )
+                    │   └── NN:0-Joint
+                    │       ├──  ( EDU In_the_United_States_the_National_Bureau_of_Economic_Research_determines_contractions_and_expansions_in_the_business_cycle_, )
+                    │       └──  ( EDU but_does_not_declare_depressions_. )
+                    └── NN:1-Joint
+                        ├── NS:0-Enablement
+                        │   ├──  ( EDU Generally_,_periods_labeled_depressions_are_marked_by_a_substantial_and_sustained_shortfall_of_the_ability )
+                        │   └── NS:0-Elaboration
+                        │       ├──  ( EDU to_purchase_goods )
+                        │       └── NS:0-Elaboration
+                        │           ├── NS:0-Elaboration
+                        │           │   ├──  ( EDU relative_to_the_amount )
+                        │           │   └── NS:0-Elaboration
+                        │           │       ├──  ( EDU that_could_be_produced )
+                        │           │       └──  ( EDU using_current_resources_and_technology )
+                        │           └──  ( EDU (_potential_output_)_. )
+                        └── NN:1-Joint
+                            ├── NS:0-Elaboration
+                            │   ├──  ( EDU Another_proposed_definition_of_depression_includes_two_general_rules_: )
+                            │   └── NN:0-Elaboration
+                            │       ├──  ( EDU a_decline_in_real_GDP_exceeding_10_%_, )
+                            │       └──  ( EDU ora_recession_lasting_2_or_more_years_. )
+                            └── NN:1-Joint
+                                ├──  ( EDU There_are_also_differences_in_the_duration_of_depression_across_definitions_. )
+                                └── NN:1-Joint
+                                    ├── NS:0-Background
+                                    │   ├──  ( EDU Some_economists_refer_only_to_the_period )
+                                    │   └──  ( EDU when_economic_activity_is_declining_. )
+                                    └── NN:1-Joint
+                                        ├── NS:0-Background
+                                        │   ├──  ( EDU The_more_common_use_,_however_,_also_encompasses_the_time )
+                                        │   └──  ( EDU until_the_economic_activity_has_returned_close_to_normal_levels_. )
+                                        └── NN:1-Joint
+                                            ├── NS:0-Elaboration
+                                            │   ├──  ( EDU A_recession_is_briefly_defined_as_a_period_of_declining_economic_activity_spread_across_the_economy )
+                                            │   └──  ( EDU (_according_to_NBER_)_. )
+                                            └── NN:1-Joint
+                                                ├── NS:0-Temporal
+                                                │   ├──  ( EDU Under_the_first_definition_,_each_depression_will_always_coincide_with_a_recession_, )
+                                                │   └──  ( EDU since_the_difference_between_a_depression_and_a_recession_is_the_severity_of_the_fall_in_economic_activity_. )
+                                                └── NS:1-Elaboration
+                                                    ├── NS:0-Elaboration
+                                                    │   ├──  ( EDU In_other_words_,_each_depression_is_always_a_recession_, )
+                                                    │   └──  ( EDU sharing_the_same_starting_and_ending_dates_and_having_the_same_duration_. )
+                                                    └── NS:1-Elaboration
+                                                        ├── NS:1-Elaboration
+                                                        │   ├── NN:0-Elaboration
+                                                        │   │   ├──  ( EDU Under_the_second_definition_,_depressions_and_recessions_will_always_be_distinct_events )
+                                                        │   │   └── NN:0-Same-Unit
+                                                        │   │       ├──  ( EDU however_, )
+                                                        │   │       └──  ( EDU having_the_same_starting_dates_. )
+                                                        │   └── SN:0-Attribution
+                                                        │       ├──  ( EDU This_definition_of_depression_implies )
+                                                        │       └──  ( EDU that_a_recession_and_a_depression_will_have_different_ending_dates_and_thus_distinct_durations_. )
+                                                        └── NS:1-Elaboration
+                                                            ├──  ( EDU Under_this_definition_,_the_length_of_depression_will_always_be_longer_than_that_of_the_recession_starting_the_same_date_. )
+                                                            └── NN:1-Joint
+                                                                ├── NN:0-Elaboration
+                                                                │   ├──  ( EDU A_useful_example_is_a_difference_in_the_chronology_of_the_Great_Depression_in_the_U._S. )
+                                                                │   └──  ( EDU under_the_view_of_alternative_definitions_. )
+                                                                └── NN:1-Joint
+                                                                    ├── SN:0-Background
+                                                                    │   ├──  ( EDU Using_the_second_definition_of_depression_, )
+                                                                    │   └──  ( EDU most_economists_refer_to_the_Great_Depression_,_as_the_period_between_1929_and_1941_. )
+                                                                    └── NS:1-Elaboration
+                                                                        ├── NS:1-Elaboration
+                                                                        │   ├── NS:1-Elaboration
+                                                                        │   │   ├── SN:0-Same-Unit
+                                                                        │   │   │   ├──  ( EDU On_the_other_hand_,_using_the_first_definition_, )
+                                                                        │   │   │   └── NS:0-Elaboration
+                                                                        │   │   │       ├──  ( EDU the_depression )
+                                                                        │   │   │       └──  ( EDU that_started_in_August_1929_lasted_until_March_1933_. )
+                                                                        │   │   └── NN:0-Same-Unit
+                                                                        │   │       ├── NS:0-Elaboration
+                                                                        │   │       │   ├──  ( EDU Note_that_NBER_, )
+                                                                        │   │       │   └──  ( EDU which_publishes_the_recession_(_instead_of_depression_)_dates_for_the_U._S._economy_, )
+                                                                        │   │       └──  ( EDU has_identified_two_recessions_during_that_period_. )
+                                                                        │   └──  ( EDU The_first_between_August_1929_and_March_1933_and_the_second_starting_in_May_1937_and_ending_in_June_1938_. )
+                                                                        └── NS:1-Explanation
+                                                                            ├── SN:0-Contrast
+                                                                            │   ├──  ( EDU Today_the_term_"_depression_"_is_most_often_associated_with_the_Great_Depression_of_the_1930s_, )
+                                                                            │   └──  ( EDU but_the_term_had_been_in_use_long_before_then_. )
+                                                                            └── NN:1-Contrast
+                                                                                ├── NN:0-Joint
+                                                                                │   ├── NN:0-Same-Unit
+                                                                                │   │   ├──  ( EDU Indeed_,_an_early_major_American_economic_crisis_,_the_Panic_of_1819_, )
+                                                                                │   │   └──  ( EDU was_described_by_then_-_president_James_Monroe_as_"_a_depression_"_, )
+                                                                                │   └── NN:0-Same-Unit
+                                                                                │       ├──  ( EDU and_the_economic_crisis_immediately_preceding_the_1930s_depression_,_the_Depression_of_1920_-_21_, )
+                                                                                │       └──  ( EDU was_referred_to_as_a_"_depression_"_by_president_Calvin_Coolidge_. )
+                                                                                └── NN:1-Joint
+                                                                                    ├──  ( EDU However_,_in_the_19th_and_early_20th_centuries_,_financial_crises_were_traditionally_referred_to_as_"_panics_"_, )
+                                                                                    └── NN:1-Joint
+                                                                                        ├──  ( EDU e._g._,_the'major'Panic_of_1907_,_and_the'minor'Panic_of_1910_-_1911_, )
+                                                                                        └── NS:1-Elaboration
+                                                                                            ├── NN:0-Contrast
+                                                                                            │   ├──  ( EDU though_the_1929_crisis_was_more_commonly_called_"_The_Crash_"_, )
+                                                                                            │   └──  ( EDU and_the_term_"_panic_"_has_since_fallen_out_of_use_. )
+                                                                                            └── NS:1-Elaboration
+                                                                                                ├── SN:0-Same-Unit
+                                                                                                │   ├──  ( EDU At_the_time_of_the_Great_Depression_(_of_the_1930s_)_, )
+                                                                                                │   └── NS:0-Enablement
+                                                                                                │       ├──  ( EDU the_phrase_"_The_Great_Depression_"_had_already_been_used )
+                                                                                                │       └── NS:0-Elaboration
+                                                                                                │           ├──  ( EDU to_refer_to_the_period_1873_-_96_(_in_the_United_Kingdom_)_,_or_more_narrowly_1873_-_79_(_in_the_United_States_)_, )
+                                                                                                │           └──  ( EDU which_has_since_been_renamed_the_Long_Depression_. )
+                                                                                                └── NS:1-Elaboration
+                                                                                                    ├── NS:1-Elaboration
+                                                                                                    │   ├── NN:0-Same-Unit
+                                                                                                    │   │   ├──  ( EDU Common_use_of_the_phrase_"_The_Great_Depression_"_for_the_1930s_crisis )
+                                                                                                    │   │   └── NS:0-Elaboration
+                                                                                                    │   │       ├──  ( EDU is_most_frequently_attributed_to_British_economist_Lionel_Robbins_, )
+                                                                                                    │   │       └──  ( EDU whose_1934_book_The_Great_Depression_is_credited_with'formalizing'the_phrase_, )
+                                                                                                    │   └── SN:1-Attribution
+                                                                                                    │       ├──  ( EDU though_US_president_Herbert_Hoover_is_widely_credited_with_having'popularized'the_term_/_phrase_, )
+                                                                                                    │       └── NS:1-Elaboration
+                                                                                                    │           ├──  ( EDU informally_referring_to_the_downturn_as_a_"_depression_"_, )
+                                                                                                    │           └── NS:1-Elaboration
+                                                                                                    │               ├── NS:0-Elaboration
+                                                                                                    │               │   ├──  ( EDU with_such_uses_as_"_Economic_depression_can_not_be_cured_by_legislative_action_or_executive_pronouncement_"_, )
+                                                                                                    │               │   └── NN:0-Joint
+                                                                                                    │               │       ├──  ( EDU (_December_1930_,_Message_to_Congress_) )
+                                                                                                    │               │       └──  ( EDU and_"_I_need_not_recount_to_you_that_the_world_is_passing_through_a_great_depression_"_(_1931_)_. )
+                                                                                                    │               └── SN:0-Attribution
+                                                                                                    │                   ├──  ( EDU Due_to_the_lack_of_an_agreed_definition_and_the_strong_negative_associations_, )
+                                                                                                    │                   └──  ( EDU the_characterization_of_any_period_as_a_"_depression_"_is_contentious_. )
+                                                                                                    └── NS:1-Elaboration
+                                                                                                        ├── NN:0-Joint
+                                                                                                        │   ├──  ( EDU The_term_was_frequently_used_for_regional_crises_from_the_early_19th_century_until_the_1930s_, )
+                                                                                                        │   └── SN:0-Contrast
+                                                                                                        │       ├──  ( EDU and_for_the_more_widespread_crises_of_the_1870s_and_1930s_, )
+                                                                                                        │       └── NS:0-Elaboration
+                                                                                                        │           ├──  ( EDU but_economic_crises_since_1945_have_generally_been_referred_to_as_"_recessions_"_, )
+                                                                                                        │           └── NN:0-Contrast
+                                                                                                        │               ├──  ( EDU with_the_1970s_global_crisis_referred_to_as_"_stagflation_"_, )
+                                                                                                        │               └──  ( EDU but_not_a_depression_. )
+                                                                                                        └── NS:1-Elaboration
+                                                                                                            ├── NS:0-Elaboration
+                                                                                                            │   ├──  ( EDU The_only_two_eras )
+                                                                                                            │   └──  ( EDU commonly_referred_to_at_the_current_time_as_"_depressions_"_are_the_1870s_and_1930s_. )
+                                                                                                            └── NN:1-Joint
+                                                                                                                ├── NS:0-Same-Unit
+                                                                                                                │   ├──  ( EDU To_some_degree_, )
+                                                                                                                │   └── NN:0-Contrast
+                                                                                                                │       ├── NS:0-Elaboration
+                                                                                                                │       │   ├──  ( EDU this_is_simply_a_stylistic_change_,_similar_to_the_decline_in_the_use_of_"_panic_" )
+                                                                                                                │       │   └──  ( EDU to_refer_to_financial_crises_, )
+                                                                                                                │       └──  ( EDU but_it_does_also_reflect_that_the_economic_cycle_-_both_in_the_United_States_and_in_most_OECD_countries_-_though_not_in_all_-_has_been_more_moderate_since_1945_. )
+                                                                                                                └── NS:1-Elaboration
+                                                                                                                    ├── NN:0-Contrast
+                                                                                                                    │   ├── NS:0-Elaboration
+                                                                                                                    │   │   ├──  ( EDU There_have_been_many_periods_of_prolonged_economic_underperformance_in_particular_countries_/_regions_since_1945_, )
+                                                                                                                    │   │   └──  ( EDU detailed_below_, )
+                                                                                                                    │   └──  ( EDU but_terming_these_as_"_depressions_"_is_controversial_. )
+                                                                                                                    └── NN:1-Joint
+                                                                                                                        ├── NN:0-Same-Unit
+                                                                                                                        │   ├── NS:0-Elaboration
+                                                                                                                        │   │   ├──  ( EDU The_2008_-_2009_economic_cycle_, )
+                                                                                                                        │   │   └──  ( EDU which_has_comprised_the_most_significant_global_crisis_since_the_Great_Depression_, )
+                                                                                                                        │   └── SN:0-Contrast
+                                                                                                                        │       ├──  ( EDU has_at_times_been_termed_a_depression_, )
+                                                                                                                        │       └── NS:0-Elaboration
+                                                                                                                        │           ├──  ( EDU but_this_terminology_is_not_widely_used_, )
+                                                                                                                        │           └──  ( EDU with_the_episode_instead_being_referred_to_by_other_terms_,_such_as_the_"_Great_Recession_"_. )
+                                                                                                                        └── NN:1-Joint
+                                                                                                                            ├── NS:1-Elaboration
+                                                                                                                            │   ├──  ( EDU The_largest_depression_of_all_time_occurred_during_the_General_Crisis_. )
+                                                                                                                            │   └──  ( EDU The_Ming_Empire_of_China_went_bankrupt_and_the_Stuart_Monarchy_fought_a_civil_war_on_three_fronts_in_Ireland_,_Scotland_,_and_England_. )
+                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                ├── NS:0-Elaboration
+                                                                                                                                │   ├──  ( EDU Thomas_Hobbes_,_an_English_philosopher_,_created_the_first_recorded_explanation_of_the_need_for_a_universal_Social_Contract_in_his_1651_book_Leviathan )
+                                                                                                                                │   └──  ( EDU based_on_the_general_misery_within_society_during_this_period_. )
+                                                                                                                                └── NS:1-Elaboration
+                                                                                                                                    ├──  ( EDU This_depression_is_acknowledged_to_be_a_worse_depression_in_the_United_States_than_the_later_Great_Depression_of_the_1930s_. )
+                                                                                                                                    └── NN:1-Joint
+                                                                                                                                        ├──  ( EDU This_depression_ended_in_the_United_States )
+                                                                                                                                        └── NS:1-Explanation
+                                                                                                                                            ├──  ( EDU due_to_the_California_Gold_Rush_and_its_tenfold_addition_to_the_United_States'gold_reserves_. )
+                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                ├── SN:0-Contrast
+                                                                                                                                                │   ├──  ( EDU As_with_most_depressions_, )
+                                                                                                                                                │   └── NS:0-Elaboration
+                                                                                                                                                │       ├──  ( EDU it_was_followed_by_a_thirty_-_year_period_of_a_booming_economy_in_the_United_States_, )
+                                                                                                                                                │       └──  ( EDU which_is_now_called_the_Second_Industrial_Revolution_(_of_the_1850s_)_. )
+                                                                                                                                                └── NS:1-Elaboration
+                                                                                                                                                    ├── NS:0-Elaboration
+                                                                                                                                                    │   ├──  ( EDU The_Panic_of_1837_was_an_American_financial_crisis_, )
+                                                                                                                                                    │   └──  ( EDU built_on_a_speculative_real_estate_market_. )
+                                                                                                                                                    └── NN:1-Joint
+                                                                                                                                                        ├── NS:0-Background
+                                                                                                                                                        │   ├──  ( EDU The_bubble_burst_on_10_May_1837_in_New_York_City_, )
+                                                                                                                                                        │   └──  ( EDU when_every_bank_stopped_payment_in_gold_and_silver_coinage_. )
+                                                                                                                                                        └── NS:1-Elaboration
+                                                                                                                                                            ├──  ( EDU The_Panic_was_followed_by_a_five_-_year_depression_,_with_the_failure_of_banks_and_record_high_unemployment_levels_. )
+                                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                                ├── SN:1-Contrast
+                                                                                                                                                                │   ├──  ( EDU Starting_with_the_adoption_of_the_gold_standard_in_Britain_and_the_United_States_,_the_Long_Depression_(_1873_-_1896_)_was_indeed_longer_than_what_is_now_referred_to_as_the_Great_Depression_, )
+                                                                                                                                                                │   └── NS:1-Elaboration
+                                                                                                                                                                │       ├──  ( EDU but_shallower_in_some_sectors_. )
+                                                                                                                                                                │       └── NS:1-Elaboration
+                                                                                                                                                                │           ├──  ( EDU Many_who_lived_through_it_regarded_it_to_have_been_worse_than_the_1930s_depression_at_times_. )
+                                                                                                                                                                │           └──  ( EDU It_was_known_as_"_the_Great_Depression_"_until_the_1930s_. )
+                                                                                                                                                                └── NN:1-Joint
+                                                                                                                                                                    ├──  ( EDU The_Great_Depression_of_the_1930s_affected_most_national_economies_in_the_world_. )
+                                                                                                                                                                    └── NS:1-Elaboration
+                                                                                                                                                                        ├── NN:0-Joint
+                                                                                                                                                                        │   ├──  ( EDU This_depression_is_generally_considered_to_have_begun_with_the_Wall_Street_Crash_of_1929_, )
+                                                                                                                                                                        │   └──  ( EDU and_the_crisis_quickly_spread_to_other_national_economies_. )
+                                                                                                                                                                        └── NN:1-Joint
+                                                                                                                                                                            ├── NS:0-Contrast
+                                                                                                                                                                            │   ├──  ( EDU Between_1929_and_1933_,_the_gross_national_product_of_the_United_States_decreased_by_33_% )
+                                                                                                                                                                            │   └── NS:0-Contrast
+                                                                                                                                                                            │       ├──  ( EDU while_the_rate_of_unemployment_increased_to_25_%_(_with_industrial_unemployment_alone_rising_to_approximately_35_%_- )
+                                                                                                                                                                            │       └──  ( EDU U._S._employment_was_still_over_25_%_agricultural_)_. )
+                                                                                                                                                                            └── NN:1-Joint
+                                                                                                                                                                                ├── NS:0-Contrast
+                                                                                                                                                                                │   ├──  ( EDU A_long_-_term_effect_of_the_Great_Depression_was_the_departure_of_every_major_currency_from_the_gold_standard_, )
+                                                                                                                                                                                │   └──  ( EDU although_the_initial_impetus_for_this_was_World_War_II_(_see_Bretton_Woods_Accord_)_. )
+                                                                                                                                                                                └── NN:1-Joint
+                                                                                                                                                                                    ├── NS:1-Elaboration
+                                                                                                                                                                                    │   ├── NS:0-Elaboration
+                                                                                                                                                                                    │   │   ├──  ( EDU Beginning_in_2009_,_Greece_sank_into_a_recession )
+                                                                                                                                                                                    │   │   └──  ( EDU that_,_after_two_years_,_became_a_depression_. )
+                                                                                                                                                                                    │   └── NN:0-Joint
+                                                                                                                                                                                    │       ├──  ( EDU The_country_saw_an_almost_20_%_drop_in_economic_output_, )
+                                                                                                                                                                                    │       └──  ( EDU and_unemployment_soared_to_near_25_%_. )
+                                                                                                                                                                                    └── NN:1-Joint
+                                                                                                                                                                                        ├──  ( EDU Greece_'s_high_amounts_of_sovereign_debt_precipitated_the_crisis_, )
+                                                                                                                                                                                        └── NN:1-Joint
+                                                                                                                                                                                            ├── NS:0-Temporal
+                                                                                                                                                                                            │   ├──  ( EDU and_the_poor_performance_of_its_economy )
+                                                                                                                                                                                            │   └──  ( EDU after_the_introduction_of_severe_austerity_measures_slowed_the_entire_eurozone_'s_recovery_. )
+                                                                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                                                                ├──  ( EDU Greece_'s_troubles_led_to_discussions_about_its_departure_from_the_eurozone_. )
+                                                                                                                                                                                                └── NS:1-Elaboration
+                                                                                                                                                                                                    ├── NS:0-Elaboration
+                                                                                                                                                                                                    │   ├──  ( EDU The_economic_crisis_in_the_1990s )
+                                                                                                                                                                                                    │   └──  ( EDU that_struck_former_members_of_the_Soviet_Union_was_almost_twice_as_intense_as_the_Great_Depression_in_the_countries_of_Western_Europe_and_the_United_States_in_the_1930s_. )
+                                                                                                                                                                                                    └── NS:1-Elaboration
+                                                                                                                                                                                                        ├──  ( EDU Average_standards_of_living_registered_a_catastrophic_fall_in_the_early_1990s_in_many_parts_of_the_former_Eastern_Bloc_,_most_notably_in_post_-_Soviet_states_. )
+                                                                                                                                                                                                        └── NN:1-Joint
+                                                                                                                                                                                                            ├── SN:0-Contrast
+                                                                                                                                                                                                            │   ├──  ( EDU Even_before_Russia_'s_financial_crisis_of_1998_, )
+                                                                                                                                                                                                            │   └──  ( EDU Russia_'s_GDP_was_half_of_what_it_had_been_in_the_early_1990s_. )
+                                                                                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                                                                                ├── NS:0-Elaboration
+                                                                                                                                                                                                                │   ├──  ( EDU Some_populations_are_still_poorer_today_than_they_were_in_1989 )
+                                                                                                                                                                                                                │   └──  ( EDU (_e._g._Ukraine_,_Moldova_,_Serbia_,_Central_Asia_,_Caucasus_)_. )
+                                                                                                                                                                                                                └── NN:1-Contrast
+                                                                                                                                                                                                                    ├── NS:1-Elaboration
+                                                                                                                                                                                                                    │   ├── NN:0-Joint
+                                                                                                                                                                                                                    │   │   ├──  ( EDU The_collapse_of_the_Soviet_planned_economy_and_the_transition_to_a_market_economy_resulted_in_catastrophic_declines_in_GDP_of_about_45_%_from_1990_to_1996 )
+                                                                                                                                                                                                                    │   │   └──  ( EDU and_poverty_in_the_region_had_increased_more_than_tenfold_. )
+                                                                                                                                                                                                                    │   └──  ( EDU Finnish_economists_refer_to_the_Finnish_economic_decline_during_and_after_the_breakup_of_the_Soviet_Union_(_1989_-_1994_)_as_a_great_depression_(_suuri_lama_)_. )
+                                                                                                                                                                                                                    └── NS:1-Elaboration
+                                                                                                                                                                                                                        ├── NS:0-Elaboration
+                                                                                                                                                                                                                        │   ├──  ( EDU However_,_the_depression_was_multicausal_,_with_its_severity_compounded_by_a_coincidence_of_multiple_sudden_external_shocks_, )
+                                                                                                                                                                                                                        │   └── SN:0-Attribution
+                                                                                                                                                                                                                        │       ├──  ( EDU including_loss_of_Soviet_trade_,_the_savings_and_loan_crisis_and_early_1990s_recession_in_the_West_,_with_the_internal_overheating )
+                                                                                                                                                                                                                        │       └──  ( EDU that_had_been_brewing_throughout_the_1980s_. )
+                                                                                                                                                                                                                        └── NS:1-Elaboration
+                                                                                                                                                                                                                            ├──  ( EDU Liberalization_had_resulted_in_the_so_-_called_"_casino_economy_"_. )
+                                                                                                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                                                                                                ├── NS:0-Cause
+                                                                                                                                                                                                                                │   ├──  ( EDU Persistent_structural_and_monetary_policy_problems_had_not_been_solved_, )
+                                                                                                                                                                                                                                │   └──  ( EDU leaving_the_economy_vulnerable_to_even_mild_external_shocks_. )
+                                                                                                                                                                                                                                └── NS:1-Elaboration
+                                                                                                                                                                                                                                    ├── NS:0-Elaboration
+                                                                                                                                                                                                                                    │   ├──  ( EDU The_depression_had_lasting_effects_: )
+                                                                                                                                                                                                                                    │   └── NN:0-Joint
+                                                                                                                                                                                                                                    │       ├──  ( EDU the_Finnish_markka_was_floated )
+                                                                                                                                                                                                                                    │       └── NN:0-Contrast
+                                                                                                                                                                                                                                    │           ├── NS:0-Elaboration
+                                                                                                                                                                                                                                    │           │   ├──  ( EDU and_was_eventually_replaced_by_the_euro_in_1999_, )
+                                                                                                                                                                                                                                    │           │   └──  ( EDU ending_decades_of_government_control_of_the_economy_, )
+                                                                                                                                                                                                                                    │           └──  ( EDU but_also_high_,_persistent_unemployment_. )
+                                                                                                                                                                                                                                    └── NS:1-Explanation
+                                                                                                                                                                                                                                        ├──  ( EDU Employment_has_never_returned_even_close_to_the_pre_-_crisis_level_. )
+                                                                                                                                                                                                                                        └── NN:1-Textual-Organization
+                                                                                                                                                                                                                                            ├── NS:0-Elaboration
+                                                                                                                                                                                                                                            │   ├──  ( EDU The_late_1910s_and_early_1920s_were_marked_by_an_economic_depression )
+                                                                                                                                                                                                                                            │   └──  ( EDU that_unraveled_in_particularly_catastrophic_circumstances_: )
+                                                                                                                                                                                                                                            └── NN:1-Joint
+                                                                                                                                                                                                                                                ├── NS:0-Elaboration
+                                                                                                                                                                                                                                                │   ├──  ( EDU World_War_I_and_its_aftermath_led_to_a_global_nosedive_in_commodities )
+                                                                                                                                                                                                                                                │   └── NS:0-Contrast
+                                                                                                                                                                                                                                                │       ├──  ( EDU that_ruined_many_developing_nations_, )
+                                                                                                                                                                                                                                                │       └── NS:0-Contrast
+                                                                                                                                                                                                                                                │           ├──  ( EDU while_servicemen_returning_from_the_trenches_found_themselves_with_high_unemployment )
+                                                                                                                                                                                                                                                │           └── NS:0-Elaboration
+                                                                                                                                                                                                                                                │               ├──  ( EDU as_businesses_failed_, )
+                                                                                                                                                                                                                                                │               └──  ( EDU unable_to_transition_into_a_peacetime_economy_. )
+                                                                                                                                                                                                                                                └── NS:1-Elaboration
+                                                                                                                                                                                                                                                    ├── NS:0-Background
+                                                                                                                                                                                                                                                    │   ├──  ( EDU Also_,_the_Spanish_flu_pandemic_of_1918_-_20_brought_economic_activity_to_a_standstill )
+                                                                                                                                                                                                                                                    │   └──  ( EDU as_even_more_people_became_incapacitated_. )
+                                                                                                                                                                                                                                                    └── NN:1-Textual-Organization
+                                                                                                                                                                                                                                                        ├──  ( EDU Most_developed_countries_had_mostly_recovered_by_1921_-_22_, )
+                                                                                                                                                                                                                                                        └── NS:1-Elaboration
+                                                                                                                                                                                                                                                            ├──  ( EDU however_Germany_saw_its_economy_crippled_until_1923_-_24_because_of_the_hyperinflation_crisis_. )
+                                                                                                                                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                ├── NS:0-Elaboration
+                                                                                                                                                                                                                                                                │   ├──  ( EDU The_1973_oil_crisis_, )
+                                                                                                                                                                                                                                                                │   └── NS:0-Background
+                                                                                                                                                                                                                                                                │       ├──  ( EDU coupled_with_the_rising_costs_of_maintenance_of_welfare_state_in_most_countries_led_to_a_recession_between_1973_and_1975_, )
+                                                                                                                                                                                                                                                                │       └──  ( EDU followed_by_a_period_of_almost_minimal_growth_and_rising_inflation_and_unemployment_. )
+                                                                                                                                                                                                                                                                └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                    ├──  ( EDU The_1980_-_82_recession_marked_the_end_of_the_period_. )
+                                                                                                                                                                                                                                                                    └── NN:1-Joint
+                                                                                                                                                                                                                                                                        ├── NS:0-Elaboration
+                                                                                                                                                                                                                                                                        │   ├──  ( EDU The_savings_&_loans_and_the_leveraged_buyout_crises_led_to_a_severe_depression_in_mid_-_to_-_late_1989_, )
+                                                                                                                                                                                                                                                                        │   └── NS:0-Elaboration
+                                                                                                                                                                                                                                                                        │       ├──  ( EDU causing_a_recession_in_1990_-_91_(_also_fueled_by_the_oil_price_crisis_)_, )
+                                                                                                                                                                                                                                                                        │       └──  ( EDU whose_effects_lasted_as_late_as_1994_. )
+                                                                                                                                                                                                                                                                        └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                            ├──  ( EDU This_downturn_is_more_remembered_for_its_political_effects_: )
+                                                                                                                                                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                                ├── NN:0-Joint
+                                                                                                                                                                                                                                                                                │   ├──  ( EDU British_Prime_Minister_Margaret_Thatcher_had_to_resign_in_November_1990_; )
+                                                                                                                                                                                                                                                                                │   └── SN:0-Same-Unit
+                                                                                                                                                                                                                                                                                │       ├──  ( EDU and_while_his_approval_ratings_were_above_60_%_, )
+                                                                                                                                                                                                                                                                                │       └── NS:0-Cause
+                                                                                                                                                                                                                                                                                │           ├──  ( EDU U._S._President_George_H._W._Bush_lost_the_1992_election_to_Bill_Clinton )
+                                                                                                                                                                                                                                                                                │           └── NS:0-Elaboration
+                                                                                                                                                                                                                                                                                │               ├──  ( EDU because_of_the_domestic_malady )
+                                                                                                                                                                                                                                                                                │               └──  ( EDU marked_by_the_depression_and_increasing_urban_decay_. )
+                                                                                                                                                                                                                                                                                └── NN:1-Joint
+                                                                                                                                                                                                                                                                                    ├── NS:0-Elaboration
+                                                                                                                                                                                                                                                                                    │   ├──  ( EDU In_2005_,_the_persistent_oil_price_rises_and_economic_overheating )
+                                                                                                                                                                                                                                                                                    │   └── SN:0-Elaboration
+                                                                                                                                                                                                                                                                                    │       ├── NS:0-Background
+                                                                                                                                                                                                                                                                                    │       │   ├──  ( EDU caused_by_deregulation_led_to_a_gradual_deterioration_of_the_world_economy_with_inflation_and_unemployment_rising )
+                                                                                                                                                                                                                                                                                    │       │   └──  ( EDU as_growth_slowed_: )
+                                                                                                                                                                                                                                                                                    │       └── NN:0-Joint
+                                                                                                                                                                                                                                                                                    │           ├──  ( EDU The_housing_bubble_in_the_U._S._burst_in_2007_, )
+                                                                                                                                                                                                                                                                                    │           └──  ( EDU and_the_American_economy_slipped_into_a_recession_. )
+                                                                                                                                                                                                                                                                                    └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                                        ├── NS:0-Elaboration
+                                                                                                                                                                                                                                                                                        │   ├──  ( EDU This_,_in_turn_,_provoked_the_failure_of_many_prominent_financial_institutions_throughout_2008_,_most_notably_Lehman_Brothers_, )
+                                                                                                                                                                                                                                                                                        │   └──  ( EDU leading_to_the_loss_of_millions_of_jobs_. )
+                                                                                                                                                                                                                                                                                        └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                                            ├──  ( EDU Several_Latin_American_countries_had_severe_downturns_in_the_1980s_: )
+                                                                                                                                                                                                                                                                                            └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                                                ├── NN:0-Same-Unit
+                                                                                                                                                                                                                                                                                                │   ├── NS:0-Elaboration
+                                                                                                                                                                                                                                                                                                │   │   ├──  ( EDU by_the_Kehoe_and_Prescott_definition_of_a_great_depression_as_at_least_one_year )
+                                                                                                                                                                                                                                                                                                │   │   └──  ( EDU with_output_20_%_below_trend_, )
+                                                                                                                                                                                                                                                                                                │   └── NN:0-Joint
+                                                                                                                                                                                                                                                                                                │       ├──  ( EDU Argentina_,_Brazil_,_Chile_,_Mexico_,_and_Peru_experienced_great_depressions_in_the_1980s_, )
+                                                                                                                                                                                                                                                                                                │       └──  ( EDU and_Argentina_experienced_another_between_1998_and_2002_. )
+                                                                                                                                                                                                                                                                                                └── NN:1-Joint
+                                                                                                                                                                                                                                                                                                    ├──  ( EDU South_American_countries_fell_once_again_into_this_in_the_early_-_to_-_mid_2010s_. )
+                                                                                                                                                                                                                                                                                                    └── NS:1-Elaboration
+                                                                                                                                                                                                                                                                                                        ├── NS:0-Contrast
+                                                                                                                                                                                                                                                                                                        │   ├──  ( EDU This_definition_also_includes_the_economic_performance_of_New_Zealand_from_1974_to_1992_and_Switzerland_from_1973_to_the_present_, )
+                                                                                                                                                                                                                                                                                                        │   └──  ( EDU although_this_designation_for_Switzerland_has_been_controversial_. )
+                                                                                                                                                                                                                                                                                                        └──  ( EDU From_1980_to_2000_,_Sub_-_Saharan_Africa_broadly_suffered_a_fall_in_absolute_income_levels_. )

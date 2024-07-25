@@ -1,0 +1,67 @@
+[Answerability]
+Question 1: 4/5
+Question 2: 2/5  This answer refers to the Panic of 1837, not the Great Depression.
+Question 3: 3/5  The answer mentions some signs of economic difficulty but doesn't directly connect them to financial crisis.
+Question 4: 4/5
+Question 5: 5/5
+Question 6: 3/5  It mentions a difference but not the specific difference between the Long Depression and the Great Depression of the 1930s.
+Question 7: 2/5  The answer talks about how the 2008-2009 crisis is not widely referred to as a depression. It doesn't say how it's referred to.
+Question 8: 4/5
+Question 9: 3/5  It mentions the difference in duration definitions but doesn't explicitly say how they are different.
+Question 10: 4/5
+Question 11: 1/5  The answer talks about what happened after the Great Depression, not to the US itself.
+Question 12: 2/5  This answer refers to the Panic of 1837, not the Great Depression.
+Question 13: 4/5
+Question 14: 3/5  It partially defines a recession but doesn't mention economic activity.
+Question 15: 3/5  It mentions a slowdown in economic activity but not within the context of a normal business cycle.
+
+[Clarity]
+Question 1: 4/5
+Question 2: 2/5  This answer refers to the Panic of 1837, not the Great Depression.
+Question 3: 3/5  It mentions some signs of economic difficulty but doesn't directly connect them to financial crisis.
+Question 4: 4/5
+Question 5: 5/5
+Question 6: 2/5  It mentions a difference but not the specific difference between the Long Depression and the Great Depression of the 1930s.
+Question 7: 2/5  The answer talks about how the 2008-2009 crisis is not widely referred to as a depression. It doesn't say how it's referred to.
+Question 8: 4/5
+Question 9: 3/5  It mentions the difference in duration definitions but doesn't explicitly say how they are different.
+Question 10: 4/5
+Question 11: 1/5  The answer talks about what happened after the Great Depression, not to the US itself.
+Question 12: 2/5  This answer refers to the Panic of 1837, not the Great Depression.
+Question 13: 4/5
+Question 14: 3/5  It partially defines a recession but doesn't mention economic activity.
+Question 15: 3/5  It mentions a slowdown in economic activity but not within the context of a normal business cycle.
+
+[Relevance]
+Question 1: 4/5  This question asks about a specific event mentioned in the context, the Greek economic crisis.
+Question 2: 2/5  This question talks about the Panic of 1837, not the Great Depression. It's not entirely irrelevant, but not directly related.
+Question 3: 3/5  This question asks about reasons behind economic difficulties, which is related to economic depression.
+Question 4: 4/5  This question is about the historical use of the term "depression".
+Question 5: 5/5  This question refers to a specific detail about the Great Depression mentioned in the context.
+Question 6: 3/5  This question asks about the difference between the Long Depression and the Great Depression, both mentioned in the context. It's partially relevant.
+Question 7: 4/5  This question refers to how the 2008 crisis is referred to, which is mentioned in the context.
+Question 8: 4/5  This question asks about economic cycles after WWII, which is mentioned in the context.
+Question 9: 4/5  This question asks about the difference in how recessions are defined, based on the information in the context.
+Question 10: 4/5  This question asks about a way to identify an economic depression based on the context.
+Question 11: 1/5  This question asks about what happened after the Great Depression, not to the US itself.
+Question 12: 2/5  This question refers to the Panic of 1837, not the Great Depression. It's not entirely irrelevant, but not directly related.
+Question 13: 4/5  This question asks about what happened to the living standards of former Soviet Union members, which is mentioned in the context.
+Question 14: 3/5  This question asks about a part of the definition of a recession, based on the context.
+Question 15: 3/5  This question asks about a normal business cycle, which is mentioned in the context to differentiate it from a recession.
+
+[Difficulty]
+Question 1: 3/5  This question requires reading comprehension and some analysis of the passage to find the specific reason for Greece's economic suffering.
+Question 2: 2/5  This question asks about a different event (Panic of 1837) but mentions a related detail (depression). It requires some basic recall of the passage.
+Question 3: 2/5  This question asks about general reasons for economic difficulty, and the passage mentions some reasons. It requires factual recall.
+Question 4: 4/5  This question asks for analysis of why a term is used and requires understanding the historical context provided in the passage.
+Question 5: 3/5  This question requires reading comprehension to find the specific details about unemployment rates.
+Question 6: 3/5  This question requires understanding a comparison made in the passage between the Long Depression and the Great Depression.
+Question 7: 3/5  This question requires understanding how the 2008 crisis is referred to in the passage.
+Question 8: 4/5  This question requires making an inference based on information about economic cycles in the passage.
+Question 9: 4/5  This question requires understanding the different definitions for the duration of a recession based on the passage.
+Question 10: 4/5  This question requires understanding a technical definition for a depression based on the passage.
+Question 11: 1/5  This question asks about something that happened after the Great Depression but not to the US itself. It's a stray detail.
+Question 12: 1/5  This question is about the Panic of 1837, not the Great Depression. It's a stray detail.
+Question 13: 4/5  This question requires understanding a specific detail about the former Soviet Union mentioned in the context of economic depression.
+Question 14: 3/5  This question asks about part of the definition of a recession, based on the context provided.
+Question 15: 3/5  This question asks about a normal business cycle, which is mentioned in the context to differentiate it from a recession.

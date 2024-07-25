@@ -1,0 +1,279 @@
+NS:1-Background
+├── NS:0-Elaboration
+│   ├──  ( EDU Social_anxiety_is_the_anxiety_and_fear_specifically_linked_to_being_in_social_settings )
+│   └──  ( EDU (_i._e._,_interacting_with_others_)_. )
+└── NS:1-Elaboration
+    ├──  ( EDU Some_categories_of_disorders_associated_with_social_anxiety_include_anxiety_disorders_,_mood_disorders_,_autism_spectrum_disorders_,_eating_disorders_,_and_substance_use_disorders_. )
+    └── NN:1-Joint
+        ├── NN:0-Joint
+        │   ├──  ( EDU Individuals_with_higher_levels_of_social_anxiety_often_avert_their_gazes_,_show_fewer_facial_expressions_, )
+        │   └──  ( EDU and_show_difficulty_with_initiating_and_maintaining_a_conversation_. )
+        └── NN:1-Joint
+            ├── SN:0-Elaboration
+            │   ├── NN:0-Joint
+            │   │   ├──  ( EDU Social_anxiety_commonly_manifests_itself_in_the_teenage_years )
+            │   │   └──  ( EDU and_can_be_persistent_throughout_life_; )
+            │   └── NS:0-Elaboration
+            │       ├──  ( EDU however_,_people )
+            │       └──  ( EDU who_experience_problems_in_their_daily_functioning_for_an_extended_period_of_time_can_develop_social_anxiety_disorder_. )
+            └── NN:1-Joint
+                ├── NN:0-Same-Unit
+                │   ├── NS:0-Elaboration
+                │   │   ├──  ( EDU Trait_social_anxiety_, )
+                │   │   └──  ( EDU the_stable_tendency_to_experience_this_anxiety_, )
+                │   └──  ( EDU can_be_distinguished_from_state_anxiety_,_the_momentary_response_to_a_particular_social_stimulus_. )
+                └── NN:1-Joint
+                    ├── NN:1-Joint
+                    │   ├── NS:1-Elaboration
+                    │   │   ├──  ( EDU Half_of_the_individuals_with_any_social_fears_meet_the_criteria_for_social_anxiety_disorder_. )
+                    │   │   └──  ( EDU Age_,_culture_,_and_gender_impact_the_severity_of_this_disorder_. )
+                    │   └── NN:0-Joint
+                    │       ├──  ( EDU The_function_of_social_anxiety_is_to_increase_arousal_and_attention_to_social_interactions_,_inhibit_unwanted_social_behavior_, )
+                    │       └──  ( EDU and_motivate_preparation_for_future_social_situations_. )
+                    └── NN:1-Joint
+                        ├── NS:1-Elaboration
+                        │   ├── NS:0-Same-Unit
+                        │   │   ├──  ( EDU DisorderSocial_anxiety_disorder_(_SAD_)_, )
+                        │   │   └── NS:0-Elaboration
+                        │   │       ├──  ( EDU also_known_as_social_phobia_,_is_an_anxiety_disorder_characterized_by_a_significant_amount_of_fear_in_one_or_more_social_situations )
+                        │   │       └──  ( EDU causing_considerable_distress_and_impaired_ability_to_function_in_at_least_some_parts_of_daily_life_. )
+                        │   └──  ( EDU These_fears_can_be_triggered_by_perceived_or_actual_scrutiny_from_others_. )
+                        └── NN:1-Joint
+                            ├── NN:1-Joint
+                            │   ├── NS:1-Background
+                            │   │   ├──  ( EDU Social_anxiety_disorder_affects_8_%_of_women_and_6_._1_%_of_men_. )
+                            │   │   └── NN:1-Joint
+                            │   │       ├── NS:1-Elaboration
+                            │   │       │   ├──  ( EDU In_the_United_States_,_anxiety_disorders_are_the_most_common_mental_illness_. )
+                            │   │       │   └──  ( EDU They_affect_40_million_adults_,_ages_18_and_older_. )
+                            │   │       └── NN:1-Joint
+                            │   │           ├── NN:0-Joint
+                            │   │           │   ├──  ( EDU Anxiety_can_come_in_different_forms )
+                            │   │           │   └── NS:0-Elaboration
+                            │   │           │       ├──  ( EDU and_panic_attacks_can_lead_to_panic_disorders )
+                            │   │           │       └──  ( EDU which_is_the_recurrence_of_unexpected_panic_attacks_. )
+                            │   │           └── NN:1-Joint
+                            │   │               ├──  ( EDU Other_related_anxiety_disorders_include_social_anxiety_disorder_,_generalized_anxiety_disorder_,_obsessive_compulsive_disorder_(_OCD_)_,_various_types_of_phobias_,_and_post_traumatic_stress_disorder_(_PTSD_)_. )
+                            │   │               └── NN:0-Joint
+                            │   │                   ├──  ( EDU Fortunately_,_it_is_highly_treatable )
+                            │   │                   └──  ( EDU and_not_everyone_needs_the_treatment_. )
+                            │   └── NN:1-Joint
+                            │       ├── NS:1-Elaboration
+                            │       │   ├──  ( EDU Physical_symptoms_often_include_excessive_blushing_,_excess_sweating_,_trembling_,_palpitations_,_and_nausea_. )
+                            │       │   └── NN:1-Joint
+                            │       │       ├── NS:0-Joint
+                            │       │       │   ├──  ( EDU Stammering_may_be_present_, )
+                            │       │       │   └──  ( EDU along_with_rapid_speech_. )
+                            │       │       └──  ( EDU Panic_attacks_can_also_occur_under_intense_fear_and_discomfort_. )
+                            │       └── NS:1-Elaboration
+                            │           ├── NS:1-Elaboration
+                            │           │   ├── SN:1-Background
+                            │           │   │   ├── NS:0-Enablement
+                            │           │   │   │   ├──  ( EDU Some_sufferers_may_use_alcohol_or_other_drugs )
+                            │           │   │   │   └──  ( EDU to_reduce_fears_and_inhibitions_at_social_events_. )
+                            │           │   │   └── NS:1-Elaboration
+                            │           │   │       ├── NN:0-Explanation
+                            │           │   │       │   ├── NS:0-Explanation
+                            │           │   │       │   │   ├── NS:0-Elaboration
+                            │           │   │       │   │   │   ├──  ( EDU It_is_common_for_sufferers_of_social_phobia )
+                            │           │   │       │   │   │   └──  ( EDU to_self_-_medicate_in_this_fashion_, )
+                            │           │   │       │   │   └──  ( EDU especially_if_they_are_undiagnosed_,_untreated_,_or_both_; )
+                            │           │   │       │   └──  ( EDU this_can_lead_to_alcoholism_,_eating_disorders_or_other_kinds_of_substance_abuse_. )
+                            │           │   │       └── SN:0-Elaboration
+                            │           │   │           ├──  ( EDU SAD_is_sometimes_referred_to_as_an_"_illness_of_lost_opportunities_" )
+                            │           │   │           └── NS:0-Enablement
+                            │           │   │               ├──  ( EDU where_"_individuals_make_major_life_choices )
+                            │           │   │               └──  ( EDU to_accommodate_their_illness_"_. )
+                            │           │   └── NN:0-Joint
+                            │           │       ├──  ( EDU According_to_ICD_-_10_guidelines_,_the_main_diagnostic_criteria_of_social_anxiety_disorder_are_fear_of_being_the_focus_of_attention_, )
+                            │           │       └── NS:0-Elaboration
+                            │           │           ├── NS:0-Elaboration
+                            │           │           │   ├──  ( EDU or_fear_of_behaving_in_a_way )
+                            │           │           │   └──  ( EDU that_will_be_embarrassing_or_humiliating_, )
+                            │           │           └──  ( EDU often_coupled_with_avoidance_and_anxiety_symptoms_. )
+                            │           └── NS:0-Enablement
+                            │               ├──  ( EDU Standardized_rating_scales_can_be_used )
+                            │               └── NN:0-Joint
+                            │                   ├──  ( EDU to_screen_for_social_anxiety_disorder )
+                            │                   └──  ( EDU and_measure_the_severity_of_anxiety_. )
+                            └── NN:1-Joint
+                                ├── NS:1-Elaboration
+                                │   ├── NN:1-Joint
+                                │   │   ├── NS:1-Elaboration
+                                │   │   │   ├──  ( EDU Child_developmentSome_feelings_of_anxiety_in_social_situations_are_normal_and_necessary_for_effective_social_functioning_and_developmental_growth_. )
+                                │   │   │   └──  ( EDU The_difficulty_with_identifying_social_anxiety_disorder_in_children_lies_in_determining_the_difference_between_social_anxiety_and_basic_shyness_. )
+                                │   │   └── NS:0-Background
+                                │   │       ├──  ( EDU Typically_,_children_may_be_diagnosed )
+                                │   │       └── NN:0-Joint
+                                │   │           ├──  ( EDU when_their_social_fears_are_extreme )
+                                │   │           └──  ( EDU or_can_not_be_outgrown_. )
+                                │   └──  ( EDU Cognitive_advances_and_increased_pressures_in_late_childhood_and_early_adolescence_result_in_repeated_social_anxiety_. )
+                                └── NN:1-Joint
+                                    ├── NN:0-Joint
+                                    │   ├──  ( EDU More_and_more_children_are_being_diagnosed_with_social_anxiety_, )
+                                    │   └── NS:0-Condition
+                                    │       ├──  ( EDU and_this_can_lead_to_problems_with_education )
+                                    │       └──  ( EDU if_not_closely_monitored_. )
+                                    └── NN:1-Joint
+                                        ├── NN:0-Joint
+                                        │   ├──  ( EDU Part_of_social_anxiety_is_fear_of_being_criticized_by_others_, )
+                                        │   └──  ( EDU and_in_children_,_social_anxiety_causes_extreme_distress_over_everyday_activities_such_as_playing_with_other_kids_,_reading_in_class_,_or_speaking_to_adults_. )
+                                        └── NS:1-Elaboration
+                                            ├── NS:1-Elaboration
+                                            │   ├── NN:0-Joint
+                                            │   │   ├── NS:0-Explanation
+                                            │   │   │   ├──  ( EDU Some_children_with_social_anxiety_may_act_out )
+                                            │   │   │   └──  ( EDU because_of_their_fear_, )
+                                            │   │   └── NS:0-Elaboration
+                                            │   │       ├──  ( EDU or_they_may_exhibit_nervousness_or_crying_in_an_event )
+                                            │   │       └──  ( EDU where_they_feel_anxious_. )
+                                            │   └── NN:1-Joint
+                                            │       ├── NN:1-Joint
+                                            │       │   ├── NS:0-Elaboration
+                                            │       │   │   ├──  ( EDU Adolescents_have_identified_their_most_common_anxieties_as_focused_on_relationships_with_peers )
+                                            │       │   │   └──  ( EDU to_whom_they_are_attracted_,_peer_rejection_,_public_speaking_,_blushing_,_self_-_consciousness_,_panic_,_and_past_behavior_. )
+                                            │       │   └── NN:0-Joint
+                                            │       │       ├──  ( EDU Most_adolescents_progress_through_their_fears )
+                                            │       │       └──  ( EDU and_meet_the_developmental_demands_placed_on_them_. )
+                                            │       └── NN:1-Joint
+                                            │           ├── NS:0-Explanation
+                                            │           │   ├──  ( EDU AdultsIt_can_be_easier_to_identify_social_anxiety_within_adults )
+                                            │           │   └── NN:0-Joint
+                                            │           │       ├──  ( EDU because_they_tend_to_shy_away_from_any_social_situation )
+                                            │           │       └──  ( EDU and_keep_to_themselves_. )
+                                            │           └── NN:1-Joint
+                                            │               ├── NS:1-Elaboration
+                                            │               │   ├──  ( EDU Common_adult_forms_of_social_anxiety_include_performance_anxiety_,_public_speaking_anxiety_,_stage_fright_,_and_timidness_. )
+                                            │               │   └── NS:1-Elaboration
+                                            │               │       ├── NS:0-Elaboration
+                                            │               │       │   ├──  ( EDU All_of_these_may_also_assume_clinical_forms_, )
+                                            │               │       │   └── NS:0-Elaboration
+                                            │               │       │       ├──  ( EDU i._e._,_become_anxiety_disorders )
+                                            │               │       │       └──  ( EDU (_see_below_)_. )
+                                            │               │       └── NS:0-Elaboration
+                                            │               │           ├──  ( EDU Criteria )
+                                            │               │           └── NN:0-Same-Unit
+                                            │               │               ├── NS:0-Elaboration
+                                            │               │               │   ├──  ( EDU that_distinguish_between_clinical_and_nonclinical_forms_of_social_anxiety_include_the_intensity_and_level_of_behavioral_and_psychosomatic_disruption )
+                                            │               │               │   └──  ( EDU (_discomfort_) )
+                                            │               │               └──  ( EDU in_addition_to_the_anticipatory_nature_of_the_fear_. )
+                                            │               └── NS:1-Elaboration
+                                            │                   ├── NS:1-Elaboration
+                                            │                   │   ├──  ( EDU Social_anxieties_may_also_be_classified_according_to_the_broadness_of_triggering_social_situations_. )
+                                            │                   │   └── NN:0-Same-Unit
+                                            │                   │       ├── NS:0-Elaboration
+                                            │                   │       │   ├──  ( EDU For_example_,_fear_of_eating_in_public_has_a_very_narrow_situational_scope )
+                                            │                   │       │   └──  ( EDU (_eating_in_public_)_, )
+                                            │                   │       └──  ( EDU while_shyness_may_have_a_wide_scope_(_a_person_may_be_shy_of_doing_many_things_in_various_circumstances_)_. )
+                                            │                   └── NS:1-Elaboration
+                                            │                       ├── NS:1-Elaboration
+                                            │                       │   ├──  ( EDU The_clinical_(_disorder_)_forms_are_also_divided_into_general_social_phobia_(_i._e._,_social_anxiety_disorder_)_and_specific_social_phobia_. )
+                                            │                       │   └── NN:0-Joint
+                                            │                       │       ├──  ( EDU Blushing_is_a_physiological_response_unique_to_humans )
+                                            │                       │       └──  ( EDU and_is_a_hallmark_physiological_response_associated_with_social_anxiety_. )
+                                            │                       └── NS:1-Elaboration
+                                            │                           ├──  ( EDU Blushing_is_the_involuntary_reddening_of_the_face_,_neck_,_and_chest_in_reaction_to_evaluation_or_social_attention_. )
+                                            │                           └──  ( EDU Blushing_occurs_not_only_in_response_to_feelings_of_embarrassment_but_also_other_socially_-_oriented_emotions_such_as_shame_,_guilt_,_shyness_,_and_pride_. )
+                                            └── NS:1-Elaboration
+                                                ├── NS:0-Elaboration
+                                                │   ├──  ( EDU Individuals_high_in_social_anxiety_perceive_themselves_as_blushing_more_than_those )
+                                                │   └──  ( EDU who_are_low_in_social_anxiety_. )
+                                                └── NS:1-Elaboration
+                                                    ├──  ( EDU Three_types_of_blushing_can_be_measured_:_self_-_perceived_blushing_(_how_much_the_individual_believes_they_are_blushing_)_,_physiological_blushing_(_blushing_as_measured_by_physiological_indices_)_,_and_observed_blushing_(_blushing_observed_by_others_)_. )
+                                                    └── NN:1-Joint
+                                                        ├── NS:1-Elaboration
+                                                        │   ├── NN:0-Elaboration
+                                                        │   │   ├──  ( EDU Social_anxiety_is_strongly_associated_with_self_-_perceived_blushing_, )
+                                                        │   │   └── NN:0-Joint
+                                                        │   │       ├──  ( EDU weakly_associated_with_blushing_as_measured_by_physiological_indices_such_as_temperature_and_blood_flow_to_the_cheeks_and_forehead_, )
+                                                        │   │       └──  ( EDU and_moderately_associated_with_observed_blushing_. )
+                                                        │   └── NS:1-Elaboration
+                                                        │       ├── NS:0-Elaboration
+                                                        │       │   ├──  ( EDU The_relationship_between_physiological_blushing_and_self_-_perceived_blushing_is_small_among_those_high_in_social_anxiety_, )
+                                                        │       │   └──  ( EDU indicating_that_individuals_with_high_social_anxiety_may_overestimate_their_blushing_. )
+                                                        │       └── NN:0-Same-Unit
+                                                        │           ├──  ( EDU That_social_anxiety_is_associated_most_strongly_with_self_-_perceived_blushing )
+                                                        │           └── NS:0-Elaboration
+                                                        │               ├──  ( EDU is_also_important_for_cognitive_models_of_blushing_and_social_anxiety_, )
+                                                        │               └── NS:0-Enablement
+                                                        │                   ├──  ( EDU indicating_that_socially_anxious_individuals_use_both_internal_cues_and_other_types_of_information )
+                                                        │                   └──  ( EDU to_draw_conclusions_about_how_they_are_coming_across_. )
+                                                        └── NN:1-Joint
+                                                            ├──  ( EDU Individuals_with_social_anxiety_might_also_refrain_from_making_eye_contact_,_or_constantly_fiddling_with_things_during_conversations_or_public_speaking_. )
+                                                            └── NN:1-Joint
+                                                                ├── NS:0-Elaboration
+                                                                │   ├──  ( EDU Other_indicators_are_physical_symptoms )
+                                                                │   └── NS:0-Elaboration
+                                                                │       ├──  ( EDU which_may_include_rapid_heartbeat_,_muscle_tension_,_dizziness_and_lightheadedness_,_stomach_trouble_and_diarrhea_, )
+                                                                │       └──  ( EDU unable_to_catch_a_breath_,_and_-_out_of_body_-_sensation_. )
+                                                                └── NS:1-Elaboration
+                                                                    ├── NN:0-Same-Unit
+                                                                    │   ├── NS:0-Elaboration
+                                                                    │   │   ├──  ( EDU Attention_bias )
+                                                                    │   │   └── NS:0-Elaboration
+                                                                    │   │       ├──  ( EDU ##_Individuals )
+                                                                    │   │       └──  ( EDU who_tend_to_experience_more_social_anxiety_turn_their_attention_away_from_threatening_social_information_and_toward_themselves_, )
+                                                                    │   └──  ( EDU prohibiting_themselves_from_challenging_negative_expectations_about_others_and_maintaining_high_levels_of_social_anxiety_. )
+                                                                    └── NS:1-Elaboration
+                                                                        ├── NN:0-Joint
+                                                                        │   ├──  ( EDU For_example_,_a_socially_anxious_individual_may_perceive_rejection_from_a_conversational_partner_,_turn_their_attention_away_, )
+                                                                        │   └── SN:0-Attribution
+                                                                        │       ├──  ( EDU and_never_learn )
+                                                                        │       └──  ( EDU that_the_individual_is_actually_welcoming_. )
+                                                                        └── NS:1-Elaboration
+                                                                            ├── NS:0-Same-Unit
+                                                                            │   ├── NS:0-Background
+                                                                            │   │   ├──  ( EDU Individuals_who_are_high_in_social_anxiety_tend_to_show_increased_initial_attention_toward_negative_social_cues_,_such_as_threatening_faces_, )
+                                                                            │   │   └──  ( EDU followed_by_attention_away_from_these_social_cues_, )
+                                                                            │   └── NS:0-Elaboration
+                                                                            │       ├──  ( EDU indicating_a_pattern_of_hypervigilance )
+                                                                            │       └──  ( EDU followed_by_avoidance_. )
+                                                                            └── NS:1-Elaboration
+                                                                                ├── NS:1-Elaboration
+                                                                                │   ├── NS:0-Elaboration
+                                                                                │   │   ├──  ( EDU Attention_in_social_anxiety_has_been_measured_using_the_dot_-_probe_paradigm_, )
+                                                                                │   │   └──  ( EDU which_presents_two_faces_next_to_one_another_. )
+                                                                                │   └── NS:1-Elaboration
+                                                                                │       ├── NN:0-Joint
+                                                                                │       │   ├──  ( EDU One_face_has_an_emotional_expression_and_the_other_has_a_neutral_expression_, )
+                                                                                │       │   └── SN:0-Same-Unit
+                                                                                │       │       ├──  ( EDU and_when_the_faces_disappear_, )
+                                                                                │       │       └──  ( EDU a_probe_appears_in_the_location_of_one_of_the_faces_. )
+                                                                                │       └──  ( EDU This_creates_a_congruent_condition_in_which_the_probe_appears_in_the_same_location_as_the_emotional_face_and_an_incongruent_condition_. )
+                                                                                └── NS:1-Elaboration
+                                                                                    ├── NS:0-Manner-Means
+                                                                                    │   ├──  ( EDU Participants_respond_to_the_probe )
+                                                                                    │   └── NN:0-Joint
+                                                                                    │       ├──  ( EDU by_pressing_a_button )
+                                                                                    │       └──  ( EDU and_differences_in_reaction_times_reveal_attentional_biases_. )
+                                                                                    └── NS:1-Elaboration
+                                                                                        ├── NS:0-Elaboration
+                                                                                        │   ├──  ( EDU This_task_has_produced_mixed_results_, )
+                                                                                        │   └── NN:0-Joint
+                                                                                        │       ├──  ( EDU with_some_studies_finding_no_differences_between_socially_-_anxious_individuals_and_controls_, )
+                                                                                        │       └── NN:0-Joint
+                                                                                        │           ├──  ( EDU some_studies_finding_avoidance_of_all_faces_by_socially_-_anxious_individuals_, )
+                                                                                        │           └──  ( EDU and_other_studies_finding_vigilance_by_socially_-_anxious_individuals_only_toward_threat_faces_. )
+                                                                                        └── NS:1-Elaboration
+                                                                                            ├── SN:0-Attribution
+                                                                                            │   ├──  ( EDU The_Face_-_in_-_the_-_crowd_task_shows )
+                                                                                            │   └── NN:0-Joint
+                                                                                            │       ├──  ( EDU that_individuals_with_social_anxiety_are_faster_at_detecting_an_angry_face_in_a_predominantly_neutral_or_positive_crowd )
+                                                                                            │       └──  ( EDU or_slower_at_detecting_happy_faces_than_a_non_-_anxious_person_. )
+                                                                                            └── NN:1-Contrast
+                                                                                                ├──  ( EDU Focus_on_the_self_has_been_associated_with_increased_social_anxiety_and_negative_affect_. )
+                                                                                                └── NN:1-Joint
+                                                                                                    ├── NS:1-Elaboration
+                                                                                                    │   ├──  ( EDU However_,_there_are_two_types_of_self_-_focus_:_public_and_private_. )
+                                                                                                    │   └── NS:1-Elaboration
+                                                                                                    │       ├── SN:0-Elaboration
+                                                                                                    │       │   ├──  ( EDU In_public_self_-_focus_, )
+                                                                                                    │       │   └──  ( EDU one_shows_concern_for_the_impact_of_one_'s_own_actions_on_others_and_their_impressions_. )
+                                                                                                    │       └──  ( EDU This_type_of_self_-_focus_predicts_greater_social_anxiety_. )
+                                                                                                    └── NS:1-Elaboration
+                                                                                                        ├── NS:1-Elaboration
+                                                                                                        │   ├──  ( EDU Other_more_private_forms_of_self_-_consciousness_(_e._g._,_egocentric_goals_)_are_associated_with_other_types_of_negative_affect_. )
+                                                                                                        │   └── SN:0-Attribution
+                                                                                                        │       ├──  ( EDU Basic_science_research_suggests )
+                                                                                                        │       └──  ( EDU that_cognitive_biases_can_be_modified_. )
+                                                                                                        └──  ( EDU Attention_bias_modification_training_has_been_shown_to_temporarily_impact_social_anxiety_. )

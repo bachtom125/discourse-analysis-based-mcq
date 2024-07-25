@@ -1,0 +1,4 @@
+models/   
+*/.venv
+datasets/
+discourse_parser/CoreNLP/

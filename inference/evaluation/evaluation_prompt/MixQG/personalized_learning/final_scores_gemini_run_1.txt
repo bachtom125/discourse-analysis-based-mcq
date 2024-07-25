@@ -1,0 +1,123 @@
+[Answerability]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 4/5  (Buckley defined the spectrum, not necessarily personalized learning itself)
+Question 5: 3/5  (Question asks for the meaning, but passage provides different perspectives on the definition)
+Question 6: 3/5  (Similar to question 5)
+Question 7: 5/5
+Question 8: 4/5  (Pace of learning is mentioned in the definition of personalized learning, but the passage doesn't explicitly say it's optimized)
+Question 9: 4/5  (Mentioned as a characteristic of personalized learning)
+Question 10: 5/5
+Question 11: 2/5  (ICT is defined, but not the main focus of the passage)
+Question 12: 4/5  (The passage talks about the echo chamber effect in personalized learning, but doesn't directly link it to hyper-personalized online experiences)
+Question 13: 4/5  (Proponents are mentioned, but not explicitly stated that they use this term)
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 5/5
+Question 17: 2/5  (The passage uses double digit addition as an example for ZPD, but doesn't say it's the highest level the student can't reach)
+Question 18: 5/5
+Question 19: 3/5  (The passage mentions research, decide, and teach, but doesn't explicitly say these are the only components)
+Question 20: 4/5  (Adding record is mentioned as a modification to the original model)
+Question 21: 4/5  (Javaye Devette Stubbs's research is mentioned, but the passage doesn't specify her observing a specific group)
+Question 22: 2/5  (The passage says students with reading difficulties showed gains, but doesn't specify ELLs)
+Question 23: 5/5
+Question 24: 5/5
+Question 25: 5/5
+Question 26: 3/5  (Kohn's argument is about a potential negative consequence, not the main definition)
+Question 27: 5/5
+Question 28: 3/5  (The passage mentions vulnerable populations, but doesn't say they are the only ones who benefit)
+Question 29: 4/5  (Teacher perception is mentioned as a way to assess effectiveness)
+
+[Clarity]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 5/5
+Question 5: 4/5  (Asks for the meaning, but the passage provides different perspectives)
+Question 6: 4/5  (Similar to question 5)
+Question 7: 5/5
+Question 8: 4/5  (It mentions pace of learning is optimized, but doesn't directly say "for the needs of each learner")
+Question 9: 4/5  (Asks for the meaning, but the passage uses a descriptive phrase)
+Question 10: 5/5
+Question 11: 2/5  (Although ICT is defined, it's not the main focus of the question)
+Question 12: 4/5  (It mentions the echo chamber effect, but doesn't directly connect it to hyper-personalized online experiences)
+Question 13: 4/5  (It mentions proponents, but not the exact term they might use)
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 5/5
+Question 17: 3/5  (The example is about ZPD, but the question asks about the highest level unreachable)
+Question 18: 5/5
+Question 19: 3/5  (The passage mentions three components, but doesn't say they are the only ones)
+Question 20: 4/5  (Clear, but question 19 makes it slightly ambiguous if there might be more)
+Question 21: 4/5  (It mentions Javaye Devette Stubbs's research, but doesn't specify observing a specific group)
+Question 22: 2/5  (It talks about students with reading difficulties, but doesn't mention ELLs specifically)
+Question 23: 5/5
+Question 24: 5/5
+Question 25: 5/5
+Question 26: 3/5  (Focuses on Kohn's argument, not the overall definition)
+Question 27: 5/5
+Question 28: 4/5  (It mentions vulnerable populations, but doesn't say they are the only ones who benefit)
+Question 29: 4/5  (Clear, but there might be other ways to assess effectiveness)
+
+[Relevance]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 4/5  (Asks about one definition, passage mentions two)
+Question 5: 3/5  (Seeks single definition, passage provides two)
+Question 6: 3/5  (Seeks single definition, passage provides two)
+Question 7: 5/5
+Question 8: 4/5  (Part of the definition, but not the sole focus)
+Question 9: 4/5  (Focuses on learner meaning, passage uses descriptive phrase)
+Question 10: 5/5
+Question 11: 2/5  (ICT is a tool, not the main focus of personalized learning)
+Question 12: 4/5  (Mentions echo chamber, but doesn't directly connect it to hyper-personalized experiences)
+Question 13: 4/5  (Asks about who says it, not the exact term used)
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 5/5  (Directly related to the definition of ZPD)
+Question 17: 3/5  (Example is about ZPD, but the question asks about the unreachable level)
+Question 18: 5/5
+Question 19: 3/5  (Passage mentions three components, but doesn't say they are the only ones)
+Question 20: 4/5  (Clear, but question 19 makes it ambiguous if there might be more components)
+Question 21: 4/5  (Study focused on 4th graders, but question is more general)
+Question 22: 1/5  (Question asks about ELLs, but the passage refers to students with reading difficulties)
+Question 23: 5/5
+Question 24: 5/5  (Directly related to the definition of ELL)
+Question 25: 5/5
+Question 26: 4/5  (Focuses on Kohn's argument, but doesn't fully capture the passage's perspective)
+Question 27: 5/5
+Question 28: 4/5  (Mentions vulnerable populations, but doesn't say they are the only ones who benefit)
+Question 29: 4/5  (One way to assess effectiveness, but passage mentions others)
+
+[Difficulty]
+Question 1: 3/5  (Requires comprehension of the unifying concept behind 3 different terms)
+Question 2: 1/5  (Basic recall of factual detail)
+Question 3: 2/5  (Requires understanding the context of the definition)
+Question 4: 2/5  (Recalling specific details from the passage)
+Question 5: 1/5  (Direct definition recall)
+Question 6: 1/5  (Direct definition recall)
+Question 7: 2/5  (Recalling specific details from the passage)
+Question 8: 2/5  (Requires comprehension of a specific detail within the definition)
+Question 9: 3/5  (Requires making connections between different ideas in the passage)
+Question 10: 2/5  (Recalling specific details from the passage)
+Question 11: 1/5  (Direct definition recall)
+Question 12: 4/5  (Requires making connections between different ideas in the passage)
+Question 13: 2/5  (Recalling specific details from the passage)
+Question 14: 1/5  (Direct definition recall)
+Question 15: 3/5  (Requires comprehension of a technical term)
+Question 16: 1/5  (Direct definition recall)
+Question 17: 2/5  (Requires application of the concept to a specific situation)
+Question 18: 2/5  (Recalling specific details from the passage)
+Question 19: 2/5  (Recalling specific details from the passage)
+Question 20: 3/5  (Requires combining information from multiple parts of the passage)
+Question 21: 2/5  (Recalling specific details from the passage)
+Question 22: 3/5  (Requires making connections between different ideas in the passage)
+Question 23: 2/5  (Recalling specific details from the passage)
+Question 24: 1/5  (Direct definition recall)
+Question 25: 2/5  (Recalling specific details from the passage)
+Question 26: 3/5  (Requires understanding the author's argument)
+Question 27: 3/5  (Requires understanding the author's argument)
+Question 28: 2/5  (Requires understanding an implicit point in the passage)
+Question 29: 3/5  (Requires making connections between different ideas in the passage)

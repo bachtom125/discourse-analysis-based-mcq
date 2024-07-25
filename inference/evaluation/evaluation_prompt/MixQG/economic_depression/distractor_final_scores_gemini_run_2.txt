@@ -1,0 +1,87 @@
+[Readability]
+Question 1: Distractor 1: 3/5, Distractor 2: 4/5, Distractor 3: 1/5
+Question 2: Distractor 1: 4/5, Distractor 2: 3/5, Distractor 3: 3/5
+Question 3: Distractor 1: 5/5, Distractor 2: 4/5, Distractor 3: 5/5
+Question 4: Distractor 1: 5/5, Distractor 2: 4/5, Distractor 3: 1/5
+Question 5: Distractor 1: 3/5, Distractor 2: 2/5, Distractor 3: 4/5
+Question 6: Distractor 1: 3/5, Distractor 2: 5/5, Distractor 3: 2/5
+Question 7: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 8: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 3/5
+Question 9: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 1/5
+Question 10: Distractor 1: 1/5, Distractor 2: 5/5, Distractor 3: 2/5
+Question 11: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 12: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 2/5
+Question 13: Distractor 1: 2/5, Distractor 2: 2/5, Distractor 3: 1/5
+Question 14: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 2/5
+Question 15: Distractor 1: 2/5, Distractor 2: 2/5, Distractor 3: 2/5
+Question 16: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 4/5
+Question 17: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 18: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 19: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 2/5
+Question 20: Distractor 1: 4/5, Distractor 2: 1/5, Distractor 3: 1/5
+
+[Incorrectness]
+Question 1: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 1/5
+Question 2: Distractor 1: 4/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 3: Distractor 1: 5/5, Distractor 2: 4/5, Distractor 3: 4/5
+Question 4: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 1/5
+Question 5: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 4/5
+Question 6: Distractor 1: 4/5, Distractor 2: 5/5, Distractor 3: 4/5
+Question 7: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 8: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 3/5
+Question 9: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 1/5
+Question 10: Distractor 1: 1/5, Distractor 2: 5/5, Distractor 3: 2/5
+Question 11: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 5/5
+Question 12: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 13: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 2/5
+Question 14: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 2/5
+Question 15: Distractor 1: 2/5, Distractor 2: 2/5, Distractor 3: 2/5
+Question 16: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 4/5
+Question 17: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 18: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 19: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 2/5
+Question 20: Distractor 1: 4/5, Distractor 2: 1/5, Distractor 3: 1/5
+
+[Diversity]
+Question 1: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 1/5
+Question 2: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 3: Distractor 1: 4/5, Distractor 2: 5/5, Distractor 3: 4/5
+Question 4: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 1/5
+Question 5: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 2/5
+Question 6: Distractor 1: 3/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 7: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 4/5
+Question 8: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 2/5
+Question 9: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 1/5
+Question 10: Distractor 1: 1/5, Distractor 2: 5/5, Distractor 3: 3/5
+Question 11: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 4/5
+Question 12: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 2/5
+Question 13: Distractor 1: 1/5, Distractor 2: 3/5, Distractor 3: 3/5
+Question 14: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 2/5
+Question 15: Distractor 1: 2/5, Distractor 2: 3/5, Distractor 3: 3/5
+Question 16: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 4/5
+Question 17: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 18: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 19: Distractor 1: 1/5, Distractor 2: 3/5, Distractor 3: 3/5
+Question 20: Distractor 1: 4/5, Distractor 2: 1/5, Distractor 3: 1/5
+
+[Plausibility]
+Question 1: Distractor 1: 4/5, Distractor 2: 4/5, Distractor 3: 1/5
+Question 2: Distractor 1: 4/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 3: Distractor 1: 5/5, Distractor 2: 5/5, Distractor 3: 4/5
+Question 4: Distractor 1: 4/5, Distractor 2: 5/5, Distractor 3: 1/5
+Question 5: Distractor 1: 3/5, Distractor 2: 2/5, Distractor 3: 3/5
+Question 6: Distractor 1: 2/5, Distractor 2: 4/5, Distractor 3: 2/5
+Question 7: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 8: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 3/5
+Question 9: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 1/5
+Question 10: Distractor 1: 1/5, Distractor 2: 5/5, Distractor 3: 4/5
+Question 11: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 5/5
+Question 12: Distractor 1: 1/5, Distractor 2: 1/5, Distractor 3: 2/5
+Question 13: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 4/5
+Question 14: Distractor 1: 4/5, Distractor 2: 1/5, Distractor 3: 4/5
+Question 15: Distractor 1: 2/5, Distractor 2: 3/5, Distractor 3: 3/5
+Question 16: Distractor 1: 1/5, Distractor 2: 2/5, Distractor 3: 4/5
+Question 17: Distractor 1: 4/5, Distractor 2: 1/5, Distractor 3: 3/5
+Question 18: Distractor 1: 2/5, Distractor 2: 1/5, Distractor 3: 1/5
+Question 19: Distractor 1: 1/5, Distractor 2: 4/5, Distractor 3: 4/5
+Question 20: Distractor 1: 5/5, Distractor 2: 1/5, Distractor 3: 1/5

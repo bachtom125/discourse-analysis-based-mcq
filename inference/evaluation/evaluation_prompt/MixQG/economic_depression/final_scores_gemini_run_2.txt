@@ -1,0 +1,87 @@
+[Answerability]
+Question 1: 5/5  The answer directly relates to the definition of economic depression in the passage.
+Question 2: 2/5  This question puts the cause and effect in a reversed order, but the answer can still be found in the context.
+Question 3: 5/5  The passage specifically mentions the American Great Depression.
+Question 4: 2/5  Economic crisis is mentioned as a related term, but the answer focuses on a specific cause (lowered economic activity) while the passage talks about a more general relationship between economic downturn and economic cycles.
+Question 5: 4/5  Recession is defined in the context, and the answer closely relates to the definition of economic depression.  However, the passage clarifies that a depression is more severe.
+Question 6: 1/5  Economic cycles are mentioned in the context, but not as the result of lowered economic activity. It's the other way around.
+Question 7: 5/5  Several signs of economic depression are listed in the passage.
+Question 8: 5/5  Recession is defined in the context.
+Question 9: 4/5  The normal business cycle is mentioned in the context, but not in the specific terms of slowdown in economic activity.
+Question 10: 5/5  Unemployment rates are mentioned as a sign of economic depression.
+Question 11: 3/5  Lack of good social balance is mentioned as a sign of economic depression, but it's not very clearly defined in the context.
+Question 12: 4/5  Lesser revenues for businesses are mentioned as a sign of economic downturn, which is a strong indicator of recession and can also be a sign of depression.
+Question 13: 5/5  Economic difficulties are a broad term, but the passage discusses economic depression in the context of economic difficulties.
+Question 14: 5/5  Signs of financial crisis are mentioned as a sign of economic depression.
+Question 15: 3/5  The passage talks about the impact of economic depression on the work of banks, but doesn't define financial crisis solely based on the work of banks.
+Question 16: 5/5  Banking crisis is mentioned as a sign of economic depression.
+Question 17: 5/5  Crisis in investment is mentioned as a sign of economic depression.
+Question 18: 4/5  Credit is mentioned in the context of economic depression, but not as a clear sign itself. There's a discussion about crisis in investment and credit.
+Question 19: 4/5  Innovation is mentioned in the context of economic depression, but not as a clear sign itself. There's a discussion about crisis in investment and innovation.
+Question 20: 5/5  New businesses investments are mentioned as a sign of economic depression.
+
+[Clarity]
+Question 1: 5/5  The question is clear and uses straightforward language.
+Question 2: 4/5  The question is clear, but it asks about the cause and effect in a reversed order.
+Question 3: 5/5  The question is clear and specific.
+Question 4: 4/5  The question is a bit long, but the meaning is clear.
+Question 5: 5/5  The question is clear and uses straightforward language.
+Question 6: 3/5  The question is a bit confusing because economic cycles refer to both upturns and downturns, whereas the answer refers specifically to downturns.
+Question 7: 4/5  The question is clear, but it doesn't mention how severe the problems are.
+Question 8: 5/5  The question is clear and uses straightforward language.
+Question 9: 4/5  The question is clear, but it uses a technical term "normal business cycle".
+Question 10: 5/5  The question is clear and uses straightforward language.
+Question 11: 4/5  The question is clear, but "lack of good social balance" is a bit vague.
+Question 12: 5/5  The question is clear and uses straightforward language.
+Question 13: 5/5  The question is clear and uses straightforward language.
+Question 14: 5/5  The question is clear and uses straightforward language.
+Question 15: 3/5  The question is clear, but it doesn't fully define a financial crisis.
+Question 16: 5/5  The question is clear and uses straightforward language.
+Question 17: 5/5  The question is clear and uses straightforward language.
+Question 18: 3/5  The question is short but "credit" alone might be a bit confusing without context.
+Question 19: 4/5  The question is clear, but "innovation" might be a less common term for some test-takers.
+Question 20: 5/5  The question is clear and uses straightforward language.
+
+[Relevance]
+Question 1: 4/5  The question asks about the result of lowered economic activity, which is related to the context of economic downturns.
+Question 2: 2/5  This question asks about the cause of lowered economic activity, which is not directly addressed in the context.
+Question 3: 5/5  This question directly asks about a specific depression mentioned in the context.
+Question 4: 3/5  The question uses a less precise term "economic crisis" instead of "economic depression" mentioned in the context.
+Question 5: 5/5  This question directly asks about a term defined in the context (recession).
+Question 6: 2/5  Economic cycles refer to both upturns and downturns, while the context focuses on downturns.
+Question 7: 5/5  This question directly asks about a sign of economic depression, as mentioned in the context.
+Question 8: 5/5  This question directly asks about a term defined in the context (recession).
+Question 9: 2/5  This question focuses on a normal business cycle, which is not directly related to economic depression in the context.
+Question 10: 5/5  This question directly asks about a sign of economic depression, as mentioned in the context.
+Question 11: 4/5  The question asks about a sign of economic depression, but the term "lack of good social balance" is not very clear in the context.
+Question 12: 4/5  This question asks about a sign of recession, but the context focuses on economic depression. There might be some overlap but it's not perfect.
+Question 13: 5/5  This question directly asks about a sign of economic depression, as mentioned in the context.
+Question 14: 5/5  This question directly asks about a sign of economic depression, as mentioned in the context.
+Question 15: 2/5  This question asks about a sign of financial crisis, but the answer focuses on the work of banks, which is not a perfectly comprehensive definition.
+Question 16: 5/5  This question directly asks about a sign of economic depression, as mentioned in the context.
+Question 17: 5/5  This question directly asks about a sign of economic depression, as mentioned in the context.
+Question 18: 3/5  Credit is mentioned in the context of economic depression, but not as a clear sign itself.
+Question 19: 3/5  Innovation is mentioned in the context of economic depression, but not as a clear sign itself.
+Question 20: 5/5  This question directly asks about a sign of economic depression, as mentioned in the context.
+
+[Difficulty]
+Question 1: 2/5  This question requires basic recall of the definition of an economic downturn.
+Question 2: 1/5  This question is a simple reversal of the cause and effect from question 1.
+Question 3: 1/5  This question requires recalling a specific historical fact.
+Question 4: 3/5  This question requires understanding the difference between recession and economic depression (more severe downturn).
+Question 5: 2/5  This question requires recalling the definition of a recession.
+Question 6: 2/5  This question requires understanding the concept of economic cycles but doesn't distinguish between upturns and downturns.
+Question 7: 1/5  This question is very general and doesn't require specific knowledge of economic depression.
+Question 8: 1/5  This question requires recalling the definition of a recession.
+Question 9: 3/5  This question requires understanding the concept of a normal business cycle and differentiating it from an economic downturn.
+Question 10: 2/5  This question requires recalling a common sign of economic depression.
+Question 11: 4/5  This question requires understanding a social impact of economic depression,  which is a bit less common than memorizing a list of signs.
+Question 12: 2/5  This question requires recalling a common sign of economic recession. There might be some overlap with depression but it's not perfect.
+Question 13: 1/5  This question is very general and doesn't require specific knowledge of economic depression.
+Question 14: 2/5  This question requires recalling a connection between economic depression and financial crisis.
+Question 15: 1/5  This question focuses on a narrow aspect of financial crisis.
+Question 16: 2/5  This question requires recalling a common sign of economic depression.
+Question 17: 2/5  This question requires recalling a common sign of economic depression.
+Question 18: 2/5  This question requires making a connection between credit and economic depression, but credit itself is not a clear sign.
+Question 19: 3/5  This question requires understanding a more nuanced impact of economic depression and how it might affect innovation.
+Question 20: 3/5  This question requires understanding a specific impact of economic depression on businesses and investment.

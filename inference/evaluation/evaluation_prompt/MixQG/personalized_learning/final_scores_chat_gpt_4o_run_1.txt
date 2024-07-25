@@ -1,0 +1,123 @@
+[Answerability]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 5/5
+Question 5: 1/5 (Answer given doesn't match the context. Should be Dan Buckley's definition: "personalization for the learner" or "personalization by the learner.")
+Question 6: 1/5 (Answer given doesn't match the context. Should be Dan Buckley's definition: "personalization for the learner" or "personalization by the learner.")
+Question 7: 5/5
+Question 8: 5/5
+Question 9: 2/5 (Answer provided doesn't align well with the full context of personalized learning.)
+Question 10: 5/5
+Question 11: 1/5 (The answer provided is not a definition, it's a contextual application.)
+Question 12: 5/5
+Question 13: 5/5
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 5/5
+Question 17: 2/5 (The example provided is too vague and doesn't align well with the ZPD explanation.)
+Question 18: 5/5
+Question 19: 5/5
+Question 20: 4/5 (Should be Research, Decide, Teach, Record for full accuracy.)
+Question 21: 5/5
+Question 22: 3/5 (ELLs show gains in higher order thinking skills but context doesn't specify it's specifically with reading difficulties.)
+Question 23: 5/5
+Question 24: 5/5
+Question 25: 5/5
+Question 26: 5/5
+Question 27: 5/5
+Question 28: 3/5 (Context suggests vulnerable populations but specifies the need for more research.)
+Question 29: 4/5 (Answer is somewhat implied but not explicitly stated as the sole method.)
+
+[Clarity]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 5/5
+Question 5: 4/5 (The term "mean" might be slightly ambiguous without context; could be clearer if phrased like "What does Dan Buckley's 'personalization for the learner' mean?")
+Question 6: 4/5 (Same as above, for "personalization by the learner")
+Question 7: 5/5
+Question 8: 5/5
+Question 9: 3/5 (The question could be clearer if rephrased to align better with the context, e.g., "According to the context, what makes personalized learning meaningful and relevant?")
+Question 10: 5/5
+Question 11: 4/5 (The question is understandable but could be clearer if phrased like "What does ICT stand for?")
+Question 12: 5/5
+Question 13: 5/5
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 5/5
+Question 17: 3/5 (The question could be clearer if more context was given, e.g., "Give an example of a student who is incapable of reaching a higher level of learning even with support.")
+Question 18: 5/5
+Question 19: 5/5
+Question 20: 4/5 (Would be clearer if asked like "What are the four components of a conferring session according to the modified model?")
+Question 21: 5/5
+Question 22: 3/5 (Could be clearer with rephrasing, e.g., "What did ELLs show gains in despite reading difficulties?")
+Question 23: 5/5
+Question 24: 5/5
+Question 25: 5/5
+Question 26: 5/5
+Question 27: 5/5
+Question 28: 4/5 (Could be clearer if phrased like "What type of students do personalized learning programs aim to benefit?")
+Question 29: 5/5
+
+[Relevance]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 5/5
+Question 5: 4/5 (The term “mean” should specify it’s referring to Dan Buckley’s definitions)
+Question 6: 4/5 (Same as above)
+Question 7: 5/5
+Question 8: 5/5
+Question 9: 3/5 (The provided answer isn’t entirely aligned with the full definition context)
+Question 10: 5/5
+Question 11: 2/5 (The answer provided doesn’t define ICT; the context uses ICT in relation to personalized learning)
+Question 12: 5/5
+Question 13: 5/5
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 5/5
+Question 17: 3/5 (The context of ZPD needs more clarity for this specific example)
+Question 18: 5/5
+Question 19: 5/5
+Question 20: 4/5 (Accurate but should specify the modified model has four components)
+Question 21: 5/5
+Question 22: 3/5 (Could be clearer that higher order thinking skills were achieved despite reading difficulties)
+Question 23: 5/5
+Question 24: 5/5
+Question 25: 5/5
+Question 26: 5/5
+Question 27: 5/5
+Question 28: 4/5 (Needs to specify low SES or vulnerable students for clarity)
+Question 29: 5/5
+
+[Difficulty]
+Question 1: 3/5
+Question 2: 2/5
+Question 3: 2/5
+Question 4: 2/5
+Question 5: 2/5
+Question 6: 2/5
+Question 7: 3/5
+Question 8: 3/5
+Question 9: 2/5
+Question 10: 2/5
+Question 11: 1/5
+Question 12: 3/5
+Question 13: 3/5
+Question 14: 2/5
+Question 15: 3/5
+Question 16: 1/5
+Question 17: 2/5
+Question 18: 2/5
+Question 19: 3/5
+Question 20: 3/5
+Question 21: 2/5
+Question 22: 3/5
+Question 23: 2/5
+Question 24: 1/5
+Question 25: 3/5
+Question 26: 3/5
+Question 27: 3/5
+Question 28: 3/5
+Question 29: 3/5

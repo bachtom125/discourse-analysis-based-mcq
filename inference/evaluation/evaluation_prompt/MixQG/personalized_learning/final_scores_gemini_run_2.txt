@@ -1,0 +1,123 @@
+[Answerability]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 4/5  (Buckley defined the spectrum, not necessarily personalized learning itself)
+Question 5: 3/5  (Question asks for the meaning, but passage provides different perspectives on the definition)
+Question 6: 3/5  (Similar to question 5)
+Question 7: 5/5
+Question 8: 4/5  (Pace of learning is mentioned in the definition of personalized learning, but the passage doesn't explicitly say it's optimized)
+Question 9: 4/5  (Mentioned as a characteristic of personalized learning)
+Question 10: 5/5
+Question 11: 2/5  (ICT is defined, but not the main focus of the passage)
+Question 12: 4/5  (The passage talks about the echo chamber effect in personalized learning, but doesn't directly connect it to hyper-personalized online experiences)
+Question 13: 4/5  (Proponents are mentioned, but not explicitly stated that all elements must be present)
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 5/5
+Question 17: 3/5  (The passage uses double digit addition as an example where a student might need help, but doesn't say it's the highest level they can't reach)
+Question 18: 5/5
+Question 19: 3/5  (The passage mentions research, decide, and teach, but doesn't explicitly say those are the only 3 components)
+Question 20: 4/5  (Four components are mentioned, but it's not the main focus of the passage on conferring)
+Question 21: 4/5  (Javaye Devette Stubbs' research is mentioned, but not her exact title)
+Question 22: 2/5  (The passage mentions students with reading difficulties showed gains, but doesn't connect it to ELLs)
+Question 23: 4/5  (Smith's work is mentioned, but not his exact title)
+Question 24: 5/5
+Question 25: 5/5
+Question 26: 3/5  (Kohn's argument is mentioned, but passage doesn't say it's mostly about selling products)
+Question 27: 5/5
+Question 28: 4/5  (The passage talks about vulnerable populations, but doesn't say they are the only ones who benefit)
+Question 29: 4/5  (Teacher perceptions are mentioned as a way to determine effectiveness, but not the only way)
+
+[Clarity]
+Question 1: 5/5
+Question 2: 5/5
+Question 3: 5/5
+Question 4: 5/5
+Question 5: 5/5
+Question 6: 5/5
+Question 7: 5/5
+Question 8: 5/5
+Question 9: 5/5
+Question 10: 5/5
+Question 11: 4/5  (While it asks for the meaning, it doesn't directly connect to the previous sentence about ICT being a tool)
+Question 12: 5/5
+Question 13: 5/5
+Question 14: 5/5
+Question 15: 5/5
+Question 16: 4/5  (Assumes the reader knows ZPD was mentioned before)
+Question 17: 4/5  (Assumes the reader knows this refers to the ZPD example)
+Question 18: 5/5
+Question 19: 4/5  (Assumes the reader knows this refers to conferring sessions)
+Question 20: 4/5  (Similar to question 19)
+Question 21: 5/5
+Question 22: 3/5  (Question is a bit complex as it mixes two ideas - ELLs and reading difficulties)
+Question 23: 4/5  (Assumes the reader knows this refers to teacher-student writing conferences)
+Question 24: 5/5
+Question 25: 5/5
+Question 26: 4/5  (Question refers to Alfie Kohn's argument, but doesn't explicitly say "mostly")
+Question 27: 5/5
+Question 28: 4/5  (Assumes the reader knows this refers to personalized learning programs)
+Question 29: 5/5
+
+[Relevance]
+Question 1: 5/5  (Directly asks about the main topic of the context)
+Question 2: 5/5  (See Question 1)
+Question 3: 5/5  (See Question 1)
+Question 4: 5/5  (Asks about a specific detail mentioned in the context)
+Question 5: 5/5  (See Question 4)
+Question 6: 5/5  (See Question 4)
+Question 7: 5/5  (See Question 4)
+Question 8: 4/5  (Asks about a detail from the definition of personalized learning)
+Question 9: 4/5  (See Question 8)
+Question 10: 5/5  (See Question 4)
+Question 11: 2/5  (ICT is mentioned but not the main focus)
+Question 12: 4/5  (Relates to a point about technology in personalized learning)
+Question 13: 5/5  (See Question 4)
+Question 14: 5/5  (See Question 4)
+Question 15: 5/5  (See Question 4)
+Question 16: 4/5  (See Question 15 - assumes reader knows ZPD refers to Vygotski's definition)
+Question 17: 3/5  (Relates to ZPD but is a specific example, not directly relevant to the overall topic)
+Question 18: 5/5  (See Question 4)
+Question 19: 4/5  (Asks about a detail mentioned in the conferring section)
+Question 20: 4/5  (See Question 19)
+Question 21: 4/5  (Asks about a specific study but relevant to conferring)
+Question 22: 3/5  (Asks about results of a study but mixes two details - ELLs and reading difficulties)
+Question 23: 4/5  (See Question 21)
+Question 24: 5/5  (See Question 4)
+Question 25: 5/5  (See Question 4)
+Question 26: 3/5  (Asks about an argument against personalized learning, but not the main focus of the context)
+Question 27: 5/5  (See Question 4)
+Question 28: 4/5  (Asks about benefits of personalized learning programs)
+Question 29: 4/5  (Asks about a way to measure effectiveness of personalized learning)
+
+[Difficulty]
+Question 1: 2/5  (Requires recalling a simple fact)
+Question 2: 2/5  (Requires recalling a simple fact)
+Question 3: 3/5  (Requires understanding a concept beyond memorization)
+Question 4: 3/5  (Requires recalling a specific detail and connecting it to a concept)
+Question 5: 1/5  (Requires recalling a simple fact)
+Question 6: 1/5  (Requires recalling a simple fact)
+Question 7: 3/5  (Requires understanding a source and connecting it to a definition)
+Question 8: 2/5  (Requires recalling a detail from a definition)
+Question 9: 2/5  (Requires recalling a detail from a definition)
+Question 10: 3/5  (Requires recalling a specific detail and connecting it to a concept)
+Question 11: 1/5  (Requires recalling a simple fact, not very relevant)
+Question 12: 3/5  (Requires applying a concept to a different situation)
+Question 13: 3/5  (Requires understanding an argument from a source)
+Question 14: 2/5  (Requires recalling a simple fact)
+Question 15: 3/5  (Requires recalling a specific detail and connecting it to a concept)
+Question 16: 1/5  (Requires recalling a simple fact, depends on prior knowledge)
+Question 17: 1/5  (Requires recalling a simple fact, not very relevant)
+Question 18: 2/5  (Requires recalling a simple fact)
+Question 19: 2/5  (Requires recalling details from a specific context)
+Question 20: 2/5  (Similar to question 19)
+Question 21: 2/5  (Requires recalling a detail from a specific study)
+Question 22: 2/5  (Requires understanding the results of a study)
+Question 23: 3/5  (Requires understanding the focus of a research study)
+Question 24: 2/5  (Requires recalling a simple fact)
+Question 25: 3/5  (Requires recalling a specific detail and understanding an argument)
+Question 26: 4/5  (Requires analyzing the underlying ideas of a concept)
+Question 27: 3/5  (Requires understanding an argument about research)
+Question 28: 3/5  (Requires understanding an implication of personalized learning)
+Question 29: 3/5  (Requires understanding a method for evaluation)

@@ -1,0 +1,67 @@
+[Answerability]
+Question 1: 5/5  The answer directly mentions Greece's high sovereign debt as the cause of the crisis.
+Question 2: 2/5 The answer talks about the Panic of 1837, not the Great Depression. It mentions a bank failure and unemployment but not the stock market crash.
+Question 3: 4/5 The answer describes economic difficulties including unemployment, lower business revenue, and financial crisis, which can all lead to a depression.
+Question 4: 4/5 The answer describes how the term "depression" was historically used for various economic crises.
+Question 5: 5/5 The answer directly mentions the unemployment rate increase in the US between 1929 and 1933.
+Question 6: 3/5 The answer mentions the Long Depression being shallower in some sectors but doesn't directly compare it to the Great Depression of the 1930s in terms of severity.
+Question 7: 4/5 The answer talks about the 2008-2009 economic cycle not being widely referred to as a depression.
+Question 8: 4/5 The answer describes a moderation in economic cycles since 1945.
+Question 9: 4/5 The answer describes the two different definitions for the duration of a depression.
+Question 10: 3/5 The answer talks about a shortfall in purchasing goods but doesn't directly mention it being relative to production.
+Question 11: 2/5 The answer talks about the Great Depression spreading to other economies but not what happened to the US after.
+Question 12: 1/5 The answer talks about the Panic of 1837, not the Great Depression.
+Question 13: 5/5 The answer directly mentions the living standard fall in former Soviet Union members.
+Question 14: 4/5 The answer defines a recession as a decline in economic activity.
+Question 15: 4/5 The answer defines a recession in relation to the normal business cycle.
+
+[Clarity]
+Question 1: 5/5  Clear and concise question about Greece's economic suffering.
+Question 2: 3/5  A bit confusing as it mentions the Panic of 1837 instead of the Great Depression.
+Question 3: 4/5  Clear question about reasons behind financial crisis.
+Question 4: 4/5  Clear question about historical usage of the term "depression".
+Question 5: 5/5  Clear and specific question about US unemployment rate changes.
+Question 6: 3/5  A bit confusing as it doesn't directly ask about the difference compared to the 1930s depression.
+Question 7: 5/5  Clear question about terminology used for the 2008-2009 economic downturn.
+Question 8: 4/5  Clear question about economic cycles since 1945.
+Question 9: 4/5  Clear question about how recession duration is defined.
+Question 10: 4/5  Clear question but could be improved by mentioning "production" for better clarity.
+Question 11: 3/5  A bit vague as it doesn't specify what happened "after" the Great Depression.
+Question 12: 2/5  Confusing question as it refers back to the Panic of 1837, not the Great Depression.
+Question 13: 5/5  Clear and specific question about living standards.
+Question 14: 4/5  Clear question about the period of decline in economic activity.
+Question 15: 4/5  Clear question about the definition of a recession.
+
+[Relevance]
+Question 1: 5/5  Perfectly relevant, directly asks about the reason behind Greece's economic suffering mentioned in the context.
+Question 2: 1/5  Completely irrelevant, the answer talks about the Panic of 1837, not the Great Depression mentioned in the context.
+Question 3: 4/5  Highly relevant, question asks about reasons behind financial crisis, which aligns with economic suffering in the context.
+Question 4: 4/5  Relevant, the context mentions the term "depression" being used historically.
+Question 5: 5/5  Perfectly relevant, directly asks about a specific detail (unemployment rate) in the context of the Great Depression.
+Question 6: 2/5  Somewhat relevant, it asks about the difference in the Great Depression but doesn't specify compared to what (should be 1930s).
+Question 7: 5/5  Perfectly relevant, directly asks about how a recent economic downturn (2008-2009) relates to the term "depression" used in the context.
+Question 8: 4/5  Relevant, the context mentions economic cycles and this question asks about them after 1945.
+Question 9: 3/5  Somewhat relevant, the context mentions economic difficulties but doesn't specifically discuss recession duration.
+Question 10: 2/5  Not very relevant, the context doesn't directly discuss shortfall in purchasing goods.
+Question 11: 3/5  Somewhat relevant, the context talks about the Great Depression but not specifically what happened to the US after.
+Question 12: 1/5  Completely irrelevant, same issue as question 2, refers to the Panic of 1837, not the Great Depression.
+Question 13: 1/5  Completely irrelevant, the context doesn't mention the Soviet Union or living standards.
+Question 14: 4/5  Relevant, the context mentions economic difficulties which can include decline in economic activity.
+Question 15: 3/5  Somewhat relevant, the context mentions economic suffering but doesn't define the normal business cycle.
+
+[Difficulty]
+Question 1: 2/5  Requires recalling a specific fact from the context.
+Question 2: 1/5  Requires recalling a completely irrelevant fact.
+Question 3: 3/5  Requires understanding a definition based on the information in the context.
+Question 4: 3/5  Requires understanding the historical context of a term mentioned in the passage.
+Question 5: 3/5  Requires analyzing changes mentioned in the context and applying them to a specific aspect.
+Question 6: 3/5  Requires making a comparison based on the context, though not a very complex one.
+Question 7: 3/5  Requires understanding how terminology is used in the context.
+Question 8: 4/5  Requires analyzing a trend and making connections to the historical period in the context.
+Question 9: 3/5  Requires understanding different perspectives on a definition mentioned in the passage.
+Question 10: 2/5  Requires understanding a concept based on the context, but not a very complex one.
+Question 11: 2/5  Requires recalling a specific detail about the aftermath mentioned in the context.
+Question 12: 1/5  Requires recalling a completely irrelevant fact.
+Question 13: 1/5  Requires recalling a completely irrelevant fact.
+Question 14: 2/5  Requires understanding a definition based on the context.
+Question 15: 3/5  Requires understanding a concept based on the context and relating it to economic cycles.

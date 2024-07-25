@@ -1,0 +1,291 @@
+[Answerability]
+Question 1: 5/5
+Question 2: 2/5  (The passage talks about a person's unique adjustment to life, but it doesn't say anything about a unique ability to do something.)
+Question 3: 4/5  (The passage says that most theories view personality as relatively stable, but can change.)
+Question 4: 5/5
+Question 5: 4/5  (The passage mentions Raymond Cattell in the context of trait-based personality theories.)
+Question 6: 5/5
+Question 7: 4/5  (The passage says that most theories view personality as relatively stable, but can change.)
+Question 8: 1/5  (The passage talks about the psychology of personality, but it doesn't say what personology is the study of.)
+Question 9: 5/5
+Question 10: 5/5
+Question 11: 2/5 (Personology is mentioned in the context, but not as another name for psychodynamic.)
+Question 12: 2/5 (The passage mentions humanistic approaches, but not in the context of personology.)
+Question 13: 3/5 (The passage mentions Sigmund Freud as one of the first theorists in the field of personality psychology.)
+Question 14: 1/5 (The passage mentions Alfred Adler, but not as the first person to study personality.)
+Question 15: 4/5 (The passage mentions Gordon Allport as one of the first theorists in the field of personality psychology.)
+Question 16: 5/5 (The passage mentions Hans Eysenck and his development of the Eysenck's Personality Questionnaire in the 1960s.)
+Question 17: 1/5 (The passage talks about the Big Five, but doesn't mention Abraham Maslow as the first person to use it.)
+Question 18: 2/5 (The passage mentions Carl Rogers as a psychologist, but not the most well-known of the 20th century.)
+Question 19: 3/5 (The passage mentions a variety of tests used to measure personality.)
+Question 20: 5/5 (The passage explicitly states that personality is a complex idea.)
+Question 21: 3/5 (The passage says the BFI measures personality dimensions.)
+Question 22: 4/5 (The passage says the dimensions of personality and scales of tests vary.)
+Question 23: 2/5 (The passage mentions the Big Five Inventory, but not as an objective test.)
+Question 24: 1/5 (The passage mentions projective measures, but not the BFI as an example.)
+Question 25: 5/5 (The passage mentions the Big Five Inventory (BFI) as a specific personality test.)
+Question 26: 5/5 (The passage mentions the Minnesota Multiphasic Personality Inventory (MMPI-2) as a specific personality test.)
+Question 27: 5/5 (The passage mentions the Rorschach Inkblot test as a specific personality test.)
+Question 28: 5/5 (The passage mentions the Neurotic Personality Questionnaire KON-2006 as a specific personality test.)
+Question 29: 5/5 (The passage mentions the Eysenck's Personality Questionnaire (EPQ-R) as a specific personality test.)
+Question 30: 5/5 (The passage mentions reliability and validity as two factors that make a personality test accurate.)
+Question 31: 2/5 (The passage mentions 16PF as a tool, but not for measuring personality.)
+Question 32: 4/5 (The passage mentions the 16PF as a specific personality test.)
+Question 33: 5/5 (The passage mentions the 16PF is based on Cattell's 16-factor theory.)
+Question 34: 4/5 (The passage mentions the 16PF is used as a clinical measuring tool.)
+Question 35: 4/5 (The passage mentions the 16PF is used to diagnose psychiatric disorders.)
+Question 36: 3/5 (The passage mentions the 16PF is used for prognosis and therapy planning, but not in as much detail.)
+Question 37: 5/5 (The passage mentions personality is broken into factors or dimensions.)
+Question 38: 4/5 (The passage mentions factors are statistically extracted from large questionnaires.)
+Question 39: 5/5 (The passage mentions introvert-extrovert as one of the dimensions of the Big Five.)
+Question 40: 5/5 (The passage discusses the Big Five and mentions neuroticism with its emotional stability counterpart.)
+Question 41: 5/5 (The passage talks about the Big Five Inventory (BFI) and what it stands for.)
+Question 42: 5/5 (The passage mentions openness to experience as a Big Five trait.)
+Question 43: 5/5 (The passage mentions conscientiousness as a Big Five trait.)
+Question 44: 5/5 (The passage mentions extraversion as a Big Five trait.)
+Question 45: 5/5 (The passage mentions agreeableness as a Big Five trait.)
+Question 46: 5/5 (The passage talks about the Big Five (OCEAN) and what each letter represents.)
+Question 47: 4/5 (The passage mentions neuroticism as part of OCEAN, but doesn't directly define OCEAN as the term for neuroticism.)
+Question 48: 3/5 (The passage mentions personality as a complex idea, but doesn't say definitively whether it's stable.)
+Question 49: 5/5 (The passage talks about identical twins sharing genetic makeup and personality similarities.)
+Question 50: 2/5 (The passage mentions environmental influences, but not as the main factor.)
+Question 51: 5/5 (The passage says personality traits are malleable by environmental influences.)
+Question 52: 4/5 (The passage talks about life experiences influencing personality traits.)
+Question 53: 4/5 (The passage mentions home environment as a factor affecting personality.)
+Question 54: 4/5 (The passage mentions parents as an influence on personality.)
+Question 55: 1/5 (The passage discusses Big Five traits, attachment styles are not one of them.)
+Question 56: 3/5 (The passage mentions Mary Ainsworth's experiment, but not the details of babies reacting to strangers.)
+Question 57: 4/5 (The passage mentions Ainsworth and attachment styles, but not all four types.)
+Question 58: 3/5 (The passage mentions attachment styles, but not all four.)
+Question 59: 4/5 (The passage mentions group socialization theory and peer groups influencing personality.)
+Question 60: 2/5 (The passage mentions the 16PF as a test, but not about measuring primary influence of personality.)
+Question 61: 4/5 (The passage mentions Judith Rich Harris and group socialization theory.)
+Question 62: 3/5 (The passage mentions peer groups, but not in the context of describing a group with different personalities.)
+Question 63: 1/5 (The passage doesn't mention Tessuya Kawamoto or a specific book title.)
+Question 64: 2/5 (The passage mentions personality tests, but not specifically recommending significant laboratory tests.)
+Question 65: 1/5 (The Big Five theory is mentioned, but not in the context of effects of life experiences on personality change.)
+Question 66: 4/5 (The passage talks about life experiences influencing personality traits.)
+Question 67: 4/5 (The passage mentions the accumulation of small daily experiences affecting personality.)
+Question 68: 5/5 (The passage talks about environmental influences being more malleable than originally thought.)
+Question 69: 3/5 (The passage mentions personality being complex, but not individual susceptibility being the main factor.)
+Question 70: 4/5 (The passage mentions temperament as a precursor to personality.)
+Question 71: 5/5 (The passage defines temperament as the precursor to personality.)
+
+[Clarity]
+Question 1: 5/5 (Straightforward and clear question about the definition)
+Question 2: 3/5 (A bit off-topic from the main subject of personality being the focus.)
+Question 3: 4/5 (Clear question about how personality is viewed in theories.)
+Question 4: 4/5 (Clear, but the answer goes beyond what the question asks.)
+Question 5: 4/5 (Clear question about Cattell's theory.)
+Question 6: 4/5 (Clear question, but some may not know "predict" is related to personality.)
+Question 7: 3/5 (Repetition of question 3, lowers understandability slightly.)
+Question 8: 5/5 (Straightforward question about what personology studies.)
+Question 9: 5/5 (Another way to ask question 8, clear.)
+Question 10: 5/5 (Clear question about different approaches to studying personality.)
+Question 11: 4/5 (Clear question, but may not be familiar with the term "personology".)
+Question 12: 4/5 (Clear question, but "humanistic approaches" might be a less familiar term.)
+Question 13: 4/5 (Clear question about the history of personality study.)
+Question 14: 4/5 (Clear question about the history of personality study.)
+Question 15: 4/5 (Clear question about specific psychologists involved.)
+Question 16: 4/5 (Clear question about specific psychologists and tests.)
+Question 17: 4/5 (Clear question, but answer about Maslow is incorrect.)
+Question 18: 4/5 (Clear question, but answer about Rogers being most well-known might be debatable.)
+Question 19: 3/5 (A bit vague about what exactly determines personality.)
+Question 20: 5/5 (Straightforward question about the complexity of personality.)
+Question 21: 4/5 (Clear question about what the BFI measures.)
+Question 22: 4/5 (Clear question about the BFI.)
+Question 23: 3/5 (Doesn't directly ask what the BFI is, but focuses on a characteristic.)
+Question 24: 3/5 (Doesn't directly ask what the BFI is, and mentions a different type of test.)
+Question 25: 5/5 (Straightforward question about the name of a test.)
+Question 26:  5/5 (Straightforward question about the name of a test.)
+Question 27:  5/5 (Straightforward question about the name of a test.)
+Question 28:  5/5 (Straightforward question about the name of a test.)
+Question 29:  5/5 (Straightforward question about the name of a test.)
+Question 30:  5/5 (Straightforward question about factors in test accuracy.)
+Question 31:  3/5 (Doesn't ask directly what the 16PF is, but mentions it as a tool.)
+Question 32:  4/5 (Clear question about the name of a test.)
+Question 33:  4/5 (Clear question about the basis of the 16PF.)
+Question 34:  4/5 (Clear question about the use of the 16PF.)
+Question 35:  4/5 (Clear question about the use of the 16PF.)
+Question 36: 4/5 (Clear question about what the 16PF is used for.)
+Question 37: 5/5 (Straightforward about how personality is described.)
+Question 38: 4/5 (Clear question, but "statistically extracted" might be a bit complex for some.)
+Question 39: 5/5 (Straightforward question about a Big Five trait.)
+Question 40: 5/5 (Straightforward question with answer provided.)
+Question 41: 5/5 (Straightforward question about what the BFI is.)
+Question 42: 5/5 (Straightforward question about a Big Five trait.)
+Question 43: 5/5 (Straightforward question about a Big Five trait.)
+Question 44: 5/5 (Straightforward question about a Big Five trait.)
+Question 45: 5/5 (Straightforward question about a Big Five trait.)
+Question 46: 4/5 (Clear question, but some may not know OCEAN.)
+Question 47: 3/5 (A bit confusing, question asks about a term but answer refers to the full OCEAN acronym.)
+Question 48: 4/5 (Clear question, but answer could be more precise than "stable over time".)
+Question 49: 5/5 (Straightforward question about identical twins and personality.)
+Question 50: 2/5 (Question is about main factor, but answer talks about effects.)
+Question 51: 5/5 (Straightforward question about personality traits.)
+Question 52: 4/5 (Clear question about what predicts personality.)
+Question 53: 4/5 (Clear question about what can affect personality.)
+Question 54: 4/5 (Clear question about what influences personality.)
+Question 55: 1/5 (Big Five is a personality theory, attachment styles are not one of the traits.)
+Question 56: 4/5 (Clear question about the experiment, but doesn't mention babies' reactions.)
+Question 57: 3/5 (Question asks about who labeled them, but answer mentions attachment in general.)
+Question 58: 4/5 (Clear question about the attachment styles.)
+Question 59: 4/5 (Clear question about group socialization theory.)
+Question 60: 2/5 (Question about what the 16PF measures, but answer is incorrect.)
+Question 61: 4/5 (Clear question about group socialization theory.)
+Question 62: 3/5 (Clear question about peer groups, but doesn't directly ask about a group with different personalities.)
+Question 63: 1/5 (Doesn't ask a question, looks for specific book title.)
+Question 64: 2/5 (Question is about determining personality, but suggests complex tests which aren't the best answer based on the passage.)
+Question 65: 2/5 (Question about Big Five theory, but answer is incorrect.)
+Question 66: 4/5 (Clear question about what predicts personality.)
+Question 67: 4/5 (Clear question about personality development.)
+Question 68: 5/5 (Straightforward question about environmental influences.)
+Question 69: 4/5 (Clear question, but "individual susceptibility" might be a bit complex for some.)
+Question 70: 5/5 (Straightforward question about the precursor to personality.)
+Question 71: 5/5 (Straightforward question about temperament.)
+
+[Relevance]
+Question 1: 5/5 (Directly related to the definition of personality in the context.)
+Question 2: 1/5 (Not related to the main topic of personality being the focus.)
+Question 3: 5/5 (Directly related to how personality is viewed in theories.)
+Question 4: 4/5 (Related to personality theories, but answer goes a bit beyond what the question asks.)
+Question 5: 5/5 (Directly related to a specific theory mentioned in the context.)
+Question 6: 4/5 (Related to a specific theory and psychologist in the context.)
+Question 7: 3/5 (Repetition of question 3, somewhat relevant but lowers originality.)
+Question 8: 5/5 (Directly related to what personology studies as defined in the context.)
+Question 9: 5/5 (Another way to ask question 8, directly relevant.)
+Question 10: 5/5 (Directly related to different approaches to studying personality in the context.)
+Question 11: 4/5 (Somewhat related as it's another term for the field, but "personology" was already defined.)
+Question 12: 2/5 (Not directly related to personality theories covered in the context.)
+Question 13: 4/5 (Somewhat related as it touches on the history of personality study.)
+Question 14: 4/5 (Somewhat related as it touches on the history of personality study.)
+Question 15: 4/5 (Somewhat related as it mentions a psychologist in the field, but not directly related to the content.)
+Question 16: 4/5 (Related to personality tests mentioned in the context.)
+Question 17: 1/5 (Incorrect information about the Big Five and not relevant to the context.)
+Question 18: 1/5 (Not related to the content of personality traits or theories.)
+Question 19: 2/5 (Vague question, somewhat related to factors influencing personality but not very specific.)
+Question 20: 5/5 (Directly related to the complexity of personality as mentioned in the context.)
+Question 21: 4/5 (Related to the BFI test briefly mentioned in the context.)
+Question 22: 3/5 (Partially related to the BFI, but the answer isn't directly about what it measures.)
+Question 23: 2/5 (Doesn't directly ask what the BFI is and focuses on a characteristic of tests.)
+Question 24: 1/5 (Incorrect information about the BFI and not relevant to the context.)
+Question 25: 5/5 (Directly related to the name of a specific test mentioned in the context.)
+Question 26: 5/5 (Directly related to the name of a specific test mentioned in the context.)
+Question 27: 5/5 (Directly related to the name of a specific test mentioned in the context.)
+Question 28: 5/5 (Directly related to the name of a specific test mentioned in the context.)
+Question 29: 5/5 (Directly related to the name of a specific test mentioned in the context.)
+Question 30: 5/5 (Directly related to factors mentioned in the context for test accuracy.)
+Question 31: 2/5 (Doesn't directly ask what the 16PF is, but mentions it as a tool.)
+Question 32: 5/5 (Directly related to the name of a specific test mentioned in the context.)
+Question 33: 4/5 (Related to the 16PF test mentioned in the context.)
+Question 34: 4/5 (Related to the 16PF test mentioned in the context.)
+Question 35: 4/5 (Related to the 16PF test mentioned in the context.)
+Question 36: 4/5 (Directly related to the function of the 16PF test mentioned in the context.)
+Question 37: 4/5 (Related to personality traits, but framed differently than how it was presented in the context.)
+Question 38: 4/5 (Related to how personality is described in the context, but answer could be simpler.)
+Question 39: 5/5 (Directly related to the Big Five traits mentioned in the context.)
+Question 40: 5/5 (Directly related to the Big Five traits mentioned in the context.)
+Question 41: 5/5 (Directly related to the BFI abbreviation mentioned in the context.)
+Question 42: 5/5 (Directly related to the Big Five traits mentioned in the context.)
+Question 43: 5/5 (Directly related to the Big Five traits mentioned in the context.)
+Question 44: 5/5 (Directly related to the Big Five traits mentioned in the context.)
+Question 45: 5/5 (Directly related to the Big Five traits mentioned in the context.)
+Question 46: 4/5 (Related to the Big Five traits mentioned in the context, but answer could be better phrased.)
+Question 47: 2/5 (Confusing question, refers to OCEAN but answer doesn't directly connect to it.)
+Question 48: 4/5 (Related to how personality is viewed in the context, but answer could be more specific.)
+Question 49: 5/5 (Directly related to factors influencing personality in the context.)
+Question 50: 2/5 (Incorrect information about the main factor, question talks about effects.)
+Question 51: 5/5 (Directly related to how personality traits are described in the context.)
+Question 52: 4/5 (Related to factors influencing personality in the context.)
+Question 53: 4/5 (Related to factors influencing personality in the context.)
+Question 54: 4/5 (Related to factors influencing personality in the context.)
+Question 55: 1/5 (Attachment styles are not one of the Big Five traits.)
+Question 56: 4/5 (Related to a specific theory and experiment mentioned in the context.)
+Question 57: 3/5 (Partially related, question asks about who labeled them but answer refers to attachment in general.)
+Question 58: 4/5 (Directly related to a specific theory mentioned in the context.)
+Question 59: 4/5 (Directly related to a specific theory mentioned in the context.)
+Question 60: 2/5 (Incorrect information about the 16PF test.)
+Question 61: 4/5 (Directly related to a specific theory mentioned in the context.)
+Question 62: 3/5 (Partially related to peer groups mentioned in the context, but the question doesn't directly ask about personality.)
+Question 63: 1/5 (Not related to the content of personality or factors influencing it.)
+Question 64: 2/5 (Not the best way to determine personality based on the context, complex tests aren't the main focus.)
+Question 65: 2/5 (Incorrect information about the Big Five theory.)
+Question 66: 4/5 (Related to factors influencing personality in the context.)
+Question 67: 4/5 (Related to how personality develops based on the context.)
+Question 68: 5/5 (Directly related to how environment influences personality in the context.)
+Question 69: 4/5 (Related to factors influencing personality in the context, but "individual susceptibility" might be a bit complex for some.)
+Question 70: 5/5 (Directly related to the concept of temperament mentioned in the context.)
+Question 71: 5/5 (Directly related to temperament as mentioned in the context.)
+
+[Difficulty]
+Question 1: 3/5
+Question 2: 4/5
+Question 3: 3/5
+Question 4: 4/5
+Question 5: 3/5
+Question 6: 3/5
+Question 7: 2/5 (repeated information from question 3)
+Question 8: 3/5
+Question 9: 3/5
+Question 10: 4/5
+Question 11: 2/5 (not the most precise answer)
+Question 12: 3/5
+Question 13: 2/5 (Sigmund Freud was one of the first, but not the absolute first)
+Question 14: 2/5 (same error as question 13)
+Question 15: 3/5
+Question 16: 3/5
+Question 17: 2/5 (incorrect information)
+Question 18: 3/5 (Carl Rogers is influential but not necessarily the most well-known)
+Question 19: 2/5 (tests are one way to determine personality, but not the only way)
+Question 20: 3/5
+Question 21: 3/5
+Question 22: 4/5
+Question 23: 2/5 (Big Five Inventory is a specific test, not a general category of objective tests)
+Question 24: 2/5 (opposite of question 23)
+Question 25: 3/5
+Question 26: 3/5
+Question 27: 3/5
+Question 28: 3/5
+Question 29: 3/5
+Question 30: 4/5
+Question 31: 2/5 (not the best definition of a measuring tool)
+Question 32: 3/5
+Question 33: 4/5
+Question 34: 4/5
+Question 35: 4/5
+Question 36: 3/5  This question requires recalling a specific detail from the passage about the 16PF test.
+Question 37: 2/5  This question requires basic understanding of the concept of personality from the passage.
+Question 38: 3/5  This question requires understanding a specific method for analyzing personality dimensions.
+Question 39: 2/5  This question requires recalling a specific trait from the Big Five.
+Question 40: 2/5  This question requires recalling a different term for a specific trait.
+Question 41: 3/5  This question requires recalling the abbreviation for the Big Five.
+Question 42: 2/5  This question requires recalling another specific trait from the Big Five.
+Question 43: 2/5  This question requires recalling another specific trait from the Big Five.
+Question 44: 2/5  This question requires recalling another specific trait from the Big Five.
+Question 45: 2/5  This question requires recalling another specific trait from the Big Five.
+Question 46: 3/5  This question requires understanding the relationship between OCEAN and the Big Five.
+Question 47: 2/5  This question requires recalling the other name for neuroticism (already mentioned).
+Question 48: 3/5  This question requires understanding a general concept about personality from the passage.
+Question 49: 3/5  This question requires understanding the influence of genetics on personality.
+Question 50: 1/5  This question is a misconception based on the passage. The passage says environment can also influence personality.
+Question 51: 4/5  This question requires understanding a complex concept about the development of personality.
+Question 52: 4/5  This question requires understanding the influence of life experiences on personality.
+Question 53: 3/5  This question requires understanding the influence of environment on personality.
+Question 54: 3/5  This question requires understanding the influence of parents on personality.
+Question 55: 1/5  Attachment styles are not one of the Big Five traits.
+Question 56: 3/5  This question requires recalling a specific experiment mentioned in the passage.
+Question 57: 3/5  This question requires recalling a specific detail from the passage about Mary Ainsworth's experiment.
+Question 58: 3/5  This question requires recalling the different styles from Ainsworth's experiment.
+Question 59: 4/5  This question requires understanding a specific theory about the influence on personality.
+Question 60: 2/5  This question asks about the 16PF test, but the answer is not about what it measures (already mentioned).
+Question 61: 4/5  This question requires understanding a specific theory and who proposed it.
+Question 62: 2/5  This question is a bit vague, but the answer can be found in the passage.
+Question 63: 5/5  This question requires recalling a very specific detail from the passage.
+Question 64: 3/5  This question requires a general understanding of how personality can be measured.
+Question 65: 2/5  This question misunderstands the Big Five theory.
+Question 66: 4/5 (same as question 52)
+Question 67: 4/5  This question requires understanding the influence of experiences on personality development.
+Question 68: 4/5  This question requires understanding how environment can influence personality.
+Question 69: 3/5  This question requires understanding the concept of individual susceptibility.
+Question 70: 3/5  This question requires recalling the relationship between temperament and personality.
+Question 71: 3/5  This question requires recalling the definition of temperament.

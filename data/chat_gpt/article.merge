@@ -1,0 +1,1064 @@
+0	1	ChatGPT	ChatGPT	NNP	nsubj:pass	8	O	 (ROOT (S (NP (NNP ChatGPT))	1	1
+0	2	is	be	VBZ	aux:pass	8	O	 (VP (VP (VBZ is)	1	1
+0	3	a	a	DT	det	4	O	 (NP (NP (DT a)	1	1
+0	4	chatbot	chatbot	NN	dep	8	O	 (NN chatbot))	1	1
+0	5	and	and	CC	cc	7	O	 (CC and)	1	1
+0	6	virtual	virtual	JJ	amod	7	O	 (NP (JJ virtual)	1	1
+0	7	assistant	assistant	NN	conj	4	TITLE	 (NN assistant)))	1	1
+0	8	developed	develop	VBN	root	0	O	 (VP (VBN developed)	2	1
+0	9	by	by	IN	case	10	O	 (PP (IN by)	2	1
+0	10	OpenAI	openai	NN	obl	8	O	 (NP (NN OpenAI)))))	2	1
+0	11	and	and	CC	cc	12	O	 (CC and)	2	1
+0	12	launched	launch	VBD	conj	8	O	 (VP (VBD launched)	2	1
+0	13	on	on	IN	case	14	O	 (PP (IN on)	2	1
+0	14	November	November	NNP	obl	12	DATE	 (NP (NNP November)	2	1
+0	15	30	30	CD	nummod	14	DATE	 (CD 30)	2	1
+0	16	,	,	,	punct	14	DATE	 (, ,)	2	1
+0	17	2022	2022	CD	nummod	14	DATE	 (CD 2022)))))	2	1
+0	18	.	.	.	punct	8	O	 (. .)))	2	1
+1	1	Based	base	VBN	case	5	O	 (ROOT (S (PP (VBN Based)	3	1
+1	2	on	on	IN	case	5	O	 (PP (IN on)	3	1
+1	3	large	large	JJ	amod	5	O	 (NP (NP (JJ large)	3	1
+1	4	language	language	NN	compound	5	O	 (NN language)	3	1
+1	5	models	model	NNS	advcl	11	O	 (NNS models))	3	1
+1	6	(	(	-LRB-	punct	5	O	 (-LRB- -LRB-) (NP (NNS LLMs)) (-RRB- -RRB-)))) (, ,) (NP (PRP it)) (VP (VBZ enables) (NP (NNS users)) (S (VP (TO to) (VP (VB refine) (CC and) (VB steer) (NP (DT a) (NN conversation)) (PP (IN towards) (NP (NP (DT a) (VBN desired) (NN length)) (, ,) (NP (NP (NN format) (, ,) (NN style) (, ,) (NN level)) (PP (IN of) (NP (NN detail)))) (, ,) (CC and) (NP (NN language)))))))) (. .)))	3	1
+1	7	LLMs	llm	NNS	dep	5	O		3	1
+1	8	)	)	-RRB-	punct	5	O		3	1
+1	9	,	,	,	punct	11	O		3	1
+1	10	it	it	PRP	nsubj	11	O		4	1
+1	11	enables	enable	VBZ	root	0	O		4	1
+1	12	users	user	NNS	obj	11	O		4	1
+1	13	to	to	TO	mark	14	O		4	1
+1	14	refine	refine	VB	advcl	11	O		4	1
+1	15	and	and	CC	cc	16	O		4	1
+1	16	steer	steer	VB	conj	14	O		4	1
+1	17	a	a	DT	det	18	O		4	1
+1	18	conversation	conversation	NN	obj	14	O		4	1
+1	19	towards	towards	IN	case	22	O		4	1
+1	20	a	a	DT	det	22	O		4	1
+1	21	desired	desire	VBN	amod	22	O		4	1
+1	22	length	length	NN	obl	14	O		4	1
+1	23	,	,	,	punct	22	O		4	1
+1	24	format	format	NN	compound	28	O		4	1
+1	25	,	,	,	punct	28	O		4	1
+1	26	style	style	NN	dep	28	O		4	1
+1	27	,	,	,	punct	28	O		4	1
+1	28	level	level	NN	conj	22	O		4	1
+1	29	of	of	IN	case	30	O		4	1
+1	30	detail	detail	NN	nmod	28	O		4	1
+1	31	,	,	,	punct	22	O		4	1
+1	32	and	and	CC	cc	33	O		4	1
+1	33	language	language	NN	conj	22	O		4	1
+1	34	.	.	.	punct	11	O		4	1
+2	1	Successive	successive	JJ	amod	2	O	 (ROOT (S (NP (NP (JJ Successive)	5	1
+2	2	user	user	NN	nsubj:pass	7	O	 (NN user))	5	1
+2	3	prompts	prompt	VBZ	acl:relcl	2	O	 (SBAR (S (VP (VP (VBZ prompts))	5	1
+2	4	and	and	CC	cc	5	O	 (CC and)	5	1
+2	5	replies	reply	VBZ	conj	3	O	 (VP (VBZ replies))))))	5	1
+2	6	are	be	VBP	aux:pass	7	O	 (VP (VBP are)	5	1
+2	7	considered	consider	VBN	root	0	O	 (VP (VBN considered)	5	1
+2	8	at	at	IN	case	11	O	 (PP (IN at)	5	1
+2	9	each	each	DT	det	11	O	 (NP (DT each)	5	1
+2	10	conversation	conversation	NN	compound	11	O	 (NN conversation)	5	1
+2	11	stage	stage	NN	obl	7	O	 (NN stage)))	5	1
+2	12	as	as	IN	case	13	O	 (PP (IN as)	5	1
+2	13	context	context	NN	obl	7	O	 (NP (NN context)))))	5	1
+2	14	.	.	.	punct	7	O	 (. .)))	5	1
+3	1	ChatGPT	ChatGPT	NNP	nsubj:pass	3	O	 (ROOT (S (NP (NNP ChatGPT))	6	1
+3	2	is	be	VBZ	aux:pass	3	O	 (VP (VBZ is)	6	1
+3	3	credited	credit	VBN	root	0	O	 (VP (VBN credited)	6	1
+3	4	with	with	IN	mark	5	O	 (PP (IN with)	6	1
+3	5	starting	start	VBG	advcl	3	O	 (S (VP (VBG starting)	6	1
+3	6	the	the	DT	det	8	O	 (NP (NP (DT the)	6	1
+3	7	AI	ai	NN	compound	8	MISC	 (NN AI)	6	1
+3	8	boom	boom	NN	obj	5	MISC	 (NN boom))	6	1
+3	9	,	,	,	punct	8	O	 (, ,)	6	1
+3	10	which	which	WDT	nsubj	12	O	 (SBAR (WHNP (WDT which))	7	1
+3	11	has	have	VBZ	aux	12	O	 (S (VP (VBZ has)	7	1
+3	12	led	lead	VBN	acl:relcl	8	O	 (VP (VP (VBN led)	7	1
+3	13	to	to	IN	case	16	O	 (PP (IN to)	7	1
+3	14	ongoing	ongoing	JJ	amod	16	O	 (NP (JJ ongoing)	7	1
+3	15	rapid	rapid	JJ	amod	16	O	 (JJ rapid)	7	1
+3	16	investment	investment	NN	obl	12	O	 (NN investment)))	7	1
+3	17	in	in	IN	case	16	O	 (PP (IN in)))	7	1
+3	18	and	and	CC	cc	20	O	 (CC and)	7	1
+3	19	public	public	JJ	amod	20	O	 (VP (NP (JJ public)	7	1
+3	20	attention	attention	NN	conj	12	O	 (NN attention))	7	1
+3	21	to	to	IN	case	23	O	 (PP (IN to)	7	1
+3	22	the	the	DT	det	23	O	 (NP (NP (DT the)	7	1
+3	23	field	field	NN	obl	20	O	 (NN field))	7	1
+3	24	of	of	IN	case	26	O	 (PP (IN of)	7	1
+3	25	artificial	artificial	JJ	amod	26	O	 (NP (JJ artificial)	7	1
+3	26	intelligence	intelligence	NN	nmod	23	O	 (NN intelligence))))))))))))))	7	1
+3	27	(	(	-LRB-	punct	28	O	 (PRN (-LRB- -LRB-) (NP (NN AI)) (-RRB- -RRB-)))) (. .)))	7	1
+3	28	AI	ai	NN	dep	3	O		7	1
+3	29	)	)	-RRB-	punct	28	O		7	1
+3	30	.	.	.	punct	3	O		7	1
+4	1	By	by	IN	case	2	O	 (ROOT (S (PP (IN By)	8	1
+4	2	January	January	NNP	obl	7	DATE	 (NP (NNP January)	8	1
+4	3	2023	2023	CD	nummod	2	DATE	 (CD 2023)))	8	1
+4	4	,	,	,	punct	7	O	 (, ,)	8	1
+4	5	it	it	PRP	nsubj	7	O	 (NP (PRP it))	8	1
+4	6	had	have	VBD	aux	7	O	 (VP (VBD had)	8	1
+4	7	become	become	VBN	root	0	O	 (VP (VBN become)	8	1
+4	8	what	what	WP	nsubj	17	O	 (SBAR (WHNP (WP what))	8	1
+4	9	was	be	VBD	cop	17	O	 (S (VP (VBD was)	8	1
+4	10	then	then	RB	advmod	17	O	 (ADVP (RB then))	8	1
+4	11	the	the	DT	det	17	O	 (NP (NP (NP (DT the)	8	1
+4	12	fastest	fast	RBS	advmod	14	O	 (ADJP (RBS fastest)	8	1
+4	13	-	-	HYPH	punct	14	O	 (HYPH -)	8	1
+4	14	growing	grow	VBG	amod	17	O	 (VBG growing))	8	1
+4	15	consumer	consumer	NN	compound	16	O	 (NML (NN consumer)	8	1
+4	16	software	software	NN	compound	17	O	 (NN software))	8	1
+4	17	application	application	NN	ccomp	7	O	 (NN application))	8	1
+4	18	in	in	IN	case	19	O	 (PP (IN in)	8	1
+4	19	history	history	NN	nmod	17	O	 (NP (NN history))))	8	1
+4	20	,	,	,	punct	17	O	 (, ,)	8	1
+4	21	gaining	gain	VBG	dep	17	O	 (VP (VP (VBG gaining)	9	1
+4	22	over	over	IN	case	25	O	 (PP (IN over)	9	1
+4	23	100	100	CD	compound	24	NUMBER	 (NP (QP (CD 100)	9	1
+4	24	million	million	CD	nummod	25	NUMBER	 (CD million))	9	1
+4	25	users	user	NNS	obl	21	O	 (NNS users))))	9	1
+4	26	and	and	CC	cc	27	O	 (CC and)	10	1
+4	27	contributing	contribute	VBG	conj	21	O	 (VP (VBG contributing)	10	1
+4	28	to	to	IN	case	30	O	 (PP (IN to)	10	1
+4	29	the	the	DT	det	30	O	 (NP (NP (DT the)	10	1
+4	30	growth	growth	NN	obl	27	O	 (NN growth))	10	1
+4	31	of	of	IN	case	35	O	 (PP (IN of)	10	1
+4	32	OpenAI	OpenAI	NNP	nmod:poss	35	O	 (NP (NP (NP (NNP OpenAI)	10	1
+4	33	's	's	POS	case	32	O	 (POS 's))	10	1
+4	34	current	current	JJ	amod	35	DATE	 (JJ current)	10	1
+4	35	valuation	valuation	NN	nmod	30	O	 (NN valuation))	10	1
+4	36	of	of	IN	case	37	O	 (PP (IN of)	10	1
+4	37	$	$	$	nmod	35	MONEY	 (NP (QP ($ $)	10	1
+4	38	86	86	CD	compound	39	MONEY	 (CD 86)	10	1
+4	39	billion	billion	CD	nummod	37	MONEY	 (CD billion))))))))))))))))	10	1
+4	40	.	.	.	punct	7	O	 (. .)))	10	1
+5	1	ChatGPT	ChatGPT	NNP	nmod:poss	3	O	 (ROOT (S (NP (NP (NNP ChatGPT)	11	1
+5	2	's	's	POS	case	1	O	 (POS 's))	11	1
+5	3	release	release	NN	nsubj	4	O	 (NN release))	11	1
+5	4	spurred	spur	VBD	root	0	O	 (VP (VBD spurred)	11	1
+5	5	the	the	DT	det	6	O	 (NP (NP (DT the)	11	1
+5	6	release	release	NN	obj	4	O	 (NN release))	11	1
+5	7	of	of	IN	case	9	O	 (PP (IN of)	11	1
+5	8	competing	compete	VBG	amod	9	O	 (NP (VBG competing)	11	1
+5	9	products	product	NNS	nmod	6	O	 (NNS products))))	11	1
+5	10	,	,	,	punct	4	O	 (, ,)	11	1
+5	11	including	include	VBG	case	12	O	 (PP (VBG including)	11	1
+5	12	Gemini	Gemini	NNP	obl	4	O	 (NP (NNP Gemini)	11	1
+5	13	,	,	,	punct	12	O	 (, ,)	11	1
+5	14	Claude	Claude	NNP	conj	12	PERSON	 (NNP Claude)	11	1
+5	15	,	,	,	punct	12	O	 (, ,)	11	1
+5	16	Llama	Llama	NNP	conj	12	LOCATION	 (NNP Llama)	11	1
+5	17	,	,	,	punct	12	O	 (, ,)	11	1
+5	18	Ernie	Ernie	NNP	conj	12	PERSON	 (NNP Ernie)	11	1
+5	19	,	,	,	punct	12	O	 (, ,)	11	1
+5	20	and	and	CC	cc	21	O	 (CC and)	11	1
+5	21	Grok	Grok	NNP	conj	12	O	 (NNP Grok))))	11	1
+5	22	.	.	.	punct	4	O	 (. .)))	11	1
+6	1	Microsoft	Microsoft	NNP	nsubj	2	ORGANIZATION	 (ROOT (S (NP (NNP Microsoft))	12	1
+6	2	launched	launch	VBD	root	0	O	 (VP (VBD launched)	12	1
+6	3	Copilot	Copilot	NNP	obj	2	O	 (NP (NP (NNP Copilot))	12	1
+6	4	,	,	,	punct	3	O	 (, ,)	12	1
+6	5	initially	initially	RB	advmod	6	O	 (VP (ADVP (RB initially))	13	1
+6	6	based	base	VBN	acl	3	O	 (VBN based)	13	1
+6	7	on	on	IN	case	10	O	 (PP (IN on)	13	1
+6	8	OpenAI	OpenAI	NNP	nmod:poss	10	O	 (NP (NP (NNP OpenAI)	13	1
+6	9	's	's	POS	case	8	O	 (POS 's))	13	1
+6	10	GPT	GPT	NNP	obl	6	ORGANIZATION	 (NML (NNP GPT)	13	1
+6	11	-	-	HYPH	punct	10	O	 (HYPH -)	13	1
+6	12	4	4	CD	nummod	10	DATE	 (CD 4)))))))	13	1
+6	13	.	.	.	punct	2	O	 (. .)))	13	1
+7	1	In	in	IN	case	2	O	 (ROOT (S (PP (IN In)	14	1
+7	2	June	June	NNP	obl	13	DATE	 (NP (NNP June)	14	1
+7	3	2024	2024	CD	nummod	2	DATE	 (CD 2024)))	14	1
+7	4	,	,	,	punct	13	O	 (, ,)	14	1
+7	5	a	a	DT	det	6	O	 (NP (NP (DT a)	14	1
+7	6	partnership	partnership	NN	nsubj:pass	13	O	 (NN partnership))	14	1
+7	7	between	between	IN	case	9	O	 (PP (IN between)	14	1
+7	8	Apple	Apple	NNP	compound	9	ORGANIZATION	 (NP (NNP Apple)	14	1
+7	9	Inc.	Inc.	NNP	nmod	6	ORGANIZATION	 (NNP Inc.)	14	1
+7	10	and	and	CC	cc	11	O	 (CC and)	14	1
+7	11	OpenAI	OpenAI	NNP	conj	9	MISC	 (NNP OpenAI))))	14	1
+7	12	was	be	VBD	aux:pass	13	O	 (VP (VBD was)	14	1
+7	13	announced	announce	VBN	root	0	O	 (VP (VBN announced)	14	1
+7	14	in	in	IN	mark	18	O	 (PP (IN in)	15	1
+7	15	which	which	WDT	obj	26	O	 (SBAR (WHNP (WDT which))	15	1
+7	16	ChatGPT	ChatGPT	NNP	nsubj:pass	18	O	 (S (NP (NNP ChatGPT))	16	1
+7	17	is	be	VBZ	aux:pass	18	O	 (VP (VBZ is)	16	1
+7	18	integrated	integrate	VBN	advcl	13	O	 (VP (VBN integrated)	16	1
+7	19	into	into	IN	case	23	O	 (PP (IN into)	16	1
+7	20	the	the	DT	det	23	O	 (NP (NP (DT the)	16	1
+7	21	Apple	Apple	NNP	compound	22	O	 (NML (NNP Apple)	16	1
+7	22	Intelligence	Intelligence	NNP	compound	23	O	 (NNP Intelligence))	16	1
+7	23	feature	feature	NN	obl	18	O	 (NN feature))	16	1
+7	24	of	of	IN	case	25	O	 (PP (IN of)	16	1
+7	25	Apple	Apple	NNP	nmod	23	ORGANIZATION	 (NP (NNP Apple)))))	16	1
+7	26	operating	operate	VBG	xcomp	18	O	 (S (VP (VBG operating)	16	1
+7	27	systems	system	NNS	obj	26	O	 (NP (NNS systems)))))))))))	16	1
+7	28	.	.	.	punct	13	O	 (. .)))	16	1
+8	1	Some	some	DT	det	2	O	 (ROOT (S (S (NP (DT Some)	17	1
+8	2	observers	observer	NNS	nsubj	3	O	 (NNS observers))	17	1
+8	3	raised	raise	VBD	root	0	O	 (VP (VBD raised)	17	1
+8	4	concern	concern	NN	obj	3	O	 (NP (NN concern))	17	1
+8	5	about	about	IN	case	7	O	 (PP (IN about)	17	1
+8	6	the	the	DT	det	7	O	 (NP (NP (DT the)	17	1
+8	7	potential	potential	NN	obl	3	O	 (NN potential))	17	1
+8	8	of	of	IN	case	9	O	 (PP (IN of)	17	1
+8	9	ChatGPT	ChatGPT	NNP	nmod	7	O	 (NP (NP (NNP ChatGPT))	17	1
+8	10	and	and	CC	cc	12	O	 (CC and)	17	1
+8	11	similar	similar	JJ	amod	12	O	 (NP (JJ similar)	17	1
+8	12	programs	program	NNS	conj	9	O	 (NNS programs))))))	17	1
+8	13	to	to	TO	mark	14	O	 (S (VP (TO to)	18	1
+8	14	displace	displace	VB	advcl	3	O	 (VP (VB displace))))))	18	1
+8	15	or	or	CC	cc	20	O	 (CC or)	18	1
+8	16	atrophy	atrophy	NN	nsubj	20	O	 (S (NP (NP (NN atrophy))	18	1
+8	17	human	human	JJ	amod	18	O	 (NP (JJ human)	18	1
+8	18	intelligence	intelligence	NN	dep	16	O	 (NN intelligence)))	18	1
+8	19	,	,	,	punct	20	O	 (, ,)	18	1
+8	20	enable	enable	VBP	conj	3	O	 (VP (VBP enable)	18	1
+8	21	plagiarism	plagiarism	NN	obj	20	O	 (NP (NP (NN plagiarism))	18	1
+8	22	,	,	,	punct	21	O	 (, ,)	18	1
+8	23	or	or	CC	cc	25	O	 (CC or)	18	1
+8	24	fuel	fuel	NN	compound	25	O	 (NP (NN fuel)	18	1
+8	25	misinformation	misinformation	NN	conj	21	O	 (NN misinformation)))))	18	1
+8	26	.	.	.	punct	3	O	 (. .)))	18	1
+9	1	ChatGPT	ChatGPT	NNP	nsubj:pass	3	O	 (ROOT (S (NP (NNP ChatGPT))	19	1
+9	2	is	be	VBZ	aux:pass	3	O	 (VP (VP (VBZ is)	19	1
+9	3	built	build	VBN	root	0	O	 (VP (VBN built)	19	1
+9	4	on	on	IN	case	8	O	 (PP (IN on)	19	1
+9	5	OpenAI	OpenAI	NNP	nmod:poss	8	O	 (NP (NP (NP (NNP OpenAI)	19	1
+9	6	's	's	POS	case	5	O	 (POS 's))	19	1
+9	7	proprietary	proprietary	JJ	amod	8	O	 (JJ proprietary)	19	1
+9	8	series	series	NN	obl	3	O	 (NN series))	19	1
+9	9	of	of	IN	case	14	O	 (PP (IN of)	19	1
+9	10	generative	generative	JJ	amod	14	O	 (NP (NP (NP (JJ generative)	19	1
+9	11	pre	pre	AFX	dep	13	O	 (ADJP (AFX pre)	19	1
+9	12	-	-	HYPH	punct	13	O	 (HYPH -)	19	1
+9	13	trained	train	VBN	amod	14	O	 (VBN trained))	19	1
+9	14	transformer	transformer	NN	nmod	8	O	 (NN transformer))	19	1
+9	15	(	(	-LRB-	punct	14	O	 (-LRB- -LRB-) (NP (NN GPT)) (-RRB- -RRB-)) (NP (NNS models)))))))) (CC and) (VP (VBZ is) (ADJP (ADJP (JJ fine) (HYPH -) (VBN tuned) (PP (IN for) (NP (NP (JJ conversational) (NNS applications)) (VP (VP (VBG using) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (JJ supervised) (NN learning))))) (CC and) (VP (NN reinforcement) (VBG learning)))))) (PP (IN from) (NP (JJ human) (NN feedback)))))) (. .)))	19	1
+9	16	GPT	gpt	NN	dep	14	O		19	1
+9	17	)	)	-RRB-	punct	14	O		19	1
+9	18	models	model	NNS	dep	14	O		19	1
+9	19	and	and	CC	cc	23	O		20	1
+9	20	is	be	VBZ	cop	23	O		20	1
+9	21	fine	fine	JJ	dep	23	O		20	1
+9	22	-	-	HYPH	punct	23	O		20	1
+9	23	tuned	tune	VBN	conj	3	O		20	1
+9	24	for	for	IN	case	26	O		20	1
+9	25	conversational	conversational	JJ	amod	26	O		20	1
+9	26	applications	application	NNS	obl	23	O		20	1
+9	27	using	use	VBG	dep	26	O		21	1
+9	28	a	a	DT	det	29	O		21	1
+9	29	combination	combination	NN	obj	27	O		21	1
+9	30	of	of	IN	case	32	O		21	1
+9	31	supervised	supervised	JJ	amod	32	O		21	1
+9	32	learning	learning	NN	nmod	29	O		21	1
+9	33	and	and	CC	cc	35	O		21	1
+9	34	reinforcement	reinforcement	NN	dep	35	O		21	1
+9	35	learning	learn	VBG	conj	27	O		21	1
+9	36	from	from	IN	case	38	O		21	1
+9	37	human	human	JJ	amod	38	O		21	1
+9	38	feedback	feedback	NN	obl	23	O		21	1
+9	39	.	.	.	punct	3	O		21	1
+10	1	ChatGPT	ChatGPT	NNP	nsubj:pass	3	O	 (ROOT (S (S (NP (NNP ChatGPT))	22	1
+10	2	was	be	VBD	aux:pass	3	O	 (VP (VBD was)	22	1
+10	3	released	release	VBN	root	0	O	 (VP (VBN released)	22	1
+10	4	as	as	IN	case	9	O	 (PP (IN as)	22	1
+10	5	a	a	DT	det	9	O	 (NP (DT a)	22	1
+10	6	freely	freely	RB	advmod	7	O	 (ADJP (RB freely)	22	1
+10	7	available	available	JJ	amod	9	O	 (JJ available))	22	1
+10	8	research	research	NN	compound	9	O	 (NN research)	22	1
+10	9	preview	preview	NN	obl	3	O	 (NN preview))))))	22	1
+10	10	,	,	,	punct	3	O	 (, ,)	22	1
+10	11	but	but	CC	cc	19	O	 (CC but)	23	1
+10	12	due	due	IN	case	15	O	 (S (PP (IN due)	23	1
+10	13	to	to	IN	case	15	O	 (PP (IN to)	23	1
+10	14	its	its	PRP$	nmod:poss	15	O	 (NP (PRP$ its)	23	1
+10	15	popularity	popularity	NN	obl	19	O	 (NN popularity))))	23	1
+10	16	,	,	,	punct	19	O	 (, ,)	23	1
+10	17	OpenAI	OpenAI	NNP	nsubj	19	O	 (NP (NNP OpenAI))	24	1
+10	18	now	now	RB	advmod	19	DATE	 (ADVP (RB now))	24	1
+10	19	operates	operate	VBZ	conj	3	O	 (VP (VBZ operates)	24	1
+10	20	the	the	DT	det	21	O	 (NP (NP (DT the)	24	1
+10	21	service	service	NN	obj	19	O	 (NN service))	24	1
+10	22	on	on	IN	case	25	O	 (PP (IN on)	24	1
+10	23	a	a	DT	det	25	O	 (NP (DT a)	24	1
+10	24	freemium	freemium	NN	compound	25	O	 (NN freemium)	24	1
+10	25	model	model	NN	nmod	21	TITLE	 (NN model))))))	24	1
+10	26	.	.	.	punct	3	O	 (. .)))	24	1
+11	1	Users	user	NNS	nsubj	7	O	 (ROOT (S (NP (NP (NNS Users))	25	1
+11	2	on	on	IN	case	5	O	 (PP (IN on)	25	1
+11	3	its	its	PRP$	nmod:poss	5	O	 (NP (PRP$ its)	25	1
+11	4	free	free	JJ	amod	5	O	 (NML (JJ free)	25	1
+11	5	tier	tier	NN	nmod	1	TITLE	 (NN tier)))))	25	1
+11	6	can	can	MD	aux	7	O	 (VP (MD can)	25	1
+11	7	access	access	VB	root	0	O	 (VP (VB access)	25	1
+11	8	GPT	GPT	NNP	compound	10	ORGANIZATION	 (NP (NP (NNP GPT)	25	1
+11	9	-	-	HYPH	punct	10	O	 (HYPH -)	25	1
+11	10	4o	4o	NNP	obj	7	O	 (NNP 4o))	25	1
+11	11	and	and	CC	cc	14	O	 (CC and)	25	1
+11	12	GPT	GPT	NNP	compound	14	ORGANIZATION	 (NP (NNP GPT)	25	1
+11	13	-	-	HYPH	punct	14	O	 (HYPH -)	25	1
+11	14	3	3	NNP	conj	10	DATE	 (NNP 3)))))	25	1
+11	15	.	.	.	punct	7	O	 (. .)))	25	1
+12	1	5	5	CD	root	0	NUMBER	 (ROOT (NP (CD 5)	25	1
+12	2	.	.	.	punct	1	O	 (. .)))	25	1
+13	1	The	the	DT	det	3	O	 (ROOT (NP (NP (NP (DT The)	26	1
+13	2	ChatGPT	ChatGPT	NNP	compound	3	O	 (NNP ChatGPT)	26	1
+13	3	subscriptions	subscription	NNS	root	0	O	 (NNS subscriptions)	26	1
+13	4	"	"	''	punct	3	O	 ('' "))	27	1
+13	5	Plus	plus	CC	dep	3	O	 (FRAG (CC Plus)))	27	1
+13	6	"	"	``	punct	15	O	 (SBAR (`` ")	27	1
+13	7	,	,	,	punct	15	O	 (S (, ,)	27	1
+13	8	"	"	``	punct	9	O	 (NP (NP (`` ")	27	1
+13	9	Team	Team	NNP	nsubj	15	MISC	 (NNP Team)	27	1
+13	10	"	"	''	punct	9	O	 ('' "))	27	1
+13	11	and	and	CC	cc	13	O	 (CC and)	27	1
+13	12	"	"	``	punct	13	O	 (NP (`` ")	27	1
+13	13	Enterprise	Enterprise	NNP	conj	9	O	 (NNP Enterprise)	27	1
+13	14	"	"	''	punct	13	O	 ('' ")))	27	1
+13	15	provide	provide	VBP	dep	3	O	 (VP (VP (VBP provide)	27	1
+13	16	additional	additional	JJ	amod	17	O	 (NP (NP (JJ additional)	27	1
+13	17	features	feature	NNS	obj	15	O	 (NNS features))	27	1
+13	18	such	such	JJ	case	25	O	 (PP (JJ such)	27	1
+13	19	as	as	IN	fixed	18	O	 (IN as)	27	1
+13	20	DALL	DALL	NNP	compound	22	O	 (NP (NML (NNP DALL)	27	1
+13	21	-	-	HYPH	punct	22	O	 (HYPH -)	27	1
+13	22	E	E	NNP	compound	25	O	 (NNP E)	27	1
+13	23	3	3	CD	nummod	22	NUMBER	 (CD 3))	27	1
+13	24	image	image	NN	compound	25	O	 (NN image)	27	1
+13	25	generation	generation	NN	nmod	17	O	 (NN generation)))))	27	1
+13	26	and	and	CC	cc	27	O	 (CC and)	27	1
+13	27	increased	increase	VBD	conj	15	O	 (VP (VBD increased)	27	1
+13	28	GPT	GPT	NNP	compound	30	ORGANIZATION	 (NP (NML (NNP GPT)	27	1
+13	29	-	-	HYPH	punct	30	O	 (HYPH -)	27	1
+13	30	4o	4o	NNP	compound	32	O	 (NNP 4o))	27	1
+13	31	usage	usage	NN	compound	32	O	 (NN usage)	27	1
+13	32	limit	limit	NN	obj	27	O	 (NN limit))))))	27	1
+13	33	.	.	.	punct	3	O	 (. .)))	27	1
+14	1	ChatGPT	ChatGPT	NNP	nsubj:pass	3	O	 (ROOT (S (NP (NNP ChatGPT))	28	1
+14	2	is	be	VBZ	aux:pass	3	O	 (VP (VBZ is)	28	1
+14	3	based	base	VBN	root	0	O	 (VP (VBN based)	28	1
+14	4	on	on	IN	case	8	O	 (PP (IN on)	28	1
+14	5	particular	particular	JJ	amod	8	O	 (NP (NP (NP (JJ particular)	28	1
+14	6	GPT	GPT	NNP	compound	8	ORGANIZATION	 (NNP GPT)	28	1
+14	7	foundation	foundation	NN	compound	8	O	 (NN foundation)	28	1
+14	8	models	model	NNS	obl	3	O	 (NNS models))	28	1
+14	9	,	,	,	punct	8	O	 (, ,)	28	1
+14	10	namely	namely	RB	advmod	8	O	 (ADVP (RB namely)))	28	1
+14	11	GPT	GPT	NNP	compound	13	ORGANIZATION	 (NP (NNP GPT)	28	1
+14	12	-	-	HYPH	punct	13	O	 (HYPH -)	28	1
+14	13	3	3	NNP	dep	8	DATE	 (NNP 3))))))	28	1
+14	14	.	.	.	punct	3	O	 (. .)))	28	1
+15	1	5	5	CD	root	0	NUMBER	 (ROOT (NP (NP (CD 5))	28	1
+15	2	,	,	,	punct	1	O	 (, ,)	28	1
+15	3	GPT	GPT	NNP	conj	1	ORGANIZATION	 (NP (NNP GPT)	28	1
+15	4	-	-	HYPH	punct	3	O	 (HYPH -)	28	1
+15	5	4	4	CD	nummod	3	DATE	 (CD 4))	28	1
+15	6	,	,	,	punct	1	O	 (, ,)	28	1
+15	7	and	and	CC	cc	10	O	 (CC and)	28	1
+15	8	GPT	GPT	NNP	compound	10	ORGANIZATION	 (NP (NP (NNP GPT)	28	1
+15	9	-	-	HYPH	punct	10	O	 (HYPH -)	28	1
+15	10	4o	4o	NNP	conj	1	O	 (NNP 4o))	28	1
+15	11	,	,	,	punct	10	O	 (, ,)	28	1
+15	12	that	that	WDT	nsubj	16	O	 (SBAR (WHNP (WDT that))	29	1
+15	13	were	be	VBD	cop	16	O	 (S (VP (VBD were)	29	1
+15	14	fine	fine	JJ	dep	16	O	 (ADJP (ADJP (JJ fine)	29	1
+15	15	-	-	HYPH	punct	16	O	 (HYPH -)	29	1
+15	16	tuned	tune	VBN	acl:relcl	10	O	 (VBN tuned))	29	1
+15	17	to	to	TO	mark	18	O	 (S (VP (TO to)	29	1
+15	18	target	target	VB	xcomp	16	O	 (VP (VB target)	29	1
+15	19	conversational	conversational	JJ	amod	20	O	 (NP (JJ conversational)	29	1
+15	20	usage	usage	NN	obj	18	O	 (NN usage))))))))))	29	1
+15	21	.	.	.	punct	1	O	 (. .)))	29	1
+16	1	The	the	DT	det	8	O	 (ROOT (NP (NP (DT The)	30	1
+16	2	fine	fine	JJ	amod	4	O	 (ADJP (NP (JJ fine)	30	1
+16	3	-	-	HYPH	punct	4	O	 (HYPH -)	30	1
+16	4	tuning	tuning	NN	dep	6	O	 (NN tuning))	30	1
+16	5	process	process	NN	dep	6	O	 (NN process)	30	1
+16	6	leveraged	leverage	VBN	amod	8	O	 (VBN leveraged))	30	1
+16	7	supervised	supervised	JJ	amod	8	O	 (JJ supervised)	30	1
+16	8	learning	learning	NN	root	0	O	 (NML (NN learning)	30	1
+16	9	and	and	CC	cc	10	O	 (CC and)	30	1
+16	10	reinforcement	reinforcement	NN	conj	8	O	 (NN reinforcement)))	30	1
+16	11	learning	learn	VBG	acl	8	O	 (VP (VBG learning)	30	1
+16	12	from	from	IN	case	14	O	 (PP (IN from)	30	1
+16	13	human	human	JJ	amod	14	O	 (NP (JJ human)	30	1
+16	14	feedback	feedback	NN	obl	11	O	 (NN feedback)	30	1
+16	15	(	(	-LRB-	punct	16	O	 (PRN (-LRB- -LRB-) (NP (NN RLHF)) (-RRB- -RRB-))))) (. .)))	31	1
+16	16	RLHF	rlhf	NN	appos	14	O		31	1
+16	17	)	)	-RRB-	punct	16	O		31	1
+16	18	.	.	.	punct	8	O		31	1
+17	1	Both	both	DT	det	2	O	 (ROOT (S (NP (DT Both)	32	1
+17	2	approaches	approach	NNS	nsubj	3	O	 (NNS approaches))	32	1
+17	3	employed	employ	VBN	root	0	O	 (VP (VBN employed)	32	1
+17	4	human	human	JJ	amod	5	O	 (NP (JJ human)	32	1
+17	5	trainers	trainer	NNS	obj	3	O	 (NNS trainers))	32	1
+17	6	to	to	TO	mark	7	O	 (S (VP (TO to)	32	1
+17	7	improve	improve	VB	advcl	3	O	 (VP (VB improve)	32	1
+17	8	model	model	NN	compound	9	TITLE	 (NP (NN model)	32	1
+17	9	performance	performance	NN	obj	7	O	 (NN performance))))))	32	1
+17	10	.	.	.	punct	3	O	 (. .)))	32	1
+18	1	In	in	IN	case	3	O	 (ROOT (S (PP (IN In)	33	1
+18	2	the	the	DT	det	3	O	 (NP (NP (DT the)	33	1
+18	3	case	case	NN	obl	10	O	 (NN case))	33	1
+18	4	of	of	IN	case	6	O	 (PP (IN of)	33	1
+18	5	supervised	supervised	JJ	amod	6	O	 (NP (JJ supervised)	33	1
+18	6	learning	learning	NN	nmod	3	O	 (NN learning)))))	33	1
+18	7	,	,	,	punct	10	O	 (, ,)	33	1
+18	8	the	the	DT	det	9	O	 (NP (DT the)	33	1
+18	9	trainers	trainer	NNS	nsubj	10	O	 (NNS trainers))	33	1
+18	10	played	play	VBD	root	0	O	 (VP (VBD played)	33	1
+18	11	both	both	DT	det	12	O	 (NP (NP (DT both)	33	1
+18	12	sides	side	NNS	obj	10	O	 (NNS sides))	33	1
+18	13	:	:	:	punct	12	O	 (: :)	33	1
+18	14	the	the	DT	det	15	O	 (NP (NP (DT the)	33	1
+18	15	user	user	NN	dep	12	O	 (NN user))	33	1
+18	16	and	and	CC	cc	19	O	 (CC and)	33	1
+18	17	the	the	DT	det	19	O	 (NP (DT the)	33	1
+18	18	AI	ai	NN	compound	19	O	 (NN AI)	33	1
+18	19	assistant	assistant	NN	conj	15	TITLE	 (NN assistant)))))	33	1
+18	20	.	.	.	punct	10	O	 (. .)))	33	1
+19	1	In	in	IN	case	5	O	 (ROOT (S (PP (IN In)	34	1
+19	2	the	the	DT	det	5	O	 (NP (DT the)	34	1
+19	3	reinforcement	reinforcement	NN	compound	5	O	 (NN reinforcement)	34	1
+19	4	learning	learn	VBG	amod	5	O	 (VBG learning)	34	1
+19	5	stage	stage	NN	obl	10	O	 (NN stage)))	34	1
+19	6	,	,	,	punct	10	O	 (, ,)	34	1
+19	7	human	human	JJ	amod	8	O	 (NP (JJ human)	34	1
+19	8	trainers	trainer	NNS	nsubj	10	O	 (NNS trainers))	34	1
+19	9	first	first	RB	advmod	10	ORDINAL	 (ADVP (RB first))	34	1
+19	10	ranked	rank	VBD	root	0	O	 (VP (VBD ranked)	34	1
+19	11	responses	response	NNS	obj	10	O	 (NP (NNS responses))	34	1
+19	12	that	that	IN	mark	16	O	 (SBAR (IN that)	35	1
+19	13	the	the	DT	det	14	O	 (S (NP (DT the)	35	1
+19	14	model	model	NN	nsubj	16	TITLE	 (NN model))	35	1
+19	15	had	have	VBD	aux	16	O	 (VP (VBD had)	35	1
+19	16	created	create	VBN	ccomp	10	O	 (VP (VBN created)	35	1
+19	17	in	in	IN	case	20	O	 (PP (IN in)	35	1
+19	18	a	a	DT	det	20	O	 (NP (DT a)	35	1
+19	19	previous	previous	JJ	amod	20	O	 (JJ previous)	35	1
+19	20	conversation	conversation	NN	obl	16	O	 (NN conversation))))))))	35	1
+19	21	.	.	.	punct	10	O	 (. .)))	35	1
+20	1	These	this	DT	det	2	O	 (ROOT (S (NP (DT These)	36	1
+20	2	rankings	ranking	NNS	nsubj:pass	4	O	 (NNS rankings))	36	1
+20	3	were	be	VBD	aux:pass	4	O	 (VP (VBD were)	36	1
+20	4	used	use	VBN	root	0	O	 (VP (VBN used)	36	1
+20	5	to	to	TO	mark	6	O	 (S (VP (TO to)	36	1
+20	6	create	create	VB	xcomp	4	O	 (VP (VB create)	36	1
+20	7	"	"	``	punct	9	O	 (NP (NP (`` ")	36	1
+20	8	reward	reward	NN	compound	9	O	 (NN reward)	36	1
+20	9	models	model	NNS	obj	6	O	 (NNS models)	36	1
+20	10	"	"	''	punct	9	O	 ('' "))	37	1
+20	11	that	that	WDT	nsubj:pass	13	O	 (SBAR (WHNP (WDT that))	37	1
+20	12	were	be	VBD	aux:pass	13	O	 (S (VP (VBD were)	37	1
+20	13	used	use	VBN	acl:relcl	9	O	 (VP (VBN used)	37	1
+20	14	to	to	TO	mark	17	O	 (S (VP (TO to)	37	1
+20	15	fine	fine	RB	advmod	17	O	 (VP (RB fine)	37	1
+20	16	-	-	HYPH	punct	17	O	 (HYPH -)	37	1
+20	17	tune	tune	VB	xcomp	13	O	 (VB tune)	37	1
+20	18	the	the	DT	det	19	O	 (NP (DT the)	37	1
+20	19	model	model	NN	obj	17	TITLE	 (NN model))))))))))	37	1
+20	20	further	further	RB	advmod	22	O	 (PP (ADVP (RB further))	37	1
+20	21	by	by	IN	mark	22	O	 (IN by)	38	1
+20	22	using	use	VBG	advcl	6	O	 (S (VP (VBG using)	38	1
+20	23	several	several	JJ	amod	24	O	 (NP (NP (JJ several)	38	1
+20	24	iterations	iteration	NNS	obj	22	O	 (NNS iterations))	38	1
+20	25	of	of	IN	case	28	O	 (PP (IN of)	38	1
+20	26	proximal	proximal	JJ	amod	28	O	 (NP (JJ proximal)	38	1
+20	27	policy	policy	NN	compound	28	O	 (NN policy)	38	1
+20	28	optimization	optimization	NN	nmod	24	O	 (NN optimization))))))))))))	38	1
+20	29	.	.	.	punct	4	O	 (. .)))	38	1
+21	1	Time	Time	NNP	compound	2	O	 (ROOT (S (S (NP (NNP Time)	39	1
+21	2	magazine	magazine	NN	nsubj	3	O	 (NN magazine))	39	1
+21	3	revealed	reveal	VBD	ccomp	28	O	 (VP (VBD revealed)	39	1
+21	4	that	that	IN	mark	6	O	 (SBAR (IN that)	40	1
+21	5	to	to	TO	mark	6	O	 (S (VP (TO to)	40	1
+21	6	build	build	VB	ccomp	3	O	 (VP (VB build)	40	1
+21	7	a	a	DT	det	9	O	 (NP (DT a)	40	1
+21	8	safety	safety	NN	compound	9	O	 (NN safety)	40	1
+21	9	system	system	NN	obj	6	O	 (NN system))	40	1
+21	10	against	against	IN	case	12	O	 (PP (IN against)	40	1
+21	11	harmful	harmful	JJ	amod	12	O	 (NP (JJ harmful)	40	1
+21	12	content	content	NN	obl	6	O	 (NN content)))))))	40	1
+21	13	(	(	-LRB-	punct	15	O	 (PRN (-LRB- -LRB-) (NP (NN e.) (NN g.)) (, ,) (NP (NP (JJ sexual) (NN abuse)) (, ,) (NP (NN violence)) (, ,) (NP (NN racism)) (, ,) (NP (NN sexism))) (-RRB- -RRB-)))) (, ,) (NP (NNP OpenAI)) (VP (VBD used) (VP (VBN outsourced) (NP (JJ Kenyan) (NNS workers)) (S (VP (VBG earning) (NP (NP (QP (JJR less) (IN than) ($ $) (CD 2))) (PP (IN per) (NP (NN hour)))) (PP (IN to) (NP (NN label) (JJ harmful) (NN content))))))) (. .)))	41	1
+21	14	e.	e.	NN	compound	15	O		41	1
+21	15	g.	g.	NN	dep	3	O		41	1
+21	16	,	,	,	punct	15	O		41	1
+21	17	sexual	sexual	JJ	amod	18	CRIMINAL_CHARGE		41	1
+21	18	abuse	abuse	NN	dep	15	CRIMINAL_CHARGE		41	1
+21	19	,	,	,	punct	18	O		41	1
+21	20	violence	violence	NN	appos	18	CAUSE_OF_DEATH		41	1
+21	21	,	,	,	punct	18	O		41	1
+21	22	racism	racism	NN	appos	18	O		41	1
+21	23	,	,	,	punct	18	O		41	1
+21	24	sexism	sexism	NN	appos	18	O		41	1
+21	25	)	)	-RRB-	punct	15	O		41	1
+21	26	,	,	,	punct	28	O		41	1
+21	27	OpenAI	OpenAI	NNP	nsubj	28	O		42	1
+21	28	used	use	VBD	root	0	O		42	1
+21	29	outsourced	outsource	VBN	dep	28	O		42	1
+21	30	Kenyan	Kenyan	JJ	amod	31	NATIONALITY		42	1
+21	31	workers	worker	NNS	obj	29	O		42	1
+21	32	earning	earn	VBG	xcomp	29	O		42	1
+21	33	less	less	JJR	advmod	35	O		42	1
+21	34	than	than	IN	fixed	33	O		42	1
+21	35	$	$	$	obj	32	MONEY		42	1
+21	36	2	2	CD	nummod	35	MONEY		42	1
+21	37	per	per	IN	case	38	O		42	1
+21	38	hour	hour	NN	nmod	35	DURATION		42	1
+21	39	to	to	IN	case	42	O		43	1
+21	40	label	label	NN	compound	42	O		43	1
+21	41	harmful	harmful	JJ	amod	42	O		43	1
+21	42	content	content	NN	obl	32	O		43	1
+21	43	.	.	.	punct	28	O		43	1
+22	1	These	this	DT	det	2	O	 (ROOT (S (NP (DT These)	44	1
+22	2	labels	label	NNS	nsubj:pass	4	O	 (NNS labels))	44	1
+22	3	were	be	VBD	aux:pass	4	O	 (VP (VBD were)	44	1
+22	4	used	use	VBN	root	0	O	 (VP (VBN used)	44	1
+22	5	to	to	TO	mark	6	O	 (S (VP (TO to)	44	1
+22	6	train	train	VB	xcomp	4	O	 (VP (VB train)	44	1
+22	7	a	a	DT	det	8	O	 (NP (DT a)	44	1
+22	8	model	model	NN	obj	6	TITLE	 (NN model))	44	1
+22	9	to	to	TO	mark	10	O	 (S (VP (TO to)	45	1
+22	10	detect	detect	VB	advcl	6	O	 (VP (VB detect)	45	1
+22	11	such	such	JJ	amod	12	O	 (NP (JJ such)	45	1
+22	12	content	content	NN	obj	10	O	 (NN content))	45	1
+22	13	in	in	IN	case	15	O	 (PP (IN in)	45	1
+22	14	the	the	DT	det	15	DATE	 (NP (DT the)	45	1
+22	15	future	future	NN	obl	10	DATE	 (NN future)))))))))))	45	1
+22	16	.	.	.	punct	4	O	 (. .)))	45	1
+23	1	The	the	DT	det	3	O	 (ROOT (S (S (NP (DT The)	46	1
+23	2	outsourced	outsource	VBN	amod	3	O	 (VBN outsourced)	46	1
+23	3	laborers	laborer	NNS	nsubj:pass	5	O	 (NNS laborers))	46	1
+23	4	were	be	VBD	aux:pass	5	O	 (VP (VBD were)	46	1
+23	5	exposed	expose	VBN	root	0	O	 (VP (VBN exposed)	46	1
+23	6	to	to	IN	case	12	O	 (PP (IN to)	46	1
+23	7	"	"	``	punct	8	O	 (NP (ADJP (`` ")	46	1
+23	8	toxic	toxic	JJ	amod	12	O	 (JJ toxic)	46	1
+23	9	"	"	''	punct	8	O	 ('' ")	46	1
+23	10	and	and	CC	cc	11	O	 (CC and)	46	1
+23	11	traumatic	traumatic	JJ	conj	8	O	 (JJ traumatic))	46	1
+23	12	content	content	NN	obl	5	O	 (NN content))))))	46	1
+23	13	;	;	:	punct	5	O	 (: ;)	46	1
+23	14	one	one	CD	nummod	15	NUMBER	 (S (NP (CD one)	47	1
+23	15	worker	worker	NN	nsubj	16	O	 (NN worker))	47	1
+23	16	described	describe	VBD	parataxis	5	O	 (VP (VBD described)	47	1
+23	17	the	the	DT	det	18	O	 (NP (DT the)	47	1
+23	18	assignment	assignment	NN	obj	16	O	 (NN assignment))	47	1
+23	19	as	as	IN	case	21	O	 (PP (IN as)	47	1
+23	20	"	"	``	punct	21	O	 (`` ")	47	1
+23	21	torture	torture	NN	obl	16	CRIMINAL_CHARGE	 (NP (NN torture))	47	1
+23	22	"	"	''	punct	21	O	 ('' "))))	47	1
+23	23	.	.	.	punct	5	O	 (. .)))	47	1
+24	1	OpenAI	OpenAI	NNP	nmod:poss	4	O	 (ROOT (S (NP (NP (NNP OpenAI)	48	1
+24	2	's	's	POS	case	1	O	 (POS 's))	48	1
+24	3	outsourcing	outsourcing	NN	compound	4	O	 (NN outsourcing)	48	1
+24	4	partner	partner	NN	nsubj	6	O	 (NN partner))	48	1
+24	5	was	be	VBD	cop	6	O	 (VP (VBD was)	48	1
+24	6	Sama	Sama	NNP	root	0	PERSON	 (NP (NP (NNP Sama))	48	1
+24	7	,	,	,	punct	6	O	 (, ,)	48	1
+24	8	a	a	DT	det	12	O	 (NP (NP (DT a)	48	1
+24	9	training	training	NN	compound	11	O	 (NML (NN training)	48	1
+24	10	-	-	HYPH	punct	11	O	 (HYPH -)	48	1
+24	11	data	datum	NNS	compound	12	O	 (NNS data))	48	1
+24	12	company	company	NN	appos	6	O	 (NN company))	48	1
+24	13	based	base	VBN	acl	12	O	 (VP (VBN based)	49	1
+24	14	in	in	IN	case	16	O	 (PP (IN in)	49	1
+24	15	San	San	NNP	compound	16	CITY	 (NP (NP (NNP San)	49	1
+24	16	Francisco	Francisco	NNP	obl	13	CITY	 (NNP Francisco))	49	1
+24	17	,	,	,	punct	16	O	 (, ,)	49	1
+24	18	California	California	NNP	appos	16	STATE_OR_PROVINCE	 (NP (NNP California))))))))	49	1
+24	19	.	.	.	punct	6	O	 (. .)))	49	1
+25	1	ChatGPT	ChatGPT	NNP	nsubj	3	O	 (ROOT (S (S (NP (NNP ChatGPT))	50	1
+25	2	initially	initially	RB	advmod	3	O	 (ADVP (RB initially))	50	1
+25	3	used	use	VBD	root	0	O	 (VP (VBD used)	50	1
+25	4	a	a	DT	det	8	O	 (NP (NP (DT a)	50	1
+25	5	Microsoft	Microsoft	NNP	compound	6	ORGANIZATION	 (NML (NNP Microsoft)	50	1
+25	6	Azure	Azure	NNP	compound	8	O	 (NNP Azure))	50	1
+25	7	supercomputing	supercompute	VBG	amod	8	O	 (VBG supercomputing)	50	1
+25	8	infrastructure	infrastructure	NN	obj	3	O	 (NN infrastructure))	50	1
+25	9	,	,	,	punct	8	O	 (, ,)	50	1
+25	10	powered	power	VBN	acl	8	O	 (VP (VBN powered)	51	1
+25	11	by	by	IN	case	13	O	 (PP (IN by)	51	1
+25	12	Nvidia	Nvidia	NNP	compound	13	O	 (NP (NNP Nvidia)	51	1
+25	13	GPUs	GPUs	NNP	obl	10	O	 (NNP GPUs)))))))	51	1
+25	14	,	,	,	punct	3	O	 (, ,)	51	1
+25	15	that	that	DT	det	16	O	 (S (NP (DT that)	52	1
+25	16	Microsoft	Microsoft	NNP	nsubj	17	ORGANIZATION	 (NNP Microsoft))	52	1
+25	17	built	build	VBD	conj	3	O	 (VP (VBD built)	52	1
+25	18	specifically	specifically	RB	advmod	17	O	 (ADVP (RB specifically))	52	1
+25	19	for	for	IN	case	20	O	 (PP (IN for)	52	1
+25	20	OpenAI	openai	NN	obl	17	O	 (NP (NN OpenAI)))))	52	1
+25	21	and	and	CC	cc	24	O	 (CC and)	53	1
+25	22	that	that	DT	nsubj	24	O	 (S (NP (DT that))	53	1
+25	23	reportedly	reportedly	RB	advmod	24	O	 (ADVP (RB reportedly))	53	1
+25	24	cost	cost	VBD	conj	3	O	 (VP (VBD cost)	53	1
+25	25	"	"	``	punct	26	MONEY	 (NP (`` ")	53	1
+25	26	hundreds	hundred	NNS	obj	24	MONEY	 (NP (NNS hundreds))	53	1
+25	27	of	of	IN	case	30	MONEY	 (PP (IN of)	53	1
+25	28	millions	million	NNS	dep	30	MONEY	 (NP (QP (NNS millions)	53	1
+25	29	of	of	IN	advmod	30	MONEY	 (IN of)	53	1
+25	30	dollars	dollar	NNS	nmod	26	MONEY	 (NNS dollars))))	53	1
+25	31	"	"	''	punct	26	O	 ('' "))))	53	1
+25	32	.	.	.	punct	3	O	 (. .)))	53	1
+26	1	Following	follow	VBG	case	4	O	 (ROOT (S (PP (VBG Following)	54	1
+26	2	ChatGPT	ChatGPT	NNP	nmod:poss	4	O	 (NP (NP (NNP ChatGPT)	54	1
+26	3	's	's	POS	case	2	O	 (POS 's))	54	1
+26	4	success	success	NN	obl	8	O	 (NN success)))	54	1
+26	5	,	,	,	punct	8	O	 (, ,)	54	1
+26	6	Microsoft	Microsoft	NNP	nsubj	8	ORGANIZATION	 (NP (NNP Microsoft))	55	1
+26	7	dramatically	dramatically	RB	advmod	8	O	 (ADVP (RB dramatically))	55	1
+26	8	upgraded	upgrade	VBD	root	0	O	 (VP (VBD upgraded)	55	1
+26	9	the	the	DT	det	11	O	 (NP (DT the)	55	1
+26	10	OpenAI	openai	NN	compound	11	MISC	 (NN OpenAI)	55	1
+26	11	infrastructure	infrastructure	NN	obj	8	O	 (NN infrastructure))	55	1
+26	12	in	in	IN	case	13	O	 (PP (IN in)	55	1
+26	13	2023	2023	CD	obl	8	DATE	 (NP (CD 2023))))	55	1
+26	14	.	.	.	punct	8	O	 (. .)))	55	1
+27	1	Scientists	scientist	NNS	nsubj	10	O	 (ROOT (S (NP (NP (NNS Scientists))	56	1
+27	2	at	at	IN	case	4	O	 (PP (IN at)	56	1
+27	3	the	the	DT	det	4	O	 (NP (NP (DT the)	56	1
+27	4	University	University	NNP	nmod	1	ORGANIZATION	 (NNP University))	56	1
+27	5	of	of	IN	case	8	ORGANIZATION	 (PP (IN of)	56	1
+27	6	California	California	NNP	compound	8	ORGANIZATION	 (NP (NNP California)	56	1
+27	7	,	,	,	punct	8	ORGANIZATION	 (, ,)	56	1
+27	8	Riverside	Riverside	NNP	nmod	4	ORGANIZATION	 (NNP Riverside)	56	1
+27	9	,	,	,	punct	8	O	 (, ,))))))	56	1
+27	10	estimate	estimate	VBP	root	0	O	 (VP (VBP estimate)	56	1
+27	11	that	that	IN	mark	18	O	 (SBAR (IN that)	57	1
+27	12	a	a	DT	det	13	O	 (S (NP (NP (DT a)	57	1
+27	13	series	series	NN	nsubj	18	O	 (NN series))	57	1
+27	14	of	of	IN	mark	15	O	 (PP (IN of)	57	1
+27	15	prompts	prompt	VBZ	acl	13	O	 (S (VP (VBZ prompts)	57	1
+27	16	to	to	IN	case	17	O	 (PP (IN to)	57	1
+27	17	ChatGPT	ChatGPT	NNP	obl	15	O	 (NP (NNP ChatGPT)))))))	57	1
+27	18	needs	need	VBZ	ccomp	10	O	 (VP (VBZ needs)	57	1
+27	19	approximately	approximately	RB	advmod	20	O	 (NP (NP (QP (RB approximately)	57	1
+27	20	500	500	CD	nummod	21	NUMBER	 (CD 500))	57	1
+27	21	milliliters	milliliter	NNS	obj	18	O	 (NNS milliliters)	57	1
+27	22	(	(	-LRB-	punct	23	O	 (PRN (-LRB- -LRB-) (FRAG (NP (CD 18)) (NP (NML (NN imp) (NN fl)) (NN oz))) (: ;) (FRAG (NP (CD 17)) (NP (NML (NNP U.) (NNP S.) (NNP fl)) (NN oz))) (-RRB- -RRB-))) (PP (IN of) (NP (NN water)))) (PP (IN for) (NP (NP (NNP Microsoft) (NNS servers)) (VP (VBG cooling)))))))) (. .)))	57	1
+27	23	18	18	CD	dep	21	NUMBER		57	1
+27	24	imp	imp	NN	compound	25	O		57	1
+27	25	fl	fl	NN	compound	26	O		57	1
+27	26	oz	oz	NN	dep	23	O		57	1
+27	27	;	;	:	punct	23	O		57	1
+27	28	17	17	CD	dep	23	NUMBER		57	1
+27	29	U.	U.	NNP	compound	31	O		57	1
+27	30	S.	S.	NNP	compound	31	O		57	1
+27	31	fl	fl	NNP	compound	32	O		57	1
+27	32	oz	oz	NN	dep	28	O		57	1
+27	33	)	)	-RRB-	punct	23	O		57	1
+27	34	of	of	IN	case	35	O		57	1
+27	35	water	water	NN	nmod	21	O		57	1
+27	36	for	for	IN	case	38	O		57	1
+27	37	Microsoft	Microsoft	NNP	compound	38	ORGANIZATION		57	1
+27	38	servers	server	NNS	obl	18	O		57	1
+27	39	cooling	cool	VBG	acl	38	O		57	1
+27	40	.	.	.	punct	10	O		57	1
+28	1	TrendForce	trendforce	NN	compound	2	O	 (ROOT (S (NP (NML (NN TrendForce)	58	1
+28	2	market	market	NN	compound	3	O	 (NN market))	58	1
+28	3	intelligence	intelligence	NN	nsubj	4	O	 (NN intelligence))	58	1
+28	4	estimated	estimate	VBD	root	0	O	 (VP (VBD estimated)	58	1
+28	5	that	that	IN	mark	25	O	 (SBAR (IN that)	59	1
+28	6	30	30	CD	nsubj:pass	25	NUMBER	 (S (NP (NP (CD 30))	59	1
+28	7	,	,	,	punct	6	O	 (, ,)	59	1
+28	8	000	000	CD	nummod	10	NUMBER	 (NP (CD 000)	59	1
+28	9	Nvidia	Nvidia	NNP	compound	10	O	 (NNP Nvidia)	59	1
+28	10	GPUs	gpus	NNS	appos	6	O	 (NNS GPUs))	59	1
+28	11	(	(	-LRB-	punct	12	O	 (PRN (-LRB- -LRB-) (NP (NP (DT each)) (VP (VBG costing) (NP (QP (QP (RB approximately) ($ $) (CD 10)) (, ,) (QP (CD 000) (SYM -) (CD 15)))))) (, ,) (NP (CD 000)) (-RRB- -RRB-))) (VP (VBD were) (VP (VBN used) (S (VP (TO to) (VP (VB power) (NP (NP (NNP ChatGPT)) (PP (IN in) (NP (CD 2023)))))))))))) (. .)))	59	1
+28	12	each	each	DT	appos	6	O		59	1
+28	13	costing	cost	VBG	acl	12	O		59	1
+28	14	approximately	approximately	RB	advmod	15	O		59	1
+28	15	$	$	$	dep	20	MONEY		59	1
+28	16	10	10	CD	nummod	15	MONEY		59	1
+28	17	,	,	,	punct	20	O		59	1
+28	18	000	000	CD	compound	20	NUMBER		59	1
+28	19	-	-	SYM	dep	20	O		59	1
+28	20	15	15	CD	obj	13	DATE		59	1
+28	21	,	,	,	punct	12	O		59	1
+28	22	000	000	CD	dep	12	NUMBER		59	1
+28	23	)	)	-RRB-	punct	12	O		59	1
+28	24	were	be	VBD	aux:pass	25	O		59	1
+28	25	used	use	VBN	ccomp	4	O		59	1
+28	26	to	to	TO	mark	27	O		59	1
+28	27	power	power	VB	xcomp	25	O		59	1
+28	28	ChatGPT	ChatGPT	NNP	obj	27	O		59	1
+28	29	in	in	IN	case	30	O		59	1
+28	30	2023	2023	CD	nmod	28	DATE		59	1
+28	31	.	.	.	punct	4	O		59	1
+29	1	OpenAI	OpenAI	NNP	nsubj	2	O	 (ROOT (S (NP (NNP OpenAI))	60	1
+29	2	collects	collect	VBZ	root	0	O	 (VP (VBZ collects)	60	1
+29	3	data	datum	NNS	obj	2	O	 (NP (NNS data))	60	1
+29	4	from	from	IN	case	6	O	 (PP (IN from)	60	1
+29	5	ChatGPT	ChatGPT	NNP	compound	6	O	 (NP (NNP ChatGPT)	60	1
+29	6	users	user	NNS	obl	2	O	 (NNS users)	60	1
+29	7	to	to	TO	mark	8	O	 (S (VP (TO to)	61	1
+29	8	train	train	VB	acl	6	O	 (VP (VP (VB train))	61	1
+29	9	and	and	CC	cc	12	O	 (CC and)	61	1
+29	10	fine	fine	JJ	amod	12	O	 (VP (NP (JJ fine)	61	1
+29	11	-	-	HYPH	punct	12	O	 (HYPH -)	61	1
+29	12	tune	tune	NN	conj	8	O	 (NN tune))	61	1
+29	13	the	the	DT	det	14	O	 (S (NP (DT the)	61	1
+29	14	service	service	NN	xcomp	12	O	 (NN service))	61	1
+29	15	further	further	RB	advmod	14	O	 (ADVP (RB further))))))))))	61	1
+29	16	.	.	.	punct	2	O	 (. .)))	61	1
+30	1	Users	user	NNS	nsubj	3	O	 (ROOT (S (NP (NNS Users))	62	1
+30	2	can	can	MD	aux	3	O	 (VP (MD can)	62	1
+30	3	upvote	upvote	VB	root	0	O	 (VP (VP (VB upvote)	62	1
+30	4	or	or	CC	cc	5	O	 (CC or)	62	1
+30	5	downvote	downvote	VB	conj	3	O	 (VB downvote)	62	1
+30	6	responses	response	NNS	obj	3	O	 (NP (NP (NNS responses))	62	1
+30	7	they	they	PRP	nsubj	8	O	 (SBAR (S (NP (PRP they))	63	1
+30	8	receive	receive	VBP	acl:relcl	6	O	 (VP (VBP receive)	63	1
+30	9	from	from	IN	case	10	O	 (PP (IN from)	63	1
+30	10	ChatGPT	ChatGPT	NNP	obl	8	O	 (NP (NNP ChatGPT))))))))	63	1
+30	11	and	and	CC	cc	12	O	 (CC and)	64	1
+30	12	fill	fill	VB	conj	3	O	 (VP (VB fill)	64	1
+30	13	in	in	RP	compound:prt	12	O	 (PRT (RP in))	64	1
+30	14	a	a	DT	det	16	O	 (NP (DT a)	64	1
+30	15	text	text	NN	compound	16	O	 (NN text)	64	1
+30	16	field	field	NN	obj	12	O	 (NN field))	64	1
+30	17	with	with	IN	case	19	O	 (PP (IN with)	64	1
+30	18	additional	additional	JJ	amod	19	O	 (NP (JJ additional)	64	1
+30	19	feedback	feedback	NN	obl	12	O	 (NN feedback))))))	64	1
+30	20	.	.	.	punct	3	O	 (. .)))	64	1
+31	1	ChatGPT	ChatGPT	NNP	nmod:poss	4	O	 (ROOT (S (NP (NP (NNP ChatGPT)	65	1
+31	2	's	's	POS	case	1	O	 (POS 's))	65	1
+31	3	training	training	NN	compound	4	O	 (NN training)	65	1
+31	4	data	datum	NNS	nsubj	5	O	 (NNS data))	65	1
+31	5	includes	include	VBZ	root	0	O	 (VP (VBZ includes)	65	1
+31	6	software	software	NN	obj	5	O	 (NP (NP (NP (NN software))	65	1
+31	7	manual	manual	JJ	amod	8	O	 (NP (JJ manual)	65	1
+31	8	pages	page	NNS	dep	6	O	 (NNS pages)))	65	1
+31	9	,	,	,	punct	6	O	 (, ,)	65	1
+31	10	information	information	NN	conj	6	O	 (NP (NP (NN information))	65	1
+31	11	about	about	IN	case	13	O	 (PP (IN about)	65	1
+31	12	internet	internet	NN	compound	13	O	 (NP (NP (NN internet)	65	1
+31	13	phenomena	phenomenon	NNS	nmod	10	O	 (NNS phenomena))	65	1
+31	14	such	such	JJ	case	18	O	 (PP (JJ such)	65	1
+31	15	as	as	IN	fixed	14	O	 (IN as)	65	1
+31	16	bulletin	bulletin	NN	compound	18	O	 (NP (NN bulletin)	65	1
+31	17	board	board	NN	compound	18	O	 (NN board)	65	1
+31	18	systems	system	NNS	nmod	13	O	 (NNS systems))))))	65	1
+31	19	,	,	,	punct	6	O	 (, ,)	65	1
+31	20	multiple	multiple	JJ	amod	22	O	 (NP (JJ multiple)	65	1
+31	21	programming	programming	NN	compound	22	O	 (NN programming)	65	1
+31	22	languages	language	NNS	conj	6	O	 (NNS languages))	65	1
+31	23	,	,	,	punct	6	O	 (, ,)	65	1
+31	24	and	and	CC	cc	26	O	 (CC and)	65	1
+31	25	the	the	DT	det	26	O	 (NP (NP (DT the)	65	1
+31	26	text	text	NN	conj	6	O	 (NN text))	65	1
+31	27	of	of	IN	case	28	O	 (PP (IN of)	65	1
+31	28	Wikipedia	Wikipedia	NNP	nmod	26	ORGANIZATION	 (NP (NNP Wikipedia))))))	65	1
+31	29	.	.	.	punct	5	O	 (. .)))	65	1
+32	1	lthough	lthough	VB	ccomp	16	O	 (ROOT (S (S (VP (VB lthough)	66	1
+32	2	a	a	DT	det	3	O	 (SBAR (S (NP (NP (DT a)	66	1
+32	3	chatbot	chatbot	NN	nmod:poss	6	O	 (NN chatbot)	66	1
+32	4	's	's	POS	case	3	O	 (POS 's))	66	1
+32	5	core	core	NN	compound	6	O	 (NN core)	66	1
+32	6	function	function	NN	nsubj	7	O	 (NN function))	66	1
+32	7	is	be	VBZ	ccomp	1	O	 (VP (VBZ is)	66	1
+32	8	to	to	TO	mark	9	O	 (S (VP (TO to)	66	1
+32	9	mimic	mimic	VB	xcomp	7	O	 (VP (VB mimic)	66	1
+32	10	a	a	DT	det	12	O	 (NP (DT a)	66	1
+32	11	human	human	JJ	amod	12	O	 (JJ human)	66	1
+32	12	conversationalist	conversationalist	NN	obj	9	O	 (NN conversationalist))))))))))	66	1
+32	13	,	,	,	punct	16	O	 (, ,)	66	1
+32	14	ChatGPT	ChatGPT	NNP	nsubj	16	O	 (NP (NNP ChatGPT))	67	1
+32	15	is	be	VBZ	cop	16	O	 (VP (VBZ is)	67	1
+32	16	versatile	versatile	JJ	root	0	O	 (ADJP (JJ versatile)))	67	1
+32	17	.	.	.	punct	16	O	 (. .)))	67	1
+33	1	It	it	PRP	nsubj	3	O	 (ROOT (S (NP (PRP It))	68	1
+33	2	can	can	MD	aux	3	O	 (VP (MD can)	68	1
+33	3	write	write	VB	root	0	O	 (VP (VB write)	68	1
+33	4	and	and	CC	cc	5	O	 (CC and)	68	1
+33	5	debug	debug	VB	conj	3	O	 (VB debug)	68	1
+33	6	computer	computer	NN	compound	7	O	 (NP (NP (NN computer)	68	1
+33	7	programs	program	NNS	obj	3	O	 (NNS programs))	68	1
+33	8	;	;	:	punct	7	O	 (: ;)	68	1
+33	9	compose	compose	VB	dep	7	O	 (S (S (VP (VB compose)	69	1
+33	10	music	music	NN	obj	9	O	 (NP (NP (NP (NN music))	69	1
+33	11	,	,	,	punct	10	O	 (, ,)	69	1
+33	12	teleplays	teleplay	NNS	conj	10	O	 (NP (NNS teleplays))	69	1
+33	13	,	,	,	punct	10	O	 (, ,)	69	1
+33	14	fairy	fairy	NN	compound	15	O	 (NP (NN fairy)	69	1
+33	15	tales	tale	NNS	conj	10	O	 (NNS tales))	69	1
+33	16	,	,	,	punct	10	O	 (, ,)	69	1
+33	17	and	and	CC	cc	19	O	 (CC and)	69	1
+33	18	student	student	NN	compound	19	TITLE	 (NP (NN student)	69	1
+33	19	essays	essay	NNS	conj	10	O	 (NNS essays)))	69	1
+33	20	;	;	:	punct	10	O	 (: ;)	69	1
+33	21	answer	answer	NN	compound	23	O	 (NP (NP (NN answer)	70	1
+33	22	test	test	NN	compound	23	O	 (NN test)	70	1
+33	23	questions	question	NNS	dep	10	O	 (NNS questions))	70	1
+33	24	(	(	-LRB-	punct	23	O	 (-LRB- -LRB-) (NP (NP (ADVP (RB sometimes)) (, ,) (NP (VBG depending)) (PP (IN on) (NP (DT the) (NN test)))) (, ,) (PP (IN at) (NP (NP (DT a) (NN level)) (PP (IN above) (NP (DT the) (JJ average) (JJ human) (NN test) (HYPH -) (NN taker)))))) (-RRB- -RRB-))))) (: ;) (S (VP (VB generate) (NP (NN business) (NNS ideas)))) (: ;) (S (VP (VB write) (NP (NML (NN poetry) (CC and) (NN song)) (NNS lyrics)))) (: ;) (S (VP (VB translate) (CC and) (VB summarize) (NP (NN text)))) (: ;) (S (VP (VB emulate) (NP (DT a) (NNP Linux) (NN system)))) (: ;) (S (VP (VB simulate) (NP (JJ entire) (NN chat) (NNS rooms)))) (: ;) (S (VP (VB play) (NP (NNS games)) (PP (IN like) (NP (JJ tic) (HYPH -) (NN tac) (HYPH -) (NN toe))))) (: ;) (CC or) (S (VP (VB simulate) (NP (DT an) (NNP ATM)))))))) (. .)))	71	1
+33	25	sometimes	sometimes	RB	advmod	27	O		71	1
+33	26	,	,	,	punct	27	O		71	1
+33	27	depending	depend	VBG	dep	23	O		71	1
+33	28	on	on	IN	case	30	O		71	1
+33	29	the	the	DT	det	30	O		71	1
+33	30	test	test	NN	nmod	27	O		71	1
+33	31	,	,	,	punct	27	O		71	1
+33	32	at	at	IN	case	34	O		71	1
+33	33	a	a	DT	det	34	O		71	1
+33	34	level	level	NN	nmod	27	O		71	1
+33	35	above	above	IN	case	41	O		71	1
+33	36	the	the	DT	det	41	O		71	1
+33	37	average	average	JJ	amod	41	O		71	1
+33	38	human	human	JJ	amod	41	O		71	1
+33	39	test	test	NN	compound	41	O		71	1
+33	40	-	-	HYPH	punct	41	O		71	1
+33	41	taker	taker	NN	nmod	34	O		71	1
+33	42	)	)	-RRB-	punct	23	O		71	1
+33	43	;	;	:	punct	9	O		71	1
+33	44	generate	generate	VB	conj	9	O		72	1
+33	45	business	business	NN	compound	46	O		72	1
+33	46	ideas	idea	NNS	obj	44	O		72	1
+33	47	;	;	:	punct	9	O		72	1
+33	48	write	write	VB	conj	9	O		72	1
+33	49	poetry	poetry	NN	compound	52	O		72	1
+33	50	and	and	CC	cc	51	O		72	1
+33	51	song	song	NN	conj	49	O		72	1
+33	52	lyrics	lyric	NNS	obj	48	O		72	1
+33	53	;	;	:	punct	9	O		72	1
+33	54	translate	translate	VB	conj	9	O		73	1
+33	55	and	and	CC	cc	56	O		73	1
+33	56	summarize	summarize	VB	conj	54	O		73	1
+33	57	text	text	NN	obj	54	O		73	1
+33	58	;	;	:	punct	9	O		73	1
+33	59	emulate	emulate	VB	conj	9	O		74	1
+33	60	a	a	DT	det	62	O		74	1
+33	61	Linux	Linux	NNP	compound	62	O		74	1
+33	62	system	system	NN	obj	59	O		74	1
+33	63	;	;	:	punct	9	O		74	1
+33	64	simulate	simulate	VB	conj	9	O		75	1
+33	65	entire	entire	JJ	amod	67	O		75	1
+33	66	chat	chat	NN	compound	67	O		75	1
+33	67	rooms	room	NNS	obj	64	O		75	1
+33	68	;	;	:	punct	9	O		75	1
+33	69	play	play	VB	conj	9	O		76	1
+33	70	games	game	NNS	obj	69	O		76	1
+33	71	like	like	IN	case	76	O		76	1
+33	72	tic	tic	JJ	amod	76	O		76	1
+33	73	-	-	HYPH	punct	76	O		76	1
+33	74	tac	tac	NN	compound	76	O		76	1
+33	75	-	-	HYPH	punct	76	O		76	1
+33	76	toe	toe	NN	obl	69	O		76	1
+33	77	;	;	:	punct	9	O		76	1
+33	78	or	or	CC	cc	79	O		76	1
+33	79	simulate	simulate	VB	conj	9	O		76	1
+33	80	an	a	DT	det	81	O		76	1
+33	81	ATM	ATM	NNP	obj	79	O		76	1
+33	82	.	.	.	punct	3	O		76	1
+34	1	Compared	compare	VBN	case	4	O	 (ROOT (S (PP (VBN Compared)	77	1
+34	2	to	to	IN	case	4	O	 (PP (IN to)	77	1
+34	3	its	its	PRP$	nmod:poss	4	O	 (NP (NP (PRP$ its)	77	1
+34	4	predecessor	predecessor	NN	advcl	9	O	 (NN predecessor))	77	1
+34	5	,	,	,	punct	4	O	 (, ,)	77	1
+34	6	InstructGPT	instructgpt	NN	appos	4	O	 (NP (NN InstructGPT)))))	77	1
+34	7	,	,	,	punct	9	O	 (, ,)	77	1
+34	8	ChatGPT	ChatGPT	NNP	nsubj	9	O	 (NP (NNP ChatGPT))	77	1
+34	9	attempts	attempt	VBZ	root	0	O	 (VP (VBZ attempts)	77	1
+34	10	to	to	TO	mark	11	O	 (S (VP (TO to)	77	1
+34	11	reduce	reduce	VB	xcomp	9	O	 (VP (VB reduce)	77	1
+34	12	harmful	harmful	JJ	amod	15	O	 (NP (ADJP (JJ harmful)	77	1
+34	13	and	and	CC	cc	14	O	 (CC and)	77	1
+34	14	deceitful	deceitful	JJ	conj	12	O	 (JJ deceitful))	77	1
+34	15	responses	response	NNS	obj	11	O	 (NNS responses))))))	77	1
+34	16	.	.	.	punct	9	O	 (. .)))	77	1
+35	1	In	in	IN	case	3	O	 (ROOT (S (PP (IN In)	78	1
+35	2	one	one	CD	nummod	3	NUMBER	 (NP (CD one)	78	1
+35	3	example	example	NN	obl	32	O	 (NN example)))	78	1
+35	4	,	,	,	punct	32	O	 (, ,)	78	1
+35	5	whereas	whereas	IN	mark	7	O	 (SBAR (IN whereas)	78	1
+35	6	InstructGPT	InstructGPT	NNP	nsubj	7	O	 (S (NP (NNP InstructGPT))	78	1
+35	7	accepts	accept	VBZ	advcl	32	O	 (VP (VBZ accepts)	78	1
+35	8	the	the	DT	det	9	O	 (NP (NP (DT the)	78	1
+35	9	premise	premise	NN	obj	7	O	 (NN premise))	78	1
+35	10	of	of	IN	case	14	O	 (PP (IN of)	78	1
+35	11	the	the	DT	det	14	O	 (NP (DT the)	78	1
+35	12	prompt	prompt	JJ	amod	14	O	 (JJ prompt)	78	1
+35	13	"	"	``	punct	14	O	 (NML (`` ")	79	1
+35	14	Tell	tell	VB	nmod	9	O	 (S (VP (VB Tell)	79	1
+35	15	me	I	PRP	obj	14	O	 (NP (PRP me))	79	1
+35	16	about	about	RB	advmod	14	O	 (ADVP (RB about))	79	1
+35	17	when	when	WRB	advmod	20	O	 (SBAR (WHADVP (WRB when))	79	1
+35	18	Christopher	Christopher	NNP	compound	19	PERSON	 (S (NP (NNP Christopher)	79	1
+35	19	Columbus	Columbus	NNP	nsubj	20	PERSON	 (NNP Columbus))	79	1
+35	20	came	come	VBD	ccomp	14	O	 (VP (VBD came)	79	1
+35	21	to	to	IN	case	24	O	 (PP (IN to)	79	1
+35	22	the	the	DT	det	24	O	 (NP (DT the)	79	1
+35	23	U.	U.	NNP	compound	24	O	 (NNP U.)	79	1
+35	24	S.	S.	NNP	obl	20	O	 (NNP S.)))	79	1
+35	25	in	in	IN	case	26	O	 (PP (IN in)	79	1
+35	26	2015	2015	CD	obl	20	DATE	 (NP (CD 2015))))))))	79	1
+35	27	"	"	''	punct	14	O	 ('' ")))))	79	1
+35	28	as	as	IN	case	29	O	 (PP (IN as)	80	1
+35	29	truthful	truthful	JJ	advcl	7	O	 (ADJP (JJ truthful))))))	80	1
+35	30	,	,	,	punct	32	O	 (, ,)	80	1
+35	31	ChatGPT	ChatGPT	NNP	nsubj	32	O	 (NP (NNP ChatGPT))	81	1
+35	32	acknowledges	acknowledge	VBZ	root	0	O	 (VP (VBZ acknowledges)	81	1
+35	33	the	the	DT	det	35	O	 (NP (NP (NP (DT the)	81	1
+35	34	counterfactual	counterfactual	JJ	amod	35	O	 (JJ counterfactual)	81	1
+35	35	nature	nature	NN	obj	32	O	 (NN nature))	81	1
+35	36	of	of	IN	case	38	O	 (PP (IN of)	81	1
+35	37	the	the	DT	det	38	O	 (NP (DT the)	81	1
+35	38	question	question	NN	nmod	35	O	 (NN question))))	81	1
+35	39	and	and	CC	cc	40	O	 (CC and)	82	1
+35	40	frames	frame	NNS	conj	35	O	 (NP (NP (NNS frames))	82	1
+35	41	its	its	PRP$	nmod:poss	42	O	 (NP (PRP$ its)	82	1
+35	42	answer	answer	NN	dep	40	O	 (NN answer))))	82	1
+35	43	as	as	IN	case	46	O	 (PP (IN as)	82	1
+35	44	a	a	DT	det	46	O	 (NP (NP (DT a)	82	1
+35	45	hypothetical	hypothetical	JJ	amod	46	O	 (JJ hypothetical)	82	1
+35	46	consideration	consideration	NN	obl	32	O	 (NN consideration))	82	1
+35	47	of	of	IN	mark	50	O	 (PP (IN of)	82	1
+35	48	what	what	WP	nsubj	50	O	 (SBAR (WHNP (WP what))	82	1
+35	49	might	might	MD	aux	50	O	 (S (VP (MD might)	82	1
+35	50	happen	happen	VB	acl	46	O	 (VP (VB happen)	82	1
+35	51	if	if	IN	mark	53	O	 (SBAR (IN if)	83	1
+35	52	Columbus	Columbus	NNP	nsubj	53	PERSON	 (S (NP (NNP Columbus))	83	1
+35	53	came	come	VBD	advcl	50	O	 (VP (VBD came)	83	1
+35	54	to	to	IN	case	57	O	 (PP (IN to)	83	1
+35	55	the	the	DT	det	57	O	 (NP (DT the)	83	1
+35	56	U.	U.	NNP	compound	57	O	 (NNP U.)	83	1
+35	57	S.	S.	NNP	obl	53	O	 (NNP S.)))	83	1
+35	58	in	in	IN	case	59	O	 (PP (IN in)	83	1
+35	59	2015	2015	CD	obl	53	DATE	 (NP (CD 2015)))	83	1
+35	60	,	,	,	punct	53	O	 (, ,)	83	1
+35	61	using	use	VBG	xcomp	53	O	 (S (VP (VBG using)	84	1
+35	62	information	information	NN	obj	61	O	 (NP (NN information))	84	1
+35	63	about	about	IN	case	65	O	 (PP (IN about)	84	1
+35	64	the	the	DT	det	65	O	 (NP (NP (DT the)	84	1
+35	65	voyages	voyage	NNS	obl	61	O	 (NNS voyages))	84	1
+35	66	of	of	IN	case	68	O	 (PP (IN of)	84	1
+35	67	Christopher	Christopher	NNP	compound	68	PERSON	 (NP (NP (NNP Christopher)	84	1
+35	68	Columbus	Columbus	NNP	nmod	65	PERSON	 (NNP Columbus))	84	1
+35	69	and	and	CC	cc	70	O	 (CC and)	84	1
+35	70	facts	fact	NNS	conj	68	O	 (NP (NNS facts))))))	84	1
+35	71	about	about	IN	case	74	O	 (PP (IN about)	84	1
+35	72	the	the	DT	det	74	O	 (NP (NP (DT the)	84	1
+35	73	modern	modern	JJ	amod	74	O	 (JJ modern)	84	1
+35	74	world	world	NN	obl	61	O	 (NN world))	84	1
+35	75	-	-	HYPH	punct	74	O	 (HYPH -)	84	1
+35	76	including	include	VBG	case	78	O	 (PP (VBG including)	85	1
+35	77	modern	modern	JJ	amod	78	O	 (NP (NP (JJ modern)	85	1
+35	78	perceptions	perception	NNS	nmod	74	O	 (NNS perceptions))	85	1
+35	79	of	of	IN	case	82	O	 (PP (IN of)	85	1
+35	80	Columbus	Columbus	NNP	nmod:poss	82	CITY	 (NP (NP (NNP Columbus)	85	1
+35	81	's	's	POS	case	80	O	 (POS 's))	85	1
+35	82	actions	action	NNS	nmod	78	O	 (NNS actions))))))))))))))))))))	85	1
+35	83	.	.	.	punct	32	O	 (. .)))	85	1
+36	1	ChatGPT	ChatGPT	NNP	nsubj	2	O	 (ROOT (S (NP (NNP ChatGPT))	86	1
+36	2	remembers	remember	VBZ	root	0	O	 (VP (VBZ remembers)	86	1
+36	3	a	a	DT	det	5	O	 (SBAR (S (NP (NP (DT a)	86	1
+36	4	limited	limited	JJ	amod	5	O	 (JJ limited)	86	1
+36	5	number	number	NN	nsubj	8	O	 (NN number))	86	1
+36	6	of	of	IN	case	7	O	 (PP (IN of)	86	1
+36	7	previous	previous	JJ	nmod	5	O	 (NP (JJ previous))))	86	1
+36	8	prompts	prompt	VBZ	ccomp	2	O	 (VP (VBZ prompts)	86	1
+36	9	in	in	IN	case	12	O	 (PP (IN in)	86	1
+36	10	the	the	DT	det	12	O	 (NP (DT the)	86	1
+36	11	same	same	JJ	amod	12	O	 (JJ same)	86	1
+36	12	conversation	conversation	NN	obl	8	O	 (NN conversation)))))))	86	1
+36	13	.	.	.	punct	2	O	 (. .)))	86	1
+37	1	Journalists	journalist	NNS	nsubj	3	O	 (ROOT (S (NP (NNS Journalists))	87	1
+37	2	have	have	VBP	aux	3	O	 (VP (VBP have)	87	1
+37	3	speculated	speculate	VBN	root	0	O	 (VP (VBN speculated)	87	1
+37	4	that	that	IN	mark	7	O	 (SBAR (IN that)	88	1
+37	5	this	this	DT	nsubj	7	O	 (S (NP (DT this))	88	1
+37	6	will	will	MD	aux	7	O	 (VP (MD will)	88	1
+37	7	allow	allow	VB	ccomp	3	O	 (VP (VB allow)	88	1
+37	8	ChatGPT	ChatGPT	NNP	obj	7	O	 (NP (NNP ChatGPT))	88	1
+37	9	to	to	TO	mark	11	O	 (S (VP (TO to)	88	1
+37	10	be	be	VB	aux:pass	11	O	 (VP (VB be)	88	1
+37	11	used	use	VBN	xcomp	7	O	 (VP (VBN used)	88	1
+37	12	as	as	IN	case	15	O	 (PP (IN as)	88	1
+37	13	a	a	DT	det	15	O	 (NP (DT a)	88	1
+37	14	personalized	personalize	VBN	amod	15	O	 (VBN personalized)	88	1
+37	15	therapist	therapist	NN	obl	11	TITLE	 (NN therapist)))))))))))))	88	1
+37	16	.	.	.	punct	3	O	 (. .)))	88	1
+38	1	To	to	TO	mark	2	O	 (ROOT (S (S (VP (TO To)	89	1
+38	2	prevent	prevent	VB	advcl	16	O	 (VP (VB prevent)	89	1
+38	3	offensive	offensive	JJ	amod	4	O	 (NP (JJ offensive)	89	1
+38	4	outputs	output	NNS	obj	2	O	 (NNS outputs))	89	1
+38	5	from	from	IN	mark	7	O	 (PP (IN from)	89	1
+38	6	being	be	VBG	aux:pass	7	O	 (S (VP (VBG being)	89	1
+38	7	presented	present	VBN	advcl	2	O	 (VP (VP (VBN presented)	89	1
+38	8	to	to	IN	obl	7	O	 (PP (IN to)))	89	1
+38	9	and	and	CC	cc	10	O	 (CC and)	89	1
+38	10	produced	produce	VBN	conj	7	O	 (VP (VBN produced)	89	1
+38	11	by	by	IN	case	12	O	 (PP (IN by)	89	1
+38	12	ChatGPT	ChatGPT	NNP	obl	10	O	 (NP (NNP ChatGPT)))))))))))	89	1
+38	13	,	,	,	punct	16	O	 (, ,)	89	1
+38	14	queries	query	NNS	nsubj:pass	16	O	 (NP (NNS queries))	90	1
+38	15	are	be	VBP	aux:pass	16	O	 (VP (VBP are)	90	1
+38	16	filtered	filter	VBN	root	0	O	 (VP (VBN filtered)	90	1
+38	17	through	through	IN	case	22	O	 (PP (IN through)	90	1
+38	18	the	the	DT	det	22	O	 (NP (NP (DT the)	90	1
+38	19	OpenAI	openai	NN	compound	22	MISC	 (NN OpenAI)	90	1
+38	20	"	"	``	punct	22	O	 (`` ")	90	1
+38	21	Moderation	moderation	NN	compound	22	MISC	 (NN Moderation)	90	1
+38	22	endpoint	endpoint	NN	obl	16	O	 (NN endpoint)	90	1
+38	23	"	"	''	punct	22	O	 ('' "))	90	1
+38	24	API	api	NN	dep	22	O	 (NP (NP (NN API))	90	1
+38	25	(	(	-LRB-	punct	24	O	 (-LRB- -LRB-) (NP (DT a) (ADJP (NP (JJ separate) (NN GPT)) (HYPH -) (VBN based)) (NN AI)) (-RRB- -RRB-)))))) (. .)))	90	1
+38	26	a	a	DT	det	31	O		90	1
+38	27	separate	separate	JJ	amod	28	O		90	1
+38	28	GPT	gpt	NN	obl	30	ORGANIZATION		90	1
+38	29	-	-	HYPH	punct	30	O		90	1
+38	30	based	base	VBN	amod	31	O		90	1
+38	31	AI	ai	NN	dep	24	O		90	1
+38	32	)	)	-RRB-	punct	24	O		90	1
+38	33	.	.	.	punct	16	O		90	1
+39	1	In	in	IN	case	2	O	 (ROOT (S (PP (IN In)	91	1
+39	2	March	March	NNP	obl	6	DATE	 (NP (NNP March)	91	1
+39	3	2023	2023	CD	nummod	2	DATE	 (CD 2023)))	91	1
+39	4	,	,	,	punct	6	O	 (, ,)	91	1
+39	5	OpenAI	OpenAI	NNP	nsubj	6	O	 (NP (NNP OpenAI))	91	1
+39	6	added	add	VBD	root	0	O	 (VP (VBD added)	91	1
+39	7	support	support	NN	obj	6	O	 (NP (NN support))	91	1
+39	8	for	for	IN	case	9	O	 (PP (IN for)	91	1
+39	9	plugins	plugin	NNS	obl	6	O	 (NP (NP (NNS plugins))	91	1
+39	10	for	for	IN	case	11	O	 (PP (IN for)	91	1
+39	11	ChatGPT	ChatGPT	NNP	nmod	9	O	 (NP (NNP ChatGPT))))))	91	1
+39	12	.	.	.	punct	6	O	 (. .)))	91	1
+40	1	This	this	DT	nsubj	2	O	 (ROOT (S (NP (DT This))	92	1
+40	2	includes	include	VBZ	root	0	O	 (VP (VBZ includes)	92	1
+40	3	both	both	DT	det	4	O	 (NP (NP (NP (NP (DT both)	92	1
+40	4	plugins	plugin	NNS	obj	2	O	 (NNS plugins))	92	1
+40	5	made	make	VBN	acl	4	O	 (VP (VBN made)	92	1
+40	6	by	by	IN	case	7	O	 (PP (IN by)	92	1
+40	7	OpenAI	OpenAI	NNP	obl	5	O	 (NP (NNP OpenAI)))))	92	1
+40	8	,	,	,	punct	4	O	 (, ,)	92	1
+40	9	such	such	JJ	case	12	O	 (PP (JJ such)	92	1
+40	10	as	as	IN	fixed	9	O	 (IN as)	92	1
+40	11	web	web	NN	compound	12	O	 (NP (NP (NN web)	92	1
+40	12	browsing	browsing	NN	nmod	4	O	 (NN browsing))	92	1
+40	13	and	and	CC	cc	15	O	 (CC and)	92	1
+40	14	code	code	NN	compound	15	O	 (NP (NN code)	92	1
+40	15	interpretation	interpretation	NN	conj	12	O	 (NN interpretation)))))	92	1
+40	16	,	,	,	punct	4	O	 (, ,)	92	1
+40	17	and	and	CC	cc	19	O	 (CC and)	93	1
+40	18	external	external	JJ	amod	19	O	 (NP (NP (JJ external)	93	1
+40	19	plugins	plugin	NNS	conj	4	O	 (NNS plugins))	93	1
+40	20	from	from	IN	case	21	O	 (PP (IN from)	93	1
+40	21	developers	developer	NNS	nmod	19	O	 (NP (NP (NNS developers))	93	1
+40	22	such	such	JJ	case	24	O	 (PP (JJ such)	93	1
+40	23	as	as	IN	fixed	22	O	 (IN as)	93	1
+40	24	Expedia	Expedia	NNP	nmod	21	ORGANIZATION	 (NP (NNP Expedia)	93	1
+40	25	,	,	,	punct	24	O	 (, ,)	93	1
+40	26	OpenTable	OpenTable	NNP	conj	24	ORGANIZATION	 (NNP OpenTable)	93	1
+40	27	,	,	,	punct	24	O	 (, ,)	93	1
+40	28	Zapier	Zapier	NNP	conj	24	PERSON	 (NNP Zapier)	93	1
+40	29	,	,	,	punct	24	O	 (, ,)	93	1
+40	30	Shopify	Shopify	NNP	conj	24	O	 (NNP Shopify)	93	1
+40	31	,	,	,	punct	24	O	 (, ,)	93	1
+40	32	Slack	Slack	NNP	conj	24	O	 (NNP Slack)	93	1
+40	33	,	,	,	punct	24	O	 (, ,)	93	1
+40	34	and	and	CC	cc	35	O	 (CC and)	93	1
+40	35	Wolfram	Wolfram	NNP	conj	24	PERSON	 (NNP Wolfram))))))))	93	1
+40	36	.	.	.	punct	2	O	 (. .)))	93	1

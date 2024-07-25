@@ -1,0 +1,67 @@
+[Answerability]
+Question 1: 4/5
+Question 2: 2/5
+Question 3: 3/5
+Question 4: 4/5
+Question 5: 5/5
+Question 6: 2/5
+Question 7: 3/5
+Question 8: 3/5
+Question 9: 3/5
+Question 10: 1/5
+Question 11: 2/5
+Question 12: 2/5
+Question 13: 3/5
+Question 14: 1/5
+Question 15: 2/5
+
+[Clarity]
+Question 1: 4/5
+Question 2: 2/5
+Question 3: 3/5
+Question 4: 4/5
+Question 5: 5/5
+Question 6: 2/5
+Question 7: 3/5
+Question 8: 3/5
+Question 9: 3/5
+Question 10: 1/5
+Question 11: 2/5
+Question 12: 2/5
+Question 13: 3/5
+Question 14: 1/5
+Question 15: 2/5
+
+[Relevance]
+Question 1: 4/5 This question directly relates to the context of Greece's economic depression and the factors that led to it.
+Question 2: 3/5 This question has a partial mismatch. The context links the Great Depression to the Wall Street Crash of 1929 rather than stopping payments in gold and silver coinage, which is related to the Panic of 1837.
+Question 3: 2/5 This question is somewhat relevant but lacks specificity. The context mentions various signs of financial crises but doesn’t directly tie them all to very large unemployment rates or social balance issues.
+Question 4: 4/5 This question is relevant as it pertains to the historical usage of the term "depression" as detailed in the context.
+Question 5: 5/5 This question is directly relevant, as it discusses the changes in unemployment and GNP in the United States during the Great Depression.
+Question 6: 2/5 This question is somewhat relevant but vague. It compares the Great Depression to other economic downturns without specific details from the context.
+Question 7: 4/5 This question is relevant as it discusses the terminology used for the 2008-2009 economic downturn, which the context refers to as the "Great Recession."
+Question 8: 3/5 This question is relevant but could be more specific. The context mentions changes in the economic cycle since 1945, but the question is somewhat broad.
+Question 9: 3/5 This question is partially relevant. It talks about different definitions of recession duration, which is mentioned in the context, but it could be more detailed.
+Question 10: 2/5 This question is not clear and only partially relevant. The context does mention shortfalls in the ability to purchase goods, but the question is not well-formed.
+Question 11: 2/5 This question is somewhat relevant but misses the focus. It talks about the spread of the Great Depression but does not directly answer the aftermath for the U.S.
+Question 12: 1/5 This question is irrelevant as it seems to repeat elements related to the Panic of 1837 and does not align with the context of the Great Depression.
+Question 13: 3/5 This question is relevant as it discusses the living standards in post-Soviet states, although the context focuses on the 1990s rather than the 1930s.
+Question 14: 1/5 This question is unclear and does not provide enough context. It is not relevant to the provided information.
+Question 15: 2/5 This question is vaguely relevant. It mentions the normal business cycle, but it is not clear or specific enough to be directly tied to the context.
+
+[Difficulty]
+Question 1: 2/5
+Question 2: 3/5
+Question 3: 3/5
+Question 4: 2/5
+Question 5: 2/5
+Question 6: 4/5
+Question 7: 3/5
+Question 8: 3/5
+Question 9: 3/5
+Question 10: 4/5
+Question 11: 2/5
+Question 12: 2/5
+Question 13: 3/5
+Question 14: 3/5
+Question 15: 2/5

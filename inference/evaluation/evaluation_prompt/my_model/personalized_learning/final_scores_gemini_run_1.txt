@@ -1,0 +1,131 @@
+[Answerability]
+Question 1: 5/5
+Question 2: 4/5
+Question 3: 4/5
+Question 4: 5/5
+Question 5: 4/5
+Question 6: 3/5
+Question 7: 2/5
+Question 8: 1/5
+Question 9: 4/5
+Question 10: 4/5
+Question 11: 4/5
+Question 12: 4/5
+Question 13: 3/5
+Question 14: 4/5
+Question 15: 4/5
+Question 16: 4/5
+Question 17: 4/5
+Question 18: 4/5
+Question 19: 4/5
+Question 20: 4/5
+Question 21: 5/5
+Question 22: 1/5
+Question 23: 3/5
+Question 24: 4/5
+Question 25: 3/5
+Question 26: 4/5
+Question 27: 3/5
+Question 28: 5/5
+Question 29: 5/5
+Question 30: 4/5
+Question 31: 4/5
+
+[Clarity]
+Question 1: 5/5
+Question 2: 4/5
+Question 3: 4/5
+Question 4: 4/5
+Question 5: 4/5
+Question 6: 3/5  -  This question might be confusing because it uses the word "different" twice but refers to different meanings ("completely different" vs "be different").
+Question 7: 2/5  - This question is confusing because it repeats parts of the sentence and uses the word "different" in a way that is unclear.
+Question 8: 2/5  - This question suffers from the same issues as question 7.
+Question 9: 4/5
+Question 10: 4/5
+Question 11: 4/5
+Question 12: 4/5
+Question 13: 3/5  - This question could be clearer by specifying the purpose of the teachers being allowed to continue.
+Question 14: 4/5
+Question 15: 4/5
+Question 16: 4/5
+Question 17: 4/5
+Question 18: 4/5
+Question 19: 4/5
+Question 20: 4/5
+Question 21: 5/5
+Question 22: 2/5  - This question is unclear because it refers to "They" without specifying who "They" are.
+Question 23: 4/5
+Question 24: 4/5
+Question 25: 3/5  - This question could be improved by rephrasing "the force that" to be clearer.
+Question 26: 4/5
+Question 27: 3/5  - This question could be improved by specifying what "this" refers to.
+Question 28: 5/5
+Question 29: 4/5
+Question 30: 4/5
+Question 31: 4/5
+
+[Relevance]
+Question 1: 5/5
+Question 2: 4/5
+Question 3: 4/5
+Question 4: 4/5
+Question 5: 4/5
+Question 6: 2/5  - This question focuses on a specific example within the concept of ZPD,  it's not completely irrelevant but it could be broader.
+Question 7: 1/5  - This question asks about irrelevant details of the ZPD concept.
+Question 8: 1/5  - Same as question 7.
+Question 9: 4/5  - This question asks about the difference between personalized learning and how ICT can be a tool for it, both concepts are introduced in the context.
+Question 10: 4/5
+Question 11: 4/5
+Question 12: 4/5
+Question 13: 2/5  - This question refers to the study but not the purpose of the study itself.
+Question 14: 4/5
+Question 15: 4/5
+Question 16: 4/5
+Question 17: 4/5
+Question 18: 4/5
+Question 19: 4/5
+Question 20: 4/5
+Question 21: 5/5
+Question 22: 1/5  - This question refers to the concept of ZPD but it's not clear what "they" refers to.
+Question 23: 4/5
+Question 24: 4/5
+Question 25: 3/5  - This question asks about the benefit of conferring but not the specific phrase "the force that".
+Question 26: 4/5
+Question 27: 4/5
+Question 28: 5/5
+Question 29: 4/5
+Question 30: 4/5
+Question 31: 4/5
+
+[Difficulty]
+Question 1: 3/5 - Requires making an inference based on a stated fact.
+Question 2: 2/5 - Requires basic understanding of research purposes.
+Question 3: 3/5 - Requires understanding the benefits of ICT listed and how they align with personalized learning.
+Question 4: 4/5 - Requires understanding the definition of personalized learning according to Kohn and contrasting it with the general definition.
+Question 5: 3/5 - Requires understanding the distinction between personalized learning and other educational approaches based on the text.
+Question 6: 2/5 - Requires understanding the concept of the Zone of Proximal Development (ZPD).
+Question 7: 1/5 - Refers back to a previous statement without requiring any analysis.
+Question 8: 1/5 - Refers back to a previous statement without requiring any analysis.
+Question 9: 4/5 - Requires understanding the relationship between ICT and personalized learning, then contrasting it with the limitations discussed.
+Question 10: 2/5 - Requires understanding the challenges of pacing instruction.
+Question 11: 2/5 - Requires understanding the challenges of pacing instruction.
+Question 12: 3/5 - Requires understanding the concept of ZPD in applying appropriate help.
+Question 13: 1/5 - Requires memorizing a specific detail about the study.
+Question 14: 3/5 - Requires understanding the purpose of research on pilot programs.
+Question 15: 4/5 - Requires understanding the ethical considerations for funding educational programs.
+Question 16: 3/5 - Requires understanding the purpose of conferring based on the context.
+Question 17: 3/5 - Requires understanding the concept of ZPD in applying appropriate help.
+Question 18: 2/5 - Requires understanding a goal of personalized learning environments.
+Question 19: 3/5 - Requires understanding the purpose of software systems in personalized learning environments.
+Question 20: 4/5 - Requires understanding the concept of personalized learning from the learner's perspective.
+Question 21: 3/5 - Requires understanding the overall goal of personalized learning approaches in education.
+Question 22: 1/5 - Refers back to a previous statement without requiring any analysis.
+Question 23: 2/5 - Requires recalling a specific detail from the study.
+Question 24: 2/5 - Requires recalling a detail about the modification of the conferring model.
+Question 25: 4/5 - Requires making an inference about the value of conferring based on a quote.
+Question 26: 3/5 - Requires understanding the definition of conferring.
+Question 27: 4/5 - Requires understanding the overall purpose of conferring based on the context.
+Question 28: 4/5 - Requires understanding the definition of personalized learning according to a specific source.
+Question 29: 4/5 - Requires understanding the definition of personalized learning according to a specific source.
+Question 30: 4/5 - Requires understanding a type of personalization within the broader concept.
+Question 31: 4/5 - Requires understanding a type of personalization within the broader concept.

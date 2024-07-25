@@ -1,0 +1,67 @@
+[Answerability]
+Question 1: 5/5
+Question 2: 1/5
+Question 3: 3/5
+Question 4: 4/5
+Question 5: 5/5
+Question 6: 2/5
+Question 7: 4/5
+Question 8: 5/5
+Question 9: 3/5
+Question 10: 2/5
+Question 11: 3/5
+Question 12: 1/5
+Question 13: 4/5
+Question 14: 1/5
+Question 15: 1/5
+
+[Clarity]
+Question 1: 5/5
+Question 2: 2/5
+Question 3: 3/5
+Question 4: 5/5
+Question 5: 5/5
+Question 6: 2/5
+Question 7: 3/5
+Question 8: 3/5
+Question 9: 3/5
+Question 10: 2/5
+Question 11: 4/5
+Question 12: 2/5
+Question 13: 4/5
+Question 14: 1/5
+Question 15: 2/5
+
+[Relevance]
+Question 1: 5/5
+Question 2: 2/5
+Question 3: 4/5
+Question 4: 5/5
+Question 5: 5/5
+Question 6: 2/5
+Question 7: 4/5
+Question 8: 5/5
+Question 9: 4/5
+Question 10: 3/5
+Question 11: 3/5
+Question 12: 2/5
+Question 13: 3/5
+Question 14: 1/5
+Question 15: 1/5
+
+[Difficulty]
+Question 1: 2/5
+Question 2: 2/5
+Question 3: 3/5
+Question 4: 2/5
+Question 5: 3/5
+Question 6: 2/5
+Question 7: 3/5
+Question 8: 4/5
+Question 9: 4/5
+Question 10: 5/5
+Question 11: 2/5
+Question 12: 2/5
+Question 13: 3/5
+Question 14: 2/5
+Question 15: 2/5

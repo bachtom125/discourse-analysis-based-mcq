@@ -1,0 +1,2779 @@
+0	1	An	a	DT	det	3	O	 (ROOT (S (NP (DT An)	0	2
+0	2	economic	economic	JJ	amod	3	O	 (JJ economic)	3	11
+0	3	depression	depression	NN	nsubj	6	O	 (NN depression))	12	22
+0	4	is	be	VBZ	cop	6	O	 (VP (VBZ is)	23	25
+0	5	a	a	DT	det	6	O	 (NP (NP (NP (DT a)	26	27
+0	6	period	period	NN	root	0	O	 (NN period))	28	34
+0	7	of	of	IN	mark	8	O	 (PP (IN of)	35	37
+0	8	carried	carry	VBN	acl	6	O	 (S (VP (VBN carried)	38	45
+0	9	long	long	RB	advmod	11	O	 (S (VP (RB long)	46	50
+0	10	-	-	HYPH	punct	11	O	 (HYPH -)	51	52
+0	11	term	term	VB	ccomp	8	O	 (VB term)	53	57
+0	12	economic	economic	JJ	amod	13	O	 (NP (JJ economic)	58	66
+0	13	downturn	downturn	NN	obj	11	O	 (NN downturn))))))))	67	75
+0	14	that	that	WDT	nsubj	17	O	 (SBAR (WHNP (WDT that))	76	80
+0	15	is	be	VBZ	cop	17	O	 (S (VP (VBZ is)	81	83
+0	16	the	the	DT	det	17	O	 (NP (NP (DT the)	84	87
+0	17	result	result	NN	acl:relcl	6	O	 (NN result))	88	94
+0	18	of	of	IN	case	21	O	 (PP (IN of)	95	97
+0	19	lowered	lower	VBN	amod	21	O	 (NP (NP (VBN lowered)	98	105
+0	20	economic	economic	JJ	amod	21	O	 (JJ economic)	106	114
+0	21	activity	activity	NN	nmod	17	O	 (NN activity))	115	123
+0	22	in	in	IN	case	28	O	 (PP (IN in)	124	126
+0	23	one	one	CD	nummod	28	NUMBER	 (NP (CD one)	127	130
+0	24	major	major	JJ	amod	28	O	 (ADJP (ADJP (JJ major))	131	136
+0	25	or	or	CC	cc	27	O	 (CC or)	137	139
+0	26	more	more	RBR	advmod	27	O	 (ADJP (RBR more)	140	144
+0	27	national	national	JJ	conj	24	O	 (JJ national)))	145	153
+0	28	economies	economy	NNS	nmod	21	O	 (NNS economies)))))))))))	154	163
+0	29	.	.	.	punct	6	O	 (. .)))	163	164
+
+1	1	Economic	economic	JJ	amod	2	O	 (ROOT (FRAG (FRAG (NP (JJ Economic)	165	173
+1	2	depression	depression	NN	root	0	O	 (NN depression))	174	184
+1	3	maybe	maybe	RB	advmod	4	O	 (RB maybe)	185	190
+1	4	related	relate	VBN	dep	2	O	 (VP (VBN related)	191	198
+1	5	to	to	IN	case	8	O	 (PP (IN to)	199	201
+1	6	one	one	CD	nummod	8	NUMBER	 (NP (NP (CD one)	202	205
+1	7	specific	specific	JJ	amod	8	O	 (JJ specific)	206	214
+1	8	country	country	NN	obl	4	O	 (NN country))	215	222
+1	9	where	where	WRB	advmod	11	O	 (SBAR (WHADVP (WRB where))	223	228
+1	10	there	there	EX	expl	11	O	 (S (NP (EX there))	229	234
+1	11	is	be	VBZ	acl:relcl	8	O	 (VP (VBZ is)	235	237
+1	12	some	some	DT	det	14	O	 (NP (NP (DT some)	238	242
+1	13	economic	economic	JJ	amod	14	O	 (JJ economic)	243	251
+1	14	crisis	crisis	NN	nsubj	11	O	 (NN crisis))	252	258
+1	15	that	that	WDT	nsubj	17	O	 (SBAR (WHNP (WDT that))	259	263
+1	16	has	have	VBZ	aux	17	O	 (S (VP (VP (VBZ has)	264	267
+1	17	worsened	worsen	VBN	acl:relcl	14	O	 (VP (VBN worsened)))	268	276
+1	18	but	but	CC	cc	21	O	 (CC but)	277	280
+1	19	most	most	RBS	advmod	20	O	 (ADVP (RBS most)	281	285
+1	20	often	often	RB	advmod	17	O	 (RB often))	286	291
+1	21	reflexes	reflex	NNS	conj	17	O	 (VP (NP (NNS reflexes))))))))))))))	292	300
+1	22	historically	historically	RB	dep	26	O	 (FRAG (ADVP (RB historically))	301	313
+1	23	the	the	DT	det	26	O	 (NP (NP (NP (DT the)	314	317
+1	24	American	American	JJ	amod	26	NATIONALITY	 (JJ American)	318	326
+1	25	Great	Great	NNP	compound	26	MISC	 (NNP Great)	327	332
+1	26	Depression	Depression	NNP	parataxis	2	MISC	 (NNP Depression))	333	343
+1	27	and	and	CC	cc	30	O	 (CC and)	344	347
+1	28	similar	similar	JJ	amod	30	O	 (NP (JJ similar)	348	355
+1	29	economic	economic	JJ	amod	30	O	 (JJ economic)	356	364
+1	30	status	status	NN	conj	26	O	 (NN status)))	365	371
+1	31	that	that	WDT	nsubj:pass	34	O	 (SBAR (WHNP (WDT that))	372	376
+1	32	may	may	MD	aux	34	O	 (S (VP (MD may)	377	380
+1	33	be	be	VB	aux:pass	34	O	 (VP (VB be)	381	383
+1	34	recognized	recognize	VBN	acl:relcl	26	O	 (VP (VBN recognized)	384	394
+1	35	as	as	IN	case	36	O	 (PP (IN as)	395	397
+1	36	existing	exist	VBG	obl	34	O	 (NP (NP (VBG existing))	398	406
+1	37	at	at	IN	case	39	O	 (PP (PP (IN at)	407	409
+1	38	some	some	DT	det	39	O	 (NP (NP (DT some)	410	414
+1	39	country	country	NN	nmod	36	O	 (NN country))	415	422
+1	40	,	,	,	punct	39	O	 (, ,)	422	423
+1	41	several	several	JJ	amod	42	O	 (NP (JJ several)	424	431
+1	42	countries	country	NNS	appos	39	O	 (NNS countries))))	432	441
+1	43	or	or	CC	cc	47	O	 (CC or)	442	444
+1	44	even	even	RB	advmod	47	O	 (ADVP (RB even))	445	449
+1	45	in	in	IN	case	47	O	 (PP (IN in)	450	452
+1	46	many	many	JJ	amod	47	O	 (NP (JJ many)	453	457
+1	47	countries	country	NNS	conj	39	O	 (NNS countries)))))))))))))	458	467
+1	48	.	.	.	punct	2	O	 (. .)))	467	468
+
+2	1	It	it	PRP	nsubj:pass	4	O	 (ROOT (S (NP (PRP It))	469	471
+2	2	is	be	VBZ	aux:pass	4	O	 (VP (VBZ is)	472	474
+2	3	often	often	RB	advmod	4	O	 (ADVP (RB often))	475	480
+2	4	understood	understand	VBN	root	0	O	 (VP (VBN understood)	481	491
+2	5	in	in	IN	case	6	O	 (PP (IN in)	492	494
+2	6	economics	economics	NNS	obl	4	O	 (NP (NP (NNS economics))	495	504
+2	7	that	that	WDT	obj	20	O	 (SBAR (WHNP (WDT that))	505	509
+2	8	economic	economic	JJ	amod	9	O	 (S (NP (NP (JJ economic)	510	518
+2	9	crisis	crisis	NN	nsubj	20	O	 (NN crisis))	519	525
+2	10	and	and	CC	cc	13	O	 (CC and)	526	529
+2	11	the	the	DT	det	13	O	 (NP (NP (DT the)	530	533
+2	12	following	follow	VBG	amod	13	O	 (VBG following)	534	543
+2	13	recession	recession	NN	conj	9	O	 (NN recession))	544	553
+2	14	that	that	WDT	nsubj	16	O	 (SBAR (WHNP (WDT that))	554	558
+2	15	maybe	maybe	RB	advmod	16	O	 (S (ADVP (RB maybe))	559	564
+2	16	named	name	VBN	acl:relcl	13	O	 (VP (VBN named)	565	570
+2	17	economic	economic	JJ	amod	18	O	 (NP (JJ economic)	571	579
+2	18	depression	depression	NN	obj	16	O	 (NN depression)))))))	580	590
+2	19	are	be	VBP	cop	20	O	 (VP (VBP are)	591	594
+2	20	part	part	NN	acl:relcl	6	O	 (NP (NP (NN part))	595	599
+2	21	of	of	IN	case	23	O	 (PP (IN of)	600	602
+2	22	economic	economic	JJ	amod	23	O	 (NP (NP (JJ economic)	603	611
+2	23	cycles	cycle	NNS	nmod	20	O	 (NNS cycles))	612	618
+2	24	where	where	WRB	advmod	30	O	 (SBAR (WHADVP (WRB where))	619	624
+2	25	the	the	DT	det	26	O	 (S (NP (NP (DT the)	625	628
+2	26	slowdown	slowdown	NN	nsubj	30	O	 (NN slowdown))	629	637
+2	27	of	of	IN	case	29	O	 (PP (IN of)	638	640
+2	28	the	the	DT	det	29	O	 (NP (DT the)	641	644
+2	29	economy	economy	NN	nmod	26	O	 (NN economy))))	645	652
+2	30	follows	follow	VBZ	acl:relcl	23	O	 (VP (VBZ follows)	653	660
+2	31	the	the	DT	det	36	O	 (NP (DT the)	661	664
+2	32	economic	economic	JJ	amod	36	O	 (JJ economic)	665	673
+2	33	growth	growth	NN	compound	36	O	 (NML (NN growth)	674	680
+2	34	and	and	CC	cc	35	O	 (CC and)	681	684
+2	35	vice	vice	NN	conj	33	O	 (NN vice))	685	689
+2	36	versa	versa	NN	obj	30	O	 (NN versa)))))))))))))))	690	695
+2	37	.	.	.	punct	4	O	 (. .)))	695	696
+
+3	1	It	it	PRP	nsubj	4	O	 (ROOT (S (NP (PRP It))	697	699
+3	2	is	be	VBZ	cop	4	O	 (VP (VBZ is)	700	702
+3	3	a	a	DT	det	4	O	 (NP (NP (DT a)	703	704
+3	4	result	result	NN	root	0	O	 (NN result))	705	711
+3	5	of	of	IN	case	9	O	 (PP (IN of)	712	714
+3	6	more	more	RBR	advmod	7	O	 (NP (NP (ADJP (RBR more)	715	719
+3	7	severe	severe	JJ	amod	9	O	 (JJ severe))	720	726
+3	8	economic	economic	JJ	amod	9	O	 (JJ economic)	727	735
+3	9	problems	problem	NNS	nmod	4	O	 (NNS problems))	736	744
+3	10	or	or	CC	cc	12	O	 (CC or)	745	747
+3	11	a	a	DT	det	12	O	 (NP (NP (DT a)	748	749
+3	12	downturn	downturn	NN	conj	9	O	 (NN downturn))	750	758
+3	13	than	than	IN	case	15	O	 (PP (IN than)	759	763
+3	14	the	the	DT	det	15	O	 (NP (NP (NP (DT the)	764	767
+3	15	recession	recession	NN	nmod	12	O	 (NN recession))	768	777
+3	16	itself	itself	PRP	obl:npmod	15	O	 (NP (PRP itself)))	778	784
+3	17	,	,	,	punct	15	O	 (, ,)	784	785
+3	18	which	which	WDT	nsubj	21	O	 (SBAR (WHNP (WDT which))	786	791
+3	19	is	be	VBZ	cop	21	O	 (S (VP (VBZ is)	792	794
+3	20	a	a	DT	det	21	O	 (NP (NP (DT a)	795	796
+3	21	slowdown	slowdown	NN	acl:relcl	15	O	 (NN slowdown))	797	805
+3	22	in	in	IN	case	24	O	 (PP (IN in)	806	808
+3	23	economic	economic	JJ	amod	24	O	 (NP (NP (JJ economic)	809	817
+3	24	activity	activity	NN	nmod	21	O	 (NN activity))	818	826
+3	25	over	over	IN	case	27	O	 (PP (IN over)	827	831
+3	26	the	the	DT	det	27	O	 (NP (NP (DT the)	832	835
+3	27	course	course	NN	nmod	24	O	 (NN course))	836	842
+3	28	of	of	IN	case	32	O	 (PP (IN of)	843	845
+3	29	the	the	DT	det	32	O	 (NP (NP (DT the)	846	849
+3	30	normal	normal	JJ	amod	32	O	 (JJ normal)	850	856
+3	31	business	business	NN	compound	32	O	 (NN business)	857	865
+3	32	cycle	cycle	NN	nmod	27	O	 (NN cycle))	866	871
+3	33	of	of	IN	case	35	O	 (PP (IN of)	872	874
+3	34	growing	grow	VBG	amod	35	O	 (NP (VBG growing)	875	882
+3	35	economy	economy	NN	nmod	32	O	 (NN economy))))))))))))))))))))	883	890
+3	36	.	.	.	punct	4	O	 (. .)))	890	891
+
+4	1	Economic	economic	JJ	dep	177	O	 (X (JJ Economic)	892	900
+4	2	depressions	depression	NNS	dep	177	O	 (NNS depressions)	901	912
+4	3	maybe	maybe	RB	dep	177	O	 (RB maybe)	913	918
+4	4	also	also	RB	dep	177	O	 (RB also)	919	923
+4	5	characterized	characterize	VBN	dep	177	O	 (VBN characterized)	924	937
+4	6	by	by	IN	dep	177	O	 (IN by)	938	940
+4	7	their	they	PRP$	dep	177	O	 (PRP$ their)	941	946
+4	8	length	length	NN	dep	177	O	 (NN length)	947	953
+4	9	or	or	CC	cc	177	O	 (CC or)	954	956
+4	10	duration	duration	NN	dep	177	O	 (NN duration)	957	965
+4	11	,	,	,	punct	177	O	 (, ,)	965	966
+4	12	and	and	CC	cc	177	O	 (CC and)	967	970
+4	13	maybe	maybe	RB	dep	177	O	 (RB maybe)	971	976
+4	14	showing	show	VBG	dep	177	O	 (VBG showing)	977	984
+4	15	increases	increase	NNS	dep	177	O	 (NNS increases)	985	994
+4	16	in	in	IN	dep	177	O	 (IN in)	995	997
+4	17	unemployment	unemployment	NN	dep	177	O	 (NN unemployment)	998	1010
+4	18	,	,	,	punct	177	O	 (, ,)	1010	1011
+4	19	larger	large	JJR	dep	177	O	 (JJR larger)	1012	1018
+4	20	increases	increase	NNS	dep	177	O	 (NNS increases)	1019	1028
+4	21	in	in	IN	dep	177	O	 (IN in)	1029	1031
+4	22	unemployment	unemployment	NN	dep	177	O	 (NN unemployment)	1032	1044
+4	23	or	or	CC	cc	177	O	 (CC or)	1045	1047
+4	24	even	even	RB	dep	177	O	 (RB even)	1048	1052
+4	25	abnormally	abnormally	RB	dep	177	O	 (RB abnormally)	1053	1063
+4	26	large	large	JJ	dep	177	O	 (JJ large)	1064	1069
+4	27	levels	level	NNS	dep	177	O	 (NNS levels)	1070	1076
+4	28	of	of	IN	dep	177	O	 (IN of)	1077	1079
+4	29	unemployment	unemployment	NN	dep	177	O	 (NN unemployment)	1080	1092
+4	30	(	(	-LRB-	punct	177	O	 (-LRB- -LRB-) (IN as) (IN with) (IN for) (NN example) (DT some) (NNS problems) (IN in) (NNP Japan) (IN in) (VBG incorporating) (JJ digital) (NN economy) (, ,) (IN that) (JJ such) (JJ technological) (JJ difficult) (VBG resulting) (IN in) (RB very) (JJ large) (NN unemployment) (NNS rates) (CC or) (NN lack) (IN of) (JJ good) (JJ social) (NN balance) (IN in) (NN employment) (IN among) (NN population) (, ,) (JJR lesser) (NNS revenues) (IN for) (NNS businesses) (, ,) (CC or) (JJ other) (JJ economic) (NNS difficulties) (, ,) (IN with) (VBG having) (NNS signs) (IN of) (JJ financial) (NN crisis) (, ,) (DT that) (MD may) (RB also) (VB reflect) (IN on) (DT the) (NN work) (IN of) (NNS banks) (, ,) (CC or) (MD may) (VB result) (IN in) (NN banking) (NN crisis) (-LRB- -LRB-) (IN in) (JJ various) (NNS ways) (WDT that) (MD may) (VB be) (IN for) (NN example) (JJ unauthorized) (NNS transformations) (IN of) (NNS banks) (-RRB- -RRB-) (, ,) (CC and) (RB further) (DT the) (NN crisis) (IN in) (NN investment) (CC and) (NN credit) (: ;) (IN that) (RB further) (MD could) (VB reflect) (IN on) (NN innovation) (CC and) (JJ new) (NNS businesses) (NNS investments) (NN lessening) (CC or) (RB even) (VBG shrinking) (, ,) (CC or) (NNS buyers) (VBP dry) (RP up) (IN in) (NN recession) (CC and) (NNS suppliers) (VBD cut) (RP back) (IN on) (NN production) (CC and) (NN investment) (IN in) (NN technology) (, ,) (IN in) (JJ financial) (NN crisis) (WDT that) (MD may) (VB be) (RBR more) (NN country) (NNS defaults) (CC or) (NN debt) (NNS problems) (, ,) (CC and) (RB further) (IN in) (VBN feared) (NNS businesses) (NNS bankruptcies) (, ,) (CC and) (JJ overall) (NN business) (NN slowdown) (. .))	1093	1094
+4	31	as	as	IN	dep	177	O		1095	1097
+4	32	with	with	IN	dep	177	O		1098	1102
+4	33	for	for	IN	dep	177	O		1103	1106
+4	34	example	example	NN	dep	177	O		1107	1114
+4	35	some	some	DT	dep	177	O		1115	1119
+4	36	problems	problem	NNS	dep	177	O		1120	1128
+4	37	in	in	IN	dep	177	O		1129	1131
+4	38	Japan	Japan	NNP	dep	177	COUNTRY		1132	1137
+4	39	in	in	IN	dep	177	O		1138	1140
+4	40	incorporating	incorporate	VBG	dep	177	O		1141	1154
+4	41	digital	digital	JJ	dep	177	O		1155	1162
+4	42	economy	economy	NN	dep	177	O		1163	1170
+4	43	,	,	,	punct	177	O		1170	1171
+4	44	that	that	IN	dep	177	O		1172	1176
+4	45	such	such	JJ	dep	177	O		1177	1181
+4	46	technological	technological	JJ	dep	177	O		1182	1195
+4	47	difficult	difficult	JJ	dep	177	O		1196	1205
+4	48	resulting	result	VBG	dep	177	O		1206	1215
+4	49	in	in	IN	dep	177	O		1216	1218
+4	50	very	very	RB	dep	177	O		1219	1223
+4	51	large	large	JJ	dep	177	O		1224	1229
+4	52	unemployment	unemployment	NN	dep	177	O		1230	1242
+4	53	rates	rate	NNS	dep	177	O		1243	1248
+4	54	or	or	CC	cc	177	O		1249	1251
+4	55	lack	lack	NN	dep	177	O		1252	1256
+4	56	of	of	IN	dep	177	O		1257	1259
+4	57	good	good	JJ	dep	177	O		1260	1264
+4	58	social	social	JJ	dep	177	O		1265	1271
+4	59	balance	balance	NN	dep	177	O		1272	1279
+4	60	in	in	IN	dep	177	O		1280	1282
+4	61	employment	employment	NN	dep	177	O		1283	1293
+4	62	among	among	IN	dep	177	O		1294	1299
+4	63	population	population	NN	dep	177	O		1300	1310
+4	64	,	,	,	punct	177	O		1310	1311
+4	65	lesser	less	JJR	dep	177	O		1312	1318
+4	66	revenues	revenue	NNS	dep	177	O		1319	1327
+4	67	for	for	IN	dep	177	O		1328	1331
+4	68	businesses	business	NNS	dep	177	O		1332	1342
+4	69	,	,	,	punct	177	O		1342	1343
+4	70	or	or	CC	cc	177	O		1344	1346
+4	71	other	other	JJ	dep	177	O		1347	1352
+4	72	economic	economic	JJ	dep	177	O		1353	1361
+4	73	difficulties	difficulty	NNS	dep	177	O		1362	1374
+4	74	,	,	,	punct	177	O		1374	1375
+4	75	with	with	IN	dep	177	O		1376	1380
+4	76	having	have	VBG	dep	177	O		1381	1387
+4	77	signs	sign	NNS	dep	177	O		1388	1393
+4	78	of	of	IN	dep	177	O		1394	1396
+4	79	financial	financial	JJ	dep	177	O		1397	1406
+4	80	crisis	crisis	NN	dep	177	O		1407	1413
+4	81	,	,	,	punct	177	O		1413	1414
+4	82	that	that	DT	dep	177	O		1415	1419
+4	83	may	may	MD	dep	177	O		1420	1423
+4	84	also	also	RB	dep	177	O		1424	1428
+4	85	reflect	reflect	VB	dep	177	O		1429	1436
+4	86	on	on	IN	dep	177	O		1437	1439
+4	87	the	the	DT	dep	177	O		1440	1443
+4	88	work	work	NN	dep	177	O		1444	1448
+4	89	of	of	IN	dep	177	O		1449	1451
+4	90	banks	bank	NNS	dep	177	O		1452	1457
+4	91	,	,	,	punct	177	O		1457	1458
+4	92	or	or	CC	cc	177	O		1459	1461
+4	93	may	may	MD	dep	177	O		1462	1465
+4	94	result	result	VB	dep	177	O		1466	1472
+4	95	in	in	IN	dep	177	O		1473	1475
+4	96	banking	banking	NN	dep	177	O		1476	1483
+4	97	crisis	crisis	NN	dep	177	O		1484	1490
+4	98	(	(	-LRB-	punct	177	O		1491	1492
+4	99	in	in	IN	dep	177	O		1493	1495
+4	100	various	various	JJ	dep	177	O		1496	1503
+4	101	ways	way	NNS	dep	177	O		1504	1508
+4	102	that	that	WDT	dep	177	O		1509	1513
+4	103	may	may	MD	dep	177	O		1514	1517
+4	104	be	be	VB	dep	177	O		1518	1520
+4	105	for	for	IN	dep	177	O		1521	1524
+4	106	example	example	NN	dep	177	O		1525	1532
+4	107	unauthorized	unauthorized	JJ	dep	177	O		1533	1545
+4	108	transformations	transformation	NNS	dep	177	O		1546	1561
+4	109	of	of	IN	dep	177	O		1562	1564
+4	110	banks	bank	NNS	dep	177	O		1565	1570
+4	111	)	)	-RRB-	punct	177	O		1571	1572
+4	112	,	,	,	punct	177	O		1572	1573
+4	113	and	and	CC	cc	177	O		1574	1577
+4	114	further	further	RB	dep	177	O		1578	1585
+4	115	the	the	DT	dep	177	O		1586	1589
+4	116	crisis	crisis	NN	dep	177	O		1590	1596
+4	117	in	in	IN	dep	177	O		1597	1599
+4	118	investment	investment	NN	dep	177	O		1600	1610
+4	119	and	and	CC	cc	177	O		1611	1614
+4	120	credit	credit	NN	dep	177	O		1615	1621
+4	121	;	;	:	punct	177	O		1622	1623
+4	122	that	that	IN	dep	177	O		1624	1628
+4	123	further	further	RB	dep	177	O		1629	1636
+4	124	could	could	MD	dep	177	O		1637	1642
+4	125	reflect	reflect	VB	dep	177	O		1643	1650
+4	126	on	on	IN	dep	177	O		1651	1653
+4	127	innovation	innovation	NN	dep	177	O		1654	1664
+4	128	and	and	CC	cc	177	O		1665	1668
+4	129	new	new	JJ	dep	177	O		1669	1672
+4	130	businesses	business	NNS	dep	177	O		1673	1683
+4	131	investments	investment	NNS	dep	177	O		1684	1695
+4	132	lessening	lessening	NN	dep	177	O		1696	1705
+4	133	or	or	CC	cc	177	O		1706	1708
+4	134	even	even	RB	dep	177	O		1709	1713
+4	135	shrinking	shrink	VBG	dep	177	O		1714	1723
+4	136	,	,	,	punct	177	O		1723	1724
+4	137	or	or	CC	cc	177	O		1725	1727
+4	138	buyers	buyer	NNS	dep	177	O		1728	1734
+4	139	dry	dry	VBP	dep	177	O		1735	1738
+4	140	up	up	RP	dep	177	O		1739	1741
+4	141	in	in	IN	dep	177	O		1742	1744
+4	142	recession	recession	NN	dep	177	O		1745	1754
+4	143	and	and	CC	cc	177	O		1755	1758
+4	144	suppliers	supplier	NNS	dep	177	O		1759	1768
+4	145	cut	cut	VBD	dep	177	O		1769	1772
+4	146	back	back	RP	dep	177	O		1773	1777
+4	147	on	on	IN	dep	177	O		1778	1780
+4	148	production	production	NN	dep	177	O		1781	1791
+4	149	and	and	CC	cc	177	O		1792	1795
+4	150	investment	investment	NN	dep	177	O		1796	1806
+4	151	in	in	IN	dep	177	O		1807	1809
+4	152	technology	technology	NN	dep	177	O		1810	1820
+4	153	,	,	,	punct	177	O		1820	1821
+4	154	in	in	IN	dep	177	O		1822	1824
+4	155	financial	financial	JJ	dep	177	O		1825	1834
+4	156	crisis	crisis	NN	dep	177	O		1835	1841
+4	157	that	that	WDT	dep	177	O		1842	1846
+4	158	may	may	MD	dep	177	O		1847	1850
+4	159	be	be	VB	dep	177	O		1851	1853
+4	160	more	more	RBR	dep	177	O		1854	1858
+4	161	country	country	NN	dep	177	O		1859	1866
+4	162	defaults	default	NNS	dep	177	O		1867	1875
+4	163	or	or	CC	cc	177	O		1876	1878
+4	164	debt	debt	NN	dep	177	O		1879	1883
+4	165	problems	problem	NNS	dep	177	O		1884	1892
+4	166	,	,	,	punct	177	O		1892	1893
+4	167	and	and	CC	cc	177	O		1894	1897
+4	168	further	further	RB	dep	177	O		1898	1905
+4	169	in	in	IN	dep	177	O		1906	1908
+4	170	feared	fear	VBN	dep	177	O		1909	1915
+4	171	businesses	business	NNS	dep	177	O		1916	1926
+4	172	bankruptcies	bankruptcy	NNS	dep	177	O		1927	1939
+4	173	,	,	,	punct	177	O		1939	1940
+4	174	and	and	CC	cc	177	O		1941	1944
+4	175	overall	overall	JJ	dep	177	O		1945	1952
+4	176	business	business	NN	dep	177	O		1953	1961
+4	177	slowdown	slowdown	NN	root	0	O		1962	1970
+4	178	.	.	.	punct	177	O		1970	1971
+
+5	1	Other	other	JJ	amod	3	O	 (ROOT (S (NP (NP (JJ Other)	1972	1977
+5	2	bad	bad	JJ	amod	3	O	 (JJ bad)	1978	1981
+5	3	signs	sign	NNS	nsubj	11	O	 (NNS signs))	1982	1987
+5	4	of	of	IN	case	6	O	 (PP (IN of)	1988	1990
+5	5	economic	economic	JJ	amod	6	O	 (NP (JJ economic)	1991	1999
+5	6	depression	depression	NN	nmod	3	O	 (NN depression))))	2000	2010
+5	7	could	could	MD	aux	11	O	 (VP (MD could)	2011	2016
+5	8	be	be	VB	cop	11	O	 (VP (VB be)	2017	2019
+5	9	significantly	significantly	RB	advmod	10	O	 (NP (NP (ADJP (RB significantly)	2020	2033
+5	10	reduced	reduce	VBN	amod	11	O	 (VBN reduced))	2034	2041
+5	11	amounts	amount	NNS	root	0	O	 (NNS amounts))	2042	2049
+5	12	of	of	IN	case	13	O	 (PP (PP (IN of)	2050	2052
+5	13	trade	trade	NN	nmod	11	O	 (NP (NP (NN trade)	2053	2058
+5	14	and	and	CC	cc	15	O	 (CC and)	2059	2062
+5	15	commerce	commerce	NN	conj	13	O	 (NN commerce))	2063	2071
+5	16	(	(	-LRB-	punct	19	O	 (RRC (-LRB- -LRB-) (ADVP (RB especially)) (NP (JJ international) (NN trade)) (-RRB- -RRB-)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (PP (IN in) (NP (NP (NN currency) (NNS markets)) (SBAR (WHNP (WDT that)) (S (VP (FRAG (ADVP (RB maybe)) (NP (NP (NNS fluctuations)) (CC or) (NP (NP (JJ unexpected) (NN exchange) (NNS rates)) (PP (IN with) (NP (VBN observed) (NML (ADJP (RB highly) (JJ volatile)) (NN currency) (NN value)) (NNS fluctuations)))))))))))) (PRN (-LRB- -LRB-) (ADJP (RB often) (JJ due) (PP (IN to) (NP (JJ relative) (NN currency) (NNS devaluations)))) (-RRB- -RRB-))))) (. .)))	2072	2073
+5	17	especially	especially	RB	advmod	19	O		2074	2084
+5	18	international	international	JJ	amod	19	O		2085	2098
+5	19	trade	trade	NN	acl:relcl	13	O		2099	2104
+5	20	)	)	-RRB-	punct	19	O		2105	2106
+5	21	,	,	,	punct	13	O		2106	2107
+5	22	as	as	RB	cc	27	O		2108	2110
+5	23	well	well	RB	fixed	22	O		2111	2115
+5	24	as	as	IN	fixed	22	O		2116	2118
+5	25	in	in	IN	case	27	O		2119	2121
+5	26	currency	currency	NN	compound	27	O		2122	2130
+5	27	markets	market	NNS	conj	13	O		2131	2138
+5	28	that	that	WDT	nsubj	30	O		2139	2143
+5	29	maybe	maybe	RB	dep	30	O		2144	2149
+5	30	fluctuations	fluctuation	NNS	acl:relcl	27	O		2150	2162
+5	31	or	or	CC	cc	34	O		2163	2165
+5	32	unexpected	unexpected	JJ	amod	34	O		2166	2176
+5	33	exchange	exchange	NN	compound	34	O		2177	2185
+5	34	rates	rate	NNS	conj	30	O		2186	2191
+5	35	with	with	IN	case	41	O		2192	2196
+5	36	observed	observe	VBN	amod	41	O		2197	2205
+5	37	highly	highly	RB	advmod	38	O		2206	2212
+5	38	volatile	volatile	JJ	amod	40	O		2213	2221
+5	39	currency	currency	NN	compound	40	O		2222	2230
+5	40	value	value	NN	compound	41	O		2231	2236
+5	41	fluctuations	fluctuation	NNS	nmod	34	O		2237	2249
+5	42	(	(	-LRB-	punct	44	O		2250	2251
+5	43	often	often	RB	advmod	44	O		2252	2257
+5	44	due	due	JJ	dep	11	O		2258	2261
+5	45	to	to	IN	case	48	O		2262	2264
+5	46	relative	relative	JJ	amod	48	O		2265	2273
+5	47	currency	currency	NN	compound	48	O		2274	2282
+5	48	devaluations	devaluation	NNS	obl	44	O		2283	2295
+5	49	)	)	-RRB-	punct	44	O		2296	2297
+5	50	.	.	.	punct	11	O		2297	2298
+
+6	1	Other	other	JJ	amod	2	O	 (ROOT (S (S (NP (NP (JJ Other)	2299	2304
+6	2	signs	sign	NNS	nsubj	7	O	 (NNS signs))	2305	2310
+6	3	of	of	IN	case	4	O	 (PP (IN of)	2311	2313
+6	4	depression	depression	NN	nmod	2	O	 (NP (NN depression))))	2314	2324
+6	5	are	be	VBP	cop	7	O	 (VP (VBP are)	2325	2328
+6	6	prices	price	NNS	compound	7	O	 (NP (NP (NNS prices)	2329	2335
+6	7	deflation	deflation	NN	root	0	O	 (NN deflation))	2336	2345
+6	8	,	,	,	punct	7	O	 (, ,)	2345	2346
+6	9	financial	financial	JJ	amod	10	O	 (NP (JJ financial)	2347	2356
+6	10	crises	crisis	NNS	conj	7	O	 (NNS crises))	2357	2363
+6	11	,	,	,	punct	7	O	 (, ,)	2363	2364
+6	12	stock	stock	NN	compound	14	O	 (NP (NN stock)	2365	2370
+6	13	market	market	NN	compound	14	O	 (NN market)	2371	2377
+6	14	crash	crash	NN	conj	7	CAUSE_OF_DEATH	 (NN crash))	2378	2383
+6	15	or	or	CC	cc	18	O	 (CC or)	2384	2386
+6	16	even	even	RB	advmod	18	O	 (NP (RB even)	2387	2391
+6	17	bank	bank	NN	compound	18	O	 (NN bank)	2392	2396
+6	18	failures	failure	NNS	conj	7	O	 (NNS failures)))))	2397	2405
+6	19	,	,	,	punct	7	O	 (, ,)	2405	2406
+6	20	or	or	CC	cc	46	O	 (CC or)	2407	2409
+6	21	even	even	RB	advmod	46	O	 (S (ADVP (RB even))	2410	2414
+6	22	specific	specific	JJ	amod	23	O	 (NP (NP (JJ specific)	2415	2423
+6	23	behaviour	behaviour	NN	nsubj	46	O	 (NN behaviour))	2424	2433
+6	24	of	of	IN	case	26	O	 (PP (IN of)	2434	2436
+6	25	economic	economic	JJ	amod	26	O	 (NP (NP (NP (JJ economic)	2437	2445
+6	26	agents	agent	NNS	nmod	23	O	 (NNS agents))	2446	2452
+6	27	or	or	CC	cc	28	O	 (CC or)	2453	2455
+6	28	population	population	NN	conj	26	O	 (NP (NN population)))	2456	2466
+6	29	,	,	,	punct	26	O	 (, ,)	2466	2467
+6	30	that	that	WDT	nsubj	33	O	 (SBAR (WHNP (WDT that))	2468	2472
+6	31	are	be	VBP	cop	33	O	 (S (VP (VBP are)	2473	2476
+6	32	also	also	RB	advmod	33	O	 (ADVP (RB also))	2477	2481
+6	33	common	common	JJ	acl:relcl	26	O	 (ADJP (JJ common)))))))	2482	2488
+6	34	or	or	CC	cc	35	O	 (CONJP (CC or)	2489	2491
+6	35	also	also	RB	cc	38	O	 (RB also))	2492	2496
+6	36	non	non	AFX	dep	37	O	 (NP (NP (ADJP (AFX non)	2497	2500
+6	37	common	common	JJ	amod	38	O	 (JJ common))	2501	2507
+6	38	elements	element	NNS	conj	23	O	 (NNS elements))	2508	2516
+6	39	of	of	IN	case	41	O	 (PP (IN of)	2517	2519
+6	40	a	a	DT	det	41	O	 (NP (NP (DT a)	2520	2521
+6	41	depression	depression	NN	nmod	38	O	 (NN depression))	2522	2532
+6	42	that	that	WDT	nsubj	43	O	 (SBAR (WHNP (WDT that))	2533	2537
+6	43	do	do	VBP	acl:relcl	41	O	 (S (VP (VBP do)	2538	2540
+6	44	not	not	RB	advmod	43	O	 (RB not))))))))	2541	2544
+6	45	normally	normally	RB	advmod	46	O	 (ADVP (RB normally))	2545	2553
+6	46	occur	occur	VBP	conj	7	O	 (VP (VBP occur)	2554	2559
+6	47	during	during	IN	case	49	O	 (PP (IN during)	2560	2566
+6	48	a	a	DT	det	49	O	 (NP (DT a)	2567	2568
+6	49	recession	recession	NN	obl	46	O	 (NN recession)))))	2569	2578
+6	50	.	.	.	punct	7	O	 (. .)))	2578	2579
+
+7	1	In	in	IN	case	4	O	 (ROOT (S (PP (IN In)	2580	2582
+7	2	the	the	DT	det	4	O	 (NP (DT the)	2583	2586
+7	3	United	United	NNP	compound	4	COUNTRY	 (NNP United)	2587	2593
+7	4	States	States	NNP	obl	11	COUNTRY	 (NNP States)))	2594	2600
+7	5	the	the	DT	det	7	O	 (NP (NP (DT the)	2601	2604
+7	6	National	National	NNP	compound	7	ORGANIZATION	 (NNP National)	2605	2613
+7	7	Bureau	Bureau	NNP	nsubj	11	ORGANIZATION	 (NNP Bureau))	2614	2620
+7	8	of	of	IN	case	10	ORGANIZATION	 (PP (IN of)	2621	2623
+7	9	Economic	Economic	NNP	compound	10	ORGANIZATION	 (NP (NNP Economic)	2624	2632
+7	10	Research	Research	NNP	nmod	7	ORGANIZATION	 (NNP Research))))	2633	2641
+7	11	determines	determine	VBZ	root	0	O	 (VP (VP (VBZ determines)	2642	2652
+7	12	contractions	contraction	NNS	obj	11	O	 (NP (NNS contractions)	2653	2665
+7	13	and	and	CC	cc	14	O	 (CC and)	2666	2669
+7	14	expansions	expansion	NNS	conj	12	O	 (NNS expansions))	2670	2680
+7	15	in	in	IN	case	18	O	 (PP (IN in)	2681	2683
+7	16	the	the	DT	det	18	O	 (NP (DT the)	2684	2687
+7	17	business	business	NN	compound	18	O	 (NN business)	2688	2696
+7	18	cycle	cycle	NN	obl	11	O	 (NN cycle))))	2697	2702
+7	19	,	,	,	punct	11	O	 (, ,)	2702	2703
+7	20	but	but	CC	cc	23	O	 (CC but)	2704	2707
+7	21	does	do	VBZ	aux	23	O	 (VP (VBZ does)	2708	2712
+7	22	not	not	RB	advmod	23	O	 (RB not)	2713	2716
+7	23	declare	declare	VB	conj	11	O	 (VP (VB declare)	2717	2724
+7	24	depressions	depression	NNS	obj	23	O	 (NP (NNS depressions)))))	2725	2736
+7	25	.	.	.	punct	11	O	 (. .)))	2736	2737
+
+8	1	Generally	generally	RB	advmod	7	O	 (ROOT (S (ADVP (RB Generally))	2738	2747
+8	2	,	,	,	punct	7	O	 (, ,)	2747	2748
+8	3	periods	period	NNS	nsubj:pass	7	O	 (NP (NP (NNS periods))	2749	2756
+8	4	labeled	label	VBN	acl	3	O	 (VP (VBN labeled)	2757	2764
+8	5	depressions	depression	NNS	obj	4	O	 (NP (NNS depressions))))	2765	2776
+8	6	are	be	VBP	aux:pass	7	O	 (VP (VBP are)	2777	2780
+8	7	marked	mark	VBN	root	0	O	 (VP (VBN marked)	2781	2787
+8	8	by	by	IN	case	13	O	 (PP (IN by)	2788	2790
+8	9	a	a	DT	det	13	O	 (NP (NP (DT a)	2791	2792
+8	10	substantial	substantial	JJ	amod	13	O	 (ADJP (JJ substantial)	2793	2804
+8	11	and	and	CC	cc	12	O	 (CC and)	2805	2808
+8	12	sustained	sustained	JJ	conj	10	O	 (JJ sustained))	2809	2818
+8	13	shortfall	shortfall	NN	obl	7	O	 (NN shortfall))	2819	2828
+8	14	of	of	IN	case	16	O	 (PP (IN of)	2829	2831
+8	15	the	the	DT	det	16	O	 (NP (DT the)	2832	2835
+8	16	ability	ability	NN	nmod	13	O	 (NN ability)))))	2836	2843
+8	17	to	to	TO	mark	18	O	 (S (VP (TO to)	2844	2846
+8	18	purchase	purchase	VB	xcomp	7	O	 (VP (VB purchase)	2847	2855
+8	19	goods	goods	NNS	obj	18	O	 (NP (NNS goods))	2856	2861
+8	20	relative	relative	JJ	advmod	18	O	 (ADVP (JJ relative)	2862	2870
+8	21	to	to	IN	case	23	O	 (PP (IN to)	2871	2873
+8	22	the	the	DT	det	23	O	 (NP (NP (DT the)	2874	2877
+8	23	amount	amount	NN	obl	20	O	 (NN amount))	2878	2884
+8	24	that	that	WDT	nsubj:pass	27	O	 (SBAR (WHNP (WDT that))	2885	2889
+8	25	could	could	MD	aux	27	O	 (S (VP (MD could)	2890	2895
+8	26	be	be	VB	aux:pass	27	O	 (VP (VB be)	2896	2898
+8	27	produced	produce	VBN	acl:relcl	23	O	 (VP (VBN produced)	2899	2907
+8	28	using	use	VBG	xcomp	27	O	 (S (VP (VBG using)	2908	2913
+8	29	current	current	JJ	amod	30	DATE	 (NP (JJ current)	2914	2921
+8	30	resources	resource	NNS	obj	28	O	 (NNS resources)	2922	2931
+8	31	and	and	CC	cc	32	O	 (CC and)	2932	2935
+8	32	technology	technology	NN	conj	30	O	 (NN technology)))))))))))))))	2936	2946
+8	33	(	(	-LRB-	punct	35	O	 (PRN (-LRB- -LRB-) (NP (JJ potential) (NN output)) (-RRB- -RRB-)))) (. .)))	2947	2948
+8	34	potential	potential	JJ	amod	35	O		2949	2958
+8	35	output	output	NN	dep	7	O		2959	2965
+8	36	)	)	-RRB-	punct	35	O		2966	2967
+8	37	.	.	.	punct	7	O		2967	2968
+
+9	1	Another	another	DT	det	3	O	 (ROOT (S (NP (NP (DT Another)	2969	2976
+9	2	proposed	propose	VBN	amod	3	O	 (VBN proposed)	2977	2985
+9	3	definition	definition	NN	nsubj	6	O	 (NN definition))	2986	2996
+9	4	of	of	IN	case	5	O	 (PP (IN of)	2997	2999
+9	5	depression	depression	NN	nmod	3	O	 (NP (NN depression))))	3000	3010
+9	6	includes	include	VBZ	root	0	O	 (VP (VP (VBZ includes)	3011	3019
+9	7	two	two	CD	nummod	9	NUMBER	 (NP (CD two)	3020	3023
+9	8	general	general	JJ	amod	9	TITLE	 (JJ general)	3024	3031
+9	9	rules	rule	NNS	obj	6	O	 (NNS rules)))	3032	3037
+9	10	:	:	:	punct	6	O	 (: :)	3038	3039
+9	11	a	a	DT	det	12	O	 (NP (NP (NP (DT a)	3040	3041
+9	12	decline	decline	NN	obj	6	O	 (NN decline))	3042	3049
+9	13	in	in	IN	case	15	O	 (PP (IN in)	3050	3052
+9	14	real	real	JJ	amod	15	O	 (NP (NP (JJ real)	3053	3057
+9	15	GDP	gdp	NN	nmod	12	O	 (NN GDP))	3058	3061
+9	16	exceeding	exceed	VBG	acl	15	O	 (VP (VBG exceeding)	3062	3071
+9	17	10	10	CD	nummod	18	PERCENT	 (NP (CD 10)	3072	3074
+9	18	%	%	NN	obj	16	PERCENT	 (NN %))))))	3075	3076
+9	19	,	,	,	punct	12	O	 (, ,)	3076	3077
+9	20	ora	ora	NN	compound	21	O	 (NP (NP (NN ora)	3078	3081
+9	21	recession	recession	NN	appos	12	O	 (NN recession))	3082	3091
+9	22	lasting	last	VBG	acl	21	O	 (VP (VBG lasting)	3092	3099
+9	23	2	2	CD	nummod	26	NUMBER	 (NP (QP (CD 2)	3100	3101
+9	24	or	or	CC	cc	25	O	 (CC or)	3102	3104
+9	25	more	more	JJR	conj	23	O	 (JJR more))	3105	3109
+9	26	years	year	NNS	obl:tmod	22	DURATION	 (NNS years))))))	3110	3115
+9	27	.	.	.	punct	6	O	 (. .)))	3115	3116
+
+10	1	There	there	EX	expl	2	O	 (ROOT (S (NP (EX There))	3117	3122
+10	2	are	be	VBP	root	0	O	 (VP (VBP are)	3123	3126
+10	3	also	also	RB	advmod	2	O	 (ADVP (RB also))	3127	3131
+10	4	differences	difference	NNS	nsubj	2	O	 (NP (NP (NNS differences))	3132	3143
+10	5	in	in	IN	case	7	O	 (PP (IN in)	3144	3146
+10	6	the	the	DT	det	7	O	 (NP (NP (DT the)	3147	3150
+10	7	duration	duration	NN	nmod	4	O	 (NN duration))	3151	3159
+10	8	of	of	IN	case	9	O	 (PP (IN of)	3160	3162
+10	9	depression	depression	NN	nmod	7	O	 (NP (NP (NN depression))	3163	3173
+10	10	across	across	IN	case	11	O	 (PP (IN across)	3174	3180
+10	11	definitions	definition	NNS	nmod	9	O	 (NP (NNS definitions)))))))))	3181	3192
+10	12	.	.	.	punct	2	O	 (. .)))	3192	3193
+
+11	1	Some	some	DT	det	2	O	 (ROOT (S (NP (DT Some)	3194	3198
+11	2	economists	economist	NNS	nsubj	3	O	 (NNS economists))	3199	3209
+11	3	refer	refer	VBP	root	0	O	 (VP (VBP refer)	3210	3215
+11	4	only	only	RB	advmod	3	O	 (ADVP (RB only))	3216	3220
+11	5	to	to	IN	case	7	O	 (PP (IN to)	3221	3223
+11	6	the	the	DT	det	7	O	 (NP (DT the)	3224	3227
+11	7	period	period	NN	obl	3	O	 (NN period)))	3228	3234
+11	8	when	when	WRB	advmod	12	O	 (SBAR (WHADVP (WRB when))	3235	3239
+11	9	economic	economic	JJ	amod	10	O	 (S (NP (JJ economic)	3240	3248
+11	10	activity	activity	NN	nsubj	12	O	 (NN activity))	3249	3257
+11	11	is	be	VBZ	aux	12	O	 (VP (VBZ is)	3258	3260
+11	12	declining	decline	VBG	advcl	3	O	 (VP (VBG declining))))))	3261	3270
+11	13	.	.	.	punct	3	O	 (. .)))	3270	3271
+
+12	1	The	the	DT	det	4	O	 (ROOT (S (NP (NP (DT The)	3272	3275
+12	2	more	more	RBR	advmod	3	O	 (ADJP (RBR more)	3276	3280
+12	3	common	common	JJ	amod	4	O	 (JJ common))	3281	3287
+12	4	use	use	NN	nsubj	9	O	 (NN use))	3288	3291
+12	5	,	,	,	punct	4	O	 (, ,)	3291	3292
+12	6	however	however	RB	advmod	4	O	 (ADVP (RB however))	3293	3300
+12	7	,	,	,	punct	4	O	 (, ,))	3300	3301
+12	8	also	also	RB	advmod	9	O	 (ADVP (RB also))	3302	3306
+12	9	encompasses	encompass	VBZ	root	0	O	 (VP (VBZ encompasses)	3307	3318
+12	10	the	the	DT	det	11	O	 (NP (DT the)	3319	3322
+12	11	time	time	NN	obj	9	O	 (NN time))	3323	3327
+12	12	until	until	IN	mark	17	O	 (SBAR (IN until)	3328	3333
+12	13	the	the	DT	det	15	O	 (S (NP (DT the)	3334	3337
+12	14	economic	economic	JJ	amod	15	O	 (JJ economic)	3338	3346
+12	15	activity	activity	NN	nsubj	17	O	 (NN activity))	3347	3355
+12	16	has	have	VBZ	aux	17	O	 (VP (VBZ has)	3356	3359
+12	17	returned	return	VBN	advcl	9	O	 (VP (VBN returned)	3360	3368
+12	18	close	close	RB	advmod	17	O	 (ADVP (RB close)	3369	3374
+12	19	to	to	IN	case	21	O	 (PP (IN to)	3375	3377
+12	20	normal	normal	JJ	amod	21	O	 (NP (JJ normal)	3378	3384
+12	21	levels	level	NNS	obl	18	O	 (NNS levels)))))))))	3385	3391
+12	22	.	.	.	punct	9	O	 (. .)))	3391	3392
+
+13	1	A	a	DT	det	2	O	 (ROOT (S (NP (DT A)	3393	3394
+13	2	recession	recession	NN	nsubj:pass	5	O	 (NN recession))	3395	3404
+13	3	is	be	VBZ	aux:pass	5	O	 (VP (VBZ is)	3405	3407
+13	4	briefly	briefly	RB	advmod	5	O	 (ADVP (RB briefly))	3408	3415
+13	5	defined	define	VBN	root	0	O	 (VP (VBN defined)	3416	3423
+13	6	as	as	IN	mark	13	O	 (SBAR (IN as)	3424	3426
+13	7	a	a	DT	det	8	O	 (S (NP (NP (DT a)	3427	3428
+13	8	period	period	NN	nsubj	13	O	 (NN period))	3429	3435
+13	9	of	of	IN	case	12	O	 (PP (IN of)	3436	3438
+13	10	declining	decline	VBG	amod	12	O	 (NP (VBG declining)	3439	3448
+13	11	economic	economic	JJ	amod	12	O	 (JJ economic)	3449	3457
+13	12	activity	activity	NN	nmod	8	O	 (NN activity))))	3458	3466
+13	13	spread	spread	VBD	advcl	5	O	 (VP (VBD spread)	3467	3473
+13	14	across	across	IN	case	16	O	 (PP (IN across)	3474	3480
+13	15	the	the	DT	det	16	O	 (NP (DT the)	3481	3484
+13	16	economy	economy	NN	obl	13	O	 (NN economy)))	3485	3492
+13	17	(	(	-LRB-	punct	20	O	 (PP (-LRB- -LRB-) (VBG according) (PP (IN to) (NP (NNP NBER))) (-RRB- -RRB-))))))) (. .)))	3493	3494
+13	18	according	accord	VBG	case	20	O		3495	3504
+13	19	to	to	IN	fixed	18	O		3505	3507
+13	20	NBER	NBER	NNP	obl	13	ORGANIZATION		3508	3512
+13	21	)	)	-RRB-	punct	20	O		3513	3514
+13	22	.	.	.	punct	5	O		3514	3515
+
+14	1	Under	under	IN	case	4	O	 (ROOT (S (PP (IN Under)	3516	3521
+14	2	the	the	DT	det	4	O	 (NP (DT the)	3522	3525
+14	3	first	first	JJ	amod	4	ORDINAL	 (JJ first)	3526	3531
+14	4	definition	definition	NN	obl	10	O	 (NN definition)))	3532	3542
+14	5	,	,	,	punct	10	O	 (, ,)	3542	3543
+14	6	each	each	DT	det	7	O	 (NP (DT each)	3544	3548
+14	7	depression	depression	NN	nsubj	10	O	 (NN depression))	3549	3559
+14	8	will	will	MD	aux	10	O	 (VP (MD will)	3560	3564
+14	9	always	always	RB	advmod	10	O	 (ADVP (RB always))	3565	3571
+14	10	coincide	coincide	VB	root	0	O	 (VP (VB coincide)	3572	3580
+14	11	with	with	IN	case	13	O	 (PP (IN with)	3581	3585
+14	12	a	a	DT	det	13	O	 (NP (DT a)	3586	3587
+14	13	recession	recession	NN	obl	10	O	 (NN recession)))	3588	3597
+14	14	,	,	,	punct	10	O	 (, ,)	3597	3598
+14	15	since	since	IN	mark	26	O	 (SBAR (IN since)	3599	3604
+14	16	the	the	DT	det	17	O	 (S (NP (NP (DT the)	3605	3608
+14	17	difference	difference	NN	nsubj	26	O	 (NN difference))	3609	3619
+14	18	between	between	IN	case	20	O	 (PP (IN between)	3620	3627
+14	19	a	a	DT	det	20	O	 (NP (NP (DT a)	3628	3629
+14	20	depression	depression	NN	nmod	17	O	 (NN depression))	3630	3640
+14	21	and	and	CC	cc	23	O	 (CC and)	3641	3644
+14	22	a	a	DT	det	23	O	 (NP (DT a)	3645	3646
+14	23	recession	recession	NN	conj	20	O	 (NN recession)))))	3647	3656
+14	24	is	be	VBZ	cop	26	O	 (VP (VBZ is)	3657	3659
+14	25	the	the	DT	det	26	O	 (NP (NP (DT the)	3660	3663
+14	26	severity	severity	NN	advcl	10	O	 (NN severity))	3664	3672
+14	27	of	of	IN	case	29	O	 (PP (IN of)	3673	3675
+14	28	the	the	DT	det	29	O	 (NP (NP (DT the)	3676	3679
+14	29	fall	fall	NN	nmod	26	DATE	 (NN fall))	3680	3684
+14	30	in	in	IN	case	32	O	 (PP (IN in)	3685	3687
+14	31	economic	economic	JJ	amod	32	O	 (NP (JJ economic)	3688	3696
+14	32	activity	activity	NN	nmod	29	O	 (NN activity)))))))))))	3697	3705
+14	33	.	.	.	punct	10	O	 (. .)))	3705	3706
+
+15	1	In	in	IN	case	3	O	 (ROOT (S (PP (IN In)	3707	3709
+15	2	other	other	JJ	amod	3	O	 (NP (JJ other)	3710	3715
+15	3	words	word	NNS	obl	10	O	 (NNS words)))	3716	3721
+15	4	,	,	,	punct	10	O	 (, ,)	3721	3722
+15	5	each	each	DT	det	6	O	 (NP (DT each)	3723	3727
+15	6	depression	depression	NN	nsubj	10	O	 (NN depression))	3728	3738
+15	7	is	be	VBZ	cop	10	O	 (VP (VBZ is)	3739	3741
+15	8	always	always	RB	advmod	10	O	 (ADVP (RB always))	3742	3748
+15	9	a	a	DT	det	10	O	 (NP (DT a)	3749	3750
+15	10	recession	recession	NN	root	0	O	 (NN recession))	3751	3760
+15	11	,	,	,	punct	10	O	 (, ,)	3760	3761
+15	12	sharing	share	VBG	dep	10	O	 (S (VP (VP (VBG sharing)	3762	3769
+15	13	the	the	DT	det	15	O	 (NP (DT the)	3770	3773
+15	14	same	same	JJ	amod	15	O	 (JJ same)	3774	3778
+15	15	starting	starting	NN	obj	12	O	 (NN starting)))	3779	3787
+15	16	and	and	CC	cc	17	O	 (CC and)	3788	3791
+15	17	ending	end	VBG	conj	12	O	 (VP (VP (VBG ending)	3792	3798
+15	18	dates	date	NNS	obj	17	O	 (NP (NNS dates)))	3799	3804
+15	19	and	and	CC	cc	20	O	 (CC and)	3805	3808
+15	20	having	have	VBG	conj	17	O	 (VP (VBG having)	3809	3815
+15	21	the	the	DT	det	23	O	 (NP (DT the)	3816	3819
+15	22	same	same	JJ	amod	23	O	 (JJ same)	3820	3824
+15	23	duration	duration	NN	obj	20	O	 (NN duration)))))))	3825	3833
+15	24	.	.	.	punct	10	O	 (. .)))	3833	3834
+
+16	1	Under	under	IN	case	4	O	 (ROOT (S (PP (IN Under)	3835	3840
+16	2	the	the	DT	det	4	O	 (NP (DT the)	3841	3844
+16	3	second	second	JJ	amod	4	ORDINAL	 (JJ second)	3845	3851
+16	4	definition	definition	NN	obl	13	O	 (NN definition)))	3852	3862
+16	5	,	,	,	punct	13	O	 (, ,)	3862	3863
+16	6	depressions	depression	NNS	nsubj	13	O	 (NP (NNS depressions)	3864	3875
+16	7	and	and	CC	cc	8	O	 (CC and)	3876	3879
+16	8	recessions	recession	NNS	conj	6	O	 (NNS recessions))	3880	3890
+16	9	will	will	MD	aux	13	O	 (VP (MD will)	3891	3895
+16	10	always	always	RB	advmod	13	O	 (ADVP (RB always))	3896	3902
+16	11	be	be	VB	cop	13	O	 (VP (VB be)	3903	3905
+16	12	distinct	distinct	JJ	amod	13	O	 (NP (JJ distinct)	3906	3914
+16	13	events	event	NNS	root	0	O	 (NNS events))	3915	3921
+16	14	however	however	RB	advmod	16	O	 (S (ADVP (RB however))	3922	3929
+16	15	,	,	,	punct	16	O	 (, ,)	3929	3930
+16	16	having	have	VBG	xcomp	13	O	 (VP (VBG having)	3931	3937
+16	17	the	the	DT	det	20	O	 (NP (DT the)	3938	3941
+16	18	same	same	JJ	amod	20	O	 (JJ same)	3942	3946
+16	19	starting	start	VBG	amod	20	O	 (VBG starting)	3947	3955
+16	20	dates	date	NNS	obj	16	O	 (NNS dates))))))	3956	3961
+16	21	.	.	.	punct	13	O	 (. .)))	3961	3962
+
+17	1	This	this	DT	det	2	O	 (ROOT (S (NP (NP (DT This)	3963	3967
+17	2	definition	definition	NN	nsubj	5	O	 (NN definition))	3968	3978
+17	3	of	of	IN	case	4	O	 (PP (IN of)	3979	3981
+17	4	depression	depression	NN	nmod	2	O	 (NP (NN depression))))	3982	3992
+17	5	implies	imply	VBZ	root	0	O	 (VP (VBZ implies)	3993	4000
+17	6	that	that	IN	mark	13	O	 (SBAR (IN that)	4001	4005
+17	7	a	a	DT	det	8	O	 (S (NP (NP (DT a)	4006	4007
+17	8	recession	recession	NN	nsubj	13	O	 (NN recession))	4008	4017
+17	9	and	and	CC	cc	11	O	 (CC and)	4018	4021
+17	10	a	a	DT	det	11	O	 (NP (DT a)	4022	4023
+17	11	depression	depression	NN	conj	8	O	 (NN depression)))	4024	4034
+17	12	will	will	MD	aux	13	O	 (VP (MD will)	4035	4039
+17	13	have	have	VB	ccomp	5	O	 (VP (VB have)	4040	4044
+17	14	different	different	JJ	dep	15	O	 (NP (NP (ADJP (JJ different)	4045	4054
+17	15	ending	end	VBG	amod	16	O	 (VBG ending))	4055	4061
+17	16	dates	date	NNS	obj	13	O	 (NNS dates))	4062	4067
+17	17	and	and	CC	cc	20	O	 (CC and)	4068	4071
+17	18	thus	thus	RB	advmod	20	O	 (ADVP (RB thus))	4072	4076
+17	19	distinct	distinct	JJ	amod	20	O	 (NP (JJ distinct)	4077	4085
+17	20	durations	duration	NNS	conj	16	O	 (NNS durations))))))))	4086	4095
+17	21	.	.	.	punct	5	O	 (. .)))	4095	4096
+
+18	1	Under	under	IN	case	3	O	 (ROOT (S (PP (IN Under)	4097	4102
+18	2	this	this	DT	det	3	O	 (NP (DT this)	4103	4107
+18	3	definition	definition	NN	obl	12	O	 (NN definition)))	4108	4118
+18	4	,	,	,	punct	12	O	 (, ,)	4118	4119
+18	5	the	the	DT	det	6	O	 (NP (NP (DT the)	4120	4123
+18	6	length	length	NN	nsubj	12	O	 (NN length))	4124	4130
+18	7	of	of	IN	case	8	O	 (PP (IN of)	4131	4133
+18	8	depression	depression	NN	nmod	6	O	 (NP (NN depression))))	4134	4144
+18	9	will	will	MD	aux	12	O	 (VP (MD will)	4145	4149
+18	10	always	always	RB	advmod	12	O	 (ADVP (RB always))	4150	4156
+18	11	be	be	VB	cop	12	O	 (VP (VB be)	4157	4159
+18	12	longer	long	JJR	root	0	O	 (ADJP (ADJP (JJR longer))	4160	4166
+18	13	than	than	IN	case	14	O	 (PP (IN than)	4167	4171
+18	14	that	that	DT	obl	12	O	 (NP (NP (DT that))	4172	4176
+18	15	of	of	IN	case	17	O	 (PP (IN of)	4177	4179
+18	16	the	the	DT	det	17	O	 (NP (DT the)	4180	4183
+18	17	recession	recession	NN	nmod	14	O	 (NN recession))))))	4184	4193
+18	18	starting	start	VBG	xcomp	12	O	 (S (VP (VBG starting)	4194	4202
+18	19	the	the	DT	det	21	O	 (NP (DT the)	4203	4206
+18	20	same	same	JJ	amod	21	O	 (JJ same)	4207	4211
+18	21	date	date	NN	obj	18	O	 (NN date))))))	4212	4216
+18	22	.	.	.	punct	12	O	 (. .)))	4216	4217
+
+19	1	A	a	DT	det	3	O	 (ROOT (S (NP (DT A)	4218	4219
+19	2	useful	useful	JJ	amod	3	O	 (JJ useful)	4220	4226
+19	3	example	example	NN	nsubj	6	O	 (NN example))	4227	4234
+19	4	is	be	VBZ	cop	6	O	 (VP (VBZ is)	4235	4237
+19	5	a	a	DT	det	6	O	 (NP (NP (DT a)	4238	4239
+19	6	difference	difference	NN	root	0	O	 (NN difference))	4240	4250
+19	7	in	in	IN	case	9	O	 (PP (IN in)	4251	4253
+19	8	the	the	DT	det	9	O	 (NP (NP (DT the)	4254	4257
+19	9	chronology	chronology	NN	nmod	6	O	 (NN chronology))	4258	4268
+19	10	of	of	IN	case	13	O	 (PP (IN of)	4269	4271
+19	11	the	the	DT	det	13	O	 (NP (NP (DT the)	4272	4275
+19	12	Great	Great	NNP	compound	13	O	 (NNP Great)	4276	4281
+19	13	Depression	Depression	NNP	nmod	9	O	 (NNP Depression))	4282	4292
+19	14	in	in	IN	case	17	O	 (PP (IN in)	4293	4295
+19	15	the	the	DT	det	17	O	 (NP (NP (DT the)	4296	4299
+19	16	U.	U.	NNP	compound	17	O	 (NNP U.)	4300	4302
+19	17	S.	S.	NNP	nmod	13	O	 (NNP S.))	4303	4305
+19	18	under	under	IN	case	20	O	 (PP (IN under)	4306	4311
+19	19	the	the	DT	det	20	O	 (NP (NP (DT the)	4312	4315
+19	20	view	view	NN	nmod	17	O	 (NN view))	4316	4320
+19	21	of	of	IN	case	23	O	 (PP (IN of)	4321	4323
+19	22	alternative	alternative	JJ	amod	23	O	 (NP (JJ alternative)	4324	4335
+19	23	definitions	definition	NNS	nmod	20	O	 (NNS definitions)))))))))))))	4336	4347
+19	24	.	.	.	punct	6	O	 (. .)))	4347	4348
+
+20	1	Using	use	VBG	advcl	10	O	 (ROOT (S (S (VP (VBG Using)	4349	4354
+20	2	the	the	DT	det	4	O	 (NP (NP (DT the)	4355	4358
+20	3	second	second	JJ	amod	4	ORDINAL	 (JJ second)	4359	4365
+20	4	definition	definition	NN	obj	1	O	 (NN definition))	4366	4376
+20	5	of	of	IN	case	6	O	 (PP (IN of)	4377	4379
+20	6	depression	depression	NN	nmod	4	O	 (NP (NN depression))))))	4380	4390
+20	7	,	,	,	punct	10	O	 (, ,)	4390	4391
+20	8	most	most	JJS	amod	9	O	 (NP (JJS most)	4392	4396
+20	9	economists	economist	NNS	nsubj	10	O	 (NNS economists))	4397	4407
+20	10	refer	refer	VBP	root	0	O	 (VP (VBP refer)	4408	4413
+20	11	to	to	IN	case	14	O	 (PP (IN to)	4414	4416
+20	12	the	the	DT	det	14	O	 (NP (DT the)	4417	4420
+20	13	Great	Great	NNP	compound	14	O	 (NNP Great)	4421	4426
+20	14	Depression	Depression	NNP	obl	10	O	 (NNP Depression)))	4427	4437
+20	15	,	,	,	punct	10	O	 (, ,)	4437	4438
+20	16	as	as	IN	case	18	O	 (PP (IN as)	4439	4441
+20	17	the	the	DT	det	18	O	 (NP (NP (DT the)	4442	4445
+20	18	period	period	NN	obl	10	O	 (NN period))	4446	4452
+20	19	between	between	IN	case	20	O	 (PP (IN between)	4453	4460
+20	20	1929	1929	CD	nmod	18	DATE	 (NP (CD 1929)	4461	4465
+20	21	and	and	CC	cc	22	DATE	 (CC and)	4466	4469
+20	22	1941	1941	CD	conj	20	DATE	 (CD 1941))))))	4470	4474
+20	23	.	.	.	punct	10	O	 (. .)))	4474	4475
+
+21	1	On	on	IN	case	4	O	 (ROOT (S (PP (IN On)	4476	4478
+21	2	the	the	DT	det	4	O	 (NP (NP (DT the)	4479	4482
+21	3	other	other	JJ	amod	4	O	 (JJ other)	4483	4488
+21	4	hand	hand	NN	obl	18	O	 (NN hand))	4489	4493
+21	5	,	,	,	punct	4	O	 (, ,)	4493	4494
+21	6	using	use	VBG	acl	4	O	 (VP (VBG using)	4495	4500
+21	7	the	the	DT	det	9	O	 (NP (DT the)	4501	4504
+21	8	first	first	JJ	amod	9	ORDINAL	 (JJ first)	4505	4510
+21	9	definition	definition	NN	obj	6	O	 (NN definition)))))	4511	4521
+21	10	,	,	,	punct	18	O	 (, ,)	4521	4522
+21	11	the	the	DT	det	12	O	 (NP (NP (DT the)	4523	4526
+21	12	depression	depression	NN	nsubj	18	O	 (NN depression))	4527	4537
+21	13	that	that	WDT	nsubj	14	O	 (SBAR (WHNP (WDT that))	4538	4542
+21	14	started	start	VBD	acl:relcl	12	O	 (S (VP (VBD started)	4543	4550
+21	15	in	in	IN	case	16	O	 (PP (IN in)	4551	4553
+21	16	August	August	NNP	obl	14	DATE	 (NP (NNP August)	4554	4560
+21	17	1929	1929	CD	nummod	16	DATE	 (CD 1929)))))))	4561	4565
+21	18	lasted	last	VBD	root	0	O	 (VP (VBD lasted)	4566	4572
+21	19	until	until	IN	case	20	O	 (PP (IN until)	4573	4578
+21	20	March	March	NNP	obl	18	DATE	 (NP (NNP March)	4579	4584
+21	21	1933	1933	CD	nummod	20	DATE	 (CD 1933))))	4585	4589
+21	22	.	.	.	punct	18	O	 (. .)))	4589	4590
+
+22	1	Note	note	VB	root	0	O	 (ROOT (S (VP (VB Note)	4591	4595
+22	2	that	that	IN	mark	22	O	 (SBAR (IN that)	4596	4600
+22	3	NBER	NBER	NNP	nsubj	22	ORGANIZATION	 (S (NP (NP (NNP NBER))	4601	4605
+22	4	,	,	,	punct	3	O	 (, ,)	4605	4606
+22	5	which	which	WDT	nsubj	6	O	 (SBAR (WHNP (WDT which))	4607	4612
+22	6	publishes	publish	VBZ	acl:relcl	3	O	 (S (VP (VBZ publishes)	4613	4622
+22	7	the	the	DT	det	8	O	 (SBAR (S (NP (NP (DT the)	4623	4626
+22	8	recession	recession	NN	nsubj	14	O	 (NN recession))	4627	4636
+22	9	(	(	-LRB-	punct	8	O	 (-LRB- -LRB-) (PP (RB instead) (IN of) (NP (NN depression))) (-RRB- -RRB-)) (VP (VBZ dates) (PP (IN for) (NP (DT the) (NML (NNP U.) (NNP S.)) (NN economy))))))))) (, ,)) (VP (VBZ has) (VP (VBN identified) (NP (CD two) (NNS recessions)) (PP (IN during) (NP (DT that) (NN period)))))))) (. .)))	4637	4638
+22	10	instead	instead	RB	case	12	O		4639	4646
+22	11	of	of	IN	fixed	10	O		4647	4649
+22	12	depression	depression	NN	nmod	8	O		4650	4660
+22	13	)	)	-RRB-	punct	8	O		4661	4662
+22	14	dates	date	VBZ	ccomp	6	O		4663	4668
+22	15	for	for	IN	case	19	O		4669	4672
+22	16	the	the	DT	det	19	O		4673	4676
+22	17	U.	U.	NNP	compound	18	O		4677	4679
+22	18	S.	S.	NNP	compound	19	O		4680	4682
+22	19	economy	economy	NN	obl	14	O		4683	4690
+22	20	,	,	,	punct	3	O		4690	4691
+22	21	has	have	VBZ	aux	22	O		4692	4695
+22	22	identified	identify	VBN	ccomp	1	O		4696	4706
+22	23	two	two	CD	nummod	24	NUMBER		4707	4710
+22	24	recessions	recession	NNS	obj	22	O		4711	4721
+22	25	during	during	IN	case	27	O		4722	4728
+22	26	that	that	DT	det	27	O		4729	4733
+22	27	period	period	NN	obl	22	O		4734	4740
+22	28	.	.	.	punct	1	O		4740	4741
+
+23	1	The	the	DT	det	2	O	 (ROOT (FRAG (NP (NP (NP (DT The)	4742	4745
+23	2	first	first	JJ	root	0	ORDINAL	 (JJ first))	4746	4751
+23	3	between	between	IN	case	4	O	 (PP (IN between)	4752	4759
+23	4	August	August	NNP	nmod	2	DATE	 (NP (NNP August)	4760	4766
+23	5	1929	1929	CD	nummod	4	DATE	 (CD 1929))))	4767	4771
+23	6	and	and	CC	cc	7	O	 (CC and)	4772	4775
+23	7	March	March	NNP	conj	2	DATE	 (NP (NP (NNP March)	4776	4781
+23	8	1933	1933	CD	nummod	7	DATE	 (CD 1933))	4782	4786
+23	9	and	and	CC	cc	12	O	 (CC and)	4787	4790
+23	10	the	the	DT	det	12	O	 (NP (DT the)	4791	4794
+23	11	second	second	JJ	amod	12	ORDINAL	 (JJ second)	4795	4801
+23	12	starting	starting	NN	conj	7	O	 (NN starting))))	4802	4810
+23	13	in	in	IN	case	14	O	 (UCP (PP (IN in)	4811	4813
+23	14	May	May	NNP	dep	2	DATE	 (NP (NNP May)	4814	4817
+23	15	1937	1937	CD	nummod	14	DATE	 (CD 1937)))	4818	4822
+23	16	and	and	CC	cc	17	O	 (CC and)	4823	4826
+23	17	ending	end	VBG	conj	14	O	 (VP (VBG ending)	4827	4833
+23	18	in	in	IN	case	19	O	 (PP (IN in)	4834	4836
+23	19	June	June	NNP	obl	17	DATE	 (NP (NNP June)	4837	4841
+23	20	1938	1938	CD	nummod	19	DATE	 (CD 1938)))))	4842	4846
+23	21	.	.	.	punct	2	O	 (. .)))	4846	4847
+
+24	1	Today	today	NN	obl:tmod	10	DATE	 (ROOT (S (S (NP-TMP (NN Today))	4848	4853
+24	2	the	the	DT	det	5	O	 (NP (DT the)	4854	4857
+24	3	term	term	NN	compound	5	O	 (NN term)	4858	4862
+24	4	"	"	``	punct	5	O	 (`` ")	4863	4864
+24	5	depression	depression	NN	nsubj:pass	10	O	 (NN depression)	4865	4875
+24	6	"	"	''	punct	5	O	 ('' "))	4876	4877
+24	7	is	be	VBZ	aux:pass	10	O	 (VP (VBZ is)	4878	4880
+24	8	most	most	RBS	advmod	9	O	 (ADVP (RBS most)	4881	4885
+24	9	often	often	RB	advmod	10	O	 (RB often))	4886	4891
+24	10	associated	associate	VBN	root	0	O	 (VP (VBN associated)	4892	4902
+24	11	with	with	IN	case	14	O	 (PP (IN with)	4903	4907
+24	12	the	the	DT	det	14	O	 (NP (NP (DT the)	4908	4911
+24	13	Great	Great	NNP	compound	14	O	 (NNP Great)	4912	4917
+24	14	Depression	Depression	NNP	obl	10	O	 (NNP Depression))	4918	4928
+24	15	of	of	IN	case	17	O	 (PP (IN of)	4929	4931
+24	16	the	the	DT	det	17	DATE	 (NP (DT the)	4932	4935
+24	17	1930s	1930	NNS	nmod	14	DATE	 (NNS 1930s))))))))	4936	4941
+24	18	,	,	,	punct	10	O	 (, ,)	4941	4942
+24	19	but	but	CC	cc	25	O	 (CC but)	4943	4946
+24	20	the	the	DT	det	21	O	 (S (NP (DT the)	4947	4950
+24	21	term	term	NN	nsubj	25	O	 (NN term))	4951	4955
+24	22	had	have	VBD	aux	25	O	 (VP (VBD had)	4956	4959
+24	23	been	be	VBN	cop	25	O	 (VP (VBN been)	4960	4964
+24	24	in	in	IN	case	25	O	 (PP (IN in)	4965	4967
+24	25	use	use	NN	conj	10	O	 (NP (NN use)))	4968	4971
+24	26	long	long	RB	advmod	25	O	 (ADVP (RB long)	4972	4976
+24	27	before	before	IN	case	28	O	 (PP (IN before)	4977	4983
+24	28	then	then	RB	advcl	26	O	 (ADVP (RB then)))))))	4984	4988
+24	29	.	.	.	punct	10	O	 (. .)))	4988	4989
+
+25	1	Indeed	indeed	RB	advmod	16	O	 (ROOT (S (ADVP (RB Indeed))	4990	4996
+25	2	,	,	,	punct	16	O	 (, ,)	4996	4997
+25	3	an	a	DT	det	8	O	 (S (NP (NP (DT an)	4998	5000
+25	4	early	early	JJ	amod	8	O	 (JJ early)	5001	5006
+25	5	major	major	JJ	amod	8	O	 (JJ major)	5007	5012
+25	6	American	American	JJ	amod	8	NATIONALITY	 (JJ American)	5013	5021
+25	7	economic	economic	JJ	amod	8	O	 (JJ economic)	5022	5030
+25	8	crisis	crisis	NN	nsubj:pass	16	O	 (NN crisis))	5031	5037
+25	9	,	,	,	punct	8	O	 (, ,)	5037	5038
+25	10	the	the	DT	det	11	O	 (NP (NP (DT the)	5039	5042
+25	11	Panic	panic	NN	appos	8	O	 (NN Panic))	5043	5048
+25	12	of	of	IN	case	13	O	 (PP (IN of)	5049	5051
+25	13	1819	1819	CD	nmod	11	DATE	 (NP (CD 1819))))	5052	5056
+25	14	,	,	,	punct	8	O	 (, ,))	5056	5057
+25	15	was	be	VBD	aux:pass	16	O	 (VP (VBD was)	5058	5061
+25	16	described	describe	VBN	root	0	O	 (VP (VBN described)	5062	5071
+25	17	by	by	IN	case	22	O	 (PP (IN by)	5072	5074
+25	18	then	then	RB	dep	20	O	 (NP (NML (RB then)	5075	5079
+25	19	-	-	HYPH	punct	20	O	 (HYPH -)	5080	5081
+25	20	president	president	NN	compound	22	TITLE	 (NN president))	5082	5091
+25	21	James	James	NNP	compound	22	PERSON	 (NNP James)	5092	5097
+25	22	Monroe	Monroe	NNP	obl	16	PERSON	 (NNP Monroe)))	5098	5104
+25	23	as	as	IN	case	26	O	 (PP (IN as)	5105	5107
+25	24	"	"	``	punct	26	O	 (`` ")	5108	5109
+25	25	a	a	DT	det	26	O	 (NP (DT a)	5110	5111
+25	26	depression	depression	NN	obl	16	O	 (NN depression))	5112	5122
+25	27	"	"	''	punct	26	O	 ('' ")))))	5123	5124
+25	28	,	,	,	punct	16	O	 (, ,)	5124	5125
+25	29	and	and	CC	cc	47	O	 (CC and)	5126	5129
+25	30	the	the	DT	det	32	O	 (S (NP (NP (DT the)	5130	5133
+25	31	economic	economic	JJ	amod	32	O	 (JJ economic)	5134	5142
+25	32	crisis	crisis	NN	nsubj:pass	47	O	 (NN crisis))	5143	5149
+25	33	immediately	immediately	RB	advmod	34	O	 (VP (ADVP (RB immediately))	5150	5161
+25	34	preceding	precede	VBG	acl	32	O	 (VBG preceding)	5162	5171
+25	35	the	the	DT	det	37	DATE	 (NP (NP (DT the)	5172	5175
+25	36	1930s	1930	NNS	compound	37	DATE	 (NNS 1930s)	5176	5181
+25	37	depression	depression	NN	obj	34	O	 (NN depression))	5182	5192
+25	38	,	,	,	punct	37	O	 (, ,)	5192	5193
+25	39	the	the	DT	det	40	O	 (NP (NP (DT the)	5194	5197
+25	40	Depression	Depression	NNP	appos	37	O	 (NNP Depression))	5198	5208
+25	41	of	of	IN	case	44	O	 (PP (IN of)	5209	5211
+25	42	1920	1920	CD	compound	44	DATE	 (NP (QP (CD 1920)	5212	5216
+25	43	-	-	SYM	dep	44	O	 (SYM -)	5217	5218
+25	44	21	21	CD	nmod	40	DATE	 (CD 21)))))	5219	5221
+25	45	,	,	,	punct	37	O	 (, ,))))	5221	5222
+25	46	was	be	VBD	aux:pass	47	O	 (VP (VBD was)	5223	5226
+25	47	referred	refer	VBN	conj	16	O	 (VP (VBN referred)	5227	5235
+25	48	to	to	IN	case	52	O	 (PP (IN to)	5236	5238
+25	49	as	as	IN	case	52	O	 (PP (IN as)	5239	5241
+25	50	a	a	DT	det	52	O	 (NP (NP (DT a)	5242	5243
+25	51	"	"	``	punct	52	O	 (`` ")	5244	5245
+25	52	depression	depression	NN	obl	47	O	 (NN depression)	5246	5256
+25	53	"	"	''	punct	52	O	 ('' "))	5257	5258
+25	54	by	by	IN	case	57	O	 (PP (IN by)	5259	5261
+25	55	president	president	NN	compound	57	TITLE	 (NP (NN president)	5262	5271
+25	56	Calvin	Calvin	NNP	compound	57	PERSON	 (NNP Calvin)	5272	5278
+25	57	Coolidge	Coolidge	NNP	nmod	52	PERSON	 (NNP Coolidge)))))))))	5279	5287
+25	58	.	.	.	punct	16	O	 (. .)))	5287	5288
+
+26	1	However	however	RB	advmod	15	O	 (ROOT (S (ADVP (RB However))	5289	5296
+26	2	,	,	,	punct	15	O	 (, ,)	5296	5297
+26	3	in	in	IN	case	9	O	 (S (PP (IN in)	5298	5300
+26	4	the	the	DT	det	9	O	 (NP (DT the)	5301	5304
+26	5	19th	19th	JJ	amod	9	DATE	 (ADJP (JJ 19th)	5305	5309
+26	6	and	and	CC	cc	7	O	 (CC and)	5310	5313
+26	7	early	early	JJ	conj	5	DATE	 (JJ early))	5314	5319
+26	8	20th	20th	JJ	amod	9	DATE	 (JJ 20th)	5320	5324
+26	9	centuries	century	NNS	obl	15	DATE	 (NNS centuries)))	5325	5334
+26	10	,	,	,	punct	15	O	 (, ,)	5334	5335
+26	11	financial	financial	JJ	amod	12	O	 (NP (JJ financial)	5336	5345
+26	12	crises	crisis	NNS	nsubj:pass	15	O	 (NNS crises))	5346	5352
+26	13	were	be	VBD	aux:pass	15	O	 (VP (VBD were)	5353	5357
+26	14	traditionally	traditionally	RB	advmod	15	O	 (ADVP (RB traditionally))	5358	5371
+26	15	referred	refer	VBN	root	0	O	 (VP (VBN referred)	5372	5380
+26	16	to	to	IN	mark	19	O	 (PP (IN to)	5381	5383
+26	17	as	as	IN	mark	19	O	 (SBAR (IN as)	5384	5386
+26	18	"	"	``	punct	19	O	 (S (VP (`` ")	5387	5388
+26	19	panics	panic	VBZ	advcl	15	O	 (VBZ panics)	5389	5395
+26	20	"	"	''	punct	19	O	 ('' ")))))	5396	5397
+26	21	,	,	,	punct	15	O	 (, ,)	5397	5398
+26	22	e.	e.	NNP	compound	23	O	 (NP (NP (NNP e.)	5399	5401
+26	23	g.	g.	NNP	obj	15	O	 (NNP g.))	5402	5404
+26	24	,	,	,	punct	23	O	 (, ,)	5404	5405
+26	25	the'major'Panic	the'major'Panic	NNP	conj	23	O	 (NP (NP (NNP the'major'Panic))	5406	5421
+26	26	of	of	IN	case	27	O	 (PP (IN of)	5422	5424
+26	27	1907	1907	CD	nmod	25	DATE	 (NP (CD 1907))))	5425	5429
+26	28	,	,	,	punct	23	O	 (, ,)	5429	5430
+26	29	and	and	CC	cc	30	O	 (CC and)	5431	5434
+26	30	the'minor'Panic	the'minor'Panic	NNP	conj	23	O	 (NP (NP (NNP the'minor'Panic))	5435	5450
+26	31	of	of	IN	case	34	O	 (PP (IN of)	5451	5453
+26	32	1910	1910	CD	nummod	34	DATE	 (NP (NP (CD 1910)	5454	5458
+26	33	-	-	HYPH	punct	34	DURATION	 (HYPH -)	5459	5460
+26	34	1911	1911	CD	nmod	30	DATE	 (CD 1911))	5461	5465
+26	35	,	,	,	punct	34	O	 (, ,)	5465	5466
+26	36	though	though	IN	mark	43	O	 (SBAR (IN though)	5467	5473
+26	37	the	the	DT	det	39	O	 (S (NP (DT the)	5474	5477
+26	38	1929	1929	CD	nummod	39	DATE	 (CD 1929)	5478	5482
+26	39	crisis	crisis	NN	nsubj:pass	43	O	 (NN crisis))	5483	5489
+26	40	was	be	VBD	aux:pass	43	O	 (VP (VBD was)	5490	5493
+26	41	more	more	RBR	advmod	42	O	 (ADVP (RBR more)	5494	5498
+26	42	commonly	commonly	RB	advmod	43	O	 (RB commonly))	5499	5507
+26	43	called	call	VBN	dep	34	O	 (VP (VBN called)	5508	5514
+26	44	"	"	``	punct	46	O	 (S (`` ")	5515	5516
+26	45	The	the	DT	det	46	O	 (NP (DT The)	5517	5520
+26	46	Crash	Crash	NNP	xcomp	43	CAUSE_OF_DEATH	 (NNP Crash))	5521	5526
+26	47	"	"	''	punct	46	O	 ('' ")))))))))))))	5527	5528
+26	48	,	,	,	punct	15	O	 (, ,)	5528	5529
+26	49	and	and	CC	cc	57	O	 (CC and)	5530	5533
+26	50	the	the	DT	det	53	O	 (S (NP (DT the)	5534	5537
+26	51	term	term	NN	compound	53	O	 (NN term)	5538	5542
+26	52	"	"	``	punct	53	O	 (`` ")	5543	5544
+26	53	panic	panic	NN	nsubj	57	O	 (NN panic)	5545	5550
+26	54	"	"	''	punct	53	O	 ('' "))	5551	5552
+26	55	has	have	VBZ	aux	57	O	 (VP (VBZ has)	5553	5556
+26	56	since	since	IN	advmod	57	O	 (ADVP (IN since))	5557	5562
+26	57	fallen	fall	VBN	conj	15	O	 (VP (VBN fallen)	5563	5569
+26	58	out	out	IN	compound:prt	57	O	 (PRT (IN out))	5570	5573
+26	59	of	of	IN	case	60	O	 (PP (IN of)	5574	5576
+26	60	use	use	NN	obl	57	O	 (NP (NN use))))))	5577	5580
+26	61	.	.	.	punct	15	O	 (. .)))	5580	5581
+
+27	1	At	at	IN	case	3	O	 (ROOT (S (PP (IN At)	5582	5584
+27	2	the	the	DT	det	3	O	 (NP (NP (DT the)	5585	5588
+27	3	time	time	NN	obl	24	DATE	 (NN time))	5589	5593
+27	4	of	of	IN	case	7	O	 (PP (IN of)	5594	5596
+27	5	the	the	DT	det	7	O	 (NP (NP (DT the)	5597	5600
+27	6	Great	Great	NNP	compound	7	O	 (NNP Great)	5601	5606
+27	7	Depression	Depression	NNP	nmod	3	O	 (NNP Depression))	5607	5617
+27	8	(	(	-LRB-	punct	7	O	 (-LRB- -LRB-) (PP (IN of) (NP (DT the) (NNS 1930s))) (-RRB- -RRB-))))) (, ,) (NP (NP (DT the) (NN phrase)) (`` ") (NP (DT The) (NNP Great) (NNP Depression)) ('' ")) (VP (VBD had) (ADVP (RB already)) (VP (VBN been) (VP (VBN used) (S (VP (TO to) (VP (VB refer) (PP (IN to) (NP (DT the) (NN period))) (NP (NP (NP (NP (NNP 1873) (HYPH -) (CD 96)) (-LRB- -LRB-) (PP (IN in) (NP (DT the) (NNP United) (NNP Kingdom))) (-RRB- -RRB-)) (, ,) (NP (NP (QP (CC or) (JJR more))) (ADVP (RB narrowly))) (NML (NML (NNP 1873) (HYPH -) (CD 79)) (-LRB- -LRB-) (NML (PP (IN in) (NP (DT the) (NNP United) (NNP States)))) (-RRB- -RRB-))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB since)) (VP (VBN been) (VP (VBN renamed) (NP (DT the) (NNP Long) (NNP Depression)))))))))))))) (. .)))	5618	5619
+27	9	of	of	IN	case	11	O		5620	5622
+27	10	the	the	DT	det	11	DATE		5623	5626
+27	11	1930s	1930	NNS	nmod	7	DATE		5627	5632
+27	12	)	)	-RRB-	punct	7	O		5633	5634
+27	13	,	,	,	punct	24	O		5634	5635
+27	14	the	the	DT	det	15	O		5636	5639
+27	15	phrase	phrase	NN	nsubj:pass	24	O		5640	5646
+27	16	"	"	``	punct	15	O		5647	5648
+27	17	The	the	DT	det	19	O		5649	5652
+27	18	Great	Great	NNP	compound	19	O		5653	5658
+27	19	Depression	Depression	NNP	dep	15	O		5659	5669
+27	20	"	"	''	punct	15	O		5670	5671
+27	21	had	have	VBD	aux	24	O		5672	5675
+27	22	already	already	RB	advmod	24	O		5676	5683
+27	23	been	be	VBN	aux:pass	24	O		5684	5688
+27	24	used	use	VBN	root	0	O		5689	5693
+27	25	to	to	TO	mark	26	O		5694	5696
+27	26	refer	refer	VB	xcomp	24	O		5697	5702
+27	27	to	to	IN	case	29	O		5703	5705
+27	28	the	the	DT	det	29	O		5706	5709
+27	29	period	period	NN	obl	26	O		5710	5716
+27	30	1873	1873	NNP	dep	50	DATE		5717	5721
+27	31	-	-	HYPH	punct	30	O		5722	5723
+27	32	96	96	CD	nummod	30	DATE		5724	5726
+27	33	(	(	-LRB-	punct	30	O		5727	5728
+27	34	in	in	IN	case	37	O		5729	5731
+27	35	the	the	DT	det	37	O		5732	5735
+27	36	United	United	NNP	compound	37	COUNTRY		5736	5742
+27	37	Kingdom	Kingdom	NNP	nmod	30	COUNTRY		5743	5750
+27	38	)	)	-RRB-	punct	30	O		5751	5752
+27	39	,	,	,	punct	50	O		5752	5753
+27	40	or	or	CC	cc	41	O		5754	5756
+27	41	more	more	JJR	appos	50	O		5757	5761
+27	42	narrowly	narrowly	RB	advmod	41	O		5762	5770
+27	43	1873	1873	NNP	dep	50	DATE		5771	5775
+27	44	-	-	HYPH	punct	43	O		5776	5777
+27	45	79	79	CD	nummod	43	DATE		5778	5780
+27	46	(	(	-LRB-	punct	50	O		5781	5782
+27	47	in	in	IN	case	50	O		5783	5785
+27	48	the	the	DT	det	50	O		5786	5789
+27	49	United	United	NNP	compound	50	COUNTRY		5790	5796
+27	50	States	States	NNP	obj	26	COUNTRY		5797	5803
+27	51	)	)	-RRB-	punct	50	O		5804	5805
+27	52	,	,	,	punct	50	O		5805	5806
+27	53	which	which	WDT	nsubj:pass	57	O		5807	5812
+27	54	has	have	VBZ	aux	57	O		5813	5816
+27	55	since	since	RB	advmod	57	O		5817	5822
+27	56	been	be	VBN	aux:pass	57	O		5823	5827
+27	57	renamed	rename	VBN	acl:relcl	50	O		5828	5835
+27	58	the	the	DT	det	60	O		5836	5839
+27	59	Long	Long	NNP	compound	60	O		5840	5844
+27	60	Depression	Depression	NNP	obj	57	O		5845	5855
+27	61	.	.	.	punct	24	O		5855	5856
+
+28	1	Common	common	JJ	amod	2	O	 (ROOT (S (NP (NP (JJ Common)	5857	5863
+28	2	use	use	NN	nsubj:pass	18	O	 (NN use))	5864	5867
+28	3	of	of	IN	case	5	O	 (PP (IN of)	5868	5870
+28	4	the	the	DT	det	5	O	 (NP (NP (DT the)	5871	5874
+28	5	phrase	phrase	NN	nmod	2	O	 (NN phrase))	5875	5881
+28	6	"	"	``	punct	5	O	 (`` ")	5882	5883
+28	7	The	the	DT	det	9	O	 (NP (DT The)	5884	5887
+28	8	Great	Great	NNP	compound	9	MISC	 (NNP Great)	5888	5893
+28	9	Depression	Depression	NNP	dep	5	MISC	 (NNP Depression))	5894	5904
+28	10	"	"	''	punct	5	O	 ('' ")))	5905	5906
+28	11	for	for	IN	case	14	O	 (PP (IN for)	5907	5910
+28	12	the	the	DT	det	14	DATE	 (NP (DT the)	5911	5914
+28	13	1930s	1930	NNS	compound	14	DATE	 (NNS 1930s)	5915	5920
+28	14	crisis	crisis	NN	nmod	2	O	 (NN crisis))))	5921	5927
+28	15	is	be	VBZ	aux:pass	18	O	 (VP (VBZ is)	5928	5930
+28	16	most	most	RBS	advmod	17	O	 (ADVP (RBS most)	5931	5935
+28	17	frequently	frequently	RB	advmod	18	O	 (RB frequently))	5936	5946
+28	18	attributed	attribute	VBN	root	0	O	 (VP (VBN attributed)	5947	5957
+28	19	to	to	IN	case	23	O	 (PP (IN to)	5958	5960
+28	20	British	British	JJ	amod	21	NATIONALITY	 (NP (NP (NML (JJ British)	5961	5968
+28	21	economist	economist	NN	compound	23	TITLE	 (NN economist))	5969	5978
+28	22	Lionel	Lionel	NNP	compound	23	PERSON	 (NNP Lionel)	5979	5985
+28	23	Robbins	Robbins	NNP	obl	18	PERSON	 (NNP Robbins))	5986	5993
+28	24	,	,	,	punct	23	O	 (, ,)	5993	5994
+28	25	whose	whose	WP$	nmod:poss	27	O	 (SBAR (WHNP (WP$ whose)	5995	6000
+28	26	1934	1934	CD	nummod	27	DATE	 (NP (NP (CD 1934)	6001	6005
+28	27	book	book	NN	nsubj:pass	32	O	 (NN book))	6006	6010
+28	28	The	the	DT	det	30	O	 (NP (DT The)	6011	6014
+28	29	Great	Great	NNP	compound	30	O	 (NNP Great)	6015	6020
+28	30	Depression	Depression	NNP	dep	27	O	 (NNP Depression))))	6021	6031
+28	31	is	be	VBZ	aux:pass	32	O	 (S (VP (VBZ is)	6032	6034
+28	32	credited	credit	VBN	acl:relcl	23	O	 (VP (VBN credited)	6035	6043
+28	33	with'formalizing'the	with'formalizing'the	JJ	amod	34	O	 (NP (JJ with'formalizing'the)	6044	6064
+28	34	phrase	phrase	NN	obj	32	O	 (NN phrase))	6065	6071
+28	35	,	,	,	punct	32	O	 (, ,)	6071	6072
+28	36	though	though	IN	mark	43	O	 (SBAR (IN though)	6073	6079
+28	37	US	US	NNP	compound	38	COUNTRY	 (S (NP (NML (NNP US)	6080	6082
+28	38	president	president	NN	compound	40	TITLE	 (NN president))	6083	6092
+28	39	Herbert	Herbert	NNP	compound	40	PERSON	 (NNP Herbert)	6093	6100
+28	40	Hoover	Hoover	NNP	nsubj:pass	43	PERSON	 (NNP Hoover))	6101	6107
+28	41	is	be	VBZ	aux:pass	43	O	 (VP (VBZ is)	6108	6110
+28	42	widely	widely	RB	advmod	43	O	 (ADVP (RB widely))	6111	6117
+28	43	credited	credit	VBN	advcl	32	O	 (VP (VBN credited)	6118	6126
+28	44	with	with	IN	case	48	O	 (PP (IN with)	6127	6131
+28	45	having'popularized'the	having'popularized'the	JJ	amod	48	O	 (NP (JJ having'popularized'the)	6132	6154
+28	46	term	term	NN	compound	48	O	 (NN term)	6155	6159
+28	47	/	/	HYPH	punct	48	O	 (HYPH /)	6160	6161
+28	48	phrase	phrase	NN	obl	43	O	 (NN phrase)))))))))))))	6162	6168
+28	49	,	,	,	punct	18	O	 (, ,)	6168	6169
+28	50	informally	informally	RB	advmod	51	O	 (S (ADVP (RB informally))	6170	6180
+28	51	referring	refer	VBG	xcomp	18	O	 (VP (VBG referring)	6181	6190
+28	52	to	to	IN	case	54	O	 (PP (IN to)	6191	6193
+28	53	the	the	DT	det	54	O	 (NP (NP (DT the)	6194	6197
+28	54	downturn	downturn	NN	obl	51	O	 (NN downturn))	6198	6206
+28	55	as	as	IN	case	58	O	 (PP (IN as)	6207	6209
+28	56	a	a	DT	det	58	O	 (NP (DT a)	6210	6211
+28	57	"	"	``	punct	58	O	 (`` ")	6212	6213
+28	58	depression	depression	NN	nmod	54	O	 (NN depression)	6214	6224
+28	59	"	"	''	punct	58	O	 ('' ")))))))	6225	6226
+28	60	,	,	,	punct	18	O	 (, ,)	6226	6227
+28	61	with	with	IN	case	63	O	 (PP (IN with)	6228	6232
+28	62	such	such	JJ	amod	63	O	 (NP (NP (JJ such)	6233	6237
+28	63	uses	use	NNS	obl	18	O	 (NNS uses))	6238	6242
+28	64	as	as	IN	mark	71	O	 (SBAR (IN as)	6243	6245
+28	65	"	"	``	punct	71	O	 (S (`` ")	6246	6247
+28	66	Economic	economic	JJ	amod	67	O	 (S (NP (JJ Economic)	6248	6256
+28	67	depression	depression	NN	nsubj:pass	71	O	 (NN depression))	6257	6267
+28	68	can	can	MD	aux	71	O	 (VP (MD can)	6268	6271
+28	69	not	not	RB	advmod	71	O	 (RB not)	6271	6274
+28	70	be	be	VB	aux:pass	71	O	 (VP (VB be)	6275	6277
+28	71	cured	cure	VBN	dep	63	O	 (VP (VBN cured)	6278	6283
+28	72	by	by	IN	case	74	O	 (PP (IN by)	6284	6286
+28	73	legislative	legislative	JJ	amod	74	O	 (NP (NP (NP (JJ legislative)	6287	6298
+28	74	action	action	NN	obl	71	O	 (NN action))	6299	6305
+28	75	or	or	CC	cc	77	O	 (CC or)	6306	6308
+28	76	executive	executive	NN	compound	77	TITLE	 (NP (NN executive)	6309	6318
+28	77	pronouncement	pronouncement	NN	conj	74	O	 (NN pronouncement)))	6319	6332
+28	78	"	"	''	punct	74	O	 ('' ")	6333	6334
+28	79	,	,	,	punct	74	O	 (, ,)	6334	6335
+28	80	(	(	-LRB-	punct	81	O	 (NP (-LRB- -LRB-) (NP (NNP December) (CD 1930)) (, ,) (NP-TMP (NP (NN Message)) (PP (IN to) (NP (NNP Congress)))) (-RRB- -RRB-)))))))) (CC and) (`` ") (S (NP (PRP I)) (VP (VBP need) (RB not) (VP (VB recount) (PP (IN to) (NP (PRP you))) (SBAR (IN that) (S (NP (DT the) (NN world)) (VP (VBZ is) (VP (VBG passing) (PP (IN through) (NP (DT a) (JJ great) (NN depression)))))))))) ('' "))))) (PRN (-LRB- -LRB-) (NP (CD 1931)) (-RRB- -RRB-)))) (. .)))	6336	6337
+28	81	December	December	NNP	appos	74	DATE		6338	6346
+28	82	1930	1930	CD	nummod	81	DATE		6347	6351
+28	83	,	,	,	punct	81	O		6351	6352
+28	84	Message	message	NN	obl:tmod	81	O		6353	6360
+28	85	to	to	IN	case	86	O		6361	6363
+28	86	Congress	Congress	NNP	nmod	84	ORGANIZATION		6364	6372
+28	87	)	)	-RRB-	punct	81	O		6373	6374
+28	88	and	and	CC	cc	71	O		6375	6378
+28	89	"	"	``	punct	71	O		6379	6380
+28	90	I	I	PRP	nsubj	91	O		6381	6382
+28	91	need	need	VBP	ccomp	71	O		6383	6387
+28	92	not	not	RB	advmod	91	O		6388	6391
+28	93	recount	recount	VB	dep	91	O		6392	6399
+28	94	to	to	IN	case	95	O		6400	6402
+28	95	you	you	PRP	obl	93	O		6403	6406
+28	96	that	that	IN	mark	100	O		6407	6411
+28	97	the	the	DT	det	98	O		6412	6415
+28	98	world	world	NN	nsubj	100	O		6416	6421
+28	99	is	be	VBZ	aux	100	O		6422	6424
+28	100	passing	pass	VBG	ccomp	93	O		6425	6432
+28	101	through	through	IN	case	104	O		6433	6440
+28	102	a	a	DT	det	104	O		6441	6442
+28	103	great	great	JJ	amod	104	O		6443	6448
+28	104	depression	depression	NN	obl	100	O		6449	6459
+28	105	"	"	''	punct	71	O		6460	6461
+28	106	(	(	-LRB-	punct	107	O		6462	6463
+28	107	1931	1931	CD	dep	18	DATE		6464	6468
+28	108	)	)	-RRB-	punct	107	O		6469	6470
+28	109	.	.	.	punct	18	O		6470	6471
+
+29	1	Due	due	IN	case	4	O	 (ROOT (S (PP (IN Due)	6472	6475
+29	2	to	to	IN	case	4	O	 (PP (IN to)	6476	6478
+29	3	the	the	DT	det	4	O	 (NP (NP (DT the)	6479	6482
+29	4	lack	lack	NN	obl	26	O	 (NN lack))	6483	6487
+29	5	of	of	IN	case	8	O	 (PP (IN of)	6488	6490
+29	6	an	a	DT	det	8	O	 (NP (NP (DT an)	6491	6493
+29	7	agreed	agree	VBN	amod	8	O	 (VBN agreed)	6494	6500
+29	8	definition	definition	NN	nmod	4	O	 (NN definition))	6501	6511
+29	9	and	and	CC	cc	13	O	 (CC and)	6512	6515
+29	10	the	the	DT	det	13	O	 (NP (DT the)	6516	6519
+29	11	strong	strong	JJ	amod	13	O	 (JJ strong)	6520	6526
+29	12	negative	negative	JJ	amod	13	O	 (JJ negative)	6527	6535
+29	13	associations	association	NNS	conj	8	O	 (NNS associations)))))))	6536	6548
+29	14	,	,	,	punct	26	O	 (, ,)	6548	6549
+29	15	the	the	DT	det	16	O	 (NP (NP (DT the)	6550	6553
+29	16	characterization	characterization	NN	nsubj	26	O	 (NN characterization))	6554	6570
+29	17	of	of	IN	case	19	O	 (PP (IN of)	6571	6573
+29	18	any	any	DT	det	19	O	 (NP (NP (DT any)	6574	6577
+29	19	period	period	NN	nmod	16	O	 (NN period))	6578	6584
+29	20	as	as	IN	case	23	O	 (PP (IN as)	6585	6587
+29	21	a	a	DT	det	23	O	 (NP (DT a)	6588	6589
+29	22	"	"	``	punct	23	O	 (`` ")	6590	6591
+29	23	depression	depression	NN	nmod	19	O	 (NN depression)	6592	6602
+29	24	"	"	''	punct	23	O	 ('' "))))))	6603	6604
+29	25	is	be	VBZ	cop	26	O	 (VP (VBZ is)	6605	6607
+29	26	contentious	contentious	JJ	root	0	O	 (ADJP (JJ contentious)))	6608	6619
+29	27	.	.	.	punct	26	O	 (. .)))	6619	6620
+
+30	1	The	the	DT	det	2	O	 (ROOT (S (S (NP (DT The)	6621	6624
+30	2	term	term	NN	nsubj:pass	5	O	 (NN term))	6625	6629
+30	3	was	be	VBD	aux:pass	5	O	 (VP (VBD was)	6630	6633
+30	4	frequently	frequently	RB	advmod	5	O	 (ADVP (RB frequently))	6634	6644
+30	5	used	use	VBN	root	0	O	 (VP (VBN used)	6645	6649
+30	6	for	for	IN	case	8	O	 (PP (IN for)	6650	6653
+30	7	regional	regional	JJ	amod	8	O	 (NP (JJ regional)	6654	6662
+30	8	crises	crisis	NNS	obl	5	O	 (NNS crises)))	6663	6669
+30	9	from	from	IN	case	13	O	 (PP (IN from)	6670	6674
+30	10	the	the	DT	det	13	DATE	 (NP (NP (DT the)	6675	6678
+30	11	early	early	JJ	amod	13	DATE	 (JJ early)	6679	6684
+30	12	19th	19th	JJ	amod	13	DATE	 (JJ 19th)	6685	6689
+30	13	century	century	NN	obl	5	DATE	 (NN century))	6690	6697
+30	14	until	until	IN	case	16	O	 (PP (PP (IN until)	6698	6703
+30	15	the	the	DT	det	16	DATE	 (NP (DT the)	6704	6707
+30	16	1930s	1930	NNS	nmod	13	DATE	 (NNS 1930s)))	6708	6713
+30	17	,	,	,	punct	16	O	 (, ,)	6713	6714
+30	18	and	and	CC	cc	23	O	 (CC and)	6715	6718
+30	19	for	for	IN	case	23	O	 (PP (IN for)	6719	6722
+30	20	the	the	DT	det	23	O	 (NP (NP (DT the)	6723	6726
+30	21	more	more	RBR	advmod	22	O	 (ADJP (RBR more)	6727	6731
+30	22	widespread	widespread	JJ	amod	23	O	 (JJ widespread))	6732	6742
+30	23	crises	crisis	NNS	conj	16	O	 (NNS crises))	6743	6749
+30	24	of	of	IN	case	26	O	 (PP (IN of)	6750	6752
+30	25	the	the	DT	det	26	DATE	 (NP (NP (DT the)	6753	6756
+30	26	1870s	1870s	CD	nmod	23	DATE	 (CD 1870s))	6757	6762
+30	27	and	and	CC	cc	28	O	 (CC and)	6763	6766
+30	28	1930s	1930	NNS	conj	26	DATE	 (NP (NNS 1930s))))))))))))	6767	6772
+30	29	,	,	,	punct	5	O	 (, ,)	6772	6773
+30	30	but	but	CC	cc	38	O	 (CC but)	6774	6777
+30	31	economic	economic	JJ	amod	32	O	 (S (NP (NP (JJ economic)	6778	6786
+30	32	crises	crisis	NNS	nsubj:pass	38	O	 (NNS crises))	6787	6793
+30	33	since	since	IN	case	34	O	 (PP (IN since)	6794	6799
+30	34	1945	1945	CD	nmod	32	DATE	 (NP (CD 1945))))	6800	6804
+30	35	have	have	VBP	aux	38	O	 (VP (VBP have)	6805	6809
+30	36	generally	generally	RB	advmod	38	O	 (ADVP (RB generally))	6810	6819
+30	37	been	be	VBN	aux:pass	38	O	 (VP (VBN been)	6820	6824
+30	38	referred	refer	VBN	conj	5	O	 (VP (VBN referred)	6825	6833
+30	39	to	to	IN	case	42	O	 (PP (IN to)	6834	6836
+30	40	as	as	IN	case	42	O	 (PP (IN as)	6837	6839
+30	41	"	"	``	punct	42	O	 (NP (`` ")	6840	6841
+30	42	recessions	recession	NNS	obl	38	O	 (NNS recessions)	6842	6852
+30	43	"	"	''	punct	42	O	 ('' "))))	6853	6854
+30	44	,	,	,	punct	38	O	 (, ,)	6854	6855
+30	45	with	with	IN	case	47	O	 (PP (IN with)	6856	6860
+30	46	the	the	DT	det	47	DATE	 (NP (NP (NP (DT the)	6861	6864
+30	47	1970s	1970	NNS	obl	38	DATE	 (NNS 1970s))	6865	6870
+30	48	global	global	JJ	amod	49	O	 (NP (JJ global)	6871	6877
+30	49	crisis	crisis	NN	dep	47	O	 (NN crisis)))	6878	6884
+30	50	referred	refer	VBN	acl	47	O	 (VP (VBN referred)	6885	6893
+30	51	to	to	IN	case	54	O	 (PP (IN to)	6894	6896
+30	52	as	as	IN	case	54	O	 (PP (IN as)	6897	6899
+30	53	"	"	``	punct	54	O	 (NP (NP (`` ")	6900	6901
+30	54	stagflation	stagflation	NN	obl	50	O	 (NN stagflation)	6902	6913
+30	55	"	"	''	punct	54	O	 ('' "))	6914	6915
+30	56	,	,	,	punct	54	O	 (, ,)	6915	6916
+30	57	but	but	CC	cc	58	O	 (CONJP (CC but)	6917	6920
+30	58	not	not	RB	cc	60	O	 (RB not))	6921	6924
+30	59	a	a	DT	det	60	O	 (NP (DT a)	6925	6926
+30	60	depression	depression	NN	conj	54	O	 (NN depression))))))))))))	6927	6937
+30	61	.	.	.	punct	5	O	 (. .)))	6937	6938
+
+31	1	The	the	DT	det	4	O	 (ROOT (S (NP (NP (DT The)	6939	6942
+31	2	only	only	JJ	amod	4	O	 (JJ only)	6943	6947
+31	3	two	two	CD	nummod	4	NUMBER	 (CD two)	6948	6951
+31	4	eras	era	NNS	nsubj	18	O	 (NNS eras))	6952	6956
+31	5	commonly	commonly	RB	advmod	6	O	 (VP (ADVP (RB commonly))	6957	6965
+31	6	referred	refer	VBN	acl	4	O	 (VBN referred)	6966	6974
+31	7	to	to	IN	case	11	O	 (PP (IN to)	6975	6977
+31	8	at	at	IN	case	11	O	 (PP (IN at)	6978	6980
+31	9	the	the	DT	det	11	O	 (NP (NP (DT the)	6981	6984
+31	10	current	current	JJ	amod	11	DATE	 (JJ current)	6985	6992
+31	11	time	time	NN	obl	6	O	 (NN time))	6993	6997
+31	12	as	as	IN	case	14	O	 (PP (IN as)	6998	7000
+31	13	"	"	``	punct	14	O	 (`` ")	7001	7002
+31	14	depressions	depression	NNS	nmod	11	O	 (NP (NNS depressions))	7003	7014
+31	15	"	"	''	punct	14	O	 ('' ")))))))	7015	7016
+31	16	are	be	VBP	cop	18	O	 (VP (VBP are)	7017	7020
+31	17	the	the	DT	det	18	DATE	 (NP (NP (DT the)	7021	7024
+31	18	1870s	1870s	CD	root	0	DATE	 (CD 1870s))	7025	7030
+31	19	and	and	CC	cc	20	O	 (CC and)	7031	7034
+31	20	1930s	1930	NNS	conj	18	DATE	 (NP (NNS 1930s))))	7035	7040
+31	21	.	.	.	punct	18	O	 (. .)))	7040	7041
+
+32	1	To	to	IN	case	3	O	 (ROOT (S (PP (IN To)	7042	7044
+32	2	some	some	DT	det	3	O	 (NP (NP (DT some)	7045	7049
+32	3	degree	degree	NN	obl	58	O	 (NN degree))	7050	7056
+32	4	,	,	,	punct	3	O	 (, ,)	7056	7057
+32	5	this	this	DT	nsubj	10	O	 (S (S (NP (DT this))	7058	7062
+32	6	is	be	VBZ	cop	10	O	 (VP (VBZ is)	7063	7065
+32	7	simply	simply	RB	advmod	10	O	 (ADVP (RB simply))	7066	7072
+32	8	a	a	DT	det	10	O	 (NP (NP (DT a)	7073	7074
+32	9	stylistic	stylistic	JJ	amod	10	O	 (JJ stylistic)	7075	7084
+32	10	change	change	NN	dep	3	O	 (NN change))	7085	7091
+32	11	,	,	,	punct	10	O	 (, ,)	7091	7092
+32	12	similar	similar	JJ	amod	10	O	 (ADJP (JJ similar)	7093	7100
+32	13	to	to	IN	case	15	O	 (PP (IN to)	7101	7103
+32	14	the	the	DT	det	15	O	 (NP (NP (DT the)	7104	7107
+32	15	decline	decline	NN	obl	12	O	 (NN decline))	7108	7115
+32	16	in	in	IN	case	18	O	 (PP (IN in)	7116	7118
+32	17	the	the	DT	det	18	O	 (NP (NP (DT the)	7119	7122
+32	18	use	use	NN	nmod	15	O	 (NN use))	7123	7126
+32	19	of	of	IN	case	21	O	 (PP (IN of)	7127	7129
+32	20	"	"	``	punct	21	O	 (`` ")	7130	7131
+32	21	panic	panic	NN	nmod	18	O	 (NP (NN panic))	7132	7137
+32	22	"	"	''	punct	21	O	 ('' ")))))))	7138	7139
+32	23	to	to	TO	mark	24	O	 (S (VP (TO to)	7140	7142
+32	24	refer	refer	VB	acl	10	O	 (VP (VB refer)	7143	7148
+32	25	to	to	IN	case	27	O	 (PP (IN to)	7149	7151
+32	26	financial	financial	JJ	amod	27	O	 (NP (JJ financial)	7152	7161
+32	27	crises	crisis	NNS	obl	24	O	 (NNS crises)))))))))	7162	7168
+32	28	,	,	,	punct	10	O	 (, ,)	7168	7169
+32	29	but	but	CC	cc	33	O	 (CC but)	7170	7173
+32	30	it	it	PRP	nsubj	33	O	 (S (NP (PRP it))	7174	7176
+32	31	does	do	VBZ	aux	33	O	 (VP (VBZ does)	7177	7181
+32	32	also	also	RB	advmod	33	O	 (RB also)	7182	7186
+32	33	reflect	reflect	VB	conj	10	O	 (VP (VB reflect)	7187	7194
+32	34	that	that	IN	mark	37	O	 (SBAR (IN that)	7195	7199
+32	35	the	the	DT	det	37	O	 (FRAG (NP (NP (DT the)	7200	7203
+32	36	economic	economic	JJ	amod	37	O	 (JJ economic)	7204	7212
+32	37	cycle	cycle	NN	dep	33	O	 (NN cycle))	7213	7218
+32	38	-	-	HYPH	punct	37	O	 (HYPH -)	7219	7220
+32	39	both	both	CC	cc:preconj	43	O	 (PP (CC both)	7221	7225
+32	40	in	in	IN	case	43	O	 (PP (IN in)	7226	7228
+32	41	the	the	DT	det	43	O	 (NP (DT the)	7229	7232
+32	42	United	United	NNP	compound	43	COUNTRY	 (NNP United)	7233	7239
+32	43	States	States	NNP	nmod	37	COUNTRY	 (NNP States)))	7240	7246
+32	44	and	and	CC	cc	48	O	 (CC and)	7247	7250
+32	45	in	in	IN	case	48	O	 (PP (IN in)	7251	7253
+32	46	most	most	JJS	amod	48	O	 (NP (NP (JJS most)	7254	7258
+32	47	OECD	OECD	NNP	compound	48	ORGANIZATION	 (NNP OECD)	7259	7263
+32	48	countries	country	NNS	conj	43	O	 (NNS countries))	7264	7273
+32	49	-	-	,	punct	48	O	 (, -)	7274	7275
+32	50	though	though	IN	mark	51	O	 (SBAR (IN though)	7276	7282
+32	51	not	not	RB	dep	48	O	 (FRAG (RB not)	7283	7286
+32	52	in	in	RB	advmod	53	O	 (ADVP (RB in)	7287	7289
+32	53	all	all	RB	dep	51	O	 (RB all))))))))))))))))	7290	7293
+32	54	-	-	HYPH	punct	58	O	 (HYPH -)	7294	7295
+32	55	has	have	VBZ	aux	58	O	 (VP (VBZ has)	7296	7299
+32	56	been	be	VBN	cop	58	O	 (VP (VBN been)	7300	7304
+32	57	more	more	RBR	advmod	58	O	 (ADJP (RBR more)	7305	7309
+32	58	moderate	moderate	JJ	root	0	O	 (JJ moderate))	7310	7318
+32	59	since	since	IN	case	60	O	 (PP (IN since)	7319	7324
+32	60	1945	1945	CD	obl	58	DATE	 (NP (CD 1945)))))	7325	7329
+32	61	.	.	.	punct	58	O	 (. .)))	7329	7330
+
+33	1	There	there	EX	expl	5	O	 (ROOT (S (S (NP (EX There))	7331	7336
+33	2	have	have	VBP	aux	5	O	 (VP (VBP have)	7337	7341
+33	3	been	be	VBN	cop	5	O	 (VP (VBN been)	7342	7346
+33	4	many	many	JJ	amod	5	O	 (NP (NP (JJ many)	7347	7351
+33	5	periods	period	NNS	root	0	O	 (NNS periods))	7352	7359
+33	6	of	of	IN	case	9	O	 (PP (IN of)	7360	7362
+33	7	prolonged	prolonged	JJ	amod	9	O	 (NP (NP (JJ prolonged)	7363	7372
+33	8	economic	economic	JJ	amod	9	O	 (JJ economic)	7373	7381
+33	9	underperformance	underperformance	NN	nmod	5	O	 (NN underperformance))	7382	7398
+33	10	in	in	IN	case	12	O	 (PP (IN in)	7399	7401
+33	11	particular	particular	JJ	amod	12	O	 (NP (NP (JJ particular)	7402	7412
+33	12	countries	country	NNS	nmod	9	O	 (NNS countries))	7413	7422
+33	13	/	/	,	punct	12	O	 (, /)	7423	7424
+33	14	regions	region	NNS	appos	12	O	 (NP (NP (NP (NNS regions))	7425	7432
+33	15	since	since	IN	case	16	O	 (PP (IN since)	7433	7438
+33	16	1945	1945	CD	nmod	14	DATE	 (NP (CD 1945))))	7439	7443
+33	17	,	,	,	punct	14	O	 (, ,)	7443	7444
+33	18	detailed	detail	VBN	acl	14	O	 (VP (VBN detailed)	7445	7453
+33	19	below	below	IN	obl	18	O	 (PP (IN below))))))))))))	7454	7459
+33	20	,	,	,	punct	5	O	 (, ,)	7459	7460
+33	21	but	but	CC	cc	29	O	 (CC but)	7461	7464
+33	22	terming	term	VBG	csubj	29	O	 (S (S (VP (VBG terming)	7465	7472
+33	23	these	this	DT	obj	22	O	 (NP (DT these))	7473	7478
+33	24	as	as	IN	case	26	O	 (PP (IN as)	7479	7481
+33	25	"	"	``	punct	26	O	 (`` ")	7482	7483
+33	26	depressions	depression	NNS	obl	22	O	 (NP (NNS depressions))	7484	7495
+33	27	"	"	''	punct	26	O	 ('' "))))	7496	7497
+33	28	is	be	VBZ	cop	29	O	 (VP (VBZ is)	7498	7500
+33	29	controversial	controversial	JJ	conj	5	O	 (ADJP (JJ controversial))))	7501	7514
+33	30	.	.	.	punct	5	O	 (. .)))	7514	7515
+
+34	1	The	the	DT	det	6	O	 (ROOT (S (S (NP (NP (DT The)	7516	7519
+34	2	2008	2008	CD	compound	6	DATE	 (NML (NML (CD 2008))	7520	7524
+34	3	-	-	SYM	dep	4	DURATION	 (PP (SYM -)	7525	7526
+34	4	2009	2009	CD	nmod	2	DATE	 (NP (CD 2009))))	7527	7531
+34	5	economic	economic	JJ	amod	6	O	 (JJ economic)	7532	7540
+34	6	cycle	cycle	NN	nsubj:pass	25	O	 (NN cycle))	7541	7546
+34	7	,	,	,	punct	6	O	 (, ,)	7546	7547
+34	8	which	which	WDT	nsubj	10	O	 (SBAR (WHNP (WDT which))	7548	7553
+34	9	has	have	VBZ	aux	10	O	 (S (VP (VBZ has)	7554	7557
+34	10	comprised	comprise	VBN	acl:relcl	6	O	 (VP (VBN comprised)	7558	7567
+34	11	the	the	DT	det	15	O	 (NP (DT the)	7568	7571
+34	12	most	most	RBS	advmod	13	O	 (ADJP (RBS most)	7572	7576
+34	13	significant	significant	JJ	amod	15	O	 (JJ significant))	7577	7588
+34	14	global	global	JJ	amod	15	O	 (JJ global)	7589	7595
+34	15	crisis	crisis	NN	obj	10	O	 (NN crisis))	7596	7602
+34	16	since	since	IN	case	19	O	 (PP (IN since)	7603	7608
+34	17	the	the	DT	det	19	O	 (NP (DT the)	7609	7612
+34	18	Great	Great	NNP	compound	19	O	 (NNP Great)	7613	7618
+34	19	Depression	Depression	NNP	obl	10	O	 (NNP Depression)))))))	7619	7629
+34	20	,	,	,	punct	6	O	 (, ,))	7629	7630
+34	21	has	have	VBZ	aux	25	O	 (VP (VBZ has)	7631	7634
+34	22	at	at	IN	case	23	O	 (PP (IN at)	7635	7637
+34	23	times	time	NNS	obl	25	O	 (NP (NNS times)))	7638	7643
+34	24	been	be	VBN	aux:pass	25	O	 (VP (VBN been)	7644	7648
+34	25	termed	term	VBN	root	0	O	 (VP (VBN termed)	7649	7655
+34	26	a	a	DT	det	27	O	 (NP (DT a)	7656	7657
+34	27	depression	depression	NN	obj	25	O	 (NN depression))))))	7658	7668
+34	28	,	,	,	punct	25	O	 (, ,)	7668	7669
+34	29	but	but	CC	cc	35	O	 (CC but)	7670	7673
+34	30	this	this	DT	det	31	O	 (S (NP (DT this)	7674	7678
+34	31	terminology	terminology	NN	nsubj:pass	35	O	 (NN terminology))	7679	7690
+34	32	is	be	VBZ	aux:pass	35	O	 (VP (VBZ is)	7691	7693
+34	33	not	not	RB	advmod	35	O	 (RB not)	7694	7697
+34	34	widely	widely	RB	advmod	35	O	 (ADVP (RB widely))	7698	7704
+34	35	used	use	VBN	conj	25	O	 (VP (VBN used)	7705	7709
+34	36	,	,	,	punct	35	O	 (, ,)	7709	7710
+34	37	with	with	IN	case	39	O	 (PP (IN with)	7711	7715
+34	38	the	the	DT	det	39	O	 (NP (NP (DT the)	7716	7719
+34	39	episode	episode	NN	obl	35	O	 (NN episode))	7720	7727
+34	40	instead	instead	RB	advmod	42	O	 (VP (ADVP (RB instead))	7728	7735
+34	41	being	be	VBG	aux:pass	42	O	 (VBG being)	7736	7741
+34	42	referred	refer	VBN	acl	39	O	 (VP (VBN referred)	7742	7750
+34	43	to	to	IN	case	46	O	 (PP (IN to)	7751	7753
+34	44	by	by	IN	case	46	O	 (PP (IN by)	7754	7756
+34	45	other	other	JJ	amod	46	O	 (NP (JJ other)	7757	7762
+34	46	terms	term	NNS	obl	42	O	 (NNS terms))))))))	7763	7768
+34	47	,	,	,	punct	35	O	 (, ,)	7768	7769
+34	48	such	such	JJ	case	53	O	 (PP (JJ such)	7770	7774
+34	49	as	as	IN	case	53	O	 (PP (IN as)	7775	7777
+34	50	the	the	DT	det	53	O	 (NP (DT the)	7778	7781
+34	51	"	"	``	punct	53	O	 (`` ")	7782	7783
+34	52	Great	great	JJ	amod	53	MISC	 (JJ Great)	7784	7789
+34	53	Recession	recession	NN	advcl	35	MISC	 (NN Recession)	7790	7799
+34	54	"	"	''	punct	53	O	 ('' ")))))))	7800	7801
+34	55	.	.	.	punct	25	O	 (. .)))	7801	7802
+
+35	1	The	the	DT	det	3	O	 (ROOT (S (NP (NP (DT The)	7803	7806
+35	2	largest	large	JJS	amod	3	O	 (JJS largest)	7807	7814
+35	3	depression	depression	NN	nsubj	7	O	 (NN depression))	7815	7825
+35	4	of	of	IN	case	6	O	 (PP (IN of)	7826	7828
+35	5	all	all	DT	det	6	O	 (NP (DT all)	7829	7832
+35	6	time	time	NN	nmod	3	O	 (NN time))))	7833	7837
+35	7	occurred	occur	VBD	root	0	O	 (VP (VBD occurred)	7838	7846
+35	8	during	during	IN	case	11	O	 (PP (IN during)	7847	7853
+35	9	the	the	DT	det	11	O	 (NP (DT the)	7854	7857
+35	10	General	General	NNP	compound	11	TITLE	 (NNP General)	7858	7865
+35	11	Crisis	Crisis	NNP	obl	7	O	 (NNP Crisis))))	7866	7872
+35	12	.	.	.	punct	7	O	 (. .)))	7872	7873
+
+36	1	The	the	DT	det	3	O	 (ROOT (S (S (NP (NP (DT The)	7874	7877
+36	2	Ming	Ming	NNP	compound	3	O	 (NNP Ming)	7878	7882
+36	3	Empire	Empire	NNP	nsubj	6	O	 (NNP Empire))	7883	7889
+36	4	of	of	IN	case	5	O	 (PP (IN of)	7890	7892
+36	5	China	China	NNP	nmod	3	COUNTRY	 (NP (NNP China))))	7893	7898
+36	6	went	go	VBD	root	0	O	 (VP (VBD went)	7899	7903
+36	7	bankrupt	bankrupt	JJ	xcomp	6	O	 (ADJP (JJ bankrupt))))	7904	7912
+36	8	and	and	CC	cc	12	O	 (CC and)	7913	7916
+36	9	the	the	DT	det	11	O	 (S (NP (DT the)	7917	7920
+36	10	Stuart	Stuart	NNP	compound	11	PERSON	 (NNP Stuart)	7921	7927
+36	11	Monarchy	Monarchy	NNP	nsubj	12	PERSON	 (NNP Monarchy))	7928	7936
+36	12	fought	fight	VBD	conj	6	O	 (VP (VBD fought)	7937	7943
+36	13	a	a	DT	det	15	O	 (NP (DT a)	7944	7945
+36	14	civil	civil	JJ	amod	15	O	 (JJ civil)	7946	7951
+36	15	war	war	NN	obj	12	CAUSE_OF_DEATH	 (NN war))	7952	7955
+36	16	on	on	IN	case	18	O	 (PP (IN on)	7956	7958
+36	17	three	three	CD	nummod	18	NUMBER	 (NP (CD three)	7959	7964
+36	18	fronts	front	NNS	obl	12	O	 (NNS fronts)))	7965	7971
+36	19	in	in	IN	case	20	O	 (PP (IN in)	7972	7974
+36	20	Ireland	Ireland	NNP	obl	12	COUNTRY	 (NP (NNP Ireland)	7975	7982
+36	21	,	,	,	punct	20	O	 (, ,)	7982	7983
+36	22	Scotland	Scotland	NNP	conj	20	COUNTRY	 (NNP Scotland)	7984	7992
+36	23	,	,	,	punct	20	O	 (, ,)	7992	7993
+36	24	and	and	CC	cc	25	O	 (CC and)	7994	7997
+36	25	England	England	NNP	conj	20	COUNTRY	 (NNP England)))))	7998	8005
+36	26	.	.	.	punct	6	O	 (. .)))	8005	8006
+
+37	1	Thomas	Thomas	NNP	compound	2	PERSON	 (ROOT (S (NP (NP (NNP Thomas)	8007	8013
+37	2	Hobbes	Hobbes	NNP	nsubj	8	PERSON	 (NNP Hobbes))	8014	8020
+37	3	,	,	,	punct	2	O	 (, ,)	8020	8021
+37	4	an	a	DT	det	6	O	 (NP (DT an)	8022	8024
+37	5	English	English	NNP	compound	6	NATIONALITY	 (NNP English)	8025	8032
+37	6	philosopher	philosopher	NN	appos	2	TITLE	 (NN philosopher))	8033	8044
+37	7	,	,	,	punct	2	O	 (, ,))	8044	8045
+37	8	created	create	VBD	root	0	O	 (VP (VBD created)	8046	8053
+37	9	the	the	DT	det	12	O	 (NP (NP (DT the)	8054	8057
+37	10	first	first	JJ	amod	12	ORDINAL	 (JJ first)	8058	8063
+37	11	recorded	record	VBN	amod	12	O	 (VBN recorded)	8064	8072
+37	12	explanation	explanation	NN	obj	8	O	 (NN explanation))	8073	8084
+37	13	of	of	IN	case	15	O	 (PP (IN of)	8085	8087
+37	14	the	the	DT	det	15	O	 (NP (NP (DT the)	8088	8091
+37	15	need	need	NN	nmod	12	O	 (NN need))	8092	8096
+37	16	for	for	IN	case	20	O	 (PP (IN for)	8097	8100
+37	17	a	a	DT	det	20	O	 (NP (DT a)	8101	8102
+37	18	universal	universal	JJ	amod	20	MISC	 (JJ universal)	8103	8112
+37	19	Social	Social	NNP	compound	20	MISC	 (NNP Social)	8113	8119
+37	20	Contract	Contract	NNP	nmod	15	MISC	 (NNP Contract)))))	8120	8128
+37	21	in	in	IN	case	25	O	 (PP (IN in)	8129	8131
+37	22	his	he	PRP$	nmod:poss	25	O	 (NP (NP (PRP$ his)	8132	8135
+37	23	1651	1651	CD	nummod	24	DATE	 (NML (CD 1651)	8136	8140
+37	24	book	book	NN	compound	25	O	 (NN book))	8141	8145
+37	25	Leviathan	Leviathan	NNP	nmod	12	O	 (NNP Leviathan))	8146	8155
+37	26	based	base	VBN	acl	25	O	 (VP (VBN based)	8156	8161
+37	27	on	on	IN	case	30	O	 (PP (IN on)	8162	8164
+37	28	the	the	DT	det	30	O	 (NP (NP (DT the)	8165	8168
+37	29	general	general	JJ	amod	30	TITLE	 (JJ general)	8169	8176
+37	30	misery	misery	NN	obl	26	O	 (NN misery))	8177	8183
+37	31	within	within	IN	case	32	O	 (PP (IN within)	8184	8190
+37	32	society	society	NN	nmod	30	O	 (NP (NN society)))))	8191	8198
+37	33	during	during	IN	case	35	O	 (PP (IN during)	8199	8205
+37	34	this	this	DT	det	35	O	 (NP (DT this)	8206	8210
+37	35	period	period	NN	obl	26	O	 (NN period))))))))	8211	8217
+37	36	.	.	.	punct	8	O	 (. .)))	8217	8218
+
+38	1	This	this	DT	det	2	O	 (ROOT (S (NP (DT This)	8219	8223
+38	2	depression	depression	NN	nsubj:pass	4	O	 (NN depression))	8224	8234
+38	3	is	be	VBZ	aux:pass	4	O	 (VP (VBZ is)	8235	8237
+38	4	acknowledged	acknowledge	VBN	root	0	O	 (VP (VBN acknowledged)	8238	8250
+38	5	to	to	TO	mark	9	O	 (S (VP (TO to)	8251	8253
+38	6	be	be	VB	cop	9	O	 (VP (VB be)	8254	8256
+38	7	a	a	DT	det	9	O	 (NP (NP (DT a)	8257	8258
+38	8	worse	bad	JJR	amod	9	O	 (JJR worse)	8259	8264
+38	9	depression	depression	NN	xcomp	4	O	 (NN depression))	8265	8275
+38	10	in	in	IN	case	13	O	 (PP (IN in)	8276	8278
+38	11	the	the	DT	det	13	O	 (NP (DT the)	8279	8282
+38	12	United	United	NNP	compound	13	COUNTRY	 (NNP United)	8283	8289
+38	13	States	States	NNP	nmod	9	COUNTRY	 (NNP States))))	8290	8296
+38	14	than	than	IN	case	18	O	 (PP (IN than)	8297	8301
+38	15	the	the	DT	det	18	O	 (NP (NP (DT the)	8302	8305
+38	16	later	later	JJ	amod	18	O	 (JJ later)	8306	8311
+38	17	Great	Great	NNP	compound	18	O	 (NNP Great)	8312	8317
+38	18	Depression	Depression	NNP	obl	9	O	 (NNP Depression))	8318	8328
+38	19	of	of	IN	case	21	O	 (PP (IN of)	8329	8331
+38	20	the	the	DT	det	21	DATE	 (NP (DT the)	8332	8335
+38	21	1930s	1930	NNS	nmod	18	DATE	 (NNS 1930s))))))))))	8336	8341
+38	22	.	.	.	punct	4	O	 (. .)))	8341	8342
+
+39	1	This	this	DT	det	2	O	 (ROOT (S (NP (DT This)	8343	8347
+39	2	depression	depression	NN	nsubj	3	O	 (NN depression))	8348	8358
+39	3	ended	end	VBN	root	0	O	 (VP (VP (VBN ended)	8359	8364
+39	4	in	in	IN	case	7	O	 (PP (IN in)	8365	8367
+39	5	the	the	DT	det	7	O	 (NP (DT the)	8368	8371
+39	6	United	United	NNP	compound	7	COUNTRY	 (NNP United)	8372	8378
+39	7	States	States	NNP	obl	3	COUNTRY	 (NNP States)))	8379	8385
+39	8	due	due	IN	case	13	O	 (PP (IN due)	8386	8389
+39	9	to	to	IN	case	13	O	 (PP (IN to)	8390	8392
+39	10	the	the	DT	det	13	O	 (NP (DT the)	8393	8396
+39	11	California	California	NNP	compound	13	ORGANIZATION	 (NNP California)	8397	8407
+39	12	Gold	Gold	NNP	compound	13	ORGANIZATION	 (NNP Gold)	8408	8412
+39	13	Rush	Rush	NNP	obl	3	ORGANIZATION	 (NNP Rush)))))	8413	8417
+39	14	and	and	CC	cc	17	O	 (CC and)	8418	8421
+39	15	its	its	PRP$	nmod:poss	17	O	 (VP (NP (PRP$ its)	8422	8425
+39	16	tenfold	tenfold	RB	compound	17	O	 (NML (ADVP (RB tenfold)))	8426	8433
+39	17	addition	addition	NN	conj	3	O	 (NN addition))	8434	8442
+39	18	to	to	IN	case	22	O	 (PP (IN to)	8443	8445
+39	19	the	the	DT	det	22	O	 (NP (DT the)	8446	8449
+39	20	United	United	NNP	compound	21	LOCATION	 (NML (NNP United)	8450	8456
+39	21	States'gold	States'gold	NNP	compound	22	LOCATION	 (NNP States'gold))	8457	8468
+39	22	reserves	reserve	NNS	obl	17	O	 (NNS reserves)))))	8469	8477
+39	23	.	.	.	punct	3	O	 (. .)))	8477	8478
+
+40	1	As	as	IN	case	4	O	 (ROOT (S (PP (IN As)	8479	8481
+40	2	with	with	IN	case	4	O	 (PP (IN with)	8482	8486
+40	3	most	most	JJS	amod	4	O	 (NP (JJS most)	8487	8491
+40	4	depressions	depression	NNS	obl	8	O	 (NNS depressions))))	8492	8503
+40	5	,	,	,	punct	8	O	 (, ,)	8503	8504
+40	6	it	it	PRP	nsubj:pass	8	O	 (NP (PRP it))	8505	8507
+40	7	was	be	VBD	aux:pass	8	O	 (VP (VBD was)	8508	8511
+40	8	followed	follow	VBN	root	0	O	 (VP (VBN followed)	8512	8520
+40	9	by	by	IN	case	14	O	 (PP (IN by)	8521	8523
+40	10	a	a	DT	det	14	O	 (NP (NP (NP (DT a)	8524	8525
+40	11	thirty	thirty	CD	nummod	13	DURATION	 (NML (CD thirty)	8526	8532
+40	12	-	-	HYPH	punct	13	DURATION	 (HYPH -)	8533	8534
+40	13	year	year	NN	compound	14	DURATION	 (NN year))	8535	8539
+40	14	period	period	NN	obl	8	O	 (NN period))	8540	8546
+40	15	of	of	IN	case	18	O	 (PP (IN of)	8547	8549
+40	16	a	a	DT	det	18	O	 (NP (NP (DT a)	8550	8551
+40	17	booming	booming	JJ	amod	18	O	 (JJ booming)	8552	8559
+40	18	economy	economy	NN	nmod	14	O	 (NN economy))	8560	8567
+40	19	in	in	IN	case	22	O	 (PP (IN in)	8568	8570
+40	20	the	the	DT	det	22	O	 (NP (DT the)	8571	8574
+40	21	United	United	NNP	compound	22	COUNTRY	 (NNP United)	8575	8581
+40	22	States	States	NNP	nmod	18	COUNTRY	 (NNP States))))))	8582	8588
+40	23	,	,	,	punct	14	O	 (, ,)	8588	8589
+40	24	which	which	WDT	nsubj:pass	27	O	 (SBAR (WHNP (WDT which))	8590	8595
+40	25	is	be	VBZ	aux:pass	27	O	 (S (VP (VBZ is)	8596	8598
+40	26	now	now	RB	advmod	27	DATE	 (ADVP (RB now))	8599	8602
+40	27	called	call	VBN	acl:relcl	14	O	 (VP (VBN called)	8603	8609
+40	28	the	the	DT	det	31	O	 (NP (NP (DT the)	8610	8613
+40	29	Second	second	JJ	amod	31	ORDINAL	 (JJ Second)	8614	8620
+40	30	Industrial	Industrial	NNP	compound	31	MISC	 (NNP Industrial)	8621	8631
+40	31	Revolution	Revolution	NNP	obj	27	MISC	 (NNP Revolution))	8632	8642
+40	32	(	(	-LRB-	punct	31	O	 (-LRB- -LRB-) (PP (IN of) (NP (DT the) (NNS 1850s))) (-RRB- -RRB-)))))))))) (. .)))	8643	8644
+40	33	of	of	IN	case	35	O		8645	8647
+40	34	the	the	DT	det	35	DATE		8648	8651
+40	35	1850s	1850	NNS	nmod	31	DATE		8652	8657
+40	36	)	)	-RRB-	punct	31	O		8658	8659
+40	37	.	.	.	punct	8	O		8659	8660
+
+41	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	8661	8664
+41	2	Panic	panic	NN	nsubj	9	MISC	 (NN Panic))	8665	8670
+41	3	of	of	IN	case	4	O	 (PP (IN of)	8671	8673
+41	4	1837	1837	CD	nmod	2	DATE	 (NP (CD 1837))))	8674	8678
+41	5	was	be	VBD	cop	9	O	 (VP (VBD was)	8679	8682
+41	6	an	a	DT	det	9	O	 (NP (NP (DT an)	8683	8685
+41	7	American	American	JJ	amod	9	NATIONALITY	 (JJ American)	8686	8694
+41	8	financial	financial	JJ	amod	9	O	 (JJ financial)	8695	8704
+41	9	crisis	crisis	NN	root	0	O	 (NN crisis))	8705	8711
+41	10	,	,	,	punct	9	O	 (, ,)	8711	8712
+41	11	built	build	VBN	acl	9	O	 (VP (VBN built)	8713	8718
+41	12	on	on	IN	case	17	O	 (PP (IN on)	8719	8721
+41	13	a	a	DT	det	17	O	 (NP (DT a)	8722	8723
+41	14	speculative	speculative	JJ	amod	17	O	 (JJ speculative)	8724	8735
+41	15	real	real	JJ	amod	16	O	 (NML (JJ real)	8736	8740
+41	16	estate	estate	NN	compound	17	O	 (NN estate))	8741	8747
+41	17	market	market	NN	obl	11	O	 (NN market))))))	8748	8754
+41	18	.	.	.	punct	9	O	 (. .)))	8754	8755
+
+42	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	8756	8759
+42	2	bubble	bubble	NN	nsubj	3	O	 (NN bubble))	8760	8766
+42	3	burst	burst	VBD	root	0	O	 (VP (VBD burst)	8767	8772
+42	4	on	on	IN	case	5	O	 (PP (IN on)	8773	8775
+42	5	10	10	CD	obl	3	DATE	 (NP (CD 10)))	8776	8778
+42	6	May	May	NNP	obl:tmod	3	DATE	 (NP-TMP (NNP May)	8779	8782
+42	7	1837	1837	CD	nummod	6	DATE	 (CD 1837))	8783	8787
+42	8	in	in	IN	case	11	O	 (PP (IN in)	8788	8790
+42	9	New	New	NNP	compound	10	CITY	 (NP (NP (NML (NNP New)	8791	8794
+42	10	York	York	NNP	compound	11	CITY	 (NNP York))	8795	8799
+42	11	City	City	NNP	obl	3	CITY	 (NNP City))	8800	8804
+42	12	,	,	,	punct	11	O	 (, ,)	8804	8805
+42	13	when	when	WRB	advmod	16	O	 (SBAR (WHADVP (WRB when))	8806	8810
+42	14	every	every	DT	det	15	O	 (S (NP (DT every)	8811	8816
+42	15	bank	bank	NN	nsubj	16	O	 (NN bank))	8817	8821
+42	16	stopped	stop	VBD	acl:relcl	11	O	 (VP (VBD stopped)	8822	8829
+42	17	payment	payment	NN	obj	16	O	 (NP (NN payment))	8830	8837
+42	18	in	in	IN	case	22	O	 (PP (IN in)	8838	8840
+42	19	gold	gold	NN	compound	22	O	 (NP (NML (NN gold)	8841	8845
+42	20	and	and	CC	cc	21	O	 (CC and)	8846	8849
+42	21	silver	silver	NN	conj	19	O	 (NN silver))	8850	8856
+42	22	coinage	coinage	NN	obl	16	O	 (NN coinage)))))))))	8857	8864
+42	23	.	.	.	punct	3	O	 (. .)))	8864	8865
+
+43	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	8866	8869
+43	2	Panic	panic	NN	nsubj:pass	4	O	 (NN Panic))	8870	8875
+43	3	was	be	VBD	aux:pass	4	O	 (VP (VBD was)	8876	8879
+43	4	followed	follow	VBN	root	0	O	 (VP (VBN followed)	8880	8888
+43	5	by	by	IN	case	10	O	 (PP (IN by)	8889	8891
+43	6	a	a	DT	det	10	O	 (NP (DT a)	8892	8893
+43	7	five	five	CD	nummod	9	DURATION	 (NML (CD five)	8894	8898
+43	8	-	-	HYPH	punct	9	DURATION	 (HYPH -)	8899	8900
+43	9	year	year	NN	compound	10	DURATION	 (NN year))	8901	8905
+43	10	depression	depression	NN	obl	4	O	 (NN depression)))	8906	8916
+43	11	,	,	,	punct	4	O	 (, ,)	8916	8917
+43	12	with	with	IN	case	14	O	 (PP (IN with)	8918	8922
+43	13	the	the	DT	det	14	O	 (NP (NP (DT the)	8923	8926
+43	14	failure	failure	NN	obl	4	O	 (NN failure))	8927	8934
+43	15	of	of	IN	case	16	O	 (PP (IN of)	8935	8937
+43	16	banks	bank	NNS	nmod	14	O	 (NP (NP (NNS banks))	8938	8943
+43	17	and	and	CC	cc	21	O	 (CC and)	8944	8947
+43	18	record	record	JJ	amod	21	O	 (NP (JJ record)	8948	8954
+43	19	high	high	JJ	amod	21	O	 (JJ high)	8955	8959
+43	20	unemployment	unemployment	NN	compound	21	O	 (NN unemployment)	8960	8972
+43	21	levels	level	NNS	conj	16	O	 (NNS levels))))))))	8973	8979
+43	22	.	.	.	punct	4	O	 (. .)))	8979	8980
+
+44	1	Starting	start	VBG	case	4	O	 (ROOT (S (PP (VBG Starting)	8981	8989
+44	2	with	with	IN	case	4	O	 (PP (IN with)	8990	8994
+44	3	the	the	DT	det	4	O	 (NP (NP (DT the)	8995	8998
+44	4	adoption	adoption	NN	advcl	26	O	 (NN adoption))	8999	9007
+44	5	of	of	IN	case	8	O	 (PP (IN of)	9008	9010
+44	6	the	the	DT	det	8	O	 (NP (NP (DT the)	9011	9014
+44	7	gold	gold	NN	compound	8	O	 (NN gold)	9015	9019
+44	8	standard	standard	NN	nmod	4	O	 (NN standard))	9020	9028
+44	9	in	in	IN	case	10	O	 (PP (IN in)	9029	9031
+44	10	Britain	Britain	NNP	nmod	8	COUNTRY	 (NP (NP (NNP Britain))	9032	9039
+44	11	and	and	CC	cc	14	O	 (CC and)	9040	9043
+44	12	the	the	DT	det	14	O	 (NP (DT the)	9044	9047
+44	13	United	United	NNP	compound	14	COUNTRY	 (NNP United)	9048	9054
+44	14	States	States	NNP	conj	10	COUNTRY	 (NNP States)))))))))	9055	9061
+44	15	,	,	,	punct	26	O	 (, ,)	9061	9062
+44	16	the	the	DT	det	18	O	 (NP (NP (DT the)	9063	9066
+44	17	Long	Long	NNP	compound	18	O	 (NNP Long)	9067	9071
+44	18	Depression	Depression	NNP	nsubj	26	O	 (NNP Depression))	9072	9082
+44	19	(	(	-LRB-	punct	18	O	 (-LRB- -LRB-) (NP (NNP 1873) (HYPH -) (CD 1896)) (-RRB- -RRB-)) (VP (VBD was) (ADVP (RB indeed)) (ADJP (ADJP (JJR longer) (PP (IN than) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADVP (RB now)) (VP (VBN referred) (PP (IN to) (PP (IN as) (NP (DT the) (NNP Great) (NNP Depression)))))))))) (, ,) (CC but) (ADJP (JJR shallower) (PP (IN in) (NP (DT some) (NNS sectors)))))) (. .)))	9083	9084
+44	20	1873	1873	NNP	dep	18	DATE		9085	9089
+44	21	-	-	HYPH	punct	20	DURATION		9090	9091
+44	22	1896	1896	CD	nummod	20	DATE		9092	9096
+44	23	)	)	-RRB-	punct	18	O		9097	9098
+44	24	was	be	VBD	cop	26	O		9099	9102
+44	25	indeed	indeed	RB	advmod	26	O		9103	9109
+44	26	longer	long	JJR	root	0	O		9110	9116
+44	27	than	than	IN	mark	31	O		9117	9121
+44	28	what	what	WP	nsubj:pass	31	O		9122	9126
+44	29	is	be	VBZ	aux:pass	31	O		9127	9129
+44	30	now	now	RB	advmod	31	DATE		9130	9133
+44	31	referred	refer	VBN	advcl	26	O		9134	9142
+44	32	to	to	IN	case	36	O		9143	9145
+44	33	as	as	IN	case	36	O		9146	9148
+44	34	the	the	DT	det	36	O		9149	9152
+44	35	Great	Great	NNP	compound	36	O		9153	9158
+44	36	Depression	Depression	NNP	obl	31	O		9159	9169
+44	37	,	,	,	punct	26	O		9169	9170
+44	38	but	but	CC	cc	39	O		9171	9174
+44	39	shallower	shallow	JJR	conj	26	O		9175	9184
+44	40	in	in	IN	case	42	O		9185	9187
+44	41	some	some	DT	det	42	O		9188	9192
+44	42	sectors	sector	NNS	obl	39	O		9193	9200
+44	43	.	.	.	punct	26	O		9200	9201
+
+45	1	Many	many	JJ	nsubj	6	O	 (ROOT (S (NP (NP (JJ Many))	9202	9206
+45	2	who	who	WP	nsubj	3	O	 (SBAR (WHNP (WP who))	9207	9210
+45	3	lived	live	VBD	acl:relcl	1	O	 (S (VP (VBD lived)	9211	9216
+45	4	through	through	IN	case	5	O	 (PP (IN through)	9217	9224
+45	5	it	it	PRP	obl	3	O	 (NP (PRP it)))))))	9225	9227
+45	6	regarded	regard	VBD	root	0	O	 (VP (VBD regarded)	9228	9236
+45	7	it	it	PRP	obj	6	O	 (NP (PRP it))	9237	9239
+45	8	to	to	TO	mark	11	O	 (S (VP (TO to)	9240	9242
+45	9	have	have	VB	aux	11	O	 (VP (VB have)	9243	9247
+45	10	been	be	VBN	cop	11	O	 (VP (VBN been)	9248	9252
+45	11	worse	bad	JJR	advcl	6	O	 (ADJP (ADJP (JJR worse))	9253	9258
+45	12	than	than	IN	case	15	O	 (PP (IN than)	9259	9263
+45	13	the	the	DT	det	15	DATE	 (NP (DT the)	9264	9267
+45	14	1930s	1930	NNS	compound	15	DATE	 (NNS 1930s)	9268	9273
+45	15	depression	depression	NN	obl	11	O	 (NN depression))))	9274	9284
+45	16	at	at	IN	case	17	O	 (PP (IN at)	9285	9287
+45	17	times	time	NNS	obl	11	O	 (NP (NNS times))))))))	9288	9293
+45	18	.	.	.	punct	6	O	 (. .)))	9293	9294
+
+46	1	It	it	PRP	nsubj:pass	3	O	 (ROOT (S (NP (PRP It))	9295	9297
+46	2	was	be	VBD	aux:pass	3	O	 (VP (VBD was)	9298	9301
+46	3	known	know	VBN	root	0	O	 (VP (VBN known)	9302	9307
+46	4	as	as	IN	case	8	O	 (PP (IN as)	9308	9310
+46	5	"	"	``	punct	8	O	 (`` ")	9311	9312
+46	6	the	the	DT	det	8	O	 (NP (DT the)	9313	9316
+46	7	Great	Great	NNP	compound	8	MISC	 (NNP Great)	9317	9322
+46	8	Depression	Depression	NNP	obl	3	MISC	 (NNP Depression))	9323	9333
+46	9	"	"	''	punct	8	O	 ('' "))	9334	9335
+46	10	until	until	IN	case	12	O	 (PP (IN until)	9336	9341
+46	11	the	the	DT	det	12	DATE	 (NP (DT the)	9342	9345
+46	12	1930s	1930	NNS	obl	3	DATE	 (NNS 1930s)))))	9346	9351
+46	13	.	.	.	punct	3	O	 (. .)))	9351	9352
+
+47	1	The	the	DT	det	3	O	 (ROOT (S (NP (NP (DT The)	9353	9356
+47	2	Great	Great	NNP	compound	3	O	 (NNP Great)	9357	9362
+47	3	Depression	Depression	NNP	nsubj	7	O	 (NNP Depression))	9363	9373
+47	4	of	of	IN	case	6	O	 (PP (IN of)	9374	9376
+47	5	the	the	DT	det	6	DATE	 (NP (DT the)	9377	9380
+47	6	1930s	1930	NNS	nmod	3	DATE	 (NNS 1930s))))	9381	9386
+47	7	affected	affect	VBD	root	0	O	 (VP (VBD affected)	9387	9395
+47	8	most	most	RBS	advmod	9	O	 (NP (ADJP (RBS most)	9396	9400
+47	9	national	national	JJ	amod	10	O	 (JJ national))	9401	9409
+47	10	economies	economy	NNS	obj	7	O	 (NNS economies))	9410	9419
+47	11	in	in	IN	case	13	O	 (PP (IN in)	9420	9422
+47	12	the	the	DT	det	13	O	 (NP (DT the)	9423	9426
+47	13	world	world	NN	obl	7	O	 (NN world))))	9427	9432
+47	14	.	.	.	punct	7	O	 (. .)))	9432	9433
+
+48	1	This	this	DT	det	2	O	 (ROOT (S (S (NP (DT This)	9434	9438
+48	2	depression	depression	NN	nsubj:pass	5	O	 (NN depression))	9439	9449
+48	3	is	be	VBZ	aux:pass	5	O	 (VP (VBZ is)	9450	9452
+48	4	generally	generally	RB	advmod	5	O	 (ADVP (RB generally))	9453	9462
+48	5	considered	consider	VBN	root	0	O	 (VP (VBN considered)	9463	9473
+48	6	to	to	TO	mark	8	O	 (S (VP (TO to)	9474	9476
+48	7	have	have	VB	aux	8	O	 (VP (VB have)	9477	9481
+48	8	begun	begin	VBN	xcomp	5	O	 (VP (VBN begun)	9482	9487
+48	9	with	with	IN	case	13	O	 (PP (IN with)	9488	9492
+48	10	the	the	DT	det	13	O	 (NP (NP (DT the)	9493	9496
+48	11	Wall	Wall	NNP	compound	12	O	 (NML (NNP Wall)	9497	9501
+48	12	Street	Street	NNP	compound	13	O	 (NNP Street))	9502	9508
+48	13	Crash	Crash	NNP	obl	8	CAUSE_OF_DEATH	 (NNP Crash))	9509	9514
+48	14	of	of	IN	case	15	O	 (PP (IN of)	9515	9517
+48	15	1929	1929	CD	nmod	13	DATE	 (NP (CD 1929))))))))))))	9518	9522
+48	16	,	,	,	punct	5	O	 (, ,)	9522	9523
+48	17	and	and	CC	cc	21	O	 (CC and)	9524	9527
+48	18	the	the	DT	det	19	O	 (S (NP (DT the)	9528	9531
+48	19	crisis	crisis	NN	nsubj	21	O	 (NN crisis))	9532	9538
+48	20	quickly	quickly	RB	advmod	21	O	 (ADVP (RB quickly))	9539	9546
+48	21	spread	spread	VBD	conj	5	O	 (VP (VBD spread)	9547	9553
+48	22	to	to	IN	case	25	O	 (PP (IN to)	9554	9556
+48	23	other	other	JJ	amod	25	O	 (NP (JJ other)	9557	9562
+48	24	national	national	JJ	amod	25	O	 (JJ national)	9563	9571
+48	25	economies	economy	NNS	obl	21	O	 (NNS economies)))))	9572	9581
+48	26	.	.	.	punct	5	O	 (. .)))	9581	9582
+
+49	1	Between	between	IN	case	2	O	 (ROOT (S (PP (IN Between)	9583	9590
+49	2	1929	1929	CD	obl	46	DATE	 (NP (CD 1929)	9591	9595
+49	3	and	and	CC	cc	4	O	 (CC and)	9596	9599
+49	4	1933	1933	CD	conj	2	DATE	 (CD 1933)))	9600	9604
+49	5	,	,	,	punct	46	O	 (, ,)	9604	9605
+49	6	the	the	DT	det	9	O	 (NP (NP (NP (DT the)	9606	9609
+49	7	gross	gross	JJ	amod	9	O	 (JJ gross)	9610	9615
+49	8	national	national	JJ	amod	9	O	 (JJ national)	9616	9624
+49	9	product	product	NN	nsubj	46	O	 (NN product))	9625	9632
+49	10	of	of	IN	case	13	O	 (PP (IN of)	9633	9635
+49	11	the	the	DT	det	13	O	 (NP (NP (DT the)	9636	9639
+49	12	United	United	NNP	compound	13	COUNTRY	 (NNP United)	9640	9646
+49	13	States	States	NNP	nmod	9	COUNTRY	 (NNP States))	9647	9653
+49	14	decreased	decrease	VBN	acl	13	O	 (VP (VBN decreased)	9654	9663
+49	15	by	by	IN	case	17	O	 (PP (IN by)	9664	9666
+49	16	33	33	CD	nummod	17	PERCENT	 (NP (CD 33)	9667	9669
+49	17	%	%	NN	obl	14	PERCENT	 (NN %)))	9670	9671
+49	18	while	while	IN	mark	23	O	 (SBAR (IN while)	9672	9677
+49	19	the	the	DT	det	20	O	 (S (NP (NP (DT the)	9678	9681
+49	20	rate	rate	NN	nsubj	23	O	 (NN rate))	9682	9686
+49	21	of	of	IN	case	22	O	 (PP (IN of)	9687	9689
+49	22	unemployment	unemployment	NN	nmod	20	O	 (NP (NN unemployment))))	9690	9702
+49	23	increased	increase	VBN	advcl	14	O	 (VP (VBN increased)	9703	9712
+49	24	to	to	IN	case	26	O	 (PP (IN to)	9713	9715
+49	25	25	25	CD	nummod	26	PERCENT	 (NP (CD 25)	9716	9718
+49	26	%	%	NN	obl	23	PERCENT	 (NN %)))	9719	9720
+49	27	(	(	-LRB-	punct	23	O	 (-LRB- -LRB-) (PP (IN with) (NP (JJ industrial) (NN unemployment))) (ADVP (JJ alone))))))))) (VP (VBG rising) (PP (IN to) (NP (NP (QP (RB approximately) (CD 35)) (NN %)) (HYPH -) (NP (NML (NNP U.) (NNP S.)) (NN employment)))))) (VP (VBD was) (ADVP (RB still)) (ADJP (NP (QP (RB over) (CD 25)) (NN %)) (JJ agricultural))) (-RRB- -RRB-) (. .)))	9721	9722
+49	28	with	with	IN	case	30	O		9723	9727
+49	29	industrial	industrial	JJ	amod	30	O		9728	9738
+49	30	unemployment	unemployment	NN	obl	23	O		9739	9751
+49	31	alone	alone	JJ	advmod	23	O		9752	9757
+49	32	rising	rise	VBG	acl	9	O		9758	9764
+49	33	to	to	IN	case	36	O		9765	9767
+49	34	approximately	approximately	RB	advmod	35	O		9768	9781
+49	35	35	35	CD	nummod	36	PERCENT		9782	9784
+49	36	%	%	NN	obl	32	PERCENT		9785	9786
+49	37	-	-	HYPH	punct	36	O		9787	9788
+49	38	U.	U.	NNP	compound	39	O		9789	9791
+49	39	S.	S.	NNP	compound	40	O		9792	9794
+49	40	employment	employment	NN	dep	36	O		9795	9805
+49	41	was	be	VBD	cop	46	O		9806	9809
+49	42	still	still	RB	advmod	46	O		9810	9815
+49	43	over	over	RB	advmod	44	O		9816	9820
+49	44	25	25	CD	nummod	45	PERCENT		9821	9823
+49	45	%	%	NN	obl:npmod	46	PERCENT		9824	9825
+49	46	agricultural	agricultural	JJ	root	0	O		9826	9838
+49	47	)	)	-RRB-	punct	46	O		9839	9840
+49	48	.	.	.	punct	46	O		9840	9841
+
+50	1	A	a	DT	det	5	O	 (ROOT (S (NP (NP (DT A)	9842	9843
+50	2	long	long	JJ	amod	4	O	 (NML (JJ long)	9844	9848
+50	3	-	-	HYPH	punct	4	O	 (HYPH -)	9849	9850
+50	4	term	term	NN	compound	5	O	 (NN term))	9851	9855
+50	5	effect	effect	NN	nsubj	12	O	 (NN effect))	9856	9862
+50	6	of	of	IN	case	9	O	 (PP (IN of)	9863	9865
+50	7	the	the	DT	det	9	O	 (NP (DT the)	9866	9869
+50	8	Great	Great	NNP	compound	9	O	 (NNP Great)	9870	9875
+50	9	Depression	Depression	NNP	nmod	5	O	 (NNP Depression))))	9876	9886
+50	10	was	be	VBD	cop	12	O	 (VP (VBD was)	9887	9890
+50	11	the	the	DT	det	12	O	 (NP (NP (DT the)	9891	9894
+50	12	departure	departure	NN	root	0	O	 (NN departure))	9895	9904
+50	13	of	of	IN	case	16	O	 (PP (IN of)	9905	9907
+50	14	every	every	DT	det	16	O	 (NP (DT every)	9908	9913
+50	15	major	major	JJ	amod	16	O	 (JJ major)	9914	9919
+50	16	currency	currency	NN	nmod	12	O	 (NN currency))))	9920	9928
+50	17	from	from	IN	case	20	O	 (PP (IN from)	9929	9933
+50	18	the	the	DT	det	20	O	 (NP (DT the)	9934	9937
+50	19	gold	gold	NN	compound	20	O	 (NN gold)	9938	9942
+50	20	standard	standard	NN	obl	12	O	 (NN standard)))	9943	9951
+50	21	,	,	,	punct	12	O	 (, ,)	9951	9952
+50	22	although	although	IN	mark	31	O	 (SBAR (IN although)	9953	9961
+50	23	the	the	DT	det	25	O	 (S (NP (NP (DT the)	9962	9965
+50	24	initial	initial	JJ	amod	25	O	 (JJ initial)	9966	9973
+50	25	impetus	impetus	NN	nsubj	31	O	 (NN impetus))	9974	9981
+50	26	for	for	IN	case	27	O	 (PP (IN for)	9982	9985
+50	27	this	this	DT	nmod	25	O	 (NP (DT this))))	9986	9990
+50	28	was	be	VBD	cop	31	O	 (VP (VBD was)	9991	9994
+50	29	World	World	NNP	compound	31	MISC	 (NP (NNP World)	9995	10000
+50	30	War	War	NNP	compound	31	CAUSE_OF_DEATH	 (NNP War)	10001	10004
+50	31	II	II	NNP	advcl	12	MISC	 (NNP II))	10005	10007
+50	32	(	(	-LRB-	punct	33	O	 (PRN (-LRB- -LRB-) (S (VP (VB see) (NP (NNP Bretton) (NNP Woods) (NNP Accord)))) (-RRB- -RRB-)))))) (. .)))	10008	10009
+50	33	see	see	VB	parataxis	31	O		10010	10013
+50	34	Bretton	Bretton	NNP	compound	36	O		10014	10021
+50	35	Woods	Woods	NNP	compound	36	O		10022	10027
+50	36	Accord	Accord	NNP	obj	33	O		10028	10034
+50	37	)	)	-RRB-	punct	33	O		10035	10036
+50	38	.	.	.	punct	12	O		10036	10037
+
+51	1	Beginning	begin	VBG	case	3	DATE	 (ROOT (S (PP (VBG Beginning)	10038	10047
+51	2	in	in	IN	case	3	DATE	 (PP (IN in)	10048	10050
+51	3	2009	2009	CD	advcl	6	DATE	 (NP (CD 2009))))	10051	10055
+51	4	,	,	,	punct	6	O	 (, ,)	10055	10056
+51	5	Greece	Greece	NNP	nsubj	6	COUNTRY	 (NP (NNP Greece))	10057	10063
+51	6	sank	sink	VBD	root	0	O	 (VP (VBD sank)	10064	10068
+51	7	into	into	IN	case	9	O	 (PP (IN into)	10069	10073
+51	8	a	a	DT	det	9	O	 (NP (NP (DT a)	10074	10075
+51	9	recession	recession	NN	obl	6	O	 (NN recession))	10076	10085
+51	10	that	that	WDT	nsubj	16	O	 (SBAR (WHNP (WDT that))	10086	10090
+51	11	,	,	,	punct	16	O	 (S (, ,)	10090	10091
+51	12	after	after	IN	case	14	O	 (PP (IN after)	10092	10097
+51	13	two	two	CD	nummod	14	DURATION	 (NP (CD two)	10098	10101
+51	14	years	year	NNS	obl	16	DURATION	 (NNS years)))	10102	10107
+51	15	,	,	,	punct	16	O	 (, ,)	10107	10108
+51	16	became	become	VBD	acl:relcl	9	O	 (VP (VBD became)	10109	10115
+51	17	a	a	DT	det	18	O	 (NP (DT a)	10116	10117
+51	18	depression	depression	NN	xcomp	16	O	 (NN depression))))))))	10118	10128
+51	19	.	.	.	punct	6	O	 (. .)))	10128	10129
+
+52	1	The	the	DT	det	2	O	 (ROOT (S (S (NP (DT The)	10130	10133
+52	2	country	country	NN	nsubj	3	O	 (NN country))	10134	10141
+52	3	saw	see	VBD	root	0	O	 (VP (VBD saw)	10142	10145
+52	4	an	a	DT	det	8	O	 (NP (DT an)	10146	10148
+52	5	almost	almost	RB	advmod	6	O	 (NML (QP (RB almost)	10149	10155
+52	6	20	20	CD	nummod	7	PERCENT	 (CD 20))	10156	10158
+52	7	%	%	NN	compound	8	PERCENT	 (NN %))	10159	10160
+52	8	drop	drop	NN	obj	3	O	 (NN drop))	10161	10165
+52	9	in	in	IN	case	11	O	 (PP (IN in)	10166	10168
+52	10	economic	economic	JJ	amod	11	O	 (NP (JJ economic)	10169	10177
+52	11	output	output	NN	obl	3	O	 (NN output)))))	10178	10184
+52	12	,	,	,	punct	3	O	 (, ,)	10184	10185
+52	13	and	and	CC	cc	15	O	 (CC and)	10186	10189
+52	14	unemployment	unemployment	NN	nsubj	15	O	 (S (NP (NN unemployment))	10190	10202
+52	15	soared	soar	VBD	conj	3	O	 (VP (VBD soared)	10203	10209
+52	16	to	to	IN	obl	15	O	 (PP (IN to))	10210	10212
+52	17	near	near	RB	advmod	15	O	 (ADVP (RB near)	10213	10217
+52	18	25	25	CD	nummod	19	PERCENT	 (NP (CD 25)	10218	10220
+52	19	%	%	NN	obl:npmod	17	PERCENT	 (NN %)))))	10221	10222
+52	20	.	.	.	punct	3	O	 (. .)))	10222	10223
+
+53	1	Greece	Greece	NNP	nmod:poss	4	COUNTRY	 (ROOT (S (S (NP (NP (NP (NNP Greece)	10224	10230
+53	2	's	's	POS	case	1	O	 (POS 's))	10230	10232
+53	3	high	high	JJ	amod	4	O	 (JJ high)	10233	10237
+53	4	amounts	amount	NNS	nsubj	8	O	 (NNS amounts))	10238	10245
+53	5	of	of	IN	case	7	O	 (PP (IN of)	10246	10248
+53	6	sovereign	sovereign	JJ	amod	7	O	 (NP (JJ sovereign)	10249	10258
+53	7	debt	debt	NN	nmod	4	O	 (NN debt))))	10259	10263
+53	8	precipitated	precipitate	VBD	root	0	O	 (VP (VBD precipitated)	10264	10276
+53	9	the	the	DT	det	10	O	 (NP (DT the)	10277	10280
+53	10	crisis	crisis	NN	obj	8	O	 (NN crisis))))	10281	10287
+53	11	,	,	,	punct	8	O	 (, ,)	10287	10288
+53	12	and	and	CC	cc	26	O	 (CC and)	10289	10292
+53	13	the	the	DT	det	15	O	 (S (NP (NP (DT the)	10293	10296
+53	14	poor	poor	JJ	amod	15	O	 (JJ poor)	10297	10301
+53	15	performance	performance	NN	nsubj	26	O	 (NN performance))	10302	10313
+53	16	of	of	IN	case	18	O	 (PP (IN of)	10314	10316
+53	17	its	its	PRP$	nmod:poss	18	O	 (NP (NP (PRP$ its)	10317	10320
+53	18	economy	economy	NN	nmod	15	O	 (NN economy))	10321	10328
+53	19	after	after	IN	case	21	O	 (PP (IN after)	10329	10334
+53	20	the	the	DT	det	21	O	 (NP (NP (DT the)	10335	10338
+53	21	introduction	introduction	NN	nmod	18	O	 (NN introduction))	10339	10351
+53	22	of	of	IN	case	25	O	 (PP (IN of)	10352	10354
+53	23	severe	severe	JJ	amod	25	O	 (NP (JJ severe)	10355	10361
+53	24	austerity	austerity	NN	compound	25	O	 (NN austerity)	10362	10371
+53	25	measures	measure	NNS	nmod	21	O	 (NNS measures))))))))	10372	10380
+53	26	slowed	slow	VBD	conj	8	O	 (VP (VBD slowed)	10381	10387
+53	27	the	the	DT	det	29	O	 (NP (NP (DT the)	10388	10391
+53	28	entire	entire	JJ	amod	29	O	 (JJ entire)	10392	10398
+53	29	eurozone	eurozone	NN	nmod:poss	31	O	 (NN eurozone)	10399	10407
+53	30	's	's	POS	case	29	O	 (POS 's))	10407	10409
+53	31	recovery	recovery	NN	obj	26	O	 (NN recovery))))	10410	10418
+53	32	.	.	.	punct	8	O	 (. .)))	10418	10419
+
+54	1	Greece	Greece	NNP	nmod:poss	3	COUNTRY	 (ROOT (S (NP (NP (NNP Greece)	10420	10426
+54	2	's	's	POS	case	1	O	 (POS 's))	10426	10428
+54	3	troubles	trouble	NNS	nsubj	4	O	 (NNS troubles))	10429	10437
+54	4	led	lead	VBD	root	0	O	 (VP (VBD led)	10438	10441
+54	5	to	to	IN	case	6	O	 (PP (IN to)	10442	10444
+54	6	discussions	discussion	NNS	obl	4	O	 (NP (NP (NNS discussions))	10445	10456
+54	7	about	about	IN	case	9	O	 (PP (IN about)	10457	10462
+54	8	its	its	PRP$	nmod:poss	9	O	 (NP (PRP$ its)	10463	10466
+54	9	departure	departure	NN	nmod	6	O	 (NN departure)))))	10467	10476
+54	10	from	from	IN	case	12	O	 (PP (IN from)	10477	10481
+54	11	the	the	DT	det	12	O	 (NP (DT the)	10482	10485
+54	12	eurozone	eurozone	NN	obl	4	O	 (NN eurozone))))	10486	10494
+54	13	.	.	.	punct	4	O	 (. .)))	10494	10495
+
+55	1	The	the	DT	det	3	O	 (ROOT (S (NP (NP (DT The)	10496	10499
+55	2	economic	economic	JJ	amod	3	O	 (JJ economic)	10500	10508
+55	3	crisis	crisis	NN	nsubj	23	O	 (NN crisis))	10509	10515
+55	4	in	in	IN	case	6	O	 (PP (IN in)	10516	10518
+55	5	the	the	DT	det	6	DATE	 (NP (NP (DT the)	10519	10522
+55	6	1990s	1990	NNS	nmod	3	DATE	 (NNS 1990s))	10523	10528
+55	7	that	that	WDT	nsubj	8	O	 (SBAR (WHNP (WDT that))	10529	10533
+55	8	struck	strike	VBD	acl:relcl	6	O	 (S (VP (VBD struck)	10534	10540
+55	9	former	former	JJ	amod	10	O	 (NP (NP (JJ former)	10541	10547
+55	10	members	member	NNS	obj	8	O	 (NNS members))	10548	10555
+55	11	of	of	IN	case	14	O	 (PP (IN of)	10556	10558
+55	12	the	the	DT	det	14	O	 (NP (DT the)	10559	10562
+55	13	Soviet	Soviet	NNP	compound	14	LOCATION	 (NNP Soviet)	10563	10569
+55	14	Union	Union	NNP	nmod	10	CITY	 (NNP Union))))))))))	10570	10575
+55	15	was	be	VBD	cop	23	O	 (VP (VBD was)	10576	10579
+55	16	almost	almost	RB	advmod	17	O	 (ADVP (ADVP (RB almost)	10580	10586
+55	17	twice	twice	RB	advmod	23	O	 (RB twice))	10587	10592
+55	18	as	as	IN	mark	19	O	 (SBAR (IN as)	10593	10595
+55	19	intense	intense	JJ	advcl	17	O	 (FRAG (ADJP (JJ intense)))))	10596	10603
+55	20	as	as	IN	case	23	O	 (PP (IN as)	10604	10606
+55	21	the	the	DT	det	23	O	 (NP (DT the)	10607	10610
+55	22	Great	Great	NNP	compound	23	O	 (NNP Great)	10611	10616
+55	23	Depression	Depression	NNP	root	0	O	 (NNP Depression)))	10617	10627
+55	24	in	in	IN	case	26	O	 (PP (IN in)	10628	10630
+55	25	the	the	DT	det	26	O	 (NP (NP (NP (DT the)	10631	10634
+55	26	countries	country	NNS	obl	23	O	 (NNS countries))	10635	10644
+55	27	of	of	IN	case	29	O	 (PP (IN of)	10645	10647
+55	28	Western	Western	NNP	compound	29	LOCATION	 (NP (NNP Western)	10648	10655
+55	29	Europe	Europe	NNP	nmod	26	LOCATION	 (NNP Europe))))	10656	10662
+55	30	and	and	CC	cc	33	O	 (CC and)	10663	10666
+55	31	the	the	DT	det	33	O	 (NP (NP (DT the)	10667	10670
+55	32	United	United	NNP	compound	33	COUNTRY	 (NNP United)	10671	10677
+55	33	States	States	NNP	conj	26	COUNTRY	 (NNP States))	10678	10684
+55	34	in	in	IN	case	36	O	 (PP (IN in)	10685	10687
+55	35	the	the	DT	det	36	DATE	 (NP (DT the)	10688	10691
+55	36	1930s	1930	NNS	nmod	33	DATE	 (NNS 1930s)))))))	10692	10697
+55	37	.	.	.	punct	23	O	 (. .)))	10697	10698
+
+56	1	Average	average	JJ	amod	2	O	 (ROOT (S (NP (NP (JJ Average)	10699	10706
+56	2	standards	standard	NNS	nsubj	5	O	 (NNS standards))	10707	10716
+56	3	of	of	IN	case	4	O	 (PP (IN of)	10717	10719
+56	4	living	live	VBG	nmod	2	O	 (NP (VBG living))))	10720	10726
+56	5	registered	register	VBN	root	0	O	 (VP (VBN registered)	10727	10737
+56	6	a	a	DT	det	8	O	 (NP-TMP (DT a)	10738	10739
+56	7	catastrophic	catastrophic	JJ	amod	8	O	 (JJ catastrophic)	10740	10752
+56	8	fall	fall	NN	obl:tmod	5	DATE	 (NN fall))	10753	10757
+56	9	in	in	IN	case	12	O	 (PP (IN in)	10758	10760
+56	10	the	the	DT	det	12	O	 (NP (NP (DT the)	10761	10764
+56	11	early	early	JJ	amod	12	DATE	 (JJ early)	10765	10770
+56	12	1990s	1990	NNS	obl	5	DATE	 (NNS 1990s))	10771	10776
+56	13	in	in	IN	case	15	O	 (PP (IN in)	10777	10779
+56	14	many	many	JJ	amod	15	O	 (NP (NP (JJ many)	10780	10784
+56	15	parts	part	NNS	nmod	12	O	 (NNS parts))	10785	10790
+56	16	of	of	IN	case	20	O	 (PP (IN of)	10791	10793
+56	17	the	the	DT	det	20	O	 (NP (DT the)	10794	10797
+56	18	former	former	JJ	amod	20	O	 (JJ former)	10798	10804
+56	19	Eastern	Eastern	NNP	compound	20	LOCATION	 (NNP Eastern)	10805	10812
+56	20	Bloc	Bloc	NNP	nmod	15	LOCATION	 (NNP Bloc)))))))	10813	10817
+56	21	,	,	,	punct	5	O	 (, ,)	10817	10818
+56	22	most	most	RBS	advmod	23	O	 (ADVP (RBS most)	10819	10823
+56	23	notably	notably	RB	advmod	5	O	 (RB notably)	10824	10831
+56	24	in	in	IN	case	28	O	 (PP (IN in)	10832	10834
+56	25	post	post	NN	compound	28	O	 (NP (NN post)	10835	10839
+56	26	-	-	HYPH	punct	28	O	 (HYPH -)	10840	10841
+56	27	Soviet	soviet	JJ	amod	28	MISC	 (JJ Soviet)	10842	10848
+56	28	states	state	NNS	obl	23	O	 (NNS states)))))	10849	10855
+56	29	.	.	.	punct	5	O	 (. .)))	10855	10856
+
+57	1	Even	even	RB	advmod	6	O	 (ROOT (S (PP (ADVP (RB Even))	10857	10861
+57	2	before	before	IN	case	6	O	 (IN before)	10862	10868
+57	3	Russia	Russia	NNP	nmod:poss	6	COUNTRY	 (NP (NP (NP (NNP Russia)	10869	10875
+57	4	's	's	POS	case	3	O	 (POS 's))	10875	10877
+57	5	financial	financial	JJ	amod	6	O	 (JJ financial)	10878	10887
+57	6	crisis	crisis	NN	obl	14	O	 (NN crisis))	10888	10894
+57	7	of	of	IN	case	8	O	 (PP (IN of)	10895	10897
+57	8	1998	1998	CD	nmod	6	DATE	 (NP (CD 1998)))))	10898	10902
+57	9	,	,	,	punct	14	O	 (, ,)	10902	10903
+57	10	Russia	Russia	NNP	nmod:poss	12	COUNTRY	 (NP (NP (NNP Russia)	10904	10910
+57	11	's	's	POS	case	10	O	 (POS 's))	10910	10912
+57	12	GDP	GDP	NNP	nsubj	14	O	 (NNP GDP))	10913	10916
+57	13	was	be	VBD	cop	14	O	 (VP (VBD was)	10917	10920
+57	14	half	half	NN	root	0	O	 (NP (NP (NN half))	10921	10925
+57	15	of	of	IN	mark	23	O	 (PP (IN of)	10926	10928
+57	16	what	what	WP	obj	23	O	 (SBAR (WHNP (WP what))	10929	10933
+57	17	it	it	PRP	nsubj	23	O	 (S (NP (PRP it))	10934	10936
+57	18	had	have	VBD	aux	23	O	 (VP (VBD had)	10937	10940
+57	19	been	be	VBN	cop	23	O	 (VP (VBN been)	10941	10945
+57	20	in	in	IN	case	23	O	 (PP (IN in)	10946	10948
+57	21	the	the	DT	det	23	O	 (NP (DT the)	10949	10952
+57	22	early	early	JJ	amod	23	DATE	 (JJ early)	10953	10958
+57	23	1990s	1990	NNS	acl	14	DATE	 (NNS 1990s))))))))))	10959	10964
+57	24	.	.	.	punct	14	O	 (. .)))	10964	10965
+
+58	1	Some	some	DT	det	2	O	 (ROOT (S (NP (DT Some)	10966	10970
+58	2	populations	population	NNS	nsubj	5	O	 (NNS populations))	10971	10982
+58	3	are	be	VBP	cop	5	O	 (VP (VBP are)	10983	10986
+58	4	still	still	RB	advmod	5	O	 (ADJP (RB still)	10987	10992
+58	5	poorer	poor	JJR	root	0	O	 (JJR poorer))	10993	10999
+58	6	today	today	NN	obl:tmod	5	DATE	 (NP-TMP (NN today))	11000	11005
+58	7	than	than	IN	mark	11	O	 (SBAR (IN than)	11006	11010
+58	8	they	they	PRP	nsubj	11	O	 (S (NP (PRP they))	11011	11015
+58	9	were	be	VBD	cop	11	O	 (VP (VBD were)	11016	11020
+58	10	in	in	IN	case	11	O	 (PP (IN in)	11021	11023
+58	11	1989	1989	CD	advcl	5	DATE	 (NP (CD 1989)))	11024	11028
+58	12	(	(	-LRB-	punct	14	O	 (PRN (-LRB- -LRB-) (NP (NN e.) (NN g.)) (NP (NP (NNP Ukraine)) (, ,) (NP (NNP Moldova)) (, ,) (NP (NNP Serbia)) (, ,) (NP (NNP Central) (NNP Asia)) (, ,) (NP (NNP Caucasus))) (-RRB- -RRB-)))))) (. .)))	11029	11030
+58	13	e.	e.	NN	compound	14	O		11031	11033
+58	14	g.	g.	NN	dep	11	O		11034	11036
+58	15	Ukraine	Ukraine	NNP	dep	14	COUNTRY		11037	11044
+58	16	,	,	,	punct	15	O		11044	11045
+58	17	Moldova	Moldova	NNP	appos	15	COUNTRY		11046	11053
+58	18	,	,	,	punct	15	O		11053	11054
+58	19	Serbia	Serbia	NNP	appos	15	COUNTRY		11055	11061
+58	20	,	,	,	punct	15	O		11061	11062
+58	21	Central	Central	NNP	compound	22	LOCATION		11063	11070
+58	22	Asia	Asia	NNP	appos	15	CITY		11071	11075
+58	23	,	,	,	punct	15	O		11075	11076
+58	24	Caucasus	Caucasus	NNP	appos	15	O		11077	11085
+58	25	)	)	-RRB-	punct	14	O		11086	11087
+58	26	.	.	.	punct	5	O		11087	11088
+
+59	1	The	the	DT	det	2	O	 (ROOT (S (S (NP (NP (NP (DT The)	11089	11092
+59	2	collapse	collapse	NN	nsubj	15	O	 (NN collapse))	11093	11101
+59	3	of	of	IN	case	7	O	 (PP (IN of)	11102	11104
+59	4	the	the	DT	det	7	O	 (NP (DT the)	11105	11108
+59	5	Soviet	soviet	JJ	amod	7	MISC	 (JJ Soviet)	11109	11115
+59	6	planned	planned	JJ	amod	7	O	 (JJ planned)	11116	11123
+59	7	economy	economy	NN	nmod	2	O	 (NN economy))))	11124	11131
+59	8	and	and	CC	cc	10	O	 (CC and)	11132	11135
+59	9	the	the	DT	det	10	O	 (NP (NP (DT the)	11136	11139
+59	10	transition	transition	NN	conj	2	O	 (NN transition))	11140	11150
+59	11	to	to	IN	case	14	O	 (PP (IN to)	11151	11153
+59	12	a	a	DT	det	14	O	 (NP (DT a)	11154	11155
+59	13	market	market	NN	compound	14	O	 (NN market)	11156	11162
+59	14	economy	economy	NN	nmod	10	O	 (NN economy)))))	11163	11170
+59	15	resulted	result	VBD	root	0	O	 (VP (VBD resulted)	11171	11179
+59	16	in	in	IN	case	18	O	 (PP (IN in)	11180	11182
+59	17	catastrophic	catastrophic	JJ	amod	18	O	 (NP (NP (JJ catastrophic)	11183	11195
+59	18	declines	decline	NNS	obl	15	O	 (NNS declines))	11196	11204
+59	19	in	in	IN	case	20	O	 (PP (IN in)	11205	11207
+59	20	GDP	gdp	NN	nmod	18	O	 (NP (NP (NN GDP))	11208	11211
+59	21	of	of	IN	case	24	O	 (PP (IN of)	11212	11214
+59	22	about	about	RB	advmod	23	O	 (NP (NP (QP (RB about)	11215	11220
+59	23	45	45	CD	nummod	24	PERCENT	 (CD 45))	11221	11223
+59	24	%	%	NN	nmod	20	PERCENT	 (NN %))	11224	11225
+59	25	from	from	IN	case	26	O	 (PP (IN from)	11226	11230
+59	26	1990	1990	CD	nmod	24	DATE	 (NP (CD 1990)))))))))	11231	11235
+59	27	to	to	IN	case	28	DATE	 (PP (IN to)	11236	11238
+59	28	1996	1996	CD	obl	15	DATE	 (NP (CD 1996)))))	11239	11243
+59	29	and	and	CC	cc	35	O	 (CC and)	11244	11247
+59	30	poverty	poverty	NN	nsubj	35	O	 (S (NP (NP (NN poverty))	11248	11255
+59	31	in	in	IN	case	33	O	 (PP (IN in)	11256	11258
+59	32	the	the	DT	det	33	O	 (NP (DT the)	11259	11262
+59	33	region	region	NN	nmod	30	O	 (NN region))))	11263	11269
+59	34	had	have	VBD	aux	35	O	 (VP (VBD had)	11270	11273
+59	35	increased	increase	VBN	conj	15	O	 (VP (VBN increased)	11274	11283
+59	36	more	more	RBR	advmod	38	O	 (ADVP (RBR more)	11284	11288
+59	37	than	than	IN	case	38	O	 (IN than)	11289	11293
+59	38	tenfold	tenfold	RB	advmod	35	O	 (RB tenfold)))))	11294	11301
+59	39	.	.	.	punct	15	O	 (. .)))	11301	11302
+
+60	1	Finnish	Finnish	JJ	amod	2	NATIONALITY	 (ROOT (S (NP (JJ Finnish)	11303	11310
+60	2	economists	economist	NNS	nsubj	3	O	 (NNS economists))	11311	11321
+60	3	refer	refer	VBP	root	0	O	 (VP (VBP refer)	11322	11327
+60	4	to	to	IN	case	8	O	 (PP (IN to)	11328	11330
+60	5	the	the	DT	det	8	O	 (NP (DT the)	11331	11334
+60	6	Finnish	Finnish	JJ	amod	8	NATIONALITY	 (JJ Finnish)	11335	11342
+60	7	economic	economic	JJ	amod	8	O	 (JJ economic)	11343	11351
+60	8	decline	decline	NN	obl	3	O	 (NN decline)))	11352	11359
+60	9	during	during	IN	case	13	O	 (PP (IN during)	11360	11366
+60	10	and	and	CC	cc	11	O	 (CC and)	11367	11370
+60	11	after	after	IN	conj	9	O	 (IN after)	11371	11376
+60	12	the	the	DT	det	13	O	 (NP (NP (NP (NP (DT the)	11377	11380
+60	13	breakup	breakup	NN	obl	3	O	 (NN breakup))	11381	11388
+60	14	of	of	IN	case	17	O	 (PP (IN of)	11389	11391
+60	15	the	the	DT	det	17	O	 (NP (DT the)	11392	11395
+60	16	Soviet	Soviet	NNP	compound	17	O	 (NNP Soviet)	11396	11402
+60	17	Union	Union	NNP	nmod	13	O	 (NNP Union)))	11403	11408
+60	18	(	(	-LRB-	punct	21	O	 (PRN (-LRB- -LRB-) (NP (CD 1989) (HYPH -) (CD 1994)) (-RRB- -RRB-))) (PP (IN as) (NP (DT a) (JJ great) (NN depression)))) (-LRB- -LRB-) (NP (FW suuri) (FW lama)) (-RRB- -RRB-)))) (. .)))	11409	11410
+60	19	1989	1989	CD	nummod	21	DATE		11411	11415
+60	20	-	-	HYPH	punct	21	DURATION		11416	11417
+60	21	1994	1994	CD	appos	13	DATE		11418	11422
+60	22	)	)	-RRB-	punct	21	O		11423	11424
+60	23	as	as	IN	case	26	O		11425	11427
+60	24	a	a	DT	det	26	O		11428	11429
+60	25	great	great	JJ	amod	26	O		11430	11435
+60	26	depression	depression	NN	nmod	13	O		11436	11446
+60	27	(	(	-LRB-	punct	13	O		11447	11448
+60	28	suuri	suuri	FW	compound	29	O		11449	11454
+60	29	lama	lama	FW	dep	13	O		11455	11459
+60	30	)	)	-RRB-	punct	13	O		11460	11461
+60	31	.	.	.	punct	3	O		11461	11462
+
+61	1	However	however	RB	advmod	6	O	 (ROOT (S (ADVP (RB However))	11463	11470
+61	2	,	,	,	punct	6	O	 (, ,)	11470	11471
+61	3	the	the	DT	det	4	O	 (NP (DT the)	11472	11475
+61	4	depression	depression	NN	nsubj	6	O	 (NN depression))	11476	11486
+61	5	was	be	VBD	cop	6	O	 (VP (VBD was)	11487	11490
+61	6	multicausal	multicausal	JJ	root	0	O	 (ADJP (JJ multicausal))	11491	11502
+61	7	,	,	,	punct	6	O	 (, ,)	11502	11503
+61	8	with	with	IN	case	10	O	 (PP (IN with)	11504	11508
+61	9	its	its	PRP$	nmod:poss	10	O	 (NP (NP (PRP$ its)	11509	11512
+61	10	severity	severity	NN	obl	6	O	 (NN severity))	11513	11521
+61	11	compounded	compound	VBN	acl	10	O	 (VP (VBN compounded)	11522	11532
+61	12	by	by	IN	case	14	O	 (PP (IN by)	11533	11535
+61	13	a	a	DT	det	14	O	 (NP (NP (DT a)	11536	11537
+61	14	coincidence	coincidence	NN	obl	11	O	 (NN coincidence))	11538	11549
+61	15	of	of	IN	case	19	O	 (PP (IN of)	11550	11552
+61	16	multiple	multiple	JJ	amod	19	O	 (NP (JJ multiple)	11553	11561
+61	17	sudden	sudden	JJ	amod	19	O	 (JJ sudden)	11562	11568
+61	18	external	external	JJ	amod	19	O	 (JJ external)	11569	11577
+61	19	shocks	shock	NNS	nmod	14	O	 (NNS shocks))))))))	11578	11584
+61	20	,	,	,	punct	6	O	 (, ,)	11584	11585
+61	21	including	include	VBG	case	22	O	 (PP (VBG including)	11586	11595
+61	22	loss	loss	NN	obl	6	O	 (NP (NP (NP (NN loss))	11596	11600
+61	23	of	of	IN	case	25	O	 (PP (IN of)	11601	11603
+61	24	Soviet	soviet	JJ	amod	25	MISC	 (NP (NP (JJ Soviet)	11604	11610
+61	25	trade	trade	NN	nmod	22	O	 (NN trade))	11611	11616
+61	26	,	,	,	punct	25	O	 (, ,)	11616	11617
+61	27	the	the	DT	det	31	O	 (NP (DT the)	11618	11621
+61	28	savings	savings	NNS	compound	31	O	 (NML (NNS savings)	11622	11629
+61	29	and	and	CC	cc	30	O	 (CC and)	11630	11633
+61	30	loan	loan	NN	conj	28	O	 (NN loan))	11634	11638
+61	31	crisis	crisis	NN	appos	25	O	 (NN crisis)))))	11639	11645
+61	32	and	and	CC	cc	35	O	 (CC and)	11646	11649
+61	33	early	early	JJ	amod	35	O	 (NP (NP (JJ early)	11650	11655
+61	34	1990s	1990	NNS	compound	35	DATE	 (NNS 1990s)	11656	11661
+61	35	recession	recession	NN	conj	22	O	 (NN recession))	11662	11671
+61	36	in	in	IN	case	38	O	 (PP (IN in)	11672	11674
+61	37	the	the	DT	det	38	O	 (NP (DT the)	11675	11678
+61	38	West	West	NNP	nmod	35	LOCATION	 (NNP West))))))	11679	11683
+61	39	,	,	,	punct	6	O	 (, ,)	11683	11684
+61	40	with	with	IN	case	42	O	 (PP (IN with)	11685	11689
+61	41	the	the	DT	det	42	O	 (NP (NP (DT the)	11690	11693
+61	42	internal	internal	JJ	obl	6	O	 (JJ internal))	11694	11702
+61	43	overheating	overheate	VBG	acl	42	O	 (VP (VBG overheating)	11703	11714
+61	44	that	that	DT	nsubj	47	O	 (SBAR (S (NP (DT that))	11715	11719
+61	45	had	have	VBD	aux	47	O	 (VP (VBD had)	11720	11723
+61	46	been	be	VBN	aux	47	O	 (VP (VBN been)	11724	11728
+61	47	brewing	brew	VBG	ccomp	43	O	 (VP (VBG brewing)	11729	11736
+61	48	throughout	throughout	IN	case	50	O	 (PP (IN throughout)	11737	11747
+61	49	the	the	DT	det	50	DATE	 (NP (DT the)	11748	11751
+61	50	1980s	1980	NNS	obl	47	DATE	 (NNS 1980s))))))))))))	11752	11757
+61	51	.	.	.	punct	6	O	 (. .)))	11757	11758
+
+62	1	Liberalization	liberalization	NN	nsubj	3	O	 (ROOT (S (NP (NN Liberalization))	11759	11773
+62	2	had	have	VBD	aux	3	O	 (VP (VBD had)	11774	11777
+62	3	resulted	result	VBN	root	0	O	 (VP (VBN resulted)	11778	11786
+62	4	in	in	IN	case	11	O	 (PP (IN in)	11787	11789
+62	5	the	the	DT	det	11	O	 (NP (DT the)	11790	11793
+62	6	so	so	RB	advmod	8	O	 (ADJP (RB so)	11794	11796
+62	7	-	-	HYPH	punct	8	O	 (HYPH -)	11797	11798
+62	8	called	call	VBN	amod	11	O	 (VBN called))	11799	11805
+62	9	"	"	``	punct	11	O	 (NML (`` ")	11806	11807
+62	10	casino	casino	NN	compound	11	O	 (NN casino)	11808	11814
+62	11	economy	economy	NN	obl	3	O	 (NN economy)	11815	11822
+62	12	"	"	''	punct	11	O	 ('' "))))))	11823	11824
+62	13	.	.	.	punct	3	O	 (. .)))	11824	11825
+
+63	1	Persistent	persistent	JJ	amod	6	O	 (ROOT (S (NP (JJ Persistent)	11826	11836
+63	2	structural	structural	JJ	amod	6	O	 (ADJP (JJ structural)	11837	11847
+63	3	and	and	CC	cc	4	O	 (CC and)	11848	11851
+63	4	monetary	monetary	JJ	conj	2	O	 (JJ monetary))	11852	11860
+63	5	policy	policy	NN	compound	6	O	 (NN policy)	11861	11867
+63	6	problems	problem	NNS	nsubj:pass	10	O	 (NNS problems))	11868	11876
+63	7	had	have	VBD	aux	10	O	 (VP (VBD had)	11877	11880
+63	8	not	not	RB	advmod	10	O	 (RB not)	11881	11884
+63	9	been	be	VBN	aux:pass	10	O	 (VP (VBN been)	11885	11889
+63	10	solved	solve	VBN	root	0	O	 (VP (VBN solved)	11890	11896
+63	11	,	,	,	punct	10	O	 (, ,)	11896	11897
+63	12	leaving	leave	VBG	xcomp	10	O	 (S (VP (VBG leaving)	11898	11905
+63	13	the	the	DT	det	14	O	 (S (NP (DT the)	11906	11909
+63	14	economy	economy	NN	nsubj	15	O	 (NN economy))	11910	11917
+63	15	vulnerable	vulnerable	JJ	xcomp	12	O	 (ADJP (JJ vulnerable)	11918	11928
+63	16	to	to	IN	case	20	O	 (PP (IN to)	11929	11931
+63	17	even	even	RB	advmod	18	O	 (NP (ADJP (RB even)	11932	11936
+63	18	mild	mild	JJ	amod	20	O	 (JJ mild))	11937	11941
+63	19	external	external	JJ	amod	20	O	 (JJ external)	11942	11950
+63	20	shocks	shock	NNS	obl	15	O	 (NNS shocks))))))))))	11951	11957
+63	21	.	.	.	punct	10	O	 (. .)))	11957	11958
+
+64	1	The	the	DT	det	2	O	 (ROOT (S (S (NP (DT The)	11959	11962
+64	2	depression	depression	NN	nsubj	3	O	 (NN depression))	11963	11973
+64	3	had	have	VBD	root	0	O	 (VP (VBD had)	11974	11977
+64	4	lasting	last	VBG	amod	5	O	 (NP (VBG lasting)	11978	11985
+64	5	effects	effect	NNS	obj	3	O	 (NNS effects))))	11986	11993
+64	6	:	:	:	punct	3	O	 (: :)	11994	11995
+64	7	the	the	DT	det	9	O	 (S (NP (DT the)	11996	11999
+64	8	Finnish	Finnish	JJ	amod	9	NATIONALITY	 (JJ Finnish)	12000	12007
+64	9	markka	markka	FW	nsubj:pass	11	O	 (FW markka))	12008	12014
+64	10	was	be	VBD	aux:pass	11	O	 (VP (VP (VBD was)	12015	12018
+64	11	floated	float	VBN	parataxis	3	O	 (VP (VBN floated)))	12019	12026
+64	12	and	and	CC	cc	15	O	 (CC and)	12027	12030
+64	13	was	be	VBD	aux:pass	15	O	 (VP (VBD was)	12031	12034
+64	14	eventually	eventually	RB	advmod	15	O	 (ADVP (RB eventually))	12035	12045
+64	15	replaced	replace	VBN	conj	11	O	 (VP (VBN replaced)	12046	12054
+64	16	by	by	IN	case	18	O	 (PP (IN by)	12055	12057
+64	17	the	the	DT	det	18	O	 (NP (NP (NP (NP (DT the)	12058	12061
+64	18	euro	euro	NN	obl	15	O	 (NN euro))	12062	12066
+64	19	in	in	IN	case	20	O	 (PP (IN in)	12067	12069
+64	20	1999	1999	CD	nmod	18	DATE	 (NP (CD 1999))))	12070	12074
+64	21	,	,	,	punct	18	O	 (, ,)	12074	12075
+64	22	ending	end	VBG	acl	18	O	 (VP (VBG ending)	12076	12082
+64	23	decades	decade	NNS	obj	22	DURATION	 (NP (NP (NNS decades))	12083	12090
+64	24	of	of	IN	case	26	O	 (PP (IN of)	12091	12093
+64	25	government	government	NN	compound	26	O	 (NP (NP (NN government)	12094	12104
+64	26	control	control	NN	nmod	23	O	 (NN control))	12105	12112
+64	27	of	of	IN	case	29	O	 (PP (IN of)	12113	12115
+64	28	the	the	DT	det	29	O	 (NP (DT the)	12116	12119
+64	29	economy	economy	NN	nmod	26	O	 (NN economy))))))))	12120	12127
+64	30	,	,	,	punct	18	O	 (, ,)	12127	12128
+64	31	but	but	CC	cc	36	O	 (CONJP (CC but)	12129	12132
+64	32	also	also	RB	advmod	36	O	 (RB also))	12133	12137
+64	33	high	high	JJ	amod	36	O	 (NP (JJ high)	12138	12142
+64	34	,	,	,	punct	36	O	 (, ,)	12142	12143
+64	35	persistent	persistent	JJ	amod	36	O	 (JJ persistent)	12144	12154
+64	36	unemployment	unemployment	NN	conj	18	O	 (NN unemployment))))))))	12155	12167
+64	37	.	.	.	punct	3	O	 (. .)))	12167	12168
+
+65	1	Employment	employment	NN	nsubj	4	O	 (ROOT (S (NP (NN Employment))	12169	12179
+65	2	has	have	VBZ	aux	4	O	 (VP (VBZ has)	12180	12183
+65	3	never	never	RB	advmod	4	O	 (ADVP (RB never))	12184	12189
+65	4	returned	return	VBN	root	0	O	 (VP (VBN returned)	12190	12198
+65	5	even	even	RB	advmod	6	O	 (S (ADJP (RB even)	12199	12203
+65	6	close	close	JJ	xcomp	4	O	 (JJ close)))	12204	12209
+65	7	to	to	IN	case	12	O	 (PP (IN to)	12210	12212
+65	8	the	the	DT	det	12	O	 (NP (DT the)	12213	12216
+65	9	pre	pre	AFX	compound	11	O	 (NML (AFX pre)	12217	12220
+65	10	-	-	HYPH	punct	11	O	 (HYPH -)	12221	12222
+65	11	crisis	crisis	NN	compound	12	O	 (NN crisis))	12223	12229
+65	12	level	level	NN	obl	4	O	 (NN level)))))	12230	12235
+65	13	.	.	.	punct	4	O	 (. .)))	12235	12236
+
+66	1	The	the	DT	det	3	O	 (ROOT (S (S (NP (NP (DT The)	12237	12240
+66	2	late	late	JJ	amod	3	O	 (JJ late)	12241	12245
+66	3	1910s	1910	NNS	nsubj:pass	8	DATE	 (NNS 1910s))	12246	12251
+66	4	and	and	CC	cc	6	O	 (CC and)	12252	12255
+66	5	early	early	JJ	amod	6	O	 (NP (JJ early)	12256	12261
+66	6	1920s	1920	NNS	conj	3	SET	 (NNS 1920s)))	12262	12267
+66	7	were	be	VBD	aux:pass	8	O	 (VP (VBD were)	12268	12272
+66	8	marked	mark	VBN	root	0	O	 (VP (VBN marked)	12273	12279
+66	9	by	by	IN	case	12	O	 (PP (IN by)	12280	12282
+66	10	an	a	DT	det	12	O	 (NP (NP (DT an)	12283	12285
+66	11	economic	economic	JJ	amod	12	O	 (JJ economic)	12286	12294
+66	12	depression	depression	NN	obl	8	O	 (NN depression))	12295	12305
+66	13	that	that	WDT	nsubj	14	O	 (SBAR (WHNP (WDT that))	12306	12310
+66	14	unraveled	unravel	VBN	acl:relcl	12	O	 (S (VP (VBN unraveled)	12311	12320
+66	15	in	in	IN	case	18	O	 (PP (IN in)	12321	12323
+66	16	particularly	particularly	RB	advmod	17	O	 (NP (ADJP (RB particularly)	12324	12336
+66	17	catastrophic	catastrophic	JJ	amod	18	O	 (JJ catastrophic))	12337	12349
+66	18	circumstances	circumstance	NNS	obl	14	O	 (NNS circumstances)))))))))))	12350	12363
+66	19	:	:	:	punct	8	O	 (: :)	12364	12365
+66	20	World	World	NNP	compound	22	MISC	 (S (NP (NP (NNP World)	12366	12371
+66	21	War	War	NNP	compound	22	CAUSE_OF_DEATH	 (NNP War)	12372	12375
+66	22	I	I	NNP	nsubj	26	O	 (NNP I))	12376	12377
+66	23	and	and	CC	cc	25	O	 (CC and)	12378	12381
+66	24	its	its	PRP$	nmod:poss	25	O	 (NP (PRP$ its)	12382	12385
+66	25	aftermath	aftermath	NN	conj	22	O	 (NN aftermath)))	12386	12395
+66	26	led	lead	VBD	parataxis	8	O	 (VP (VBD led)	12396	12399
+66	27	to	to	IN	case	30	O	 (PP (IN to)	12400	12402
+66	28	a	a	DT	det	30	O	 (NP (DT a)	12403	12404
+66	29	global	global	JJ	amod	30	O	 (JJ global)	12405	12411
+66	30	nosedive	nosedive	NN	obl	26	O	 (NN nosedive)))	12412	12420
+66	31	in	in	IN	case	32	O	 (PP (IN in)	12421	12423
+66	32	commodities	commodity	NNS	obl	26	O	 (NP (NP (NNS commodities))	12424	12435
+66	33	that	that	WDT	nsubj	34	O	 (SBAR (WHNP (WDT that))	12436	12440
+66	34	ruined	ruin	VBD	acl:relcl	32	O	 (S (VP (VBD ruined)	12441	12447
+66	35	many	many	JJ	amod	37	O	 (NP (JJ many)	12448	12452
+66	36	developing	develop	VBG	amod	37	O	 (VBG developing)	12453	12463
+66	37	nations	nation	NNS	obj	34	O	 (NNS nations))	12464	12471
+66	38	,	,	,	punct	34	O	 (, ,)	12471	12472
+66	39	while	while	IN	mark	45	O	 (SBAR (IN while)	12473	12478
+66	40	servicemen	servicemen	NN	nsubj	45	O	 (S (NP (NP (NN servicemen))	12479	12489
+66	41	returning	return	VBG	acl	40	O	 (VP (VBG returning)	12490	12499
+66	42	from	from	IN	case	44	O	 (PP (IN from)	12500	12504
+66	43	the	the	DT	det	44	O	 (NP (DT the)	12505	12508
+66	44	trenches	trench	NNS	obl	41	O	 (NNS trenches)))))	12509	12517
+66	45	found	find	VBD	advcl	34	O	 (VP (VBD found)	12518	12523
+66	46	themselves	themselves	PRP	obj	45	O	 (NP (PRP themselves))	12524	12534
+66	47	with	with	IN	case	49	O	 (PP (IN with)	12535	12539
+66	48	high	high	JJ	amod	49	O	 (NP (JJ high)	12540	12544
+66	49	unemployment	unemployment	NN	obl	45	O	 (NN unemployment)))	12545	12557
+66	50	as	as	IN	mark	52	O	 (SBAR (IN as)	12558	12560
+66	51	businesses	business	NNS	nsubj	52	O	 (S (NP (NNS businesses))	12561	12571
+66	52	failed	fail	VBD	advcl	45	O	 (VP (VBD failed)	12572	12578
+66	53	,	,	,	punct	52	O	 (, ,)	12578	12579
+66	54	unable	unable	JJ	xcomp	52	O	 (S (ADJP (JJ unable)	12580	12586
+66	55	to	to	TO	mark	56	O	 (S (VP (TO to)	12587	12589
+66	56	transition	transition	VB	xcomp	54	O	 (VP (VB transition)	12590	12600
+66	57	into	into	IN	case	60	O	 (PP (IN into)	12601	12605
+66	58	a	a	DT	det	60	O	 (NP (DT a)	12606	12607
+66	59	peacetime	peacetime	NN	compound	60	O	 (NN peacetime)	12608	12617
+66	60	economy	economy	NN	obl	56	O	 (NN economy)))))))))))))))))))))	12618	12625
+66	61	.	.	.	punct	8	O	 (. .)))	12625	12626
+
+67	1	Also	also	RB	advmod	11	O	 (ROOT (S (ADVP (RB Also))	12627	12631
+67	2	,	,	,	punct	11	O	 (, ,)	12631	12632
+67	3	the	the	DT	det	6	O	 (NP (NP (DT the)	12633	12636
+67	4	Spanish	Spanish	JJ	amod	5	CAUSE_OF_DEATH	 (NML (JJ Spanish)	12637	12644
+67	5	flu	flu	NN	compound	6	CAUSE_OF_DEATH	 (NN flu))	12645	12648
+67	6	pandemic	pandemic	NN	nsubj	11	O	 (NN pandemic))	12649	12657
+67	7	of	of	IN	case	10	O	 (PP (IN of)	12658	12660
+67	8	1918	1918	CD	compound	10	DATE	 (NP (QP (CD 1918)	12661	12665
+67	9	-	-	HYPH	punct	10	O	 (HYPH -)	12666	12667
+67	10	20	20	CD	nmod	6	DATE	 (CD 20)))))	12668	12670
+67	11	brought	bring	VBD	root	0	O	 (VP (VBD brought)	12671	12678
+67	12	economic	economic	JJ	amod	13	O	 (NP (JJ economic)	12679	12687
+67	13	activity	activity	NN	obj	11	O	 (NN activity))	12688	12696
+67	14	to	to	IN	case	16	O	 (PP (IN to)	12697	12699
+67	15	a	a	DT	det	16	O	 (NP (DT a)	12700	12701
+67	16	standstill	standstill	NN	obl	11	O	 (NN standstill)))	12702	12712
+67	17	as	as	IN	mark	21	O	 (SBAR (IN as)	12713	12715
+67	18	even	even	RB	advmod	19	O	 (S (NP (ADJP (RB even)	12716	12720
+67	19	more	more	JJR	amod	20	O	 (JJR more))	12721	12725
+67	20	people	person	NNS	nsubj	21	O	 (NNS people))	12726	12732
+67	21	became	become	VBD	advcl	11	O	 (VP (VBD became)	12733	12739
+67	22	incapacitated	incapacitated	JJ	xcomp	21	O	 (ADJP (JJ incapacitated))))))	12740	12753
+67	23	.	.	.	punct	11	O	 (. .)))	12753	12754
+
+68	1	Most	most	JJS	amod	3	O	 (ROOT (S (S (NP (JJS Most)	12755	12759
+68	2	developed	developed	JJ	amod	3	O	 (JJ developed)	12760	12769
+68	3	countries	country	NNS	nsubj	6	O	 (NNS countries))	12770	12779
+68	4	had	have	VBD	aux	6	O	 (VP (VBD had)	12780	12783
+68	5	mostly	mostly	RB	advmod	6	O	 (ADVP (RB mostly))	12784	12790
+68	6	recovered	recover	VBN	root	0	O	 (VP (VBN recovered)	12791	12800
+68	7	by	by	IN	case	10	O	 (PP (IN by)	12801	12803
+68	8	1921	1921	CD	compound	10	DATE	 (NP (QP (CD 1921)	12804	12808
+68	9	-	-	SYM	dep	10	O	 (SYM -)	12809	12810
+68	10	22	22	CD	obl	6	DATE	 (CD 22)))))))	12811	12813
+68	11	,	,	,	punct	6	O	 (, ,)	12813	12814
+68	12	however	however	RB	advmod	14	O	 (S (ADVP (RB however))	12815	12822
+68	13	Germany	Germany	NNP	nsubj	14	COUNTRY	 (NP (NNP Germany))	12823	12830
+68	14	saw	see	VBD	parataxis	6	O	 (VP (VBD saw)	12831	12834
+68	15	its	its	PRP$	nmod:poss	16	O	 (NP (NP (PRP$ its)	12835	12838
+68	16	economy	economy	NN	obj	14	O	 (NN economy))	12839	12846
+68	17	crippled	cripple	VBN	acl	16	O	 (VP (VBN crippled)	12847	12855
+68	18	until	until	IN	case	21	O	 (PP (IN until)	12856	12861
+68	19	1923	1923	CD	nummod	21	DATE	 (NP (CD 1923)	12862	12866
+68	20	-	-	HYPH	punct	21	O	 (HYPH -)	12867	12868
+68	21	24	24	CD	obl	17	DATE	 (CD 24)))	12869	12871
+68	22	because	because	IN	case	26	O	 (PP (IN because)	12872	12879
+68	23	of	of	IN	case	26	O	 (PP (IN of)	12880	12882
+68	24	the	the	DT	det	26	O	 (NP (DT the)	12883	12886
+68	25	hyperinflation	hyperinflation	NN	compound	26	O	 (NN hyperinflation)	12887	12901
+68	26	crisis	crisis	NN	obl	17	O	 (NN crisis))))))))	12902	12908
+68	27	.	.	.	punct	6	O	 (. .)))	12908	12909
+
+69	1	The	the	DT	det	4	O	 (ROOT (S (NP (NP (DT The)	12910	12913
+69	2	1973	1973	CD	nummod	3	DATE	 (NML (CD 1973)	12914	12918
+69	3	oil	oil	NN	compound	4	O	 (NN oil))	12919	12922
+69	4	crisis	crisis	NN	nsubj	19	O	 (NN crisis))	12923	12929
+69	5	,	,	,	punct	4	O	 (, ,)	12929	12930
+69	6	coupled	couple	VBN	acl	4	O	 (VP (VBN coupled)	12931	12938
+69	7	with	with	IN	case	10	O	 (PP (IN with)	12939	12943
+69	8	the	the	DT	det	10	O	 (NP (NP (DT the)	12944	12947
+69	9	rising	rise	VBG	amod	10	O	 (VBG rising)	12948	12954
+69	10	costs	cost	NNS	obl	6	O	 (NNS costs))	12955	12960
+69	11	of	of	IN	case	12	O	 (PP (IN of)	12961	12963
+69	12	maintenance	maintenance	NN	nmod	10	O	 (NP (NP (NN maintenance))	12964	12975
+69	13	of	of	IN	case	15	O	 (PP (IN of)	12976	12978
+69	14	welfare	welfare	NN	compound	15	O	 (NP (NP (NN welfare)	12979	12986
+69	15	state	state	NN	nmod	12	O	 (NN state))	12987	12992
+69	16	in	in	IN	case	18	O	 (PP (IN in)	12993	12995
+69	17	most	most	JJS	amod	18	O	 (NP (JJS most)	12996	13000
+69	18	countries	country	NNS	nmod	15	O	 (NNS countries)))))))))))	13001	13010
+69	19	led	lead	VBD	root	0	O	 (VP (VBD led)	13011	13014
+69	20	to	to	IN	case	22	O	 (PP (IN to)	13015	13017
+69	21	a	a	DT	det	22	O	 (NP (NP (NP (NP (DT a)	13018	13019
+69	22	recession	recession	NN	obl	19	O	 (NN recession))	13020	13029
+69	23	between	between	IN	case	24	O	 (PP (IN between)	13030	13037
+69	24	1973	1973	CD	nmod	22	DATE	 (NP (CD 1973)	13038	13042
+69	25	and	and	CC	cc	26	DATE	 (CC and)	13043	13046
+69	26	1975	1975	CD	conj	24	DATE	 (CD 1975))))	13047	13051
+69	27	,	,	,	punct	22	O	 (, ,)	13051	13052
+69	28	followed	follow	VBN	acl	22	O	 (VP (VBN followed)	13053	13061
+69	29	by	by	IN	case	31	O	 (PP (IN by)	13062	13064
+69	30	a	a	DT	det	31	O	 (NP (NP (DT a)	13065	13066
+69	31	period	period	NN	obl	28	O	 (NN period))	13067	13073
+69	32	of	of	IN	case	35	O	 (PP (IN of)	13074	13076
+69	33	almost	almost	RB	advmod	34	O	 (NP (ADJP (RB almost)	13077	13083
+69	34	minimal	minimal	JJ	amod	35	O	 (JJ minimal))	13084	13091
+69	35	growth	growth	NN	nmod	31	O	 (NN growth)))))))	13092	13098
+69	36	and	and	CC	cc	38	O	 (CC and)	13099	13102
+69	37	rising	rise	VBG	amod	38	O	 (NP (VBG rising)	13103	13109
+69	38	inflation	inflation	NN	conj	22	O	 (NN inflation))	13110	13119
+69	39	and	and	CC	cc	40	O	 (CC and)	13120	13123
+69	40	unemployment	unemployment	NN	conj	22	O	 (NP (NN unemployment)))))	13124	13136
+69	41	.	.	.	punct	19	O	 (. .)))	13136	13137
+
+70	1	The	the	DT	det	5	O	 (ROOT (S (NP (DT The)	13138	13141
+70	2	1980	1980	CD	nummod	4	DATE	 (NML (CD 1980)	13142	13146
+70	3	-	-	HYPH	punct	4	O	 (HYPH -)	13147	13148
+70	4	82	82	CD	compound	5	DATE	 (CD 82))	13149	13151
+70	5	recession	recession	NN	nsubj	6	O	 (NN recession))	13152	13161
+70	6	marked	mark	VBD	root	0	O	 (VP (VBD marked)	13162	13168
+70	7	the	the	DT	det	8	O	 (NP (NP (DT the)	13169	13172
+70	8	end	end	NN	obj	6	O	 (NN end))	13173	13176
+70	9	of	of	IN	case	11	O	 (PP (IN of)	13177	13179
+70	10	the	the	DT	det	11	O	 (NP (DT the)	13180	13183
+70	11	period	period	NN	nmod	8	O	 (NN period)))))	13184	13190
+70	12	.	.	.	punct	6	O	 (. .)))	13190	13191
+
+71	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	13192	13195
+71	2	savings	savings	NNS	nsubj	10	O	 (NNS savings))	13196	13203
+71	3	&	&	CC	cc	9	O	 (NP (CC &)	13204	13205
+71	4	loans	loan	NNS	compound	9	O	 (NP (NNS loans))	13206	13211
+71	5	and	and	CC	cc	9	O	 (CC and)	13212	13215
+71	6	the	the	DT	det	8	O	 (NP (DT the)	13216	13219
+71	7	leveraged	leverage	VBN	amod	8	O	 (VBN leveraged)	13220	13229
+71	8	buyout	buyout	NN	compound	9	O	 (NN buyout))	13230	13236
+71	9	crises	crisis	NNS	dep	2	O	 (NNS crises)))	13237	13243
+71	10	led	lead	VBD	root	0	O	 (VP (VBD led)	13244	13247
+71	11	to	to	IN	case	14	O	 (PP (IN to)	13248	13250
+71	12	a	a	DT	det	14	O	 (NP (NP (NP (NP (NP (DT a)	13251	13252
+71	13	severe	severe	JJ	amod	14	O	 (JJ severe)	13253	13259
+71	14	depression	depression	NN	obl	10	O	 (NN depression))	13260	13270
+71	15	in	in	IN	case	16	O	 (PP (IN in)	13271	13273
+71	16	mid	mid	JJ	acl	14	O	 (ADJP (ADJP (JJ mid))	13274	13277
+71	17	-	-	HYPH	punct	16	O	 (HYPH -)	13278	13279
+71	18	to	to	IN	case	21	O	 (PP (IN to)	13280	13282
+71	19	-	-	HYPH	punct	21	O	 (HYPH -)	13283	13284
+71	20	late	late	JJ	amod	21	DATE	 (NP (JJ late)	13285	13289
+71	21	1989	1989	CD	obl	16	DATE	 (CD 1989))))))	13290	13294
+71	22	,	,	,	punct	14	O	 (, ,)	13294	13295
+71	23	causing	cause	VBG	acl	14	O	 (VP (VBG causing)	13296	13303
+71	24	a	a	DT	det	25	O	 (NP (NP (DT a)	13304	13305
+71	25	recession	recession	NN	obj	23	O	 (NN recession))	13306	13315
+71	26	in	in	IN	case	29	O	 (PP (IN in)	13316	13318
+71	27	1990	1990	CD	nummod	29	DATE	 (NP (CD 1990)	13319	13323
+71	28	-	-	SYM	dep	29	O	 (SYM -)	13324	13325
+71	29	91	91	CD	nmod	25	DATE	 (CD 91))))))	13326	13328
+71	30	(	(	-LRB-	punct	14	O	 (-LRB- -LRB-) (VP (ADVP (RB also)) (VBN fueled) (PP (IN by) (NP (DT the) (NML (NN oil) (NN price)) (NN crisis)))) (-RRB- -RRB-)) (, ,) (SBAR (WHNP (WP$ whose) (NNS effects)) (S (VP (VBD lasted) (PP (IN as) (NP (NP (JJ late)) (PP (IN as) (NP (CD 1994))))))))))) (. .)))	13329	13330
+71	31	also	also	RB	advmod	32	O		13331	13335
+71	32	fueled	fuel	VBN	acl	14	O		13336	13342
+71	33	by	by	IN	case	37	O		13343	13345
+71	34	the	the	DT	det	37	O		13346	13349
+71	35	oil	oil	NN	compound	36	O		13350	13353
+71	36	price	price	NN	compound	37	O		13354	13359
+71	37	crisis	crisis	NN	obl	32	O		13360	13366
+71	38	)	)	-RRB-	punct	14	O		13367	13368
+71	39	,	,	,	punct	14	O		13368	13369
+71	40	whose	whose	WP$	nmod:poss	41	O		13370	13375
+71	41	effects	effect	NNS	nsubj	42	O		13376	13383
+71	42	lasted	last	VBD	acl:relcl	14	O		13384	13390
+71	43	as	as	IN	case	44	O		13391	13393
+71	44	late	late	JJ	obl	42	O		13394	13398
+71	45	as	as	IN	case	46	O		13399	13401
+71	46	1994	1994	CD	nmod	44	DATE		13402	13406
+71	47	.	.	.	punct	10	O		13406	13407
+
+72	1	This	this	DT	det	2	O	 (ROOT (S (S (NP (DT This)	13408	13412
+72	2	downturn	downturn	NN	nsubj	5	O	 (NN downturn))	13413	13421
+72	3	is	be	VBZ	cop	5	O	 (VP (VBZ is)	13422	13424
+72	4	more	more	RBR	advmod	5	O	 (ADJP (ADJP (RBR more)	13425	13429
+72	5	remembered	remembered	JJ	root	0	O	 (JJ remembered))	13430	13440
+72	6	for	for	IN	case	9	O	 (PP (IN for)	13441	13444
+72	7	its	its	PRP$	nmod:poss	9	O	 (NP (PRP$ its)	13445	13448
+72	8	political	political	JJ	amod	9	O	 (JJ political)	13449	13458
+72	9	effects	effect	NNS	obl	5	O	 (NNS effects))))))	13459	13466
+72	10	:	:	:	punct	5	O	 (: :)	13467	13468
+72	11	British	British	JJ	amod	13	NATIONALITY	 (S (NP (NML (JJ British)	13469	13476
+72	12	Prime	Prime	NNP	compound	13	TITLE	 (NNP Prime)	13477	13482
+72	13	Minister	Minister	NNP	compound	15	TITLE	 (NNP Minister))	13483	13491
+72	14	Margaret	Margaret	NNP	compound	15	PERSON	 (NNP Margaret)	13492	13500
+72	15	Thatcher	Thatcher	NNP	nsubj	16	PERSON	 (NNP Thatcher))	13501	13509
+72	16	had	have	VBD	conj	5	O	 (VP (VBD had)	13510	13513
+72	17	to	to	TO	mark	18	O	 (S (VP (TO to)	13514	13516
+72	18	resign	resign	VB	xcomp	16	O	 (VP (VB resign)	13517	13523
+72	19	in	in	IN	case	20	O	 (PP (IN in)	13524	13526
+72	20	November	November	NNP	obl	18	DATE	 (NP (NNP November)	13527	13535
+72	21	1990	1990	CD	nummod	20	DATE	 (CD 1990))))))))	13536	13540
+72	22	;	;	:	punct	5	O	 (: ;)	13541	13542
+72	23	and	and	CC	cc	40	O	 (CC and)	13543	13546
+72	24	while	while	IN	mark	31	O	 (S (SBAR (IN while)	13547	13552
+72	25	his	he	PRP$	nmod:poss	27	O	 (S (NP (PRP$ his)	13553	13556
+72	26	approval	approval	NN	compound	27	O	 (NN approval)	13557	13565
+72	27	ratings	rating	NNS	nsubj	31	O	 (NNS ratings))	13566	13573
+72	28	were	be	VBD	cop	31	O	 (VP (VBD were)	13574	13578
+72	29	above	above	RB	advmod	31	O	 (ADVP (RB above))	13579	13584
+72	30	60	60	CD	nummod	31	PERCENT	 (NP (CD 60)	13585	13587
+72	31	%	%	NN	advcl	40	PERCENT	 (NN %)))))	13588	13589
+72	32	,	,	,	punct	40	O	 (, ,)	13589	13590
+72	33	U.	U.	NNP	compound	35	ORGANIZATION	 (NP (NML (NNP U.)	13591	13593
+72	34	S.	S.	NNP	compound	35	ORGANIZATION	 (NNP S.)	13594	13596
+72	35	President	President	NNP	compound	39	TITLE	 (NNP President))	13597	13606
+72	36	George	George	NNP	compound	39	PERSON	 (NNP George)	13607	13613
+72	37	H.	H.	NNP	compound	39	PERSON	 (NNP H.)	13614	13616
+72	38	W.	W.	NNP	compound	39	PERSON	 (NNP W.)	13617	13619
+72	39	Bush	Bush	NNP	nsubj	40	PERSON	 (NNP Bush))	13620	13624
+72	40	lost	lose	VBD	conj	5	O	 (VP (VBD lost)	13625	13629
+72	41	the	the	DT	det	43	O	 (NP (DT the)	13630	13633
+72	42	1992	1992	CD	nummod	43	DATE	 (CD 1992)	13634	13638
+72	43	election	election	NN	obj	40	O	 (NN election))	13639	13647
+72	44	to	to	IN	case	46	O	 (PP (IN to)	13648	13650
+72	45	Bill	Bill	NNP	compound	46	PERSON	 (NP (NNP Bill)	13651	13655
+72	46	Clinton	Clinton	NNP	obl	40	PERSON	 (NNP Clinton)))	13656	13663
+72	47	because	because	IN	case	51	O	 (PP (IN because)	13664	13671
+72	48	of	of	IN	fixed	47	O	 (IN of)	13672	13674
+72	49	the	the	DT	det	51	O	 (NP (NP (DT the)	13675	13678
+72	50	domestic	domestic	JJ	amod	51	O	 (JJ domestic)	13679	13687
+72	51	malady	malady	NN	obl	40	O	 (NN malady))	13688	13694
+72	52	marked	mark	VBN	acl	51	O	 (VP (VBN marked)	13695	13701
+72	53	by	by	IN	case	55	O	 (PP (IN by)	13702	13704
+72	54	the	the	DT	det	55	O	 (NP (NP (DT the)	13705	13708
+72	55	depression	depression	NN	obl	52	O	 (NN depression))	13709	13719
+72	56	and	and	CC	cc	59	O	 (CC and)	13720	13723
+72	57	increasing	increase	VBG	amod	59	O	 (NP (VBG increasing)	13724	13734
+72	58	urban	urban	JJ	amod	59	O	 (JJ urban)	13735	13740
+72	59	decay	decay	NN	conj	55	O	 (NN decay)))))))))	13741	13746
+72	60	.	.	.	punct	5	O	 (. .)))	13746	13747
+
+73	1	In	in	IN	case	2	O	 (ROOT (S (PP (IN In)	13748	13750
+73	2	2005	2005	CD	obl	15	DATE	 (NP (CD 2005)))	13751	13755
+73	3	,	,	,	punct	15	O	 (, ,)	13755	13756
+73	4	the	the	DT	det	8	O	 (NP (NP (DT the)	13757	13760
+73	5	persistent	persistent	JJ	amod	8	O	 (JJ persistent)	13761	13771
+73	6	oil	oil	NN	compound	7	O	 (NML (NN oil)	13772	13775
+73	7	price	price	NN	compound	8	O	 (NN price))	13776	13781
+73	8	rises	rise	NNS	nsubj	15	O	 (NNS rises))	13782	13787
+73	9	and	and	CC	cc	10	O	 (CC and)	13788	13791
+73	10	economic	economic	JJ	conj	8	O	 (NP (NP (JJ economic))	13792	13800
+73	11	overheating	overheate	VBG	acl	10	O	 (VP (VBG overheating)	13801	13812
+73	12	caused	cause	VBN	dep	11	O	 (VP (VBN caused)	13813	13819
+73	13	by	by	IN	case	14	O	 (PP (IN by)	13820	13822
+73	14	deregulation	deregulation	NN	obl	12	O	 (NP (NN deregulation)))))))	13823	13835
+73	15	led	lead	VBD	root	0	O	 (VP (VBD led)	13836	13839
+73	16	to	to	IN	case	19	O	 (PP (IN to)	13840	13842
+73	17	a	a	DT	det	19	O	 (NP (NP (DT a)	13843	13844
+73	18	gradual	gradual	JJ	amod	19	O	 (JJ gradual)	13845	13852
+73	19	deterioration	deterioration	NN	obl	15	O	 (NN deterioration))	13853	13866
+73	20	of	of	IN	case	23	O	 (PP (IN of)	13867	13869
+73	21	the	the	DT	det	23	O	 (NP (DT the)	13870	13873
+73	22	world	world	NN	compound	23	O	 (NN world)	13874	13879
+73	23	economy	economy	NN	nmod	19	O	 (NN economy)))))	13880	13887
+73	24	with	with	IN	case	25	O	 (PP (IN with)	13888	13892
+73	25	inflation	inflation	NN	obl	15	O	 (NP (NN inflation)	13893	13902
+73	26	and	and	CC	cc	27	O	 (CC and)	13903	13906
+73	27	unemployment	unemployment	NN	conj	25	O	 (NN unemployment)))	13907	13919
+73	28	rising	rise	VBG	xcomp	15	O	 (S (VP (VBG rising)	13920	13926
+73	29	as	as	IN	mark	31	O	 (SBAR (IN as)	13927	13929
+73	30	growth	growth	NN	nsubj	31	O	 (S (NP (NN growth))	13930	13936
+73	31	slowed	slow	VBD	advcl	28	O	 (VP (VBD slowed)	13937	13943
+73	32	:	:	:	punct	31	O	 (: :)	13944	13945
+73	33	The	the	DT	det	35	O	 (S (S (NP (NP (DT The)	13946	13949
+73	34	housing	housing	NN	compound	35	O	 (NN housing)	13950	13957
+73	35	bubble	bubble	NN	nsubj	40	O	 (NN bubble))	13958	13964
+73	36	in	in	IN	case	39	O	 (PP (IN in)	13965	13967
+73	37	the	the	DT	det	39	O	 (NP (DT the)	13968	13971
+73	38	U.	U.	NNP	compound	39	O	 (NNP U.)	13972	13974
+73	39	S.	S.	NNP	nmod	35	O	 (NNP S.))))	13975	13977
+73	40	burst	burst	VBD	parataxis	31	O	 (VP (VBD burst)	13978	13983
+73	41	in	in	IN	case	42	O	 (PP (IN in)	13984	13986
+73	42	2007	2007	CD	obl	40	DATE	 (NP (CD 2007)))))	13987	13991
+73	43	,	,	,	punct	40	O	 (, ,)	13991	13992
+73	44	and	and	CC	cc	48	O	 (CC and)	13993	13996
+73	45	the	the	DT	det	47	O	 (S (NP (DT the)	13997	14000
+73	46	American	American	JJ	amod	47	NATIONALITY	 (JJ American)	14001	14009
+73	47	economy	economy	NN	nsubj	48	O	 (NN economy))	14010	14017
+73	48	slipped	slip	VBD	conj	40	O	 (VP (VBD slipped)	14018	14025
+73	49	into	into	IN	case	51	O	 (PP (IN into)	14026	14030
+73	50	a	a	DT	det	51	O	 (NP (DT a)	14031	14032
+73	51	recession	recession	NN	obl	48	O	 (NN recession))))))))))))	14033	14042
+73	52	.	.	.	punct	15	O	 (. .)))	14042	14043
+
+74	1	This	this	DT	nsubj	6	O	 (ROOT (S (NP (DT This))	14044	14048
+74	2	,	,	,	punct	6	O	 (, ,)	14048	14049
+74	3	in	in	IN	case	4	O	 (PP (IN in)	14050	14052
+74	4	turn	turn	NN	obl	6	O	 (NP (NN turn)))	14053	14057
+74	5	,	,	,	punct	6	O	 (, ,)	14057	14058
+74	6	provoked	provoke	VBD	root	0	O	 (VP (VBD provoked)	14059	14067
+74	7	the	the	DT	det	8	O	 (NP (NP (DT the)	14068	14071
+74	8	failure	failure	NN	obj	6	O	 (NN failure))	14072	14079
+74	9	of	of	IN	case	13	O	 (PP (IN of)	14080	14082
+74	10	many	many	JJ	amod	13	O	 (NP (JJ many)	14083	14087
+74	11	prominent	prominent	JJ	amod	13	O	 (JJ prominent)	14088	14097
+74	12	financial	financial	JJ	amod	13	O	 (JJ financial)	14098	14107
+74	13	institutions	institution	NNS	nmod	8	O	 (NNS institutions))))	14108	14120
+74	14	throughout	throughout	IN	case	15	O	 (PP (IN throughout)	14121	14131
+74	15	2008	2008	CD	obl	6	DATE	 (NP (NP (CD 2008))	14132	14136
+74	16	,	,	,	punct	15	O	 (, ,)	14136	14137
+74	17	most	most	RBS	advmod	18	O	 (ADVP (RBS most)	14138	14142
+74	18	notably	notably	RB	advmod	15	O	 (RB notably))	14143	14150
+74	19	Lehman	Lehman	NNP	compound	20	ORGANIZATION	 (NP (NNP Lehman)	14151	14157
+74	20	Brothers	Brothers	NNPS	dep	15	ORGANIZATION	 (NNPS Brothers))))	14158	14166
+74	21	,	,	,	punct	6	O	 (, ,)	14166	14167
+74	22	leading	lead	VBG	advcl	6	O	 (S (VP (VBG leading)	14168	14175
+74	23	to	to	IN	case	25	O	 (PP (IN to)	14176	14178
+74	24	the	the	DT	det	25	O	 (NP (NP (DT the)	14179	14182
+74	25	loss	loss	NN	obl	22	O	 (NN loss))	14183	14187
+74	26	of	of	IN	case	27	O	 (PP (IN of)	14188	14190
+74	27	millions	million	NNS	nmod	25	O	 (NP (NP (NNS millions))	14191	14199
+74	28	of	of	IN	case	29	O	 (PP (IN of)	14200	14202
+74	29	jobs	job	NNS	nmod	27	O	 (NP (NNS jobs))))))))))	14203	14207
+74	30	.	.	.	punct	6	O	 (. .)))	14207	14208
+
+75	1	Several	several	JJ	amod	4	O	 (ROOT (S (S (NP (JJ Several)	14209	14216
+75	2	Latin	latin	JJ	amod	4	MISC	 (JJ Latin)	14217	14222
+75	3	American	American	JJ	amod	4	NATIONALITY	 (JJ American)	14223	14231
+75	4	countries	country	NNS	nsubj	5	O	 (NNS countries))	14232	14241
+75	5	had	have	VBD	root	0	O	 (VP (VBD had)	14242	14245
+75	6	severe	severe	JJ	amod	7	O	 (NP (NP (JJ severe)	14246	14252
+75	7	downturns	downturn	NNS	obj	5	O	 (NNS downturns))	14253	14262
+75	8	in	in	IN	case	10	O	 (PP (IN in)	14263	14265
+75	9	the	the	DT	det	10	DATE	 (NP (DT the)	14266	14269
+75	10	1980s	1980	NNS	nmod	7	DATE	 (NNS 1980s))))))	14270	14275
+75	11	:	:	:	punct	5	O	 (: :)	14276	14277
+75	12	by	by	IN	case	17	O	 (S (S (PP (IN by)	14278	14280
+75	13	the	the	DT	det	17	O	 (NP (NP (DT the)	14281	14284
+75	14	Kehoe	Kehoe	NNP	compound	17	PERSON	 (NML (NNP Kehoe)	14285	14290
+75	15	and	and	CC	cc	16	O	 (CC and)	14291	14294
+75	16	Prescott	Prescott	NNP	conj	14	PERSON	 (NNP Prescott))	14295	14303
+75	17	definition	definition	NN	obl	44	O	 (NN definition))	14304	14314
+75	18	of	of	IN	case	21	O	 (PP (IN of)	14315	14317
+75	19	a	a	DT	det	21	O	 (NP (NP (DT a)	14318	14319
+75	20	great	great	JJ	amod	21	O	 (JJ great)	14320	14325
+75	21	depression	depression	NN	nmod	17	O	 (NN depression))	14326	14336
+75	22	as	as	IN	case	26	O	 (PP (IN as)	14337	14339
+75	23	at	at	IN	case	24	DURATION	 (NP (NP (QP (ADVP (IN at)	14340	14342
+75	24	least	least	RBS	obl:npmod	25	DURATION	 (RBS least))	14343	14348
+75	25	one	one	CD	nummod	26	DURATION	 (CD one))	14349	14352
+75	26	year	year	NN	nmod	21	DURATION	 (NN year))	14353	14357
+75	27	with	with	IN	case	30	O	 (PP (IN with)	14358	14362
+75	28	output	output	NN	dep	30	O	 (NP (NN output)	14363	14369
+75	29	20	20	CD	nummod	30	PERCENT	 (NML (CD 20)	14370	14372
+75	30	%	%	NN	nmod	26	PERCENT	 (NN %))))	14373	14374
+75	31	below	below	IN	case	32	O	 (PP (IN below)	14375	14380
+75	32	trend	trend	NN	nmod	26	O	 (NP (NN trend)))))))))	14381	14386
+75	33	,	,	,	punct	44	O	 (, ,)	14386	14387
+75	34	Argentina	Argentina	NNP	nsubj	44	COUNTRY	 (NP (NNP Argentina)	14388	14397
+75	35	,	,	,	punct	34	O	 (, ,)	14397	14398
+75	36	Brazil	Brazil	NNP	conj	34	COUNTRY	 (NNP Brazil)	14399	14405
+75	37	,	,	,	punct	34	O	 (, ,)	14405	14406
+75	38	Chile	Chile	NNP	conj	34	COUNTRY	 (NNP Chile)	14407	14412
+75	39	,	,	,	punct	34	O	 (, ,)	14412	14413
+75	40	Mexico	Mexico	NNP	conj	34	COUNTRY	 (NNP Mexico)	14414	14420
+75	41	,	,	,	punct	34	O	 (, ,)	14420	14421
+75	42	and	and	CC	cc	43	O	 (CC and)	14422	14425
+75	43	Peru	Peru	NNP	conj	34	COUNTRY	 (NNP Peru))	14426	14430
+75	44	experienced	experience	VBD	parataxis	5	O	 (VP (VBD experienced)	14431	14442
+75	45	great	great	JJ	amod	46	O	 (NP (JJ great)	14443	14448
+75	46	depressions	depression	NNS	obj	44	O	 (NNS depressions))	14449	14460
+75	47	in	in	IN	case	49	O	 (PP (IN in)	14461	14463
+75	48	the	the	DT	det	49	DATE	 (NP (DT the)	14464	14467
+75	49	1980s	1980	NNS	obl	44	DATE	 (NNS 1980s)))))	14468	14473
+75	50	,	,	,	punct	44	O	 (, ,)	14473	14474
+75	51	and	and	CC	cc	53	O	 (CC and)	14475	14478
+75	52	Argentina	Argentina	NNP	nsubj	53	COUNTRY	 (S (NP (NNP Argentina))	14479	14488
+75	53	experienced	experience	VBD	conj	44	O	 (VP (VBD experienced)	14489	14500
+75	54	another	another	DT	obj	53	O	 (NP (NP (DT another))	14501	14508
+75	55	between	between	IN	case	56	O	 (PP (IN between)	14509	14516
+75	56	1998	1998	CD	nmod	54	DATE	 (NP (CD 1998)	14517	14521
+75	57	and	and	CC	cc	58	DATE	 (CC and)	14522	14525
+75	58	2002	2002	CD	conj	56	DATE	 (CD 2002)))))))	14526	14530
+75	59	.	.	.	punct	5	O	 (. .)))	14530	14531
+
+76	1	South	south	JJ	amod	2	MISC	 (ROOT (S (NP (ADJP (JJ South)	14532	14537
+76	2	American	American	JJ	amod	3	NATIONALITY	 (JJ American))	14538	14546
+76	3	countries	country	NNS	nsubj	4	O	 (NNS countries))	14547	14556
+76	4	fell	fall	VBD	root	0	O	 (VP (VBD fell)	14557	14561
+76	5	once	once	RB	advmod	6	DATE	 (ADVP (RB once)	14562	14566
+76	6	again	again	RB	advmod	4	O	 (RB again))	14567	14572
+76	7	into	into	IN	case	8	O	 (PP (IN into)	14573	14577
+76	8	this	this	DT	obl	4	O	 (NP (NP (DT this))	14578	14582
+76	9	in	in	IN	case	16	O	 (PP (IN in)	14583	14585
+76	10	the	the	DT	det	16	O	 (NP (DT the)	14586	14589
+76	11	early	early	JJ	amod	16	O	 (ADJP (JJ early)	14590	14595
+76	12	-	-	HYPH	punct	11	O	 (HYPH -)	14596	14597
+76	13	to	to	IN	case	15	O	 (PP (IN to)	14598	14600
+76	14	-	-	HYPH	punct	15	O	 (HYPH -)	14601	14602
+76	15	mid	mid	JJ	advcl	11	O	 (ADJP (JJ mid))))	14603	14606
+76	16	2010s	2010	NNS	nmod	8	DATE	 (NNS 2010s))))))	14607	14612
+76	17	.	.	.	punct	4	O	 (. .)))	14612	14613
+
+77	1	This	this	DT	det	2	O	 (ROOT (S (NP (DT This)	14614	14618
+77	2	definition	definition	NN	nsubj	4	O	 (NN definition))	14619	14629
+77	3	also	also	RB	advmod	4	O	 (ADVP (RB also))	14630	14634
+77	4	includes	include	VBZ	root	0	O	 (VP (VBZ includes)	14635	14643
+77	5	the	the	DT	det	7	O	 (NP (NP (DT the)	14644	14647
+77	6	economic	economic	JJ	amod	7	O	 (JJ economic)	14648	14656
+77	7	performance	performance	NN	obj	4	O	 (NN performance))	14657	14668
+77	8	of	of	IN	case	10	O	 (PP (IN of)	14669	14671
+77	9	New	New	NNP	compound	10	COUNTRY	 (NP (NP (NNP New)	14672	14675
+77	10	Zealand	Zealand	NNP	nmod	7	COUNTRY	 (NNP Zealand))	14676	14683
+77	11	from	from	IN	case	12	O	 (PP (IN from)	14684	14688
+77	12	1974	1974	CD	nmod	10	DATE	 (NP (NP (NP (CD 1974))	14689	14693
+77	13	to	to	IN	case	14	DATE	 (PP (IN to)	14694	14696
+77	14	1992	1992	CD	nmod	12	DATE	 (NP (CD 1992))))	14697	14701
+77	15	and	and	CC	cc	16	O	 (CC and)	14702	14705
+77	16	Switzerland	Switzerland	NNP	conj	12	COUNTRY	 (NP (NP (NNP Switzerland))	14706	14717
+77	17	from	from	IN	case	18	O	 (PP (IN from)	14718	14722
+77	18	1973	1973	CD	nmod	16	DATE	 (NP (CD 1973)))))))))	14723	14727
+77	19	to	to	IN	case	21	O	 (PP (IN to)	14728	14730
+77	20	the	the	DT	det	21	O	 (NP (DT the)	14731	14734
+77	21	present	present	JJ	obl	4	DATE	 (JJ present)))	14735	14742
+77	22	,	,	,	punct	4	O	 (, ,)	14742	14743
+77	23	although	although	IN	mark	30	O	 (SBAR (IN although)	14744	14752
+77	24	this	this	DT	det	25	O	 (S (NP (NP (DT this)	14753	14757
+77	25	designation	designation	NN	nsubj	30	O	 (NN designation))	14758	14769
+77	26	for	for	IN	case	27	O	 (PP (IN for)	14770	14773
+77	27	Switzerland	Switzerland	NNP	nmod	25	COUNTRY	 (NP (NNP Switzerland))))	14774	14785
+77	28	has	have	VBZ	aux	30	O	 (VP (VBZ has)	14786	14789
+77	29	been	be	VBN	cop	30	O	 (VP (VBN been)	14790	14794
+77	30	controversial	controversial	JJ	advcl	4	O	 (ADJP (JJ controversial)))))))	14795	14808
+77	31	.	.	.	punct	4	O	 (. .)))	14808	14809
+
+78	1	From	from	IN	case	2	O	 (ROOT (S (PP (IN From)	14810	14814
+78	2	1980	1980	CD	obl	11	DATE	 (NP (NP (CD 1980))	14815	14819
+78	3	to	to	IN	case	4	O	 (PP (IN to)	14820	14822
+78	4	2000	2000	CD	nmod	2	DATE	 (NP (CD 2000)))))	14823	14827
+78	5	,	,	,	punct	11	O	 (, ,)	14827	14828
+78	6	Sub	sub	NN	compound	9	LOCATION	 (NP (NML (NN Sub)	14829	14832
+78	7	-	-	HYPH	punct	6	LOCATION	 (HYPH -))	14833	14834
+78	8	Saharan	Saharan	NNP	compound	9	LOCATION	 (NNP Saharan)	14835	14842
+78	9	Africa	Africa	NNP	nsubj	11	LOCATION	 (NNP Africa))	14843	14849
+78	10	broadly	broadly	RB	advmod	11	O	 (ADVP (RB broadly))	14850	14857
+78	11	suffered	suffer	VBD	root	0	O	 (VP (VBD suffered)	14858	14866
+78	12	a	a	DT	det	13	O	 (NP (DT a)	14867	14868
+78	13	fall	fall	NN	obl:tmod	11	DATE	 (NN fall))	14869	14873
+78	14	in	in	IN	case	17	O	 (PP (IN in)	14874	14876
+78	15	absolute	absolute	JJ	amod	17	O	 (NP (JJ absolute)	14877	14885
+78	16	income	income	NN	compound	17	O	 (NN income)	14886	14892
+78	17	levels	level	NNS	obl	11	O	 (NNS levels))))	14893	14899
+78	18	.	.	.	punct	11	O	 (. .)))	14899	14900
+

@@ -1,0 +1,1679 @@
+0	1	Social	Social	NNP	compound	2	O	 (ROOT (S (NP (NNP Social)	1	1
+0	2	anxiety	anxiety	NN	nsubj	5	O	 (NN anxiety))	1	1
+0	3	is	be	VBZ	cop	5	O	 (VP (VBZ is)	1	1
+0	4	the	the	DT	det	5	O	 (NP (NP (DT the)	1	1
+0	5	anxiety	anxiety	NN	root	0	O	 (NN anxiety)	1	1
+0	6	and	and	CC	cc	7	O	 (CC and)	1	1
+0	7	fear	fear	NN	conj	5	O	 (NN fear))	1	1
+0	8	specifically	specifically	RB	advmod	9	O	 (VP (ADVP (RB specifically))	1	1
+0	9	linked	link	VBN	acl	5	O	 (VBN linked)	1	1
+0	10	to	to	IN	mark	14	O	 (PP (IN to)	1	1
+0	11	being	be	VBG	cop	14	O	 (S (VP (VBG being)	1	1
+0	12	in	in	IN	case	14	O	 (PP (IN in)	1	1
+0	13	social	social	JJ	amod	14	O	 (NP (JJ social)	1	1
+0	14	settings	setting	NNS	advcl	9	O	 (NNS settings))))))))	1	1
+0	15	(	(	-LRB-	punct	17	O	 (PRN (-LRB- -LRB-) (NP (NN i.) (NN e.)) (, ,) (NP (NP (VBG interacting)) (PP (IN with) (NP (NNS others)))) (-RRB- -RRB-))) (. .)))	2	1
+0	16	i.	i.	NN	compound	17	O		2	1
+0	17	e.	e.	NN	dep	5	O		2	1
+0	18	,	,	,	punct	17	O		2	1
+0	19	interacting	interact	VBG	dep	17	O		2	1
+0	20	with	with	IN	case	21	O		2	1
+0	21	others	other	NNS	nmod	19	O		2	1
+0	22	)	)	-RRB-	punct	17	O		2	1
+0	23	.	.	.	punct	5	O		2	1
+1	1	Some	some	DT	det	2	O	 (ROOT (S (NP (NP (DT Some)	3	1
+1	2	categories	category	NNS	nsubj	9	O	 (NNS categories))	3	1
+1	3	of	of	IN	case	4	O	 (PP (IN of)	3	1
+1	4	disorders	disorder	NNS	nmod	2	O	 (NP (NP (NNS disorders))	3	1
+1	5	associated	associate	VBN	acl	4	O	 (VP (VBN associated)	3	1
+1	6	with	with	IN	case	8	O	 (PP (IN with)	3	1
+1	7	social	social	JJ	amod	8	O	 (NP (JJ social)	3	1
+1	8	anxiety	anxiety	NN	obl	5	O	 (NN anxiety)))))))	3	1
+1	9	include	include	VBP	root	0	O	 (VP (VBP include)	3	1
+1	10	anxiety	anxiety	NN	compound	11	O	 (NP (NP (NN anxiety)	3	1
+1	11	disorders	disorder	NNS	obj	9	O	 (NNS disorders))	3	1
+1	12	,	,	,	punct	11	O	 (, ,)	3	1
+1	13	mood	mood	NN	compound	14	O	 (NP (NN mood)	3	1
+1	14	disorders	disorder	NNS	conj	11	O	 (NNS disorders))	3	1
+1	15	,	,	,	punct	11	O	 (, ,)	3	1
+1	16	autism	autism	NN	compound	18	O	 (NP (NN autism)	3	1
+1	17	spectrum	spectrum	NN	compound	18	O	 (NN spectrum)	3	1
+1	18	disorders	disorder	NNS	conj	11	O	 (NNS disorders))	3	1
+1	19	,	,	,	punct	11	O	 (, ,)	3	1
+1	20	eating	eat	VBG	amod	21	O	 (NP (VBG eating)	3	1
+1	21	disorders	disorder	NNS	conj	11	O	 (NNS disorders))	3	1
+1	22	,	,	,	punct	11	O	 (, ,)	3	1
+1	23	and	and	CC	cc	26	O	 (CC and)	3	1
+1	24	substance	substance	NN	compound	26	O	 (NP (NN substance)	3	1
+1	25	use	use	NN	compound	26	O	 (NN use)	3	1
+1	26	disorders	disorder	NNS	conj	11	O	 (NNS disorders))))	3	1
+1	27	.	.	.	punct	9	O	 (. .)))	3	1
+2	1	Individuals	individual	NNS	nsubj	9	O	 (ROOT (S (NP (NP (NNS Individuals))	4	1
+2	2	with	with	IN	case	4	O	 (PP (IN with)	4	1
+2	3	higher	high	JJR	amod	4	O	 (NP (NP (JJR higher)	4	1
+2	4	levels	level	NNS	nmod	1	O	 (NNS levels))	4	1
+2	5	of	of	IN	case	7	O	 (PP (IN of)	4	1
+2	6	social	social	JJ	amod	7	O	 (NP (JJ social)	4	1
+2	7	anxiety	anxiety	NN	nmod	4	O	 (NN anxiety))))))	4	1
+2	8	often	often	RB	advmod	9	O	 (ADVP (RB often))	4	1
+2	9	avert	avert	VBP	root	0	O	 (VP (VP (VBP avert)	4	1
+2	10	their	they	PRP$	nmod:poss	11	O	 (NP (PRP$ their)	4	1
+2	11	gazes	gaze	NNS	obj	9	O	 (NNS gazes)))	4	1
+2	12	,	,	,	punct	9	O	 (, ,)	4	1
+2	13	show	show	VBP	conj	9	O	 (VP (VBP show)	4	1
+2	14	fewer	few	JJR	amod	16	O	 (NP (JJR fewer)	4	1
+2	15	facial	facial	JJ	amod	16	O	 (JJ facial)	4	1
+2	16	expressions	expression	NNS	obj	13	O	 (NNS expressions)))	4	1
+2	17	,	,	,	punct	9	O	 (, ,)	4	1
+2	18	and	and	CC	cc	19	O	 (CC and)	5	1
+2	19	show	show	VBP	conj	9	O	 (VP (VBP show)	5	1
+2	20	difficulty	difficulty	NN	obj	19	O	 (NP (NN difficulty))	5	1
+2	21	with	with	IN	mark	22	O	 (PP (IN with)	5	1
+2	22	initiating	initiate	VBG	advcl	19	O	 (S (VP (VBG initiating)	5	1
+2	23	and	and	CC	cc	24	O	 (CC and)	5	1
+2	24	maintaining	maintain	VBG	conj	22	O	 (VBG maintaining)	5	1
+2	25	a	a	DT	det	26	O	 (NP (DT a)	5	1
+2	26	conversation	conversation	NN	obj	22	O	 (NN conversation)))))))	5	1
+2	27	.	.	.	punct	9	O	 (. .)))	5	1
+3	1	Social	social	JJ	amod	2	O	 (ROOT (S (S (NP (JJ Social)	6	1
+3	2	anxiety	anxiety	NN	nsubj	4	O	 (NN anxiety))	6	1
+3	3	commonly	commonly	RB	advmod	4	O	 (ADVP (RB commonly))	6	1
+3	4	manifests	manifest	VBZ	root	0	O	 (VP (VP (VBZ manifests)	6	1
+3	5	itself	itself	PRP	obj	4	O	 (NP (PRP itself))	6	1
+3	6	in	in	IN	case	9	O	 (PP (IN in)	6	1
+3	7	the	the	DT	det	9	DURATION	 (NP (DT the)	6	1
+3	8	teenage	teenage	JJ	amod	9	DURATION	 (JJ teenage)	6	1
+3	9	years	year	NNS	obl	4	DURATION	 (NNS years))))	6	1
+3	10	and	and	CC	cc	13	O	 (CC and)	7	1
+3	11	can	can	MD	aux	13	O	 (VP (MD can)	7	1
+3	12	be	be	VB	cop	13	O	 (VP (VB be)	7	1
+3	13	persistent	persistent	JJ	conj	4	O	 (ADJP (JJ persistent)	7	1
+3	14	throughout	throughout	IN	case	15	O	 (PP (IN throughout)	7	1
+3	15	life	life	NN	obl	13	O	 (NP (NN life))))))))	7	1
+3	16	;	;	:	punct	4	O	 (: ;)	7	1
+3	17	however	however	RB	advmod	34	O	 (S (ADVP (RB however))	8	1
+3	18	,	,	,	punct	34	O	 (, ,)	8	1
+3	19	people	person	NNS	nsubj	34	O	 (NP (NP (NNS people))	8	1
+3	20	who	who	WP	nsubj	21	O	 (SBAR (WHNP (WP who))	9	1
+3	21	experience	experience	VBP	acl:relcl	19	O	 (S (VP (VBP experience)	9	1
+3	22	problems	problem	NNS	obj	21	O	 (NP (NP (NNS problems))	9	1
+3	23	in	in	IN	case	26	O	 (PP (IN in)	9	1
+3	24	their	they	PRP$	nmod:poss	26	O	 (NP (PRP$ their)	9	1
+3	25	daily	daily	JJ	amod	26	SET	 (JJ daily)	9	1
+3	26	functioning	functioning	NN	nmod	22	O	 (NN functioning))))	9	1
+3	27	for	for	IN	case	30	O	 (PP (IN for)	9	1
+3	28	an	a	DT	det	30	O	 (NP (NP (DT an)	9	1
+3	29	extended	extended	JJ	amod	30	O	 (JJ extended)	9	1
+3	30	period	period	NN	obl	21	O	 (NN period))	9	1
+3	31	of	of	IN	case	32	O	 (PP (IN of)	9	1
+3	32	time	time	NN	nmod	30	O	 (NP (NN time)))))))))	9	1
+3	33	can	can	MD	aux	34	O	 (VP (MD can)	9	1
+3	34	develop	develop	VB	parataxis	4	O	 (VP (VB develop)	9	1
+3	35	social	social	JJ	amod	37	O	 (NP (JJ social)	9	1
+3	36	anxiety	anxiety	NN	compound	37	O	 (NN anxiety)	9	1
+3	37	disorder	disorder	NN	obj	34	O	 (NN disorder)))))	9	1
+3	38	.	.	.	punct	4	O	 (. .)))	9	1
+4	1	Trait	trait	NN	compound	3	O	 (ROOT (S (NP (NP (NN Trait)	10	1
+4	2	social	social	JJ	amod	3	O	 (JJ social)	10	1
+4	3	anxiety	anxiety	NN	nsubj:pass	15	O	 (NN anxiety))	10	1
+4	4	,	,	,	punct	3	O	 (, ,)	10	1
+4	5	the	the	DT	det	7	O	 (NP (DT the)	11	1
+4	6	stable	stable	JJ	amod	7	O	 (JJ stable)	11	1
+4	7	tendency	tendency	NN	appos	3	O	 (NN tendency)	11	1
+4	8	to	to	TO	mark	9	O	 (S (VP (TO to)	11	1
+4	9	experience	experience	VB	acl	7	O	 (VP (VB experience)	11	1
+4	10	this	this	DT	det	11	O	 (NP (DT this)	11	1
+4	11	anxiety	anxiety	NN	obj	9	O	 (NN anxiety))))))	11	1
+4	12	,	,	,	punct	3	O	 (, ,))	11	1
+4	13	can	can	MD	aux	15	O	 (VP (MD can)	12	1
+4	14	be	be	VB	aux:pass	15	O	 (VP (VB be)	12	1
+4	15	distinguished	distinguish	VBN	root	0	O	 (VP (VBN distinguished)	12	1
+4	16	from	from	IN	case	18	O	 (PP (IN from)	12	1
+4	17	state	state	NN	compound	18	O	 (NP (NP (NN state)	12	1
+4	18	anxiety	anxiety	NN	obl	15	O	 (NN anxiety))	12	1
+4	19	,	,	,	punct	18	O	 (, ,)	12	1
+4	20	the	the	DT	det	22	O	 (NP (DT the)	12	1
+4	21	momentary	momentary	JJ	amod	22	O	 (JJ momentary)	12	1
+4	22	response	response	NN	appos	18	O	 (NN response))))	12	1
+4	23	to	to	IN	case	27	O	 (PP (IN to)	12	1
+4	24	a	a	DT	det	27	O	 (NP (DT a)	12	1
+4	25	particular	particular	JJ	amod	27	O	 (JJ particular)	12	1
+4	26	social	social	JJ	amod	27	O	 (JJ social)	12	1
+4	27	stimulus	stimulus	NN	obl	15	O	 (NN stimulus))))))	12	1
+4	28	.	.	.	punct	15	O	 (. .)))	12	1
+5	1	Half	half	NN	nsubj	9	O	 (ROOT (S (NP (NP (NN Half))	13	1
+5	2	of	of	IN	case	4	O	 (PP (IN of)	13	1
+5	3	the	the	DT	det	4	O	 (NP (NP (DT the)	13	1
+5	4	individuals	individual	NNS	nmod	1	O	 (NNS individuals))	13	1
+5	5	with	with	IN	case	8	O	 (PP (IN with)	13	1
+5	6	any	any	DT	det	8	O	 (NP (DT any)	13	1
+5	7	social	social	JJ	amod	8	O	 (JJ social)	13	1
+5	8	fears	fear	NNS	nmod	4	O	 (NNS fears))))))	13	1
+5	9	meet	meet	VBP	root	0	O	 (VP (VBP meet)	13	1
+5	10	the	the	DT	det	11	O	 (NP (NP (DT the)	13	1
+5	11	criteria	criterion	NNS	obj	9	O	 (NNS criteria))	13	1
+5	12	for	for	IN	case	15	O	 (PP (IN for)	13	1
+5	13	social	social	JJ	amod	15	O	 (NP (JJ social)	13	1
+5	14	anxiety	anxiety	NN	compound	15	O	 (NN anxiety)	13	1
+5	15	disorder	disorder	NN	nmod	11	O	 (NN disorder)))))	13	1
+5	16	.	.	.	punct	9	O	 (. .)))	13	1
+6	1	Age	age	NN	root	0	O	 (ROOT (FRAG (NP (NN Age)	14	1
+6	2	,	,	,	punct	1	O	 (, ,)	14	1
+6	3	culture	culture	NN	conj	1	O	 (NN culture)	14	1
+6	4	,	,	,	punct	1	O	 (, ,)	14	1
+6	5	and	and	CC	cc	6	O	 (CC and)	14	1
+6	6	gender	gender	NN	conj	1	O	 (NN gender))	14	1
+6	7	impact	impact	NN	dep	1	O	 (NP (NN impact))	14	1
+6	8	the	the	DT	det	9	O	 (NP (NP (DT the)	14	1
+6	9	severity	severity	NN	dep	1	O	 (NN severity))	14	1
+6	10	of	of	IN	case	12	O	 (PP (IN of)	14	1
+6	11	this	this	DT	det	12	O	 (NP (DT this)	14	1
+6	12	disorder	disorder	NN	nmod	9	O	 (NN disorder))))	14	1
+6	13	.	.	.	punct	1	O	 (. .)))	14	1
+7	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	15	1
+7	2	function	function	NN	nsubj	6	O	 (NN function))	15	1
+7	3	of	of	IN	case	5	O	 (PP (IN of)	15	1
+7	4	social	social	JJ	amod	5	O	 (NP (JJ social)	15	1
+7	5	anxiety	anxiety	NN	nmod	2	O	 (NN anxiety))))	15	1
+7	6	is	be	VBZ	root	0	O	 (VP (VBZ is)	15	1
+7	7	to	to	TO	mark	8	O	 (S (VP (TO to)	15	1
+7	8	increase	increase	VB	xcomp	6	O	 (VP (VP (VB increase)	15	1
+7	9	arousal	arousal	NN	obj	8	O	 (NP (NN arousal)	15	1
+7	10	and	and	CC	cc	11	O	 (CC and)	15	1
+7	11	attention	attention	NN	conj	9	O	 (NN attention))	15	1
+7	12	to	to	IN	case	14	O	 (PP (IN to)	15	1
+7	13	social	social	JJ	amod	14	O	 (NP (JJ social)	15	1
+7	14	interactions	interaction	NNS	obl	8	O	 (NNS interactions))))	15	1
+7	15	,	,	,	punct	8	O	 (, ,)	15	1
+7	16	inhibit	inhibit	VB	conj	8	O	 (VP (VB inhibit)	15	1
+7	17	unwanted	unwanted	JJ	amod	19	O	 (NP (JJ unwanted)	15	1
+7	18	social	social	JJ	amod	19	O	 (JJ social)	15	1
+7	19	behavior	behavior	NN	obj	16	O	 (NN behavior)))	15	1
+7	20	,	,	,	punct	8	O	 (, ,)	15	1
+7	21	and	and	CC	cc	22	O	 (CC and)	16	1
+7	22	motivate	motivate	VB	conj	8	O	 (VP (VB motivate)	16	1
+7	23	preparation	preparation	NN	obj	22	O	 (NP (NN preparation))	16	1
+7	24	for	for	IN	case	27	O	 (PP (IN for)	16	1
+7	25	future	future	JJ	amod	27	DATE	 (NP (JJ future)	16	1
+7	26	social	social	JJ	amod	27	O	 (JJ social)	16	1
+7	27	situations	situation	NNS	obl	22	O	 (NNS situations))))))))	16	1
+7	28	.	.	.	punct	6	O	 (. .)))	16	1
+8	1	DisorderSocial	DisorderSocial	NNP	compound	3	O	 (ROOT (S (NP (NP (NP (NNP DisorderSocial)	17	1
+8	2	anxiety	anxiety	NN	compound	3	O	 (NN anxiety)	17	1
+8	3	disorder	disorder	NN	nsubj	17	O	 (NN disorder))	17	1
+8	4	(	(	-LRB-	punct	3	O	 (-LRB- -LRB-) (NP (NNP SAD)) (-RRB- -RRB-)) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (JJ social) (NN phobia)))) (, ,)) (VP (VBZ is) (NP (NP (NP (DT an) (NN anxiety) (NN disorder)) (VP (VBN characterized) (PP (IN by) (NP (NP (DT a) (JJ significant) (NN amount)) (PP (IN of) (NP (NN fear))))) (PP (IN in) (NP (NP (QP (CD one) (CC or) (JJR more)) (JJ social) (NNS situations)) (VP (VBG causing) (NP (JJ considerable) (NN distress))))))) (CC and) (NP (VBN impaired) (NN ability) (S (VP (TO to) (VP (VB function) (PP (IN in) (NP (NP (QP (ADVP (IN at) (RBS least)) (DT some)) (NNS parts)) (PP (IN of) (NP (JJ daily) (NN life))))))))))) (. .)))	17	1
+8	5	SAD	SAD	NNP	dep	3	O		17	1
+8	6	)	)	-RRB-	punct	3	O		17	1
+8	7	,	,	,	punct	3	O		17	1
+8	8	also	also	RB	advmod	9	O		18	1
+8	9	known	know	VBN	acl	3	O		18	1
+8	10	as	as	IN	case	12	O		18	1
+8	11	social	social	JJ	amod	12	O		18	1
+8	12	phobia	phobia	NN	obl	9	O		18	1
+8	13	,	,	,	punct	3	O		18	1
+8	14	is	be	VBZ	cop	17	O		18	1
+8	15	an	a	DT	det	17	O		18	1
+8	16	anxiety	anxiety	NN	compound	17	O		18	1
+8	17	disorder	disorder	NN	root	0	O		18	1
+8	18	characterized	characterize	VBN	acl	17	O		18	1
+8	19	by	by	IN	case	22	O		18	1
+8	20	a	a	DT	det	22	O		18	1
+8	21	significant	significant	JJ	amod	22	O		18	1
+8	22	amount	amount	NN	obl	18	O		18	1
+8	23	of	of	IN	case	24	O		18	1
+8	24	fear	fear	NN	nmod	22	O		18	1
+8	25	in	in	IN	case	30	O		18	1
+8	26	one	one	CD	nummod	30	NUMBER		18	1
+8	27	or	or	CC	cc	28	O		18	1
+8	28	more	more	JJR	conj	26	O		18	1
+8	29	social	social	JJ	amod	30	O		18	1
+8	30	situations	situation	NNS	obl	18	O		18	1
+8	31	causing	cause	VBG	acl	30	O		19	1
+8	32	considerable	considerable	JJ	amod	33	O		19	1
+8	33	distress	distress	NN	obj	31	O		19	1
+8	34	and	and	CC	cc	36	O		19	1
+8	35	impaired	impair	VBN	amod	36	O		19	1
+8	36	ability	ability	NN	conj	17	O		19	1
+8	37	to	to	TO	mark	38	O		19	1
+8	38	function	function	VB	acl	36	O		19	1
+8	39	in	in	IN	case	43	O		19	1
+8	40	at	at	IN	case	41	O		19	1
+8	41	least	least	RBS	obl:npmod	42	O		19	1
+8	42	some	some	DT	nummod	43	O		19	1
+8	43	parts	part	NNS	obl	38	O		19	1
+8	44	of	of	IN	case	46	O		19	1
+8	45	daily	daily	JJ	amod	46	SET		19	1
+8	46	life	life	NN	nmod	43	O		19	1
+8	47	.	.	.	punct	17	O		19	1
+9	1	These	this	DT	det	2	O	 (ROOT (S (NP (DT These)	20	1
+9	2	fears	fear	NNS	nsubj:pass	5	O	 (NNS fears))	20	1
+9	3	can	can	MD	aux	5	O	 (VP (MD can)	20	1
+9	4	be	be	VB	aux:pass	5	O	 (VP (VB be)	20	1
+9	5	triggered	trigger	VBN	root	0	O	 (VP (VBN triggered)	20	1
+9	6	by	by	IN	case	7	O	 (PP (IN by)	20	1
+9	7	perceived	perceive	VBN	obl	5	O	 (NP (NP (VBN perceived))	20	1
+9	8	or	or	CC	cc	10	O	 (CC or)	20	1
+9	9	actual	actual	JJ	amod	10	O	 (NP (NP (JJ actual)	20	1
+9	10	scrutiny	scrutiny	NN	conj	7	O	 (NN scrutiny))	20	1
+9	11	from	from	IN	case	12	O	 (PP (IN from)	20	1
+9	12	others	other	NNS	nmod	10	O	 (NP (NNS others)))))))))	20	1
+9	13	.	.	.	punct	5	O	 (. .)))	20	1
+10	1	Social	social	JJ	amod	3	O	 (ROOT (S (NP (JJ Social)	21	1
+10	2	anxiety	anxiety	NN	compound	3	O	 (NN anxiety)	21	1
+10	3	disorder	disorder	NN	nsubj	4	O	 (NN disorder))	21	1
+10	4	affects	affect	VBZ	root	0	O	 (VP (VBZ affects)	21	1
+10	5	8	8	CD	nummod	6	PERCENT	 (NP (NP (CD 8)	21	1
+10	6	%	%	NN	obj	4	PERCENT	 (NN %))	21	1
+10	7	of	of	IN	case	8	O	 (PP (IN of)	21	1
+10	8	women	woman	NNS	nmod	6	O	 (NP (NP (NNS women))	21	1
+10	9	and	and	CC	cc	10	O	 (CC and)	21	1
+10	10	6	6	CD	conj	8	NUMBER	 (NP (CD 6))))))	21	1
+10	11	.	.	.	punct	4	O	 (. .)))	21	1
+11	1	1	1	CD	nummod	2	PERCENT	 (ROOT (NP (NP (CD 1)	21	1
+11	2	%	%	NN	root	0	PERCENT	 (NN %))	21	1
+11	3	of	of	IN	case	4	O	 (PP (IN of)	21	1
+11	4	men	man	NNS	nmod	2	O	 (NP (NNS men)))	21	1
+11	5	.	.	.	punct	2	O	 (. .)))	21	1
+12	1	In	in	IN	case	4	O	 (ROOT (S (PP (IN In)	22	1
+12	2	the	the	DT	det	4	O	 (NP (DT the)	22	1
+12	3	United	United	NNP	compound	4	COUNTRY	 (NNP United)	22	1
+12	4	States	States	NNP	obl	13	COUNTRY	 (NNP States)))	22	1
+12	5	,	,	,	punct	13	O	 (, ,)	22	1
+12	6	anxiety	anxiety	NN	compound	7	O	 (NP (NN anxiety)	22	1
+12	7	disorders	disorder	NNS	nsubj	13	O	 (NNS disorders))	22	1
+12	8	are	be	VBP	cop	13	O	 (VP (VBP are)	22	1
+12	9	the	the	DT	det	13	O	 (NP (DT the)	22	1
+12	10	most	most	RBS	advmod	11	O	 (ADJP (RBS most)	22	1
+12	11	common	common	JJ	amod	13	O	 (JJ common))	22	1
+12	12	mental	mental	JJ	amod	13	O	 (JJ mental)	22	1
+12	13	illness	illness	NN	root	0	CAUSE_OF_DEATH	 (NN illness)))	22	1
+12	14	.	.	.	punct	13	O	 (. .)))	22	1
+13	1	They	they	PRP	nsubj	2	O	 (ROOT (S (NP (PRP They))	23	1
+13	2	affect	affect	VBP	root	0	O	 (VP (VBP affect)	23	1
+13	3	40	40	CD	compound	4	NUMBER	 (NP (NP (QP (CD 40)	23	1
+13	4	million	million	CD	nummod	5	NUMBER	 (CD million))	23	1
+13	5	adults	adult	NNS	obj	2	O	 (NNS adults))	23	1
+13	6	,	,	,	punct	5	O	 (, ,)	23	1
+13	7	ages	age	NNS	appos	5	O	 (NP (NP (NNS ages))	23	1
+13	8	18	18	CD	dep	7	NUMBER	 (NP (CD 18)	23	1
+13	9	and	and	CC	cc	10	O	 (CC and)	23	1
+13	10	older	old	JJR	conj	8	O	 (JJR older)))))	23	1
+13	11	.	.	.	punct	2	O	 (. .)))	23	1
+14	1	Anxiety	anxiety	NN	nsubj	3	O	 (ROOT (S (S (NP (NN Anxiety))	24	1
+14	2	can	can	MD	aux	3	O	 (VP (MD can)	24	1
+14	3	come	come	VB	root	0	O	 (VP (VB come)	24	1
+14	4	in	in	IN	case	6	O	 (PP (IN in)	24	1
+14	5	different	different	JJ	amod	6	O	 (NP (JJ different)	24	1
+14	6	forms	form	NNS	obl	3	O	 (NNS forms))))))	24	1
+14	7	and	and	CC	cc	11	O	 (CC and)	25	1
+14	8	panic	panic	NN	compound	9	O	 (S (NP (NN panic)	25	1
+14	9	attacks	attack	NNS	nsubj	11	CAUSE_OF_DEATH	 (NNS attacks))	25	1
+14	10	can	can	MD	aux	11	O	 (VP (MD can)	25	1
+14	11	lead	lead	VB	conj	3	O	 (VP (VB lead)	25	1
+14	12	to	to	IN	case	14	O	 (PP (IN to)	25	1
+14	13	panic	panic	NN	compound	14	O	 (NP (NP (NN panic)	25	1
+14	14	disorders	disorder	NNS	obl	11	O	 (NNS disorders))	25	1
+14	15	which	which	WDT	nsubj	18	O	 (SBAR (WHNP (WDT which))	26	1
+14	16	is	be	VBZ	cop	18	O	 (S (VP (VBZ is)	26	1
+14	17	the	the	DT	det	18	O	 (NP (NP (DT the)	26	1
+14	18	recurrence	recurrence	NN	acl:relcl	14	O	 (NN recurrence))	26	1
+14	19	of	of	IN	case	22	O	 (PP (IN of)	26	1
+14	20	unexpected	unexpected	JJ	amod	22	O	 (NP (JJ unexpected)	26	1
+14	21	panic	panic	NN	compound	22	O	 (NN panic)	26	1
+14	22	attacks	attack	NNS	nmod	18	CAUSE_OF_DEATH	 (NNS attacks))))))))))))	26	1
+14	23	.	.	.	punct	3	O	 (. .)))	26	1
+15	1	Other	other	JJ	amod	4	O	 (ROOT (S (NP (JJ Other)	27	1
+15	2	related	related	JJ	amod	4	O	 (JJ related)	27	1
+15	3	anxiety	anxiety	NN	compound	4	O	 (NN anxiety)	27	1
+15	4	disorders	disorder	NNS	nsubj	5	O	 (NNS disorders))	27	1
+15	5	include	include	VBP	root	0	O	 (VP (VBP include)	27	1
+15	6	social	social	JJ	amod	8	O	 (NP (NP (JJ social)	27	1
+15	7	anxiety	anxiety	NN	compound	8	O	 (NN anxiety)	27	1
+15	8	disorder	disorder	NN	obj	5	O	 (NN disorder))	27	1
+15	9	,	,	,	punct	8	O	 (, ,)	27	1
+15	10	generalized	generalize	VBN	amod	12	O	 (NP (NP (VBN generalized)	27	1
+15	11	anxiety	anxiety	NN	compound	12	O	 (NN anxiety)	27	1
+15	12	disorder	disorder	NN	conj	8	O	 (NN disorder))	27	1
+15	13	,	,	,	punct	12	O	 (, ,)	27	1
+15	14	obsessive	obsessive	JJ	amod	16	O	 (NP (JJ obsessive)	27	1
+15	15	compulsive	compulsive	JJ	amod	16	O	 (JJ compulsive)	27	1
+15	16	disorder	disorder	NN	appos	12	O	 (NN disorder))	27	1
+15	17	(	(	-LRB-	punct	18	O	 (PRN (-LRB- -LRB-) (NP (NN OCD)) (-RRB- -RRB-))) (, ,) (NP (NP (JJ various) (NNS types)) (PP (IN of) (NP (NNS phobias)))) (, ,) (CC and) (NP (NN post) (ADJP (JJ traumatic) (NN stress)) (NN disorder))) (PRN (-LRB- -LRB-) (NP (NN PTSD)) (-RRB- -RRB-))) (. .)))	27	1
+15	18	OCD	ocd	NN	appos	12	O		27	1
+15	19	)	)	-RRB-	punct	18	O		27	1
+15	20	,	,	,	punct	8	O		27	1
+15	21	various	various	JJ	amod	22	O		27	1
+15	22	types	type	NNS	conj	8	O		27	1
+15	23	of	of	IN	case	24	O		27	1
+15	24	phobias	phobia	NNS	nmod	22	O		27	1
+15	25	,	,	,	punct	8	O		27	1
+15	26	and	and	CC	cc	30	O		27	1
+15	27	post	post	NN	compound	30	O		27	1
+15	28	traumatic	traumatic	JJ	dep	29	O		27	1
+15	29	stress	stress	NN	amod	30	O		27	1
+15	30	disorder	disorder	NN	conj	8	O		27	1
+15	31	(	(	-LRB-	punct	32	O		27	1
+15	32	PTSD	ptsd	NN	dep	5	O		27	1
+15	33	)	)	-RRB-	punct	32	O		27	1
+15	34	.	.	.	punct	5	O		27	1
+16	1	Fortunately	fortunately	RB	advmod	6	O	 (ROOT (S (ADVP (RB Fortunately))	28	1
+16	2	,	,	,	punct	6	O	 (, ,)	28	1
+16	3	it	it	PRP	nsubj	6	O	 (S (NP (PRP it))	28	1
+16	4	is	be	VBZ	cop	6	O	 (VP (VBZ is)	28	1
+16	5	highly	highly	RB	advmod	6	O	 (ADJP (RB highly)	28	1
+16	6	treatable	treatable	JJ	root	0	O	 (JJ treatable))))	28	1
+16	7	and	and	CC	cc	10	O	 (CC and)	29	1
+16	8	not	not	RB	advmod	10	O	 (RB not)	29	1
+16	9	everyone	everyone	NN	nsubj	10	O	 (S (NP (NN everyone))	29	1
+16	10	needs	need	VBZ	conj	6	O	 (VP (VBZ needs)	29	1
+16	11	the	the	DT	det	12	O	 (NP (DT the)	29	1
+16	12	treatment	treatment	NN	obj	10	O	 (NN treatment))))	29	1
+16	13	.	.	.	punct	6	O	 (. .)))	29	1
+17	1	Physical	physical	JJ	amod	2	O	 (ROOT (S (NP (JJ Physical)	30	1
+17	2	symptoms	symptom	NNS	nsubj	4	O	 (NNS symptoms))	30	1
+17	3	often	often	RB	advmod	4	O	 (ADVP (RB often))	30	1
+17	4	include	include	VBP	root	0	O	 (VP (VBP include)	30	1
+17	5	excessive	excessive	JJ	obj	4	O	 (NP (NP (JJ excessive)	30	1
+17	6	blushing	blush	VBG	amod	5	O	 (VBG blushing))	30	1
+17	7	,	,	,	punct	5	O	 (, ,)	30	1
+17	8	excess	excess	JJ	amod	9	O	 (NP (NP (JJ excess)	30	1
+17	9	sweating	sweating	NN	appos	5	O	 (NN sweating))	30	1
+17	10	,	,	,	punct	9	O	 (, ,)	30	1
+17	11	trembling	tremble	VBG	acl	9	O	 (VP (VBG trembling))	30	1
+17	12	,	,	,	punct	9	O	 (, ,)	30	1
+17	13	palpitations	palpitation	NNS	conj	9	O	 (NP (NNS palpitations))	30	1
+17	14	,	,	,	punct	9	O	 (, ,)	30	1
+17	15	and	and	CC	cc	16	O	 (CC and)	30	1
+17	16	nausea	nausea	NN	conj	9	O	 (NP (NN nausea)))))	30	1
+17	17	.	.	.	punct	4	O	 (. .)))	30	1
+18	1	Stammering	stammer	VBG	nsubj	4	O	 (ROOT (S (NP (VBG Stammering))	31	1
+18	2	may	may	MD	aux	4	O	 (VP (MD may)	31	1
+18	3	be	be	VB	cop	4	O	 (VP (VB be)	31	1
+18	4	present	present	JJ	root	0	DATE	 (ADJP (JJ present))	31	1
+18	5	,	,	,	punct	4	O	 (, ,)	31	1
+18	6	along	along	IN	advmod	4	O	 (ADVP (IN along)	32	1
+18	7	with	with	IN	case	9	O	 (PP (IN with)	32	1
+18	8	rapid	rapid	JJ	amod	9	O	 (NP (JJ rapid)	32	1
+18	9	speech	speech	NN	obl	6	O	 (NN speech))))))	32	1
+18	10	.	.	.	punct	4	O	 (. .)))	32	1
+19	1	Panic	panic	NN	compound	2	O	 (ROOT (S (NP (NN Panic)	33	1
+19	2	attacks	attack	NNS	nsubj	5	CAUSE_OF_DEATH	 (NNS attacks))	33	1
+19	3	can	can	MD	aux	5	O	 (VP (MD can)	33	1
+19	4	also	also	RB	advmod	5	O	 (ADVP (RB also))	33	1
+19	5	occur	occur	VB	root	0	O	 (VP (VB occur)	33	1
+19	6	under	under	IN	case	8	O	 (PP (IN under)	33	1
+19	7	intense	intense	JJ	amod	8	O	 (NP (JJ intense)	33	1
+19	8	fear	fear	NN	obl	5	O	 (NN fear)	33	1
+19	9	and	and	CC	cc	10	O	 (CC and)	33	1
+19	10	discomfort	discomfort	NN	conj	8	O	 (NN discomfort)))))	33	1
+19	11	.	.	.	punct	5	O	 (. .)))	33	1
+20	1	Some	some	DT	det	2	O	 (ROOT (S (NP (DT Some)	34	1
+20	2	sufferers	sufferer	NNS	nsubj	4	O	 (NNS sufferers))	34	1
+20	3	may	may	MD	aux	4	O	 (VP (MD may)	34	1
+20	4	use	use	VB	root	0	O	 (VP (VB use)	34	1
+20	5	alcohol	alcohol	NN	obj	4	O	 (NP (NP (NN alcohol))	34	1
+20	6	or	or	CC	cc	8	O	 (CC or)	34	1
+20	7	other	other	JJ	amod	8	O	 (NP (JJ other)	34	1
+20	8	drugs	drug	NNS	conj	5	CRIMINAL_CHARGE	 (NNS drugs)))	34	1
+20	9	to	to	TO	mark	10	O	 (S (VP (TO to)	35	1
+20	10	reduce	reduce	VB	advcl	4	O	 (VP (VB reduce)	35	1
+20	11	fears	fear	NNS	obj	10	O	 (NP (NNS fears)	35	1
+20	12	and	and	CC	cc	13	O	 (CC and)	35	1
+20	13	inhibitions	inhibition	NNS	conj	11	O	 (NNS inhibitions))	35	1
+20	14	at	at	IN	case	16	O	 (PP (IN at)	35	1
+20	15	social	social	JJ	amod	16	O	 (NP (JJ social)	35	1
+20	16	events	event	NNS	obl	10	O	 (NNS events))))))))	35	1
+20	17	.	.	.	punct	4	O	 (. .)))	35	1
+21	1	It	it	PRP	nsubj	3	O	 (ROOT (S (S (NP (PRP It))	36	1
+21	2	is	be	VBZ	cop	3	O	 (VP (VBZ is)	36	1
+21	3	common	common	JJ	root	0	O	 (ADJP (JJ common)	36	1
+21	4	for	for	IN	case	5	O	 (PP (IN for)	36	1
+21	5	sufferers	sufferer	NNS	obl	3	O	 (NP (NP (NNS sufferers))	36	1
+21	6	of	of	IN	case	8	O	 (PP (IN of)	36	1
+21	7	social	social	JJ	amod	8	O	 (NP (JJ social)	36	1
+21	8	phobia	phobia	NN	nmod	5	O	 (NN phobia))))))	36	1
+21	9	to	to	IN	case	12	O	 (PP (IN to)	37	1
+21	10	self	self	NN	dep	12	O	 (VP (NN self)	37	1
+21	11	-	-	HYPH	punct	12	O	 (HYPH -)	37	1
+21	12	medicate	medicate	VB	advcl	3	O	 (VB medicate)))	37	1
+21	13	in	in	IN	case	15	O	 (PP (IN in)	37	1
+21	14	this	this	DT	det	15	O	 (NP (DT this)	37	1
+21	15	fashion	fashion	NN	obl	3	O	 (NN fashion)))	37	1
+21	16	,	,	,	punct	3	O	 (, ,)	37	1
+21	17	especially	especially	RB	advmod	21	O	 (SBAR (ADVP (RB especially))	38	1
+21	18	if	if	IN	mark	21	O	 (IN if)	38	1
+21	19	they	they	PRP	nsubj	21	O	 (S (NP (PRP they))	38	1
+21	20	are	be	VBP	cop	21	O	 (VP (VBP are)	38	1
+21	21	undiagnosed	undiagnosed	JJ	advcl	3	O	 (UCP (ADJP (JJ undiagnosed))	38	1
+21	22	,	,	,	punct	21	O	 (, ,)	38	1
+21	23	untreated	untreated	JJ	conj	21	O	 (ADJP (JJ untreated))	38	1
+21	24	,	,	,	punct	21	O	 (, ,)	38	1
+21	25	or	or	CC	cc	26	O	 (CC or)	38	1
+21	26	both	both	DT	conj	21	O	 (NP (DT both))))))))	38	1
+21	27	;	;	:	punct	3	O	 (: ;)	38	1
+21	28	this	this	DT	nsubj	30	O	 (S (NP (DT this))	39	1
+21	29	can	can	MD	aux	30	O	 (VP (MD can)	39	1
+21	30	lead	lead	VB	parataxis	3	O	 (VP (VB lead)	39	1
+21	31	to	to	IN	case	32	O	 (PP (IN to)	39	1
+21	32	alcoholism	alcoholism	NN	obl	30	CAUSE_OF_DEATH	 (NP (NP (NN alcoholism))	39	1
+21	33	,	,	,	punct	32	O	 (, ,)	39	1
+21	34	eating	eat	VBG	amod	35	O	 (NP (VBG eating)	39	1
+21	35	disorders	disorder	NNS	conj	32	O	 (NNS disorders))	39	1
+21	36	or	or	CC	cc	38	O	 (CC or)	39	1
+21	37	other	other	JJ	amod	38	O	 (NP (NP (JJ other)	39	1
+21	38	kinds	kind	NNS	conj	32	O	 (NNS kinds))	39	1
+21	39	of	of	IN	case	41	O	 (PP (IN of)	39	1
+21	40	substance	substance	NN	compound	41	O	 (NP (NN substance)	39	1
+21	41	abuse	abuse	NN	nmod	38	O	 (NN abuse)))))))))	39	1
+21	42	.	.	.	punct	3	O	 (. .)))	39	1
+22	1	SAD	SAD	NNP	nsubj:pass	4	O	 (ROOT (S (NP (NNP SAD))	40	1
+22	2	is	be	VBZ	aux:pass	4	O	 (VP (VBZ is)	40	1
+22	3	sometimes	sometimes	RB	advmod	4	O	 (ADVP (RB sometimes))	40	1
+22	4	referred	refer	VBN	root	0	O	 (VP (VBN referred)	40	1
+22	5	to	to	IN	case	9	O	 (PP (IN to)	40	1
+22	6	as	as	IN	case	9	O	 (PP (IN as)	40	1
+22	7	an	a	DT	det	9	O	 (NP (NP (DT an)	40	1
+22	8	"	"	``	punct	9	O	 (`` ")	40	1
+22	9	illness	illness	NN	obl	4	CAUSE_OF_DEATH	 (NN illness))	40	1
+22	10	of	of	IN	case	12	O	 (PP (IN of)	40	1
+22	11	lost	lost	JJ	amod	12	O	 (NP (JJ lost)	40	1
+22	12	opportunities	opportunity	NNS	nmod	9	O	 (NNS opportunities))))))	40	1
+22	13	"	"	''	punct	17	O	 (SBAR ('' ")	40	1
+22	14	where	where	WRB	advmod	17	O	 (WHADVP (WRB where))	41	1
+22	15	"	"	``	punct	17	O	 (S (`` ")	41	1
+22	16	individuals	individual	NNS	nsubj	17	O	 (NP (NNS individuals))	41	1
+22	17	make	make	VBP	ccomp	4	O	 (VP (VBP make)	41	1
+22	18	major	major	JJ	amod	20	O	 (NP (JJ major)	41	1
+22	19	life	life	NN	compound	20	O	 (NN life)	41	1
+22	20	choices	choice	NNS	obj	17	O	 (NNS choices))	41	1
+22	21	to	to	TO	mark	22	O	 (S (VP (TO to)	42	1
+22	22	accommodate	accommodate	VB	advcl	17	O	 (VP (VB accommodate)	42	1
+22	23	their	they	PRP$	nmod:poss	24	O	 (NP (PRP$ their)	42	1
+22	24	illness	illness	NN	obj	22	CAUSE_OF_DEATH	 (NN illness)))))))	42	1
+22	25	"	"	''	punct	17	O	 ('' "))))	42	1
+22	26	.	.	.	punct	4	O	 (. .)))	42	1
+23	1	According	accord	VBG	case	6	O	 (ROOT (S (PP (VBG According)	43	1
+23	2	to	to	IN	fixed	1	O	 (PP (IN to)	43	1
+23	3	ICD	icd	NN	compound	6	O	 (NP (NML (NN ICD)	43	1
+23	4	-	-	HYPH	punct	3	O	 (HYPH -)	43	1
+23	5	10	10	CD	nummod	3	DATE	 (CD 10))	43	1
+23	6	guidelines	guideline	NNS	obl	17	O	 (NNS guidelines))))	43	1
+23	7	,	,	,	punct	17	O	 (, ,)	43	1
+23	8	the	the	DT	det	11	O	 (NP (NP (DT the)	43	1
+23	9	main	main	JJ	amod	11	O	 (JJ main)	43	1
+23	10	diagnostic	diagnostic	JJ	amod	11	O	 (JJ diagnostic)	43	1
+23	11	criteria	criterion	NNS	nsubj	17	O	 (NNS criteria))	43	1
+23	12	of	of	IN	case	15	O	 (PP (IN of)	43	1
+23	13	social	social	JJ	amod	15	O	 (NP (JJ social)	43	1
+23	14	anxiety	anxiety	NN	compound	15	O	 (NN anxiety)	43	1
+23	15	disorder	disorder	NN	nmod	11	O	 (NN disorder))))	43	1
+23	16	are	be	VBP	cop	17	O	 (VP (VBP are)	43	1
+23	17	fear	fear	NN	root	0	O	 (NP (NP (NP (NN fear))	43	1
+23	18	of	of	IN	mark	21	O	 (PP (IN of)	43	1
+23	19	being	be	VBG	cop	21	O	 (S (VP (VBG being)	43	1
+23	20	the	the	DT	det	21	O	 (NP (NP (DT the)	43	1
+23	21	focus	focus	NN	acl	17	O	 (NN focus))	43	1
+23	22	of	of	IN	case	23	O	 (PP (IN of)	43	1
+23	23	attention	attention	NN	nmod	21	O	 (NP (NN attention))))))))	43	1
+23	24	,	,	,	punct	17	O	 (, ,)	43	1
+23	25	or	or	CC	cc	26	O	 (CC or)	44	1
+23	26	fear	fear	NN	conj	17	O	 (NP (NP (NN fear))	44	1
+23	27	of	of	IN	mark	28	O	 (PP (IN of)	44	1
+23	28	behaving	behave	VBG	acl	26	O	 (S (VP (VBG behaving)	44	1
+23	29	in	in	IN	case	31	O	 (PP (IN in)	44	1
+23	30	a	a	DT	det	31	O	 (NP (NP (NP (DT a)	44	1
+23	31	way	way	NN	obl	28	O	 (NN way))	44	1
+23	32	that	that	WDT	nsubj	35	O	 (SBAR (WHNP (WDT that))	45	1
+23	33	will	will	MD	aux	35	O	 (S (VP (MD will)	45	1
+23	34	be	be	VB	cop	35	O	 (VP (VB be)	45	1
+23	35	embarrassing	embarrassing	JJ	acl:relcl	31	O	 (ADJP (JJ embarrassing)	45	1
+23	36	or	or	CC	cc	37	O	 (CC or)	45	1
+23	37	humiliating	humiliating	JJ	conj	35	O	 (JJ humiliating)))))))	45	1
+23	38	,	,	,	punct	31	O	 (, ,)	45	1
+23	39	often	often	RB	advmod	40	O	 (VP (ADVP (RB often))	46	1
+23	40	coupled	couple	VBN	acl	31	O	 (VBN coupled)	46	1
+23	41	with	with	IN	case	45	O	 (PP (IN with)	46	1
+23	42	avoidance	avoidance	NN	compound	45	O	 (NP (NN avoidance)	46	1
+23	43	and	and	CC	cc	44	O	 (CC and)	46	1
+23	44	anxiety	anxiety	NN	conj	42	O	 (NN anxiety)	46	1
+23	45	symptoms	symptom	NNS	obl	40	O	 (NNS symptoms))))))))))))	46	1
+23	46	.	.	.	punct	17	O	 (. .)))	46	1
+24	1	Standardized	standardize	VBN	amod	2	O	 (ROOT (S (NP (NML (VBN Standardized)	47	1
+24	2	rating	rating	NN	compound	3	O	 (NN rating))	47	1
+24	3	scales	scale	NNS	nsubj:pass	6	O	 (NNS scales))	47	1
+24	4	can	can	MD	aux	6	O	 (VP (MD can)	47	1
+24	5	be	be	VB	aux:pass	6	O	 (VP (VB be)	47	1
+24	6	used	use	VBN	root	0	O	 (VP (VBN used)	47	1
+24	7	to	to	TO	mark	8	O	 (S (VP (TO to)	48	1
+24	8	screen	screen	VB	xcomp	6	O	 (VP (VP (VB screen)	48	1
+24	9	for	for	IN	case	12	O	 (PP (IN for)	48	1
+24	10	social	social	JJ	amod	12	O	 (NP (JJ social)	48	1
+24	11	anxiety	anxiety	NN	compound	12	O	 (NN anxiety)	48	1
+24	12	disorder	disorder	NN	obl	8	O	 (NN disorder))))	48	1
+24	13	and	and	CC	cc	14	O	 (CC and)	49	1
+24	14	measure	measure	VB	conj	8	O	 (VP (VB measure)	49	1
+24	15	the	the	DT	det	16	O	 (NP (NP (DT the)	49	1
+24	16	severity	severity	NN	obj	14	O	 (NN severity))	49	1
+24	17	of	of	IN	case	18	O	 (PP (IN of)	49	1
+24	18	anxiety	anxiety	NN	nmod	16	O	 (NP (NN anxiety)))))))))))	49	1
+24	19	.	.	.	punct	6	O	 (. .)))	49	1
+25	1	Child	child	NN	compound	3	O	 (ROOT (S (NP (NP (NN Child)	50	1
+25	2	developmentSome	developmentsome	NN	compound	3	O	 (NN developmentSome)	50	1
+25	3	feelings	feeling	NNS	nsubj	10	O	 (NNS feelings))	50	1
+25	4	of	of	IN	case	5	O	 (PP (IN of)	50	1
+25	5	anxiety	anxiety	NN	nmod	3	O	 (NP (NP (NN anxiety))	50	1
+25	6	in	in	IN	case	8	O	 (PP (IN in)	50	1
+25	7	social	social	JJ	amod	8	O	 (NP (JJ social)	50	1
+25	8	situations	situation	NNS	nmod	5	O	 (NNS situations))))))	50	1
+25	9	are	be	VBP	cop	10	O	 (VP (VBP are)	50	1
+25	10	normal	normal	JJ	root	0	O	 (ADJP (JJ normal)	50	1
+25	11	and	and	CC	cc	12	O	 (CC and)	50	1
+25	12	necessary	necessary	JJ	conj	10	O	 (JJ necessary))	50	1
+25	13	for	for	IN	case	16	O	 (PP (IN for)	50	1
+25	14	effective	effective	JJ	amod	16	O	 (NP (NP (JJ effective)	50	1
+25	15	social	social	JJ	amod	16	O	 (JJ social)	50	1
+25	16	functioning	functioning	NN	obl	10	O	 (NN functioning))	50	1
+25	17	and	and	CC	cc	19	O	 (CC and)	50	1
+25	18	developmental	developmental	JJ	amod	19	O	 (NP (JJ developmental)	50	1
+25	19	growth	growth	NN	conj	16	O	 (NN growth)))))	50	1
+25	20	.	.	.	punct	10	O	 (. .)))	50	1
+26	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	51	1
+26	2	difficulty	difficulty	NN	nsubj	10	O	 (NN difficulty))	51	1
+26	3	with	with	IN	mark	4	O	 (PP (IN with)	51	1
+26	4	identifying	identify	VBG	acl	2	O	 (S (VP (VBG identifying)	51	1
+26	5	social	social	JJ	amod	7	O	 (NP (JJ social)	51	1
+26	6	anxiety	anxiety	NN	compound	7	O	 (NN anxiety)	51	1
+26	7	disorder	disorder	NN	obj	4	O	 (NN disorder))	51	1
+26	8	in	in	IN	case	9	O	 (PP (IN in)	51	1
+26	9	children	child	NNS	obl	4	O	 (NP (NNS children)))))))	51	1
+26	10	lies	lie	VBZ	root	0	O	 (VP (VBZ lies)	51	1
+26	11	in	in	IN	mark	12	O	 (PP (IN in)	51	1
+26	12	determining	determine	VBG	advcl	10	O	 (S (VP (VBG determining)	51	1
+26	13	the	the	DT	det	14	O	 (NP (NP (DT the)	51	1
+26	14	difference	difference	NN	obj	12	O	 (NN difference))	51	1
+26	15	between	between	IN	case	17	O	 (PP (IN between)	51	1
+26	16	social	social	JJ	amod	17	O	 (NP (NP (JJ social)	51	1
+26	17	anxiety	anxiety	NN	nmod	14	O	 (NN anxiety))	51	1
+26	18	and	and	CC	cc	20	O	 (CC and)	51	1
+26	19	basic	basic	JJ	amod	20	O	 (NP (JJ basic)	51	1
+26	20	shyness	shyness	NN	conj	17	O	 (NN shyness)))))))))	51	1
+26	21	.	.	.	punct	10	O	 (. .)))	51	1
+27	1	Typically	typically	RB	advmod	6	O	 (ROOT (S (ADVP (RB Typically))	52	1
+27	2	,	,	,	punct	6	O	 (, ,)	52	1
+27	3	children	child	NNS	nsubj:pass	6	O	 (NP (NNS children))	52	1
+27	4	may	may	MD	aux	6	O	 (VP (MD may)	52	1
+27	5	be	be	VB	aux:pass	6	O	 (VP (VB be)	52	1
+27	6	diagnosed	diagnose	VBN	root	0	O	 (VP (VBN diagnosed)	52	1
+27	7	when	when	WRB	advmod	12	O	 (SBAR (WHADVP (WRB when))	53	1
+27	8	their	they	PRP$	nmod:poss	10	O	 (S (NP (PRP$ their)	53	1
+27	9	social	social	JJ	amod	10	O	 (JJ social)	53	1
+27	10	fears	fear	NNS	nsubj	12	O	 (NNS fears))	53	1
+27	11	are	be	VBP	cop	12	O	 (VP (VP (VBP are)	53	1
+27	12	extreme	extreme	JJ	advcl	6	O	 (ADJP (JJ extreme)))	53	1
+27	13	or	or	CC	cc	17	O	 (CC or)	54	1
+27	14	can	can	MD	aux	17	O	 (VP (MD can)	54	1
+27	15	not	not	RB	advmod	17	O	 (RB not)	54	1
+27	16	be	be	VB	aux:pass	17	O	 (VP (VB be)	54	1
+27	17	outgrown	outgrow	VBN	conj	12	O	 (VP (VBN outgrown))))))))))	54	1
+27	18	.	.	.	punct	6	O	 (. .)))	54	1
+28	1	Cognitive	cognitive	JJ	amod	2	O	 (ROOT (S (NP (JJ Cognitive)	55	1
+28	2	advances	advance	NNS	nsubj	4	O	 (NNS advances))	55	1
+28	3	and	and	CC	cc	4	O	 (VP (VP (CC and)	55	1
+28	4	increased	increase	VBD	root	0	O	 (VP (VBD increased)	55	1
+28	5	pressures	pressure	NNS	obj	4	O	 (NP (NNS pressures))	55	1
+28	6	in	in	IN	case	8	O	 (PP (IN in)	55	1
+28	7	late	late	JJ	amod	8	O	 (NP (JJ late)	55	1
+28	8	childhood	childhood	NN	obl	4	O	 (NN childhood)))))	55	1
+28	9	and	and	CC	cc	12	O	 (CC and)	55	1
+28	10	early	early	JJ	amod	12	O	 (VP (NP (JJ early)	55	1
+28	11	adolescence	adolescence	NN	compound	12	O	 (NN adolescence)	55	1
+28	12	result	result	NN	conj	4	O	 (NN result))	55	1
+28	13	in	in	IN	case	16	O	 (PP (IN in)	55	1
+28	14	repeated	repeat	VBN	amod	16	O	 (NP (VBN repeated)	55	1
+28	15	social	social	JJ	amod	16	O	 (JJ social)	55	1
+28	16	anxiety	anxiety	NN	obl	12	O	 (NN anxiety)))))	55	1
+28	17	.	.	.	punct	4	O	 (. .)))	55	1
+29	1	More	more	JJR	amod	4	O	 (ROOT (S (S (NP (ADJP (JJR More)	56	1
+29	2	and	and	CC	cc	3	O	 (CC and)	56	1
+29	3	more	more	JJR	conj	1	O	 (JJR more))	56	1
+29	4	children	child	NNS	nsubj:pass	7	O	 (NNS children))	56	1
+29	5	are	be	VBP	aux	7	O	 (VP (VBP are)	56	1
+29	6	being	be	VBG	aux:pass	7	O	 (VP (VBG being)	56	1
+29	7	diagnosed	diagnose	VBN	root	0	O	 (VP (VBN diagnosed)	56	1
+29	8	with	with	IN	case	10	O	 (PP (IN with)	56	1
+29	9	social	social	JJ	amod	10	O	 (NP (JJ social)	56	1
+29	10	anxiety	anxiety	NN	obl	7	O	 (NN anxiety)))))))	56	1
+29	11	,	,	,	punct	7	O	 (, ,)	56	1
+29	12	and	and	CC	cc	15	O	 (CC and)	57	1
+29	13	this	this	DT	nsubj	15	O	 (S (NP (DT this))	57	1
+29	14	can	can	MD	aux	15	O	 (VP (MD can)	57	1
+29	15	lead	lead	VB	conj	7	O	 (VP (VB lead)	57	1
+29	16	to	to	IN	case	17	O	 (PP (IN to)	57	1
+29	17	problems	problem	NNS	obl	15	O	 (NP (NP (NNS problems))	57	1
+29	18	with	with	IN	case	19	O	 (PP (IN with)	57	1
+29	19	education	education	NN	nmod	17	O	 (NP (NN education)))))	57	1
+29	20	if	if	IN	mark	23	O	 (SBAR (IN if)	58	1
+29	21	not	not	RB	advmod	23	O	 (S (RB not)	58	1
+29	22	closely	closely	RB	advmod	23	O	 (ADVP (RB closely))	58	1
+29	23	monitored	monitor	VBN	advcl	15	O	 (VP (VBN monitored)))))))	58	1
+29	24	.	.	.	punct	7	O	 (. .)))	58	1
+30	1	Part	part	NN	nsubj	6	O	 (ROOT (S (S (NP (NP (NN Part))	59	1
+30	2	of	of	IN	case	4	O	 (PP (IN of)	59	1
+30	3	social	social	JJ	amod	4	O	 (NP (JJ social)	59	1
+30	4	anxiety	anxiety	NN	nmod	1	O	 (NN anxiety))))	59	1
+30	5	is	be	VBZ	cop	6	O	 (VP (VBZ is)	59	1
+30	6	fear	fear	NN	root	0	O	 (NP (NP (NN fear))	59	1
+30	7	of	of	IN	mark	9	O	 (PP (IN of)	59	1
+30	8	being	be	VBG	aux:pass	9	O	 (S (VP (VBG being)	59	1
+30	9	criticized	criticize	VBN	acl	6	O	 (VP (VBN criticized)	59	1
+30	10	by	by	IN	case	11	O	 (PP (IN by)	59	1
+30	11	others	other	NNS	obl	9	O	 (NP (NNS others))))))))))	59	1
+30	12	,	,	,	punct	6	O	 (, ,)	59	1
+30	13	and	and	CC	cc	19	O	 (CC and)	60	1
+30	14	in	in	IN	case	15	O	 (S (PP (IN in)	60	1
+30	15	children	child	NNS	obl	19	O	 (NP (NNS children)))	60	1
+30	16	,	,	,	punct	19	O	 (, ,)	60	1
+30	17	social	social	JJ	amod	18	O	 (NP (JJ social)	60	1
+30	18	anxiety	anxiety	NN	nsubj	19	O	 (NN anxiety))	60	1
+30	19	causes	cause	VBZ	conj	6	O	 (VP (VBZ causes)	60	1
+30	20	extreme	extreme	JJ	amod	21	O	 (NP (NP (JJ extreme)	60	1
+30	21	distress	distress	NN	obj	19	O	 (NN distress))	60	1
+30	22	over	over	IN	case	24	O	 (PP (IN over)	60	1
+30	23	everyday	everyday	JJ	amod	24	O	 (NP (NP (JJ everyday)	60	1
+30	24	activities	activity	NNS	nmod	21	O	 (NNS activities))	60	1
+30	25	such	such	JJ	mark	27	O	 (PP (JJ such)	60	1
+30	26	as	as	IN	fixed	25	O	 (IN as)	60	1
+30	27	playing	play	VBG	acl	24	O	 (S (VP (VP (VBG playing)	60	1
+30	28	with	with	IN	case	30	O	 (PP (IN with)	60	1
+30	29	other	other	JJ	amod	30	O	 (NP (JJ other)	60	1
+30	30	kids	kid	NNS	obl	27	O	 (NNS kids))))	60	1
+30	31	,	,	,	punct	27	O	 (, ,)	60	1
+30	32	reading	read	VBG	conj	27	O	 (VP (VBG reading)	60	1
+30	33	in	in	IN	case	34	O	 (PP (IN in)	60	1
+30	34	class	class	NN	obl	32	O	 (NP (NN class))))	60	1
+30	35	,	,	,	punct	27	O	 (, ,)	60	1
+30	36	or	or	CC	cc	37	O	 (CC or)	60	1
+30	37	speaking	speak	VBG	conj	27	O	 (VP (VBG speaking)	60	1
+30	38	to	to	IN	case	39	O	 (PP (IN to)	60	1
+30	39	adults	adult	NNS	obl	37	O	 (NP (NNS adults))))))))))))	60	1
+30	40	.	.	.	punct	6	O	 (. .)))	60	1
+31	1	Some	some	DT	det	2	O	 (ROOT (S (S (NP (NP (DT Some)	61	1
+31	2	children	child	NNS	nsubj	7	O	 (NNS children))	61	1
+31	3	with	with	IN	case	5	O	 (PP (IN with)	61	1
+31	4	social	social	JJ	amod	5	O	 (NP (JJ social)	61	1
+31	5	anxiety	anxiety	NN	nmod	2	O	 (NN anxiety))))	61	1
+31	6	may	may	MD	aux	7	O	 (VP (MD may)	61	1
+31	7	act	act	VB	root	0	O	 (VP (VB act)	61	1
+31	8	out	out	RP	compound:prt	7	O	 (PRT (RP out))	61	1
+31	9	because	because	IN	case	12	O	 (PP (IN because)	62	1
+31	10	of	of	IN	case	12	O	 (PP (IN of)	62	1
+31	11	their	they	PRP$	nmod:poss	12	O	 (NP (PRP$ their)	62	1
+31	12	fear	fear	NN	obl	7	O	 (NN fear)))))))	62	1
+31	13	,	,	,	punct	7	O	 (, ,)	62	1
+31	14	or	or	CC	cc	17	O	 (CC or)	63	1
+31	15	they	they	PRP	nsubj	17	O	 (S (NP (PRP they))	63	1
+31	16	may	may	MD	aux	17	O	 (VP (MD may)	63	1
+31	17	exhibit	exhibit	VB	conj	7	O	 (VP (VP (VB exhibit)	63	1
+31	18	nervousness	nervousness	NN	obj	17	O	 (NP (NN nervousness)))	63	1
+31	19	or	or	CC	cc	20	O	 (CC or)	63	1
+31	20	crying	cry	VBG	conj	17	O	 (VP (VBG crying)	63	1
+31	21	in	in	IN	case	23	O	 (PP (IN in)	63	1
+31	22	an	a	DT	det	23	O	 (NP (DT an)	63	1
+31	23	event	event	NN	obl	20	O	 (NN event)))	63	1
+31	24	where	where	WRB	advmod	26	O	 (SBAR (WHADVP (WRB where))	64	1
+31	25	they	they	PRP	nsubj	26	O	 (S (NP (PRP they))	64	1
+31	26	feel	feel	VBP	advcl	20	O	 (VP (VBP feel)	64	1
+31	27	anxious	anxious	JJ	xcomp	26	O	 (ADJP (JJ anxious)))))))))	64	1
+31	28	.	.	.	punct	7	O	 (. .)))	64	1
+32	1	Adolescents	adolescent	NNS	nsubj	3	O	 (ROOT (S (NP (NNS Adolescents))	65	1
+32	2	have	have	VBP	aux	3	O	 (VP (VBP have)	65	1
+32	3	identified	identify	VBN	root	0	O	 (VP (VBN identified)	65	1
+32	4	their	they	PRP$	nmod:poss	7	O	 (NP (PRP$ their)	65	1
+32	5	most	most	RBS	advmod	6	O	 (ADJP (RBS most)	65	1
+32	6	common	common	JJ	amod	7	O	 (JJ common))	65	1
+32	7	anxieties	anxiety	NNS	obj	3	O	 (NNS anxieties))	65	1
+32	8	as	as	IN	mark	9	O	 (SBAR (IN as)	65	1
+32	9	focused	focus	VBN	advcl	3	O	 (S (VP (VBN focused)	65	1
+32	10	on	on	IN	case	11	O	 (PP (IN on)	65	1
+32	11	relationships	relationship	NNS	obl	9	O	 (NP (NP (NNS relationships))	65	1
+32	12	with	with	IN	case	13	O	 (PP (IN with)	65	1
+32	13	peers	peer	NNS	nmod	11	O	 (NP (NP (NP (NNS peers))	65	1
+32	14	to	to	IN	mark	18	O	 (PP (IN to)	66	1
+32	15	whom	whom	WP	obj	18	O	 (SBAR (WHNP (WP whom))	66	1
+32	16	they	they	PRP	nsubj:pass	18	O	 (S (NP (PRP they))	66	1
+32	17	are	be	VBP	aux:pass	18	O	 (VP (VBP are)	66	1
+32	18	attracted	attract	VBN	acl	13	O	 (VP (VBN attracted)))))))	66	1
+32	19	,	,	,	punct	13	O	 (, ,)	66	1
+32	20	peer	peer	NN	compound	21	O	 (NP (NN peer)	66	1
+32	21	rejection	rejection	NN	appos	13	O	 (NN rejection))	66	1
+32	22	,	,	,	punct	13	O	 (, ,)	66	1
+32	23	public	public	JJ	amod	24	O	 (NP (JJ public)	66	1
+32	24	speaking	speaking	NN	appos	13	O	 (NN speaking))	66	1
+32	25	,	,	,	punct	13	O	 (, ,)	66	1
+32	26	blushing	blush	VBG	appos	13	O	 (NP (VBG blushing))	66	1
+32	27	,	,	,	punct	13	O	 (, ,)	66	1
+32	28	self	self	NN	compound	30	O	 (NP (NP (NN self)	66	1
+32	29	-	-	HYPH	punct	30	O	 (HYPH -)	66	1
+32	30	consciousness	consciousness	NN	appos	13	O	 (NN consciousness))	66	1
+32	31	,	,	,	punct	30	O	 (, ,)	66	1
+32	32	panic	panic	NN	conj	30	O	 (NP (NN panic))	66	1
+32	33	,	,	,	punct	30	O	 (, ,)	66	1
+32	34	and	and	CC	cc	36	O	 (CC and)	66	1
+32	35	past	past	JJ	amod	36	DATE	 (NP (JJ past)	66	1
+32	36	behavior	behavior	NN	conj	30	O	 (NN behavior))))))))))))	66	1
+32	37	.	.	.	punct	3	O	 (. .)))	66	1
+33	1	Most	most	JJS	amod	2	O	 (ROOT (S (NP (JJS Most)	67	1
+33	2	adolescents	adolescent	NNS	nsubj	3	O	 (NNS adolescents))	67	1
+33	3	progress	progress	VBP	root	0	O	 (VP (VP (VBP progress)	67	1
+33	4	through	through	IN	case	6	O	 (PP (IN through)	67	1
+33	5	their	they	PRP$	nmod:poss	6	O	 (NP (PRP$ their)	67	1
+33	6	fears	fear	NNS	obl	3	O	 (NNS fears))))	67	1
+33	7	and	and	CC	cc	8	O	 (CC and)	68	1
+33	8	meet	meet	VB	conj	3	O	 (VP (VB meet)	68	1
+33	9	the	the	DT	det	11	O	 (NP (NP (DT the)	68	1
+33	10	developmental	developmental	JJ	amod	11	O	 (JJ developmental)	68	1
+33	11	demands	demand	NNS	obj	8	O	 (NNS demands))	68	1
+33	12	placed	place	VBN	acl	11	O	 (VP (VBN placed)	68	1
+33	13	on	on	IN	case	14	O	 (PP (IN on)	68	1
+33	14	them	they	PRP	obl	12	O	 (NP (PRP them)))))))	68	1
+33	15	.	.	.	punct	3	O	 (. .)))	68	1
+34	1	AdultsIt	adultsit	NN	nsubj	4	O	 (ROOT (S (NP (NN AdultsIt))	69	1
+34	2	can	can	MD	aux	4	O	 (VP (MD can)	69	1
+34	3	be	be	VB	cop	4	O	 (VP (VB be)	69	1
+34	4	easier	easy	JJR	root	0	O	 (ADJP (ADJP (JJR easier))	69	1
+34	5	to	to	TO	mark	6	O	 (S (VP (TO to)	69	1
+34	6	identify	identify	VB	xcomp	4	O	 (VP (VB identify)	69	1
+34	7	social	social	JJ	amod	8	O	 (NP (JJ social)	69	1
+34	8	anxiety	anxiety	NN	obj	6	O	 (NN anxiety))	69	1
+34	9	within	within	IN	case	10	O	 (PP (IN within)	69	1
+34	10	adults	adult	NNS	obl	6	O	 (NP (NNS adults)))	69	1
+34	11	because	because	IN	mark	13	O	 (SBAR (IN because)	70	1
+34	12	they	they	PRP	nsubj	13	O	 (S (NP (PRP they))	70	1
+34	13	tend	tend	VBP	advcl	6	O	 (VP (VBP tend)	70	1
+34	14	to	to	TO	mark	15	O	 (S (VP (TO to)	70	1
+34	15	shy	shy	VB	xcomp	13	O	 (VP (VP (VB shy)	70	1
+34	16	away	away	RB	advmod	15	O	 (ADVP (RB away))	70	1
+34	17	from	from	IN	case	20	O	 (PP (IN from)	70	1
+34	18	any	any	DT	det	20	O	 (NP (DT any)	70	1
+34	19	social	social	JJ	amod	20	O	 (JJ social)	70	1
+34	20	situation	situation	NN	obl	15	O	 (NN situation))))	70	1
+34	21	and	and	CC	cc	22	O	 (CC and)	71	1
+34	22	keep	keep	VB	conj	15	O	 (VP (VB keep)	71	1
+34	23	to	to	IN	case	24	O	 (PP (IN to)	71	1
+34	24	themselves	themselves	PRP	obl	22	O	 (NP (PRP themselves))))))))))))))))	71	1
+34	25	.	.	.	punct	4	O	 (. .)))	71	1
+35	1	Common	common	JJ	amod	3	O	 (ROOT (S (NP (NP (JJ Common)	72	1
+35	2	adult	adult	JJ	amod	3	O	 (JJ adult)	72	1
+35	3	forms	form	NNS	nsubj	7	O	 (NNS forms))	72	1
+35	4	of	of	IN	case	6	O	 (PP (IN of)	72	1
+35	5	social	social	JJ	amod	6	O	 (NP (JJ social)	72	1
+35	6	anxiety	anxiety	NN	nmod	3	O	 (NN anxiety))))	72	1
+35	7	include	include	VBP	root	0	O	 (VP (VBP include)	72	1
+35	8	performance	performance	NN	compound	9	O	 (NP (NP (NN performance)	72	1
+35	9	anxiety	anxiety	NN	obj	7	O	 (NN anxiety))	72	1
+35	10	,	,	,	punct	9	O	 (, ,)	72	1
+35	11	public	public	JJ	amod	13	O	 (NP (JJ public)	72	1
+35	12	speaking	speak	VBG	amod	13	O	 (VBG speaking)	72	1
+35	13	anxiety	anxiety	NN	conj	9	O	 (NN anxiety))	72	1
+35	14	,	,	,	punct	9	O	 (, ,)	72	1
+35	15	stage	stage	NN	compound	16	O	 (NP (NN stage)	72	1
+35	16	fright	fright	NN	conj	9	O	 (NN fright))	72	1
+35	17	,	,	,	punct	9	O	 (, ,)	72	1
+35	18	and	and	CC	cc	19	O	 (CC and)	72	1
+35	19	timidness	timidness	NN	conj	9	O	 (NP (NN timidness))))	72	1
+35	20	.	.	.	punct	7	O	 (. .)))	72	1
+36	1	All	all	DT	nsubj	6	O	 (ROOT (S (NP (NP (DT All))	73	1
+36	2	of	of	IN	case	3	O	 (PP (IN of)	73	1
+36	3	these	this	DT	nmod	1	O	 (NP (DT these))))	73	1
+36	4	may	may	MD	aux	6	O	 (VP (MD may)	73	1
+36	5	also	also	RB	advmod	6	O	 (ADVP (RB also))	73	1
+36	6	assume	assume	VB	root	0	O	 (VP (VB assume)	73	1
+36	7	clinical	clinical	JJ	amod	8	O	 (NP (NP (NP (JJ clinical)	73	1
+36	8	forms	form	NNS	obj	6	O	 (NNS forms))	73	1
+36	9	,	,	,	punct	8	O	 (, ,)	73	1
+36	10	i.	i.	NN	compound	11	O	 (NP (NN i.)	74	1
+36	11	e.	e.	NN	appos	8	O	 (NN e.)))	74	1
+36	12	,	,	,	punct	8	O	 (, ,)	74	1
+36	13	become	become	VBN	acl	8	O	 (VP (VBN become)	74	1
+36	14	anxiety	anxiety	NN	compound	15	O	 (NP (NN anxiety)	74	1
+36	15	disorders	disorder	NNS	xcomp	13	O	 (NNS disorders)	74	1
+36	16	(	(	-LRB-	punct	17	O	 (PRN (-LRB- -LRB-) (S (VP (VB see) (ADVP (RB below)))) (-RRB- -RRB-))))))) (. .)))	75	1
+36	17	see	see	VB	dep	15	O		75	1
+36	18	below	below	RB	advmod	17	O		75	1
+36	19	)	)	-RRB-	punct	17	O		75	1
+36	20	.	.	.	punct	6	O		75	1
+37	1	Criteria	criterion	NNS	nsubj	12	O	 (ROOT (S (NP (NP (NNS Criteria))	76	1
+37	2	that	that	WDT	nsubj	3	O	 (SBAR (WHNP (WDT that))	77	1
+37	3	distinguish	distinguish	VBP	acl:relcl	1	O	 (S (VP (VBP distinguish)	77	1
+37	4	between	between	IN	case	8	O	 (PP (IN between)	77	1
+37	5	clinical	clinical	JJ	amod	8	O	 (NP (NP (ADJP (JJ clinical)	77	1
+37	6	and	and	CC	cc	7	O	 (CC and)	77	1
+37	7	nonclinical	nonclinical	JJ	conj	5	O	 (JJ nonclinical))	77	1
+37	8	forms	form	NNS	obl	3	O	 (NNS forms))	77	1
+37	9	of	of	IN	case	11	O	 (PP (IN of)	77	1
+37	10	social	social	JJ	amod	11	O	 (NP (JJ social)	77	1
+37	11	anxiety	anxiety	NN	nmod	8	O	 (NN anxiety)))))))))	77	1
+37	12	include	include	VBP	root	0	O	 (VP (VBP include)	77	1
+37	13	the	the	DT	det	14	O	 (NP (NP (DT the)	77	1
+37	14	intensity	intensity	NN	obj	12	O	 (NN intensity)	77	1
+37	15	and	and	CC	cc	16	O	 (CC and)	77	1
+37	16	level	level	NN	conj	14	O	 (NN level))	77	1
+37	17	of	of	IN	case	21	O	 (PP (IN of)	77	1
+37	18	behavioral	behavioral	JJ	amod	21	O	 (NP (NP (ADJP (JJ behavioral)	77	1
+37	19	and	and	CC	cc	20	O	 (CC and)	77	1
+37	20	psychosomatic	psychosomatic	JJ	conj	18	O	 (JJ psychosomatic))	77	1
+37	21	disruption	disruption	NN	nmod	14	O	 (NN disruption)	77	1
+37	22	(	(	-LRB-	punct	23	O	 (PRN (-LRB- -LRB-) (NP (NN discomfort)) (-RRB- -RRB-))) (PP (IN in) (NP (NN addition)))))) (PP (IN to) (NP (NP (DT the) (JJ anticipatory) (NN nature)) (PP (IN of) (NP (DT the) (NN fear)))))) (. .)))	78	1
+37	23	discomfort	discomfort	NN	appos	21	O		78	1
+37	24	)	)	-RRB-	punct	23	O		78	1
+37	25	in	in	IN	case	26	O		79	1
+37	26	addition	addition	NN	nmod	21	O		79	1
+37	27	to	to	IN	case	30	O		79	1
+37	28	the	the	DT	det	30	O		79	1
+37	29	anticipatory	anticipatory	JJ	amod	30	O		79	1
+37	30	nature	nature	NN	obl	12	O		79	1
+37	31	of	of	IN	case	33	O		79	1
+37	32	the	the	DT	det	33	O		79	1
+37	33	fear	fear	NN	nmod	30	O		79	1
+37	34	.	.	.	punct	12	O		79	1
+38	1	Social	Social	NNP	compound	2	O	 (ROOT (S (NP (NNP Social)	80	1
+38	2	anxieties	anxiety	NNS	nsubj:pass	6	O	 (NNS anxieties))	80	1
+38	3	may	may	MD	aux	6	O	 (VP (MD may)	80	1
+38	4	also	also	RB	advmod	6	O	 (ADVP (RB also))	80	1
+38	5	be	be	VB	aux:pass	6	O	 (VP (VB be)	80	1
+38	6	classified	classify	VBN	root	0	O	 (VP (VBN classified)	80	1
+38	7	according	accord	VBG	case	10	O	 (PP (VBG according)	80	1
+38	8	to	to	IN	fixed	7	O	 (PP (IN to)	80	1
+38	9	the	the	DT	det	10	O	 (NP (NP (DT the)	80	1
+38	10	broadness	broadness	NN	obl	6	O	 (NN broadness))	80	1
+38	11	of	of	IN	mark	12	O	 (PP (IN of)	80	1
+38	12	triggering	trigger	VBG	acl	10	O	 (S (VP (VBG triggering)	80	1
+38	13	social	social	JJ	amod	14	O	 (NP (JJ social)	80	1
+38	14	situations	situation	NNS	obj	12	O	 (NNS situations)))))))))))	80	1
+38	15	.	.	.	punct	6	O	 (. .)))	80	1
+39	1	For	for	IN	case	2	O	 (ROOT (S (PP (IN For)	81	1
+39	2	example	example	NN	obl	9	O	 (NP (NN example)))	81	1
+39	3	,	,	,	punct	9	O	 (, ,)	81	1
+39	4	fear	fear	NN	nsubj	9	O	 (NP (NP (NN fear))	81	1
+39	5	of	of	IN	mark	6	O	 (PP (IN of)	81	1
+39	6	eating	eat	VBG	acl	4	O	 (S (VP (VBG eating)	81	1
+39	7	in	in	IN	case	8	O	 (PP (IN in)	81	1
+39	8	public	public	NN	obl	6	O	 (NP (NN public)))))))	81	1
+39	9	has	have	VBZ	root	0	O	 (VP (VBZ has)	81	1
+39	10	a	a	DT	det	14	O	 (NP (NP (NP (DT a)	81	1
+39	11	very	very	RB	advmod	12	O	 (ADJP (RB very)	81	1
+39	12	narrow	narrow	JJ	amod	14	O	 (JJ narrow))	81	1
+39	13	situational	situational	JJ	amod	14	O	 (JJ situational)	81	1
+39	14	scope	scope	NN	obj	9	O	 (NN scope))	81	1
+39	15	(	(	-LRB-	punct	14	O	 (-LRB- -LRB-) (VP (VBG eating) (PP (IN in) (ADJP (JJ public)))) (-RRB- -RRB-)) (, ,) (SBAR (IN while) (S (NP (NN shyness)) (VP (MD may) (VP (VB have) (NP (DT a) (JJ wide) (NN scope))))))) (PRN (-LRB- -LRB-) (S (NP (DT a) (NN person)) (VP (MD may) (VP (VB be) (ADJP (JJ shy) (PP (IN of) (S (VP (VBG doing) (NP (JJ many) (NNS things)) (PP (IN in) (NP (JJ various) (NNS circumstances)))))))))) (-RRB- -RRB-))) (. .)))	82	1
+39	16	eating	eat	VBG	acl	14	O		82	1
+39	17	in	in	IN	case	18	O		82	1
+39	18	public	public	JJ	advcl	16	O		82	1
+39	19	)	)	-RRB-	punct	14	O		82	1
+39	20	,	,	,	punct	14	O		82	1
+39	21	while	while	IN	mark	24	O		83	1
+39	22	shyness	shyness	NN	nsubj	24	O		83	1
+39	23	may	may	MD	aux	24	O		83	1
+39	24	have	have	VB	dep	14	O		83	1
+39	25	a	a	DT	det	27	O		83	1
+39	26	wide	wide	JJ	amod	27	O		83	1
+39	27	scope	scope	NN	obj	24	O		83	1
+39	28	(	(	-LRB-	punct	33	O		83	1
+39	29	a	a	DT	det	30	O		83	1
+39	30	person	person	NN	nsubj	33	O		83	1
+39	31	may	may	MD	aux	33	O		83	1
+39	32	be	be	VB	cop	33	O		83	1
+39	33	shy	shy	JJ	parataxis	9	O		83	1
+39	34	of	of	IN	mark	35	O		83	1
+39	35	doing	do	VBG	advcl	33	O		83	1
+39	36	many	many	JJ	amod	37	O		83	1
+39	37	things	thing	NNS	obj	35	O		83	1
+39	38	in	in	IN	case	40	O		83	1
+39	39	various	various	JJ	amod	40	O		83	1
+39	40	circumstances	circumstance	NNS	obl	35	O		83	1
+39	41	)	)	-RRB-	punct	33	O		83	1
+39	42	.	.	.	punct	9	O		83	1
+40	1	The	the	DT	det	6	O	 (ROOT (S (NP (DT The)	84	1
+40	2	clinical	clinical	JJ	compound	6	O	 (NML (JJ clinical)	84	1
+40	3	(	(	-LRB-	punct	4	O	 (PRN (-LRB- -LRB-) (NP (NN disorder)) (-RRB- -RRB-))) (NNS forms)) (VP (VBP are) (ADVP (RB also)) (VP (VBN divided) (PP (IN into) (NP (NP (JJ general) (JJ social) (NN phobia) (PRN (-LRB- -LRB-) (NP (NN i.) (NN e.)) (, ,) (NP (JJ social) (NN anxiety) (NN disorder)) (-RRB- -RRB-))) (CC and) (NP (JJ specific) (JJ social) (NN phobia)))))) (. .)))	84	1
+40	4	disorder	disorder	NN	dep	2	O		84	1
+40	5	)	)	-RRB-	punct	4	O		84	1
+40	6	forms	form	NNS	nsubj:pass	9	O		84	1
+40	7	are	be	VBP	aux:pass	9	O		84	1
+40	8	also	also	RB	advmod	9	O		84	1
+40	9	divided	divide	VBN	root	0	O		84	1
+40	10	into	into	IN	case	13	O		84	1
+40	11	general	general	JJ	amod	13	TITLE		84	1
+40	12	social	social	JJ	amod	13	O		84	1
+40	13	phobia	phobia	NN	obl	9	O		84	1
+40	14	(	(	-LRB-	punct	16	O		84	1
+40	15	i.	i.	NN	compound	16	O		84	1
+40	16	e.	e.	NN	appos	13	O		84	1
+40	17	,	,	,	punct	16	O		84	1
+40	18	social	social	JJ	amod	20	O		84	1
+40	19	anxiety	anxiety	NN	compound	20	O		84	1
+40	20	disorder	disorder	NN	dep	16	O		84	1
+40	21	)	)	-RRB-	punct	16	O		84	1
+40	22	and	and	CC	cc	25	O		84	1
+40	23	specific	specific	JJ	amod	25	O		84	1
+40	24	social	social	JJ	amod	25	O		84	1
+40	25	phobia	phobia	NN	conj	13	O		84	1
+40	26	.	.	.	punct	9	O		84	1
+41	1	Blushing	blush	VBG	root	0	O	 (ROOT (S (S (VP (VBG Blushing)))	85	1
+41	2	is	be	VBZ	cop	6	O	 (SQ (SQ (VBZ is)	85	1
+41	3	a	a	DT	det	5	O	 (NP (DT a)	85	1
+41	4	physiological	physiological	JJ	amod	5	O	 (JJ physiological)	85	1
+41	5	response	response	NN	nsubj	6	O	 (NN response))	85	1
+41	6	unique	unique	JJ	parataxis	1	O	 (ADJP (JJ unique)	85	1
+41	7	to	to	IN	case	8	O	 (PP (IN to)	85	1
+41	8	humans	human	NNS	obl	6	O	 (NP (NNS humans)))))	85	1
+41	9	and	and	CC	cc	14	O	 (CC and)	86	1
+41	10	is	be	VBZ	cop	14	O	 (SQ (VBZ is)	86	1
+41	11	a	a	DT	det	12	O	 (NP (DT a)	86	1
+41	12	hallmark	hallmark	NN	nsubj	14	O	 (NN hallmark))	86	1
+41	13	physiological	physiological	JJ	amod	14	O	 (NP (NP (JJ physiological)	86	1
+41	14	response	response	NN	conj	6	O	 (NN response))	86	1
+41	15	associated	associate	VBN	acl	14	O	 (VP (VBN associated)	86	1
+41	16	with	with	IN	case	18	O	 (PP (IN with)	86	1
+41	17	social	social	JJ	amod	18	O	 (NP (JJ social)	86	1
+41	18	anxiety	anxiety	NN	obl	15	O	 (NN anxiety)))))))	86	1
+41	19	.	.	.	punct	1	O	 (. .)))	86	1
+42	1	Blushing	blush	VBG	nsubj	5	O	 (ROOT (S (NP (VBG Blushing))	87	1
+42	2	is	be	VBZ	cop	5	O	 (VP (VBZ is)	87	1
+42	3	the	the	DT	det	5	O	 (NP (NP (DT the)	87	1
+42	4	involuntary	involuntary	JJ	amod	5	O	 (JJ involuntary)	87	1
+42	5	reddening	reddening	NN	root	0	O	 (NN reddening))	87	1
+42	6	of	of	IN	case	8	O	 (PP (IN of)	87	1
+42	7	the	the	DT	det	8	O	 (NP (NP (DT the)	87	1
+42	8	face	face	NN	nmod	5	O	 (NN face)	87	1
+42	9	,	,	,	punct	8	O	 (, ,)	87	1
+42	10	neck	neck	NN	conj	8	O	 (NN neck)	87	1
+42	11	,	,	,	punct	8	O	 (, ,)	87	1
+42	12	and	and	CC	cc	13	O	 (CC and)	87	1
+42	13	chest	chest	NN	conj	8	O	 (NN chest))	87	1
+42	14	in	in	IN	case	15	O	 (PP (IN in)	87	1
+42	15	reaction	reaction	NN	nmod	8	O	 (NP (NP (NN reaction))	87	1
+42	16	to	to	IN	case	17	O	 (PP (IN to)	87	1
+42	17	evaluation	evaluation	NN	nmod	15	O	 (NP (NP (NN evaluation))	87	1
+42	18	or	or	CC	cc	20	O	 (CC or)	87	1
+42	19	social	social	JJ	amod	20	O	 (NP (JJ social)	87	1
+42	20	attention	attention	NN	conj	17	O	 (NN attention))))))))))	87	1
+42	21	.	.	.	punct	5	O	 (. .)))	87	1
+43	1	Blushing	blush	VBG	nsubj	2	O	 (ROOT (S (NP (VBG Blushing))	88	1
+43	2	occurs	occur	VBZ	root	0	O	 (VP (VBZ occurs)	88	1
+43	3	not	not	RB	advmod	4	O	 (UCP (CONJP (RB not)	88	1
+43	4	only	only	RB	dep	2	O	 (RB only))	88	1
+43	5	in	in	IN	case	6	O	 (PP (IN in)	88	1
+43	6	response	response	NN	dep	4	O	 (NP (NP (NN response))	88	1
+43	7	to	to	IN	case	8	O	 (PP (IN to)	88	1
+43	8	feelings	feeling	NNS	nmod	6	O	 (NP (NP (NNS feelings))	88	1
+43	9	of	of	IN	case	10	O	 (PP (IN of)	88	1
+43	10	embarrassment	embarrassment	NN	nmod	8	O	 (NP (NN embarrassment)))))))	88	1
+43	11	but	but	CC	cc	17	O	 (CC but)	88	1
+43	12	also	also	RB	advmod	17	O	 (NP (ADVP (RB also))	88	1
+43	13	other	other	JJ	amod	17	O	 (NP (JJ other)	88	1
+43	14	socially	socially	RB	advmod	16	O	 (ADJP (RB socially)	88	1
+43	15	-	-	HYPH	punct	16	O	 (HYPH -)	88	1
+43	16	oriented	orient	VBN	amod	17	O	 (VBN oriented))	88	1
+43	17	emotions	emotion	NNS	conj	4	O	 (NNS emotions))	88	1
+43	18	such	such	JJ	case	20	O	 (PP (JJ such)	88	1
+43	19	as	as	IN	fixed	18	O	 (IN as)	88	1
+43	20	shame	shame	NN	nmod	17	O	 (NP (NN shame)	88	1
+43	21	,	,	,	punct	20	O	 (, ,)	88	1
+43	22	guilt	guilt	NN	conj	20	O	 (NN guilt)	88	1
+43	23	,	,	,	punct	20	O	 (, ,)	88	1
+43	24	shyness	shyness	NN	conj	20	O	 (NN shyness)	88	1
+43	25	,	,	,	punct	20	O	 (, ,)	88	1
+43	26	and	and	CC	cc	27	O	 (CC and)	88	1
+43	27	pride	pride	NN	conj	20	O	 (NN pride))))))	88	1
+43	28	.	.	.	punct	2	O	 (. .)))	88	1
+44	1	Individuals	individual	NNS	nsubj	6	O	 (ROOT (S (NP (NNS Individuals))	89	1
+44	2	high	high	JJ	advmod	6	O	 (ADVP (JJ high)	89	1
+44	3	in	in	IN	case	5	O	 (PP (IN in)	89	1
+44	4	social	social	JJ	amod	5	O	 (NP (JJ social)	89	1
+44	5	anxiety	anxiety	NN	obl	2	O	 (NN anxiety))))	89	1
+44	6	perceive	perceive	VBP	root	0	O	 (VP (VBP perceive)	89	1
+44	7	themselves	themselves	PRP	obj	6	O	 (NP (PRP themselves))	89	1
+44	8	as	as	IN	mark	9	O	 (PP (IN as)	89	1
+44	9	blushing	blush	VBG	advcl	6	O	 (S (VP (VBG blushing)	89	1
+44	10	more	more	JJR	obj	9	O	 (NP (JJR more))	89	1
+44	11	than	than	IN	case	12	O	 (PP (IN than)	89	1
+44	12	those	that	DT	obl	9	O	 (NP (NP (DT those))	89	1
+44	13	who	who	WP	nsubj	15	O	 (SBAR (WHNP (WP who))	90	1
+44	14	are	be	VBP	cop	15	O	 (S (VP (VBP are)	90	1
+44	15	low	low	JJ	acl:relcl	12	O	 (ADJP (JJ low)	90	1
+44	16	in	in	IN	case	18	O	 (PP (IN in)	90	1
+44	17	social	social	JJ	amod	18	O	 (NP (JJ social)	90	1
+44	18	anxiety	anxiety	NN	obl	15	O	 (NN anxiety)))))))))))))	90	1
+44	19	.	.	.	punct	6	O	 (. .)))	90	1
+45	1	Three	three	CD	nummod	2	NUMBER	 (ROOT (S (NP (NP (CD Three)	91	1
+45	2	types	type	NNS	nsubj:pass	7	O	 (NNS types))	91	1
+45	3	of	of	IN	mark	4	O	 (PP (IN of)	91	1
+45	4	blushing	blush	VBG	acl	2	O	 (S (VP (VBG blushing)))))	91	1
+45	5	can	can	MD	aux	7	O	 (VP (MD can)	91	1
+45	6	be	be	VB	aux:pass	7	O	 (VP (VB be)	91	1
+45	7	measured	measure	VBN	root	0	O	 (VP (VP (VBN measured)	91	1
+45	8	:	:	:	punct	7	O	 (: :)	91	1
+45	9	self	self	NN	obl	11	O	 (NP (NP (NP (ADJP (NN self)	91	1
+45	10	-	-	HYPH	punct	11	O	 (HYPH -)	91	1
+45	11	perceived	perceive	VBN	amod	12	O	 (VBN perceived))	91	1
+45	12	blushing	blushing	NN	obj	7	O	 (NN blushing))	91	1
+45	13	(	(	-LRB-	punct	18	O	 (SBAR (-LRB- -LRB-) (WHNP (WRB how) (JJ much)) (S (NP (DT the) (JJ individual)) (VP (VBZ believes) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG blushing))))))) (-RRB- -RRB-))) (, ,) (NP (NP (JJ physiological) (NN blushing)) (-LRB- -LRB-) (VP (VBG blushing) (SBAR (IN as) (S (VP (VBN measured) (PP (IN by) (NP (JJ physiological) (NNS indices))))))) (-RRB- -RRB-)))) (, ,) (CC and) (VP (VBN observed) (S (VP (VBG blushing) (S (-LRB- -LRB-) (VP (VBG blushing) (VP (VBN observed) (PP (IN by) (NP (NNS others))))) (-RRB- -RRB-)))))))) (. .)))	91	1
+45	14	how	how	WRB	advmod	15	O		91	1
+45	15	much	much	JJ	advmod	18	O		91	1
+45	16	the	the	DT	det	17	O		91	1
+45	17	individual	individual	JJ	nsubj	18	O		91	1
+45	18	believes	believe	VBZ	acl:relcl	12	O		91	1
+45	19	they	they	PRP	nsubj	21	O		91	1
+45	20	are	be	VBP	aux	21	O		91	1
+45	21	blushing	blush	VBG	ccomp	18	O		91	1
+45	22	)	)	-RRB-	punct	18	O		91	1
+45	23	,	,	,	punct	12	O		91	1
+45	24	physiological	physiological	JJ	amod	25	O		91	1
+45	25	blushing	blushing	NN	appos	12	O		91	1
+45	26	(	(	-LRB-	punct	25	O		91	1
+45	27	blushing	blush	VBG	acl	25	O		91	1
+45	28	as	as	IN	mark	29	O		91	1
+45	29	measured	measure	VBN	advcl	27	O		91	1
+45	30	by	by	IN	case	32	O		91	1
+45	31	physiological	physiological	JJ	amod	32	O		91	1
+45	32	indices	index	NNS	obl	29	O		91	1
+45	33	)	)	-RRB-	punct	25	O		91	1
+45	34	,	,	,	punct	7	O		91	1
+45	35	and	and	CC	cc	36	O		91	1
+45	36	observed	observe	VBN	conj	7	O		91	1
+45	37	blushing	blush	VBG	xcomp	36	O		91	1
+45	38	(	(	-LRB-	punct	39	O		91	1
+45	39	blushing	blush	VBG	advcl	37	O		91	1
+45	40	observed	observe	VBN	dep	39	O		91	1
+45	41	by	by	IN	case	42	O		91	1
+45	42	others	other	NNS	obl	40	O		91	1
+45	43	)	)	-RRB-	punct	39	O		91	1
+45	44	.	.	.	punct	7	O		91	1
+46	1	Social	Social	NNP	compound	2	O	 (ROOT (S (NP (NNP Social)	92	1
+46	2	anxiety	anxiety	NN	nsubj:pass	5	O	 (NN anxiety))	92	1
+46	3	is	be	VBZ	aux:pass	5	O	 (VP (VBZ is)	92	1
+46	4	strongly	strongly	RB	advmod	5	O	 (ADVP (RB strongly))	92	1
+46	5	associated	associate	VBN	root	0	O	 (VP (VP (VBN associated)	92	1
+46	6	with	with	IN	case	10	O	 (PP (IN with)	92	1
+46	7	self	self	NN	obl	9	O	 (NP (ADJP (NN self)	92	1
+46	8	-	-	HYPH	punct	9	O	 (HYPH -)	92	1
+46	9	perceived	perceive	VBN	amod	10	O	 (VBN perceived))	92	1
+46	10	blushing	blushing	NN	obl	5	O	 (NN blushing))))	92	1
+46	11	,	,	,	punct	5	O	 (, ,)	92	1
+46	12	weakly	weakly	RB	advmod	13	O	 (VP (ADVP (RB weakly))	93	1
+46	13	associated	associate	VBN	conj	5	O	 (VBN associated)	93	1
+46	14	with	with	IN	mark	15	O	 (PP (IN with)	93	1
+46	15	blushing	blush	VBG	advcl	13	O	 (S (VP (VBG blushing)	93	1
+46	16	as	as	IN	mark	17	O	 (SBAR (IN as)	93	1
+46	17	measured	measure	VBN	advcl	15	O	 (S (VP (VBN measured)	93	1
+46	18	by	by	IN	case	20	O	 (PP (IN by)	93	1
+46	19	physiological	physiological	JJ	amod	20	O	 (NP (NP (JJ physiological)	93	1
+46	20	indices	index	NNS	obl	17	O	 (NNS indices))	93	1
+46	21	such	such	JJ	case	26	O	 (PP (JJ such)	93	1
+46	22	as	as	IN	fixed	21	O	 (IN as)	93	1
+46	23	temperature	temperature	NN	compound	26	O	 (NP (NML (NN temperature)	93	1
+46	24	and	and	CC	cc	25	O	 (CC and)	93	1
+46	25	blood	blood	NN	conj	23	O	 (NN blood))	93	1
+46	26	flow	flow	NN	nmod	20	O	 (NN flow)))))	93	1
+46	27	to	to	IN	case	29	O	 (PP (IN to)	93	1
+46	28	the	the	DT	det	29	O	 (NP (NP (DT the)	93	1
+46	29	cheeks	cheek	NNS	obl	17	O	 (NNS cheeks))	93	1
+46	30	and	and	CC	cc	31	O	 (CC and)	93	1
+46	31	forehead	forehead	NN	conj	29	O	 (NP (NN forehead)))))))))))	93	1
+46	32	,	,	,	punct	5	O	 (, ,)	93	1
+46	33	and	and	CC	cc	35	O	 (CC and)	94	1
+46	34	moderately	moderately	RB	advmod	35	O	 (ADVP (RB moderately))	94	1
+46	35	associated	associate	VBN	conj	5	O	 (VP (VBN associated)	94	1
+46	36	with	with	IN	case	38	O	 (PP (IN with)	94	1
+46	37	observed	observe	VBN	amod	38	O	 (NP (VBN observed)	94	1
+46	38	blushing	blushing	NN	obl	35	O	 (NN blushing))))))	94	1
+46	39	.	.	.	punct	5	O	 (. .)))	94	1
+47	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	95	1
+47	2	relationship	relationship	NN	nsubj	12	O	 (NN relationship))	95	1
+47	3	between	between	IN	case	5	O	 (PP (IN between)	95	1
+47	4	physiological	physiological	JJ	amod	5	O	 (NP (NP (JJ physiological)	95	1
+47	5	blushing	blushing	NN	nmod	2	O	 (NN blushing))	95	1
+47	6	and	and	CC	cc	10	O	 (CC and)	95	1
+47	7	self	self	NN	obl	9	O	 (NP (ADJP (NN self)	95	1
+47	8	-	-	HYPH	punct	9	O	 (HYPH -)	95	1
+47	9	perceived	perceive	VBN	amod	10	O	 (VBN perceived))	95	1
+47	10	blushing	blushing	NN	conj	5	O	 (NN blushing)))))	95	1
+47	11	is	be	VBZ	cop	12	O	 (VP (VBZ is)	95	1
+47	12	small	small	JJ	root	0	O	 (ADJP (JJ small)	95	1
+47	13	among	among	IN	case	15	O	 (PP (IN among)	95	1
+47	14	those	that	DT	det	15	O	 (NP (DT those)	95	1
+47	15	high	high	JJ	obl	12	O	 (JJ high))))	95	1
+47	16	in	in	IN	case	18	O	 (PP (IN in)	95	1
+47	17	social	social	JJ	amod	18	O	 (NP (JJ social)	95	1
+47	18	anxiety	anxiety	NN	obl	12	O	 (NN anxiety)))	95	1
+47	19	,	,	,	punct	12	O	 (, ,)	95	1
+47	20	indicating	indicate	VBG	xcomp	12	O	 (S (VP (VBG indicating)	96	1
+47	21	that	that	IN	mark	28	O	 (SBAR (IN that)	96	1
+47	22	individuals	individual	NNS	nsubj	28	O	 (S (NP (NP (NNS individuals))	96	1
+47	23	with	with	IN	case	26	O	 (PP (IN with)	96	1
+47	24	high	high	JJ	amod	26	O	 (NP (JJ high)	96	1
+47	25	social	social	JJ	amod	26	O	 (JJ social)	96	1
+47	26	anxiety	anxiety	NN	nmod	22	O	 (NN anxiety))))	96	1
+47	27	may	may	MD	aux	28	O	 (VP (MD may)	96	1
+47	28	overestimate	overestimate	VB	ccomp	20	O	 (VP (VB overestimate)	96	1
+47	29	their	they	PRP$	nmod:poss	30	O	 (NP (PRP$ their)	96	1
+47	30	blushing	blushing	NN	obj	28	O	 (NN blushing)))))))))	96	1
+47	31	.	.	.	punct	12	O	 (. .)))	96	1
+48	1	That	that	DT	det	3	O	 (ROOT (S (NP (NP (DT That)	97	1
+48	2	social	social	JJ	amod	3	O	 (JJ social)	97	1
+48	3	anxiety	anxiety	NN	nsubj	15	O	 (NN anxiety))	97	1
+48	4	is	be	VBZ	aux:pass	5	O	 (SBAR (S (VP (VBZ is)	97	1
+48	5	associated	associate	VBN	acl:relcl	3	O	 (VP (VBN associated)	97	1
+48	6	most	most	RBS	advmod	7	O	 (ADVP (RBS most)	97	1
+48	7	strongly	strongly	RB	advmod	5	O	 (RB strongly))	97	1
+48	8	with	with	IN	case	12	O	 (PP (IN with)	97	1
+48	9	self	self	NN	obl	11	O	 (NP (ADJP (NN self)	97	1
+48	10	-	-	HYPH	punct	11	O	 (HYPH -)	97	1
+48	11	perceived	perceive	VBN	amod	12	O	 (VBN perceived))	97	1
+48	12	blushing	blushing	NN	obl	5	O	 (NN blushing))))))))	97	1
+48	13	is	be	VBZ	cop	15	O	 (VP (VBZ is)	98	1
+48	14	also	also	RB	advmod	15	O	 (ADVP (RB also))	98	1
+48	15	important	important	JJ	root	0	O	 (ADJP (JJ important)	98	1
+48	16	for	for	IN	case	18	O	 (PP (IN for)	98	1
+48	17	cognitive	cognitive	JJ	amod	18	O	 (NP (NP (JJ cognitive)	98	1
+48	18	models	model	NNS	obl	15	O	 (NNS models))	98	1
+48	19	of	of	IN	case	20	O	 (PP (IN of)	98	1
+48	20	blushing	blush	VBG	nmod	18	O	 (NP (NP (NP (VBG blushing))	98	1
+48	21	and	and	CC	cc	23	O	 (CC and)	98	1
+48	22	social	social	JJ	amod	23	O	 (NP (JJ social)	98	1
+48	23	anxiety	anxiety	NN	conj	20	O	 (NN anxiety)))	98	1
+48	24	,	,	,	punct	20	O	 (, ,)	98	1
+48	25	indicating	indicate	VBG	acl	20	O	 (VP (VBG indicating)	99	1
+48	26	that	that	IN	mark	30	O	 (SBAR (IN that)	99	1
+48	27	socially	socially	RB	advmod	28	O	 (S (NP (ADJP (RB socially)	99	1
+48	28	anxious	anxious	JJ	amod	29	O	 (JJ anxious))	99	1
+48	29	individuals	individual	NNS	nsubj	30	O	 (NNS individuals))	99	1
+48	30	use	use	VBP	ccomp	25	O	 (VP (VBP use)	99	1
+48	31	both	both	DT	det	33	O	 (NP (NP (DT both)	99	1
+48	32	internal	internal	JJ	amod	33	O	 (JJ internal)	99	1
+48	33	cues	cue	NNS	obj	30	O	 (NNS cues))	99	1
+48	34	and	and	CC	cc	36	O	 (CC and)	99	1
+48	35	other	other	JJ	amod	36	O	 (NP (NP (JJ other)	99	1
+48	36	types	type	NNS	conj	33	O	 (NNS types))	99	1
+48	37	of	of	IN	case	38	O	 (PP (IN of)	99	1
+48	38	information	information	NN	nmod	36	O	 (NP (NN information)))))	99	1
+48	39	to	to	TO	mark	40	O	 (S (VP (TO to)	100	1
+48	40	draw	draw	VB	advcl	30	O	 (VP (VB draw)	100	1
+48	41	conclusions	conclusion	NNS	obj	40	O	 (NP (NNS conclusions))	100	1
+48	42	about	about	IN	mark	46	O	 (PP (IN about)	100	1
+48	43	how	how	WRB	advmod	46	O	 (SBAR (WHADVP (WRB how))	100	1
+48	44	they	they	PRP	nsubj	46	O	 (S (NP (PRP they))	100	1
+48	45	are	be	VBP	aux	46	O	 (VP (VBP are)	100	1
+48	46	coming	come	VBG	advcl	40	O	 (VP (VBG coming)	100	1
+48	47	across	across	RB	advmod	46	O	 (ADVP (RB across))))))))))))))))))))	100	1
+48	48	.	.	.	punct	15	O	 (. .)))	100	1
+49	1	Individuals	individual	NNS	nsubj	7	O	 (ROOT (S (NP (NP (NNS Individuals))	101	1
+49	2	with	with	IN	case	4	O	 (PP (IN with)	101	1
+49	3	social	social	JJ	amod	4	O	 (NP (JJ social)	101	1
+49	4	anxiety	anxiety	NN	nmod	1	O	 (NN anxiety))))	101	1
+49	5	might	might	MD	aux	7	O	 (VP (MD might)	101	1
+49	6	also	also	RB	advmod	7	O	 (ADVP (RB also))	101	1
+49	7	refrain	refrain	VB	root	0	O	 (VP (VB refrain)	101	1
+49	8	from	from	IN	mark	9	O	 (PP (IN from)	101	1
+49	9	making	make	VBG	advcl	7	O	 (S (VP (VP (VBG making)	101	1
+49	10	eye	eye	NN	compound	11	O	 (NP (NN eye)	101	1
+49	11	contact	contact	NN	obj	9	O	 (NN contact)))	101	1
+49	12	,	,	,	punct	9	O	 (, ,)	101	1
+49	13	or	or	CC	cc	15	O	 (CC or)	101	1
+49	14	constantly	constantly	RB	advmod	15	O	 (ADVP (RB constantly))	101	1
+49	15	fiddling	fiddle	VBG	conj	9	O	 (VP (VBG fiddling)	101	1
+49	16	with	with	IN	case	17	O	 (PP (IN with)	101	1
+49	17	things	thing	NNS	obl	15	O	 (NP (NNS things)))	101	1
+49	18	during	during	IN	case	19	O	 (PP (IN during)	101	1
+49	19	conversations	conversation	NNS	obl	15	O	 (NP (NP (NNS conversations))	101	1
+49	20	or	or	CC	cc	22	O	 (CC or)	101	1
+49	21	public	public	JJ	amod	22	O	 (NP (JJ public)	101	1
+49	22	speaking	speaking	NN	conj	19	O	 (NN speaking))))))))))	101	1
+49	23	.	.	.	punct	7	O	 (. .)))	101	1
+50	1	Other	other	JJ	amod	2	O	 (ROOT (S (NP (JJ Other)	102	1
+50	2	indicators	indicator	NNS	nsubj	5	O	 (NNS indicators))	102	1
+50	3	are	be	VBP	cop	5	O	 (VP (VBP are)	102	1
+50	4	physical	physical	JJ	amod	5	O	 (NP (NP (NP (JJ physical)	102	1
+50	5	symptoms	symptom	NNS	root	0	O	 (NNS symptoms))	102	1
+50	6	which	which	WDT	nsubj	8	O	 (SBAR (WHNP (WDT which))	103	1
+50	7	may	may	MD	aux	8	O	 (S (VP (MD may)	103	1
+50	8	include	include	VB	acl:relcl	5	O	 (VP (VB include)	103	1
+50	9	rapid	rapid	JJ	amod	10	O	 (NP (NP (JJ rapid)	103	1
+50	10	heartbeat	heartbeat	NN	obj	8	O	 (NN heartbeat))	103	1
+50	11	,	,	,	punct	10	O	 (, ,)	103	1
+50	12	muscle	muscle	NN	compound	13	O	 (NP (NN muscle)	103	1
+50	13	tension	tension	NN	conj	10	O	 (NN tension))	103	1
+50	14	,	,	,	punct	10	O	 (, ,)	103	1
+50	15	dizziness	dizziness	NN	conj	10	O	 (NP (NN dizziness)	103	1
+50	16	and	and	CC	cc	17	O	 (CC and)	103	1
+50	17	lightheadedness	lightheadedness	NN	conj	15	O	 (NN lightheadedness))	103	1
+50	18	,	,	,	punct	10	O	 (, ,)	103	1
+50	19	stomach	stomach	NN	compound	20	O	 (NP (NN stomach)	103	1
+50	20	trouble	trouble	NN	conj	10	O	 (NN trouble))	103	1
+50	21	and	and	CC	cc	22	O	 (CC and)	103	1
+50	22	diarrhea	diarrhea	NN	conj	10	O	 (NP (NN diarrhea)))	103	1
+50	23	,	,	,	punct	8	O	 (, ,)	103	1
+50	24	unable	unable	JJ	xcomp	8	O	 (S (ADJP (JJ unable)	104	1
+50	25	to	to	TO	mark	26	O	 (S (VP (TO to)	104	1
+50	26	catch	catch	VB	xcomp	24	O	 (VP (VB catch)	104	1
+50	27	a	a	DT	det	28	O	 (NP (DT a)	104	1
+50	28	breath	breath	NN	obj	26	O	 (NN breath))))))))))))	104	1
+50	29	,	,	,	punct	5	O	 (, ,)	104	1
+50	30	and	and	CC	cc	32	O	 (CC and)	104	1
+50	31	-	-	HYPH	punct	32	O	 (NP (NP (HYPH -)	104	1
+50	32	out	out	NN	conj	5	O	 (NN out))	104	1
+50	33	of	of	IN	case	36	O	 (PP (IN of)	104	1
+50	34	body	body	NN	compound	36	O	 (NP (NN body)	104	1
+50	35	-	-	HYPH	punct	36	O	 (HYPH -)	104	1
+50	36	sensation	sensation	NN	nmod	32	O	 (NN sensation))))))	104	1
+50	37	.	.	.	punct	5	O	 (. .)))	104	1
+51	1	Attention	attention	NN	compound	2	O	 (ROOT (S (NP (NP (NN Attention)	105	1
+51	2	bias	bias	NN	nsubj	12	O	 (NN bias))	105	1
+51	3	##	##	SYM	dep	4	O	 (PP (SYM ##)	106	1
+51	4	Individuals	individual	NNS	nmod	2	O	 (NP (NP (NNS Individuals))	106	1
+51	5	who	who	WP	nsubj	6	O	 (SBAR (WHNP (WP who))	107	1
+51	6	tend	tend	VBP	acl:relcl	4	O	 (S (VP (VBP tend)	107	1
+51	7	to	to	TO	mark	8	O	 (S (VP (TO to)	107	1
+51	8	experience	experience	VB	xcomp	6	O	 (VP (VB experience)	107	1
+51	9	more	more	JJR	amod	11	O	 (NP (JJR more)	107	1
+51	10	social	social	JJ	amod	11	O	 (JJ social)	107	1
+51	11	anxiety	anxiety	NN	obj	8	O	 (NN anxiety)))))))))))	107	1
+51	12	turn	turn	VBP	root	0	O	 (VP (VBP turn)	107	1
+51	13	their	they	PRP$	nmod:poss	14	O	 (NP (PRP$ their)	107	1
+51	14	attention	attention	NN	obj	12	O	 (NN attention))	107	1
+51	15	away	away	RB	advmod	12	O	 (ADVP (RB away))	107	1
+51	16	from	from	IN	mark	17	O	 (PP (IN from)	107	1
+51	17	threatening	threaten	VBG	advcl	12	O	 (S (VP (VP (VBG threatening)	107	1
+51	18	social	social	JJ	amod	19	O	 (NP (JJ social)	107	1
+51	19	information	information	NN	obj	17	O	 (NN information)))	107	1
+51	20	and	and	CC	cc	24	O	 (CC and)	107	1
+51	21	toward	toward	IN	case	22	O	 (VP (PP (IN toward)	107	1
+51	22	themselves	themselves	PRP	obl	24	O	 (NP (PRP themselves)))	107	1
+51	23	,	,	,	punct	24	O	 (, ,)	107	1
+51	24	prohibiting	prohibit	VBG	conj	17	O	 (VBG prohibiting)	108	1
+51	25	themselves	themselves	PRP	obj	24	O	 (NP (PRP themselves))	108	1
+51	26	from	from	IN	mark	27	O	 (PP (IN from)	108	1
+51	27	challenging	challenge	VBG	advcl	24	O	 (S (VP (VP (VBG challenging)	108	1
+51	28	negative	negative	JJ	amod	29	O	 (NP (JJ negative)	108	1
+51	29	expectations	expectation	NNS	obj	27	O	 (NNS expectations))	108	1
+51	30	about	about	IN	case	31	O	 (PP (IN about)	108	1
+51	31	others	other	NNS	obl	27	O	 (NP (NNS others))))	108	1
+51	32	and	and	CC	cc	33	O	 (CC and)	108	1
+51	33	maintaining	maintain	VBG	conj	27	O	 (VP (VBG maintaining)	108	1
+51	34	high	high	JJ	amod	35	O	 (NP (NP (JJ high)	108	1
+51	35	levels	level	NNS	obj	33	O	 (NNS levels))	108	1
+51	36	of	of	IN	case	38	O	 (PP (IN of)	108	1
+51	37	social	social	JJ	amod	38	O	 (NP (JJ social)	108	1
+51	38	anxiety	anxiety	NN	nmod	35	O	 (NN anxiety)))))))))))))	108	1
+51	39	.	.	.	punct	12	O	 (. .)))	108	1
+52	1	For	for	IN	case	2	O	 (ROOT (S (PP (IN For)	109	1
+52	2	example	example	NN	obl	9	O	 (NP (NN example)))	109	1
+52	3	,	,	,	punct	9	O	 (, ,)	109	1
+52	4	a	a	DT	det	7	O	 (NP (DT a)	109	1
+52	5	socially	socially	RB	advmod	6	O	 (ADJP (RB socially)	109	1
+52	6	anxious	anxious	JJ	amod	7	O	 (JJ anxious))	109	1
+52	7	individual	individual	NN	nsubj	9	O	 (NN individual))	109	1
+52	8	may	may	MD	aux	9	O	 (VP (MD may)	109	1
+52	9	perceive	perceive	VB	root	0	O	 (VP (VP (VB perceive)	109	1
+52	10	rejection	rejection	NN	obj	9	O	 (NP (NN rejection))	109	1
+52	11	from	from	IN	case	14	O	 (PP (IN from)	109	1
+52	12	a	a	DT	det	14	O	 (NP (DT a)	109	1
+52	13	conversational	conversational	JJ	amod	14	O	 (JJ conversational)	109	1
+52	14	partner	partner	NN	obl	9	O	 (NN partner))))	109	1
+52	15	,	,	,	punct	9	O	 (, ,)	109	1
+52	16	turn	turn	VB	conj	9	O	 (VP (VB turn)	109	1
+52	17	their	they	PRP$	nmod:poss	18	O	 (NP (PRP$ their)	109	1
+52	18	attention	attention	NN	obj	16	O	 (NN attention))	109	1
+52	19	away	away	RB	advmod	16	O	 (ADVP (RB away)))	109	1
+52	20	,	,	,	punct	9	O	 (, ,)	109	1
+52	21	and	and	CC	cc	23	O	 (CC and)	110	1
+52	22	never	never	RB	advmod	23	O	 (VP (ADVP (RB never))	110	1
+52	23	learn	learn	VBP	conj	9	O	 (VBP learn)	110	1
+52	24	that	that	IN	mark	29	O	 (SBAR (IN that)	111	1
+52	25	the	the	DT	det	26	O	 (S (NP (DT the)	111	1
+52	26	individual	individual	NN	nsubj	29	O	 (NN individual))	111	1
+52	27	is	be	VBZ	aux	29	O	 (VP (VBZ is)	111	1
+52	28	actually	actually	RB	advmod	29	O	 (ADVP (RB actually))	111	1
+52	29	welcoming	welcome	VBG	ccomp	23	O	 (VP (VBG welcoming))))))))	111	1
+52	30	.	.	.	punct	9	O	 (. .)))	111	1
+53	1	Individuals	individual	NNS	nsubj	8	O	 (ROOT (S (NP (NP (NNS Individuals))	112	1
+53	2	who	who	WP	nsubj	4	O	 (SBAR (WHNP (WP who))	112	1
+53	3	are	be	VBP	cop	4	O	 (S (VP (VBP are)	112	1
+53	4	high	high	JJ	acl:relcl	1	O	 (ADJP (JJ high)	112	1
+53	5	in	in	IN	case	7	O	 (PP (IN in)	112	1
+53	6	social	social	JJ	amod	7	O	 (NP (JJ social)	112	1
+53	7	anxiety	anxiety	NN	obl	4	O	 (NN anxiety))))))))	112	1
+53	8	tend	tend	VBP	root	0	O	 (VP (VBP tend)	112	1
+53	9	to	to	TO	mark	10	O	 (S (VP (TO to)	112	1
+53	10	show	show	VB	xcomp	8	O	 (VP (VB show)	112	1
+53	11	increased	increase	VBN	amod	13	O	 (NP (NP (NP (VBN increased)	112	1
+53	12	initial	initial	JJ	amod	13	O	 (JJ initial)	112	1
+53	13	attention	attention	NN	obj	10	O	 (NN attention))	112	1
+53	14	toward	toward	IN	case	17	O	 (PP (IN toward)	112	1
+53	15	negative	negative	JJ	amod	17	O	 (NP (JJ negative)	112	1
+53	16	social	social	JJ	amod	17	O	 (JJ social)	112	1
+53	17	cues	cue	NNS	nmod	13	O	 (NNS cues))))	112	1
+53	18	,	,	,	punct	13	O	 (, ,)	112	1
+53	19	such	such	JJ	mark	21	O	 (PP (JJ such)	112	1
+53	20	as	as	IN	fixed	19	O	 (IN as)	112	1
+53	21	threatening	threaten	VBG	acl	13	O	 (S (VP (VBG threatening)	112	1
+53	22	faces	face	NNS	nsubj	33	O	 (S (NP (NP (NNS faces))	112	1
+53	23	,	,	,	punct	22	O	 (, ,)	112	1
+53	24	followed	follow	VBN	acl	22	O	 (VP (VBN followed)	113	1
+53	25	by	by	IN	case	26	O	 (PP (IN by)	113	1
+53	26	attention	attention	NN	obl	24	O	 (NP (NN attention)))	113	1
+53	27	away	away	RB	advmod	24	O	 (ADVP (RB away)	113	1
+53	28	from	from	IN	case	31	O	 (PP (IN from)	113	1
+53	29	these	this	DT	det	31	O	 (NP (DT these)	113	1
+53	30	social	social	JJ	amod	31	O	 (JJ social)	113	1
+53	31	cues	cue	NNS	obl	27	O	 (NNS cues)))))	113	1
+53	32	,	,	,	punct	22	O	 (, ,))	113	1
+53	33	indicating	indicate	VBG	advcl	21	O	 (VP (VBG indicating)	114	1
+53	34	a	a	DT	det	35	O	 (NP (NP (DT a)	114	1
+53	35	pattern	pattern	NN	obj	33	O	 (NN pattern))	114	1
+53	36	of	of	IN	case	37	O	 (PP (IN of)	114	1
+53	37	hypervigilance	hypervigilance	NN	nmod	35	O	 (NP (NP (NN hypervigilance))	114	1
+53	38	followed	follow	VBN	acl	37	O	 (VP (VBN followed)	115	1
+53	39	by	by	IN	case	40	O	 (PP (IN by)	115	1
+53	40	avoidance	avoidance	NN	obl	38	O	 (NP (NN avoidance)))))))))))))))))	115	1
+53	41	.	.	.	punct	8	O	 (. .)))	115	1
+54	1	Attention	attention	NN	nsubj:pass	7	O	 (ROOT (S (NP (NP (NN Attention))	116	1
+54	2	in	in	IN	case	4	O	 (PP (IN in)	116	1
+54	3	social	social	JJ	amod	4	O	 (NP (JJ social)	116	1
+54	4	anxiety	anxiety	NN	nmod	1	O	 (NN anxiety))))	116	1
+54	5	has	have	VBZ	aux	7	O	 (VP (VBZ has)	116	1
+54	6	been	be	VBN	aux:pass	7	O	 (VP (VBN been)	116	1
+54	7	measured	measure	VBN	root	0	O	 (VP (VBN measured)	116	1
+54	8	using	use	VBG	xcomp	7	O	 (S (VP (VBG using)	116	1
+54	9	the	the	DT	det	10	O	 (NP (NP (NP (DT the)	116	1
+54	10	dot	dot	NN	obj	8	O	 (NN dot))	116	1
+54	11	-	-	HYPH	punct	10	O	 (HYPH -)	116	1
+54	12	probe	probe	NN	compound	13	O	 (NP (NN probe)	116	1
+54	13	paradigm	paradigm	NN	dep	10	O	 (NN paradigm)))	116	1
+54	14	,	,	,	punct	10	O	 (, ,)	116	1
+54	15	which	which	WDT	nsubj	16	O	 (SBAR (WHNP (WDT which))	117	1
+54	16	presents	present	VBZ	acl:relcl	10	O	 (S (VP (VBZ presents)	117	1
+54	17	two	two	CD	nummod	18	NUMBER	 (ADVP (NP (CD two)	117	1
+54	18	faces	face	NNS	obl:npmod	19	O	 (NNS faces))	117	1
+54	19	next	next	RB	advmod	16	O	 (RB next))	117	1
+54	20	to	to	IN	case	21	O	 (PP (IN to)	117	1
+54	21	one	one	CD	obl	16	NUMBER	 (NP (CD one)	117	1
+54	22	another	another	DT	dep	21	O	 (DT another))))))))))))	117	1
+54	23	.	.	.	punct	7	O	 (. .)))	117	1
+55	1	One	one	CD	nummod	2	NUMBER	 (ROOT (S (S (S (NP (CD One)	118	1
+55	2	face	face	NN	nsubj	3	O	 (NN face))	118	1
+55	3	has	have	VBZ	root	0	O	 (VP (VBZ has)	118	1
+55	4	an	a	DT	det	6	O	 (NP (DT an)	118	1
+55	5	emotional	emotional	JJ	amod	6	O	 (JJ emotional)	118	1
+55	6	expression	expression	NN	obj	3	O	 (NN expression))))	118	1
+55	7	and	and	CC	cc	10	O	 (CC and)	118	1
+55	8	the	the	DT	det	9	O	 (S (NP (DT the)	118	1
+55	9	other	other	JJ	nsubj	10	O	 (JJ other))	118	1
+55	10	has	have	VBZ	conj	3	O	 (VP (VBZ has)	118	1
+55	11	a	a	DT	det	13	O	 (NP (DT a)	118	1
+55	12	neutral	neutral	JJ	amod	13	IDEOLOGY	 (JJ neutral)	118	1
+55	13	expression	expression	NN	obj	10	O	 (NN expression)))))	118	1
+55	14	,	,	,	punct	3	O	 (, ,)	118	1
+55	15	and	and	CC	cc	23	O	 (CC and)	119	1
+55	16	when	when	WRB	advmod	19	O	 (S (SBAR (WHADVP (WRB when))	119	1
+55	17	the	the	DT	det	18	O	 (S (NP (DT the)	119	1
+55	18	faces	face	NNS	nsubj	19	O	 (NNS faces))	119	1
+55	19	disappear	disappear	VBP	advcl	23	O	 (VP (VBP disappear))))	119	1
+55	20	,	,	,	punct	23	O	 (, ,)	119	1
+55	21	a	a	DT	det	22	O	 (NP (DT a)	120	1
+55	22	probe	probe	NN	nsubj	23	O	 (NN probe))	120	1
+55	23	appears	appear	VBZ	conj	3	O	 (VP (VBZ appears)	120	1
+55	24	in	in	IN	case	26	O	 (PP (IN in)	120	1
+55	25	the	the	DT	det	26	O	 (NP (NP (DT the)	120	1
+55	26	location	location	NN	obl	23	O	 (NN location))	120	1
+55	27	of	of	IN	case	28	O	 (PP (IN of)	120	1
+55	28	one	one	CD	nmod	26	NUMBER	 (NP (NP (CD one))	120	1
+55	29	of	of	IN	case	31	O	 (PP (IN of)	120	1
+55	30	the	the	DT	det	31	O	 (NP (DT the)	120	1
+55	31	faces	face	NNS	nmod	28	O	 (NNS faces)))))))))	120	1
+55	32	.	.	.	punct	3	O	 (. .)))	120	1
+56	1	This	this	DT	nsubj	2	O	 (ROOT (S (NP (DT This))	121	1
+56	2	creates	create	VBZ	root	0	O	 (VP (VBZ creates)	121	1
+56	3	a	a	DT	det	5	O	 (NP (NP (DT a)	121	1
+56	4	congruent	congruent	JJ	amod	5	O	 (ADJP (JJ congruent))	121	1
+56	5	condition	condition	NN	obj	2	O	 (NN condition))	121	1
+56	6	in	in	IN	case	7	O	 (SBAR (WHPP (IN in)	121	1
+56	7	which	which	WDT	obl	10	O	 (WHNP (WDT which)))	121	1
+56	8	the	the	DT	det	9	O	 (S (NP (DT the)	121	1
+56	9	probe	probe	NN	nsubj	10	O	 (NN probe))	121	1
+56	10	appears	appear	VBZ	acl:relcl	5	O	 (VP (VBZ appears)	121	1
+56	11	in	in	IN	case	14	O	 (PP (IN in)	121	1
+56	12	the	the	DT	det	14	O	 (NP (NP (DT the)	121	1
+56	13	same	same	JJ	amod	14	O	 (JJ same)	121	1
+56	14	location	location	NN	obl	10	O	 (NN location))	121	1
+56	15	as	as	IN	case	18	O	 (PP (IN as)	121	1
+56	16	the	the	DT	det	18	O	 (NP (NP (DT the)	121	1
+56	17	emotional	emotional	JJ	amod	18	O	 (JJ emotional)	121	1
+56	18	face	face	NN	nmod	14	O	 (NN face))	121	1
+56	19	and	and	CC	cc	22	O	 (CC and)	121	1
+56	20	an	a	DT	det	22	O	 (NP (DT an)	121	1
+56	21	incongruent	incongruent	JJ	amod	22	O	 (JJ incongruent)	121	1
+56	22	condition	condition	NN	conj	18	O	 (NN condition)))))))))))	121	1
+56	23	.	.	.	punct	2	O	 (. .)))	121	1
+57	1	Participants	participant	NNS	nsubj	2	O	 (ROOT (S (S (NP (NNS Participants))	122	1
+57	2	respond	respond	VBP	root	0	O	 (VP (VBP respond)	122	1
+57	3	to	to	IN	case	5	O	 (PP (IN to)	122	1
+57	4	the	the	DT	det	5	O	 (NP (DT the)	122	1
+57	5	probe	probe	NN	obl	2	O	 (NN probe)))	122	1
+57	6	by	by	IN	mark	7	O	 (PP (IN by)	123	1
+57	7	pressing	press	VBG	advcl	2	O	 (S (VP (VBG pressing)	123	1
+57	8	a	a	DT	det	9	O	 (NP (DT a)	123	1
+57	9	button	button	NN	obj	7	O	 (NN button)))))))	123	1
+57	10	and	and	CC	cc	15	O	 (CC and)	124	1
+57	11	differences	difference	NNS	nsubj	15	O	 (S (NP (NP (NNS differences))	124	1
+57	12	in	in	IN	case	14	O	 (PP (IN in)	124	1
+57	13	reaction	reaction	NN	compound	14	O	 (NP (NN reaction)	124	1
+57	14	times	time	NNS	nmod	11	O	 (NNS times))))	124	1
+57	15	reveal	reveal	VBP	conj	2	O	 (VP (VBP reveal)	124	1
+57	16	attentional	attentional	JJ	amod	17	O	 (NP (JJ attentional)	124	1
+57	17	biases	bias	NNS	obj	15	O	 (NNS biases))))	124	1
+57	18	.	.	.	punct	2	O	 (. .)))	124	1
+58	1	This	this	DT	det	2	O	 (ROOT (S (NP (DT This)	125	1
+58	2	task	task	NN	nsubj	4	O	 (NN task))	125	1
+58	3	has	have	VBZ	aux	4	O	 (VP (VBZ has)	125	1
+58	4	produced	produce	VBN	root	0	O	 (VP (VBN produced)	125	1
+58	5	mixed	mixed	JJ	amod	6	O	 (NP (JJ mixed)	125	1
+58	6	results	result	NNS	obj	4	O	 (NNS results))	125	1
+58	7	,	,	,	punct	4	O	 (, ,)	125	1
+58	8	with	with	IN	case	10	O	 (PP (IN with)	126	1
+58	9	some	some	DT	det	10	O	 (NP (NP (NP (DT some)	126	1
+58	10	studies	study	NNS	obl	4	O	 (NNS studies))	126	1
+58	11	finding	find	VBG	acl	10	O	 (VP (VBG finding)	126	1
+58	12	no	no	DT	det	13	O	 (NP (NP (DT no)	126	1
+58	13	differences	difference	NNS	obj	11	O	 (NNS differences))	126	1
+58	14	between	between	IN	case	18	O	 (PP (IN between)	126	1
+58	15	socially	socially	RB	advmod	17	O	 (NP (ADJP (RB socially)	126	1
+58	16	-	-	HYPH	punct	17	O	 (HYPH -)	126	1
+58	17	anxious	anxious	JJ	amod	18	O	 (JJ anxious))	126	1
+58	18	individuals	individual	NNS	nmod	13	O	 (NNS individuals)	126	1
+58	19	and	and	CC	cc	20	O	 (CC and)	126	1
+58	20	controls	control	NNS	conj	18	O	 (NNS controls))))))	126	1
+58	21	,	,	,	punct	10	O	 (, ,)	126	1
+58	22	some	some	DT	det	23	O	 (NP (NP (DT some)	127	1
+58	23	studies	study	NNS	conj	10	O	 (NNS studies))	127	1
+58	24	finding	find	VBG	acl	23	O	 (VP (VBG finding)	127	1
+58	25	avoidance	avoidance	NN	obj	24	O	 (NP (NP (NN avoidance))	127	1
+58	26	of	of	IN	case	28	O	 (PP (IN of)	127	1
+58	27	all	all	DT	det	28	O	 (NP (DT all)	127	1
+58	28	faces	face	NNS	nmod	25	O	 (NNS faces))))	127	1
+58	29	by	by	IN	case	33	O	 (PP (IN by)	127	1
+58	30	socially	socially	RB	advmod	32	O	 (NP (ADJP (RB socially)	127	1
+58	31	-	-	HYPH	punct	32	O	 (HYPH -)	127	1
+58	32	anxious	anxious	JJ	amod	33	O	 (JJ anxious))	127	1
+58	33	individuals	individual	NNS	obl	24	O	 (NNS individuals)))))	127	1
+58	34	,	,	,	punct	10	O	 (, ,)	127	1
+58	35	and	and	CC	cc	37	O	 (CC and)	128	1
+58	36	other	other	JJ	amod	37	O	 (NP (NP (JJ other)	128	1
+58	37	studies	study	NNS	conj	10	O	 (NNS studies))	128	1
+58	38	finding	find	VBG	acl	37	O	 (VP (VBG finding)	128	1
+58	39	vigilance	vigilance	NN	obj	38	O	 (NP (NN vigilance))	128	1
+58	40	by	by	IN	case	44	O	 (PP (IN by)	128	1
+58	41	socially	socially	RB	advmod	43	O	 (NP (ADJP (RB socially)	128	1
+58	42	-	-	HYPH	punct	43	O	 (HYPH -)	128	1
+58	43	anxious	anxious	JJ	amod	44	O	 (JJ anxious))	128	1
+58	44	individuals	individual	NNS	obl	38	O	 (NNS individuals)))	128	1
+58	45	only	only	RB	advmod	48	O	 (PP (ADVP (RB only))	128	1
+58	46	toward	toward	IN	case	48	O	 (IN toward)	128	1
+58	47	threat	threat	NN	compound	48	O	 (NP (NN threat)	128	1
+58	48	faces	face	NNS	obl	38	O	 (NNS faces)))))))))	128	1
+58	49	.	.	.	punct	4	O	 (. .)))	128	1
+59	1	The	the	DT	det	9	O	 (ROOT (S (NP (DT The)	129	1
+59	2	Face	Face	NNP	compound	9	O	 (NML (NP (NNP Face))	129	1
+59	3	-	-	HYPH	punct	2	O	 (HYPH -)	129	1
+59	4	in	in	IN	case	8	O	 (PP (IN in)	129	1
+59	5	-	-	HYPH	punct	8	O	 (HYPH -)	129	1
+59	6	the	the	DT	det	8	O	 (NP (DT the)	129	1
+59	7	-	-	HYPH	punct	8	O	 (HYPH -)	129	1
+59	8	crowd	crowd	NN	nmod	2	O	 (NN crowd))))	129	1
+59	9	task	task	NN	nsubj	10	O	 (NN task))	129	1
+59	10	shows	show	VBZ	root	0	O	 (VP (VBZ shows)	129	1
+59	11	that	that	IN	mark	19	O	 (SBAR (IN that)	130	1
+59	12	individuals	individual	NNS	nsubj	19	O	 (S (NP (NP (NNS individuals))	130	1
+59	13	with	with	IN	case	15	O	 (PP (IN with)	130	1
+59	14	social	social	JJ	amod	15	O	 (NP (JJ social)	130	1
+59	15	anxiety	anxiety	NN	nmod	12	O	 (NN anxiety))))	130	1
+59	16	are	be	VBP	aux	19	O	 (VP (VBP are)	130	1
+59	17	faster	fast	RBR	advmod	19	O	 (ADVP (RBR faster)	130	1
+59	18	at	at	IN	case	17	O	 (IN at))	130	1
+59	19	detecting	detect	VBG	ccomp	10	O	 (VP (VBG detecting)	130	1
+59	20	an	a	DT	det	22	O	 (NP (NP (DT an)	130	1
+59	21	angry	angry	JJ	amod	22	O	 (JJ angry)	130	1
+59	22	face	face	NN	obj	19	O	 (NN face))	130	1
+59	23	in	in	IN	case	29	O	 (PP (IN in)	130	1
+59	24	a	a	DT	det	29	O	 (NP (NP (DT a)	130	1
+59	25	predominantly	predominantly	RB	advmod	26	O	 (ADJP (RB predominantly)	130	1
+59	26	neutral	neutral	JJ	amod	29	IDEOLOGY	 (JJ neutral)	130	1
+59	27	or	or	CC	cc	28	O	 (CC or)	130	1
+59	28	positive	positive	JJ	conj	26	O	 (JJ positive))	130	1
+59	29	crowd	crowd	NN	nmod	22	O	 (NN crowd))	130	1
+59	30	or	or	CC	cc	31	O	 (CC or)	131	1
+59	31	slower	slow	JJR	conj	29	O	 (NP (JJR slower)))))	131	1
+59	32	at	at	IN	mark	33	O	 (PP (IN at)	131	1
+59	33	detecting	detect	VBG	advcl	19	O	 (S (VP (VBG detecting)	131	1
+59	34	happy	happy	JJ	amod	35	O	 (NP (JJ happy)	131	1
+59	35	faces	face	NNS	obj	33	O	 (NNS faces))	131	1
+59	36	than	than	IN	case	41	O	 (PP (IN than)	131	1
+59	37	a	a	DT	det	41	O	 (NP (DT a)	131	1
+59	38	non	non	AFX	dep	40	O	 (ADJP (AFX non)	131	1
+59	39	-	-	HYPH	punct	40	O	 (HYPH -)	131	1
+59	40	anxious	anxious	JJ	amod	41	O	 (JJ anxious))	131	1
+59	41	person	person	NN	obl	33	O	 (NN person)))))))))))	131	1
+59	42	.	.	.	punct	10	O	 (. .)))	131	1
+60	1	Focus	focus	NN	nsubj:pass	7	O	 (ROOT (S (NP (NP (NN Focus))	132	1
+60	2	on	on	IN	case	4	O	 (PP (IN on)	132	1
+60	3	the	the	DT	det	4	O	 (NP (DT the)	132	1
+60	4	self	self	NN	nmod	1	O	 (NN self))))	132	1
+60	5	has	have	VBZ	aux	7	O	 (VP (VBZ has)	132	1
+60	6	been	be	VBN	aux:pass	7	O	 (VP (VBN been)	132	1
+60	7	associated	associate	VBN	root	0	O	 (VP (VBN associated)	132	1
+60	8	with	with	IN	case	11	O	 (PP (IN with)	132	1
+60	9	increased	increase	VBN	amod	11	O	 (NP (NP (VBN increased)	132	1
+60	10	social	social	JJ	amod	11	O	 (JJ social)	132	1
+60	11	anxiety	anxiety	NN	obl	7	O	 (NN anxiety))	132	1
+60	12	and	and	CC	cc	14	O	 (CC and)	132	1
+60	13	negative	negative	JJ	amod	14	O	 (NP (JJ negative)	132	1
+60	14	affect	affect	NN	conj	11	O	 (NN affect)))))))	132	1
+60	15	.	.	.	punct	7	O	 (. .)))	132	1
+61	1	However	however	RB	advmod	4	O	 (ROOT (S (ADVP (RB However))	133	1
+61	2	,	,	,	punct	4	O	 (, ,)	133	1
+61	3	there	there	EX	expl	4	O	 (NP (EX there))	133	1
+61	4	are	be	VBP	root	0	O	 (VP (VBP are)	133	1
+61	5	two	two	CD	nummod	6	NUMBER	 (NP (NP (CD two)	133	1
+61	6	types	type	NNS	nsubj	4	O	 (NNS types))	133	1
+61	7	of	of	IN	case	10	O	 (PP (IN of)	133	1
+61	8	self	self	NN	compound	10	O	 (NP (NN self)	133	1
+61	9	-	-	HYPH	punct	10	O	 (HYPH -)	133	1
+61	10	focus	focus	NN	nmod	6	O	 (NN focus))))	133	1
+61	11	:	:	:	punct	4	O	 (: :)	133	1
+61	12	public	public	JJ	parataxis	4	O	 (S (ADJP (JJ public)	133	1
+61	13	and	and	CC	cc	14	O	 (CC and)	133	1
+61	14	private	private	JJ	conj	12	O	 (JJ private))))	133	1
+61	15	.	.	.	punct	4	O	 (. .)))	133	1
+62	1	In	in	IN	case	5	O	 (ROOT (S (PP (IN In)	134	1
+62	2	public	public	JJ	amod	5	O	 (NP (JJ public)	134	1
+62	3	self	self	NN	compound	5	O	 (NN self)	134	1
+62	4	-	-	HYPH	punct	5	O	 (HYPH -)	134	1
+62	5	focus	focus	NN	obl	8	O	 (NN focus)))	134	1
+62	6	,	,	,	punct	8	O	 (, ,)	134	1
+62	7	one	one	CD	nsubj	8	NUMBER	 (NP (CD one))	135	1
+62	8	shows	show	VBZ	root	0	O	 (VP (VBZ shows)	135	1
+62	9	concern	concern	NN	obj	8	O	 (NP (NP (NN concern))	135	1
+62	10	for	for	IN	case	12	O	 (PP (IN for)	135	1
+62	11	the	the	DT	det	12	O	 (NP (NP (DT the)	135	1
+62	12	impact	impact	NN	nmod	9	O	 (NN impact))	135	1
+62	13	of	of	IN	case	17	O	 (PP (IN of)	135	1
+62	14	one	one	CD	nmod:poss	17	NUMBER	 (NP (NP (CD one)	135	1
+62	15	's	's	POS	case	14	O	 (POS 's))	135	1
+62	16	own	own	JJ	amod	17	O	 (JJ own)	135	1
+62	17	actions	action	NNS	nmod	12	O	 (NNS actions))))))	135	1
+62	18	on	on	IN	case	19	O	 (PP (IN on)	135	1
+62	19	others	other	NNS	obl	8	O	 (NP (NP (NNS others))	135	1
+62	20	and	and	CC	cc	22	O	 (CC and)	135	1
+62	21	their	they	PRP$	nmod:poss	22	O	 (NP (PRP$ their)	135	1
+62	22	impressions	impression	NNS	conj	19	O	 (NNS impressions)))))	135	1
+62	23	.	.	.	punct	8	O	 (. .)))	135	1
+63	1	This	this	DT	det	2	O	 (ROOT (S (NP (NP (DT This)	136	1
+63	2	type	type	NN	nsubj	7	O	 (NN type))	136	1
+63	3	of	of	IN	case	6	O	 (PP (IN of)	136	1
+63	4	self	self	NN	compound	6	O	 (NP (NN self)	136	1
+63	5	-	-	HYPH	punct	6	O	 (HYPH -)	136	1
+63	6	focus	focus	NN	nmod	2	O	 (NN focus))))	136	1
+63	7	predicts	predict	VBZ	root	0	O	 (VP (VBZ predicts)	136	1
+63	8	greater	great	JJR	amod	10	O	 (NP (JJR greater)	136	1
+63	9	social	social	JJ	amod	10	O	 (JJ social)	136	1
+63	10	anxiety	anxiety	NN	obj	7	O	 (NN anxiety)))	136	1
+63	11	.	.	.	punct	7	O	 (. .)))	136	1
+64	1	Other	other	RB	advmod	2	O	 (ROOT (S (NP (NP (ADJP (ADVP (RB Other)	137	1
+64	2	more	more	RBR	advmod	3	O	 (RBR more))	137	1
+64	3	private	private	JJ	amod	4	O	 (JJ private))	137	1
+64	4	forms	form	NNS	nsubj:pass	17	O	 (NNS forms))	137	1
+64	5	of	of	IN	case	8	O	 (PP (IN of)	137	1
+64	6	self	self	NN	compound	8	O	 (NP (NN self)	137	1
+64	7	-	-	HYPH	punct	8	O	 (HYPH -)	137	1
+64	8	consciousness	consciousness	NN	nmod	4	O	 (NN consciousness)	137	1
+64	9	(	(	-LRB-	punct	11	O	 (PRN (-LRB- -LRB-) (NP (NN e.) (NN g.)) (, ,) (NP (JJ egocentric) (NNS goals)) (-RRB- -RRB-))))) (VP (VBP are) (VP (VBN associated) (PP (IN with) (NP (NP (JJ other) (NNS types)) (PP (IN of) (NP (JJ negative) (NN affect))))))) (. .)))	137	1
+64	10	e.	e.	NN	compound	11	O		137	1
+64	11	g.	g.	NN	appos	8	O		137	1
+64	12	,	,	,	punct	11	O		137	1
+64	13	egocentric	egocentric	JJ	amod	14	O		137	1
+64	14	goals	goal	NNS	dep	11	O		137	1
+64	15	)	)	-RRB-	punct	11	O		137	1
+64	16	are	be	VBP	aux:pass	17	O		137	1
+64	17	associated	associate	VBN	root	0	O		137	1
+64	18	with	with	IN	case	20	O		137	1
+64	19	other	other	JJ	amod	20	O		137	1
+64	20	types	type	NNS	obl	17	O		137	1
+64	21	of	of	IN	case	23	O		137	1
+64	22	negative	negative	JJ	amod	23	O		137	1
+64	23	affect	affect	NN	nmod	20	O		137	1
+64	24	.	.	.	punct	17	O		137	1
+65	1	Basic	Basic	NNP	compound	3	O	 (ROOT (S (NP (NNP Basic)	138	1
+65	2	science	science	NN	compound	3	O	 (NN science)	138	1
+65	3	research	research	NN	nsubj	4	O	 (NN research))	138	1
+65	4	suggests	suggest	VBZ	root	0	O	 (VP (VBZ suggests)	138	1
+65	5	that	that	IN	mark	10	O	 (SBAR (IN that)	139	1
+65	6	cognitive	cognitive	JJ	amod	7	O	 (S (NP (JJ cognitive)	139	1
+65	7	biases	bias	NNS	nsubj:pass	10	O	 (NNS biases))	139	1
+65	8	can	can	MD	aux	10	O	 (VP (MD can)	139	1
+65	9	be	be	VB	aux:pass	10	O	 (VP (VB be)	139	1
+65	10	modified	modify	VBN	ccomp	4	O	 (VP (VBN modified)))))))	139	1
+65	11	.	.	.	punct	4	O	 (. .)))	139	1
+66	1	Attention	attention	NN	compound	4	O	 (ROOT (S (NP (NN Attention)	140	1
+66	2	bias	bias	NN	compound	3	O	 (NML (NN bias)	140	1
+66	3	modification	modification	NN	compound	4	O	 (NN modification))	140	1
+66	4	training	training	NN	nsubj:pass	7	O	 (NN training))	140	1
+66	5	has	have	VBZ	aux	7	O	 (VP (VBZ has)	140	1
+66	6	been	be	VBN	aux:pass	7	O	 (VP (VBN been)	140	1
+66	7	shown	show	VBN	root	0	O	 (VP (VBN shown)	140	1
+66	8	to	to	TO	mark	10	O	 (S (VP (TO to)	140	1
+66	9	temporarily	temporarily	RB	advmod	10	O	 (ADVP (RB temporarily))	140	1
+66	10	impact	impact	VB	xcomp	7	O	 (VP (VB impact)	140	1
+66	11	social	social	JJ	amod	12	O	 (NP (JJ social)	140	1
+66	12	anxiety	anxiety	NN	obj	10	O	 (NN anxiety))))))))	140	1
+66	13	.	.	.	punct	7	O	 (. .)))	140	1
